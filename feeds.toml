@@ -4,3 +4,11 @@ url = "https://www.gouvernement.fr/toute-l-actualite"
 entrySelector = "div.tile"
 titleSelector = "a.fr-card__link"
 linkSelector = "a.fr-card__link"
+
+[electricity_map]
+title = "Blog - Electricity Maps"
+url = "https://www.electricitymaps.com/blog"
+entrySelector = "div.date > div.w-dyn-item"
+titleSelector = "h2.heading-20"
+linkSelector = "a.text-small"
+imageSelector = "img.image-11"
