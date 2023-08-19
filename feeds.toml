@@ -1,6 +1,0 @@
-[French government news]
-title = Toute l'actualité | Gouvernement.fr
-url = https://www.gouvernement.fr/toute-l-actualite
-entrySelector = div.tile
-titleSelector = a.fr-card__link
-linkSelector = a.fr-card__link
