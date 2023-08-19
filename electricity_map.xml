@@ -1,98 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>Blog - Electricity Maps</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Sat, 19 Aug 2023 14:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Harcèlement scolaire : l'élève harceleur sera changé d'école (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canicule : le numéro vert est activé (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connaissez-vous les gestes de premiers secours ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Le guide de la rentrée étudiante 2023 est sorti (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Le classement de Shanghai 2023 valorise les universités françaises (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baignez-vous en toute sécurité ! (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[L’allocation de rentrée scolaire versée dès ce 16 août (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animal de compagnie : adoptez les bons réflexes pour cet été (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Une consultation publique sur l’achat des véhicules électriques (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La prescription de Michel Cymes contre les vagues de chaleur (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Le plan national pour faire face aux vagues de chaleur (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Qualité Tourisme : un label d'État pour des prestations de qualité (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Une plateforme pour comparer les prix des carburants (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adoptez les bonnes habitudes alimentaires pour l'été (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sat, 19 Aug 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using granular electricity data to optimise urban mobility (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[Using granular electricity data to optimise urban mobility]]></title>
             <link>https://www.electricitymaps.com/blog/using-granular-electricity-data-to-optimise-urban-mobility</link>
             <guid>https://www.electricitymaps.com/blog/using-granular-electricity-data-to-optimise-urban-mobility</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
@@ -101,7 +17,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <enclosure url="https://global-uploads.webflow.com/63c7ac359aace754812ca46a/64b5033ea296921df4c7a516_using-granular-electricity.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Consumption vs Production carbon intensity: Why emissions should be calculated with consumption data (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[Consumption vs Production carbon intensity: Why emissions should be calculated with consumption data]]></title>
             <link>https://www.electricitymaps.com/blog/consumption-carbon-intensity</link>
             <guid>https://www.electricitymaps.com/blog/consumption-carbon-intensity</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
@@ -109,7 +25,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <enclosure url="https://global-uploads.webflow.com/63c7ac359aace754812ca46a/643e8bf548f7e76b1fc1aa8e_Screenshot%202023-04-18%20104435.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[What is additionality (and emissionality)? (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[What is additionality (and emissionality)?]]></title>
             <link>https://www.electricitymaps.com/blog/what-is-additionality-and-emissionality</link>
             <guid>https://www.electricitymaps.com/blog/what-is-additionality-and-emissionality</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
@@ -117,7 +33,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <enclosure url="https://global-uploads.webflow.com/63c7ac359aace754812ca46a/64089784234ab71a54a53ae1_matthew-henry-yETqkLnhsUI-unsplash.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Warm weather and energy efficiency decreased electricity consumption in Europe - 2022 review (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[Warm weather and energy efficiency decreased electricity consumption in Europe - 2022 review]]></title>
             <link>https://www.electricitymaps.com/blog/2022-europe-review</link>
             <guid>https://www.electricitymaps.com/blog/2022-europe-review</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
@@ -125,7 +41,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <enclosure url="https://global-uploads.webflow.com/63c7ac359aace754812ca46a/63ece0e868f2a34c626fef68_63da38c7bd9e6fea294f1c59_eu_prod-min.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Gas power generation ramped up to cover increases in demand and coal phase-outs in the US - 2022 review (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[Gas power generation ramped up to cover increases in demand and coal phase-outs in the US - 2022 review]]></title>
             <link>https://www.electricitymaps.com/blog/2022-us-review</link>
             <guid>https://www.electricitymaps.com/blog/2022-us-review</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
@@ -133,7 +49,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <enclosure url="https://global-uploads.webflow.com/63c7ac359aace754812ca46a/63ece0b10b57b9a2dc3785c3_63da372c8b48021b3dfd2751_us%20prod-min.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Storm Elliott: How extreme weather events massively impact carbon emissions from electricity grids (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[Storm Elliott: How extreme weather events massively impact carbon emissions from electricity grids]]></title>
             <link>https://www.electricitymaps.com/blog/storm-elliott</link>
             <guid>https://www.electricitymaps.com/blog/storm-elliott</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
@@ -141,7 +57,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <enclosure url="https://global-uploads.webflow.com/63c7ac359aace754812ca46a/63c7ac359aace7eb0c2ca5d6_us2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Increasing the precision of our data using regional emission factors (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[Increasing the precision of our data using regional emission factors]]></title>
             <link>https://www.electricitymaps.com/blog/increasing-the-precision-of-our-data-using-regional-emission-factors</link>
             <guid>https://www.electricitymaps.com/blog/increasing-the-precision-of-our-data-using-regional-emission-factors</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
@@ -149,7 +65,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <enclosure url="https://global-uploads.webflow.com/63c7ac359aace754812ca46a/63c7ac359aace7ef6e2ca5bc_6376098fdc0e9e4013344cbd_NEW%20RELEASE%20(2).png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[How much carbon savings can you actually achieve by load shifting? (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[How much carbon savings can you actually achieve by load shifting?]]></title>
             <link>https://www.electricitymaps.com/blog/carbon-savings-load-shifting</link>
             <guid>https://www.electricitymaps.com/blog/carbon-savings-load-shifting</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
@@ -157,7 +73,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <enclosure url="https://global-uploads.webflow.com/63c7ac359aace754812ca46a/63c7ac359aace74c992ca5b4_ernest-ojeh-aEytUoE1Tkc-unsplash.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Becoming Electricity Maps (Blog - Electricity Maps)]]></title>
+            <title><![CDATA[Becoming Electricity Maps]]></title>
             <link>https://www.electricitymaps.com/blog/a-vision-for-electricitymaps</link>
             <guid>https://www.electricitymaps.com/blog/a-vision-for-electricitymaps</guid>
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
