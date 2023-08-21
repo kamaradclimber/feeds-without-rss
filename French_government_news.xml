@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-08-21T05:40:30.276Z</updated>
+    <updated>2023-08-21T17:38:34.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Les conseils pour garder son logement frais en été]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-08-21T17:38:30.165Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vie étudiante : les mesures contre la précarité menstruelle]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-08-21T17:38:30.166Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harcèlement scolaire : l'élève harceleur sera changé d'école]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.729Z</updated>
+        <updated>2023-08-21T17:38:30.166Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Canicule : le numéro vert est activé]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.730Z</updated>
+        <updated>2023-08-21T17:38:30.180Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Connaissez-vous les gestes de premiers secours ?]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.744Z</updated>
+        <updated>2023-08-21T17:38:30.180Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le guide de la rentrée étudiante 2023 est sorti]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.753Z</updated>
+        <updated>2023-08-21T17:38:30.181Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le classement de Shanghai 2023 valorise les universités françaises]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.757Z</updated>
+        <updated>2023-08-21T17:38:30.193Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Baignez-vous en toute sécurité !]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.758Z</updated>
+        <updated>2023-08-21T17:38:30.194Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’allocation de rentrée scolaire versée dès ce 16 août]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.758Z</updated>
+        <updated>2023-08-21T17:38:30.195Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Animal de compagnie : adoptez les bons réflexes pour cet été]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.768Z</updated>
+        <updated>2023-08-21T17:38:30.197Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Une consultation publique sur l’achat des véhicules électriques]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.769Z</updated>
+        <updated>2023-08-21T17:38:30.198Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[La prescription de Michel Cymes contre les vagues de chaleur]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.770Z</updated>
+        <updated>2023-08-21T17:38:30.203Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le plan national pour faire face aux vagues de chaleur]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.771Z</updated>
+        <updated>2023-08-21T17:38:30.218Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Qualité Tourisme : un label d'État pour des prestations de qualité]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.785Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Une plateforme pour comparer les prix des carburants]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.790Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adoptez les bonnes habitudes alimentaires pour l'été]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-21T05:40:25.794Z</updated>
+        <updated>2023-08-21T17:38:30.218Z</updated>
     </entry>
 </feed>
