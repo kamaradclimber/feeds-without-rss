@@ -2,91 +2,266 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-08-24T05:38:50.018Z</updated>
+    <updated>2023-08-24T17:39:01.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
+        <title type="html"><![CDATA[Orages : 25 départements en alerte orange]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.327Z</updated>
+        <updated>2023-08-24T17:38:57.049Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17e58ee6-54f6-4775-b72d-58a8fd2ad1cc">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/orages-25-departements-en-alerte-orange" class="fr-card__link" target="_self">
+                            Orages : 25 départements en alerte orange 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/c2e3e1580a5942e013754a76bf06f2439799a5e7.jpg" alt="Paysage sous un ciel orageux" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[Un plan pour une gestion plus écologique de l'eau]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.329Z</updated>
+        <updated>2023-08-24T17:38:57.050Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f54510a7-b211-4678-b8db-a827a6da7420">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau" class="fr-card__link" target="_self">
+                            Un plan pour une gestion plus écologique de l'eau 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/63057b7301637797c967d77744d69cae701d87ae.jpg" alt="Une usine en bord de fleuve." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[Cindy nous partage son métier de plombière]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.331Z</updated>
+        <updated>2023-08-24T17:38:57.050Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2f4e6cfc-1770-4810-bd5c-47e83ce90174">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/cindy-nous-partage-son-metier-de-plombiere" class="fr-card__link" target="_self">
+                            Cindy nous partage son métier de plombière 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0b7c7879ace919917ec43c2f7b0b6ffbbfb0f155.png" alt="La plombière Cindy." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[Papillomavirus : vaccination pour les 5e à la rentrée 2023]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.333Z</updated>
+        <updated>2023-08-24T17:38:57.053Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e95187df-c3c9-4be6-ab52-141d7c0cebd3">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023" class="fr-card__link" target="_self">
+                            Papillomavirus : vaccination pour les 5e à la rentrée 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/bf3418f4e77de7048cb19291ecd06f502317e9af.jpg" alt="Enfant vacciné." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[Les conseils pour garder son logement frais en été]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.336Z</updated>
+        <updated>2023-08-24T17:38:57.073Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a80810c2-2297-475b-91cb-465c51c22908">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-conseils-pour-garder-son-logement-frais-en-ete" class="fr-card__link" target="_self">
+                            Les conseils pour garder son logement frais en été 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 21/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/e6862faecf2a8ec4814cf586548f6902808faa9d.jpg" alt="Commune française" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[Vie étudiante : les mesures contre la précarité menstruelle]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.340Z</updated>
+        <updated>2023-08-24T17:38:57.077Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f9508fd8-4530-4a19-b9be-f7caf6371ac4">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/vie-etudiante-renforcement-des-mesures-contre-la-precarite-menstruelle" class="fr-card__link" target="_self">
+                            Vie étudiante : les mesures contre la précarité menstruelle 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 21/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0c761d5e509aa7ffea84dca17c46bcdfdca2cca6.jpg" alt="Protections périodiques" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[Harcèlement scolaire : l'élève harceleur sera changé d'école]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.343Z</updated>
+        <updated>2023-08-24T17:38:57.078Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="322a7438-30eb-460c-a08d-6a9a7c5a4fb3">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/harcelement-scolaire-leleve-harceleur-sera-change-decole" class="fr-card__link" target="_self">
+                            Harcèlement scolaire : l'élève harceleur sera changé d'école 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 18/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/4d6313d219cc36f6487d10bc1bf8cb46a6f8ca30.jpg" alt="Salle de classe." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[Canicule : le numéro vert est activé]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.344Z</updated>
+        <updated>2023-08-24T17:38:57.084Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[Connaissez-vous les gestes de premiers secours ?]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.345Z</updated>
+        <updated>2023-08-24T17:38:57.086Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9]]></title>
+        <title type="html"><![CDATA[Le guide de la rentrée étudiante 2023 est sorti]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.347Z</updated>
+        <updated>2023-08-24T17:38:57.087Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10]]></title>
+        <title type="html"><![CDATA[Le classement de Shanghai 2023 valorise les universités françaises]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.348Z</updated>
+        <updated>2023-08-24T17:38:57.088Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
+        <title type="html"><![CDATA[Baignez-vous en toute sécurité !]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.350Z</updated>
+        <updated>2023-08-24T17:38:57.089Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12]]></title>
+        <title type="html"><![CDATA[L’allocation de rentrée scolaire versée dès ce 16 août]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.360Z</updated>
+        <updated>2023-08-24T17:38:57.090Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13]]></title>
+        <title type="html"><![CDATA[Animal de compagnie : adoptez les bons réflexes pour cet été]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-08-24T05:38:44.361Z</updated>
+        <updated>2023-08-24T17:38:57.091Z</updated>
     </entry>
 </feed>
