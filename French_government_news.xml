@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-08-26T05:38:52.326Z</updated>
+    <updated>2023-08-26T17:38:31.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
@@ -379,9 +379,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Le classement de Shanghai 2023 valorise les universités françaises]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-classement-shanghai-2023-valorise-les-universites-francaises</id>
-        <link href="https://www.gouvernement.fr/actualite/le-classement-shanghai-2023-valorise-les-universites-francaises"/>
-        <updated>2023-08-25T05:39:35.971Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-08-26T17:38:26.135Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b750bbc2-a0e3-477c-ad5c-b3d3de756a08">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -410,9 +410,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Baignez-vous en toute sécurité !]]></title>
-        <id>https://www.gouvernement.fr/actualite/baignez-vous-en-toute-securite</id>
-        <link href="https://www.gouvernement.fr/actualite/baignez-vous-en-toute-securite"/>
-        <updated>2023-08-25T05:39:35.973Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-08-26T17:38:26.135Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cc256ebd-c982-4523-ba44-f483d16c0de4">
             <div class="fr-card__body">
                 <div class="fr-card__content">
