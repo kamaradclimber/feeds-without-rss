@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 17:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 05:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.gouvernement.fr/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne</link>
             <guid>https://www.gouvernement.fr/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne</guid>
             <pubDate>Fri, 25 Aug 2023 17:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7ec535ef-f7e2-409c-82ff-24203ec47a15" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7ec535ef-f7e2-409c-82ff-24203ec47a15">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -43,7 +43,7 @@
             <link>https://www.gouvernement.fr/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte</link>
             <guid>https://www.gouvernement.fr/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte</guid>
             <pubDate>Fri, 25 Aug 2023 17:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e5f39950-400d-4b69-92dd-deeae71def8d" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e5f39950-400d-4b69-92dd-deeae71def8d">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -74,7 +74,7 @@
             <link>https://www.gouvernement.fr/actualite/orages-25-departements-en-alerte-orange</link>
             <guid>https://www.gouvernement.fr/actualite/orages-25-departements-en-alerte-orange</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17e58ee6-54f6-4775-b72d-58a8fd2ad1cc" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17e58ee6-54f6-4775-b72d-58a8fd2ad1cc">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -105,7 +105,7 @@
             <link>https://www.gouvernement.fr/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau</link>
             <guid>https://www.gouvernement.fr/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f54510a7-b211-4678-b8db-a827a6da7420" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f54510a7-b211-4678-b8db-a827a6da7420">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -136,7 +136,7 @@
             <link>https://www.gouvernement.fr/actualite/cindy-nous-partage-son-metier-de-plombiere</link>
             <guid>https://www.gouvernement.fr/actualite/cindy-nous-partage-son-metier-de-plombiere</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2f4e6cfc-1770-4810-bd5c-47e83ce90174" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2f4e6cfc-1770-4810-bd5c-47e83ce90174">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -167,7 +167,7 @@
             <link>https://www.gouvernement.fr/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023</link>
             <guid>https://www.gouvernement.fr/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e95187df-c3c9-4be6-ab52-141d7c0cebd3" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e95187df-c3c9-4be6-ab52-141d7c0cebd3">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -198,7 +198,7 @@
             <link>https://www.gouvernement.fr/actualite/les-conseils-pour-garder-son-logement-frais-en-ete</link>
             <guid>https://www.gouvernement.fr/actualite/les-conseils-pour-garder-son-logement-frais-en-ete</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a80810c2-2297-475b-91cb-465c51c22908" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a80810c2-2297-475b-91cb-465c51c22908">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -229,7 +229,7 @@
             <link>https://www.gouvernement.fr/actualite/vie-etudiante-renforcement-des-mesures-contre-la-precarite-menstruelle</link>
             <guid>https://www.gouvernement.fr/actualite/vie-etudiante-renforcement-des-mesures-contre-la-precarite-menstruelle</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f9508fd8-4530-4a19-b9be-f7caf6371ac4" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f9508fd8-4530-4a19-b9be-f7caf6371ac4">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -260,7 +260,7 @@
             <link>https://www.gouvernement.fr/actualite/harcelement-scolaire-leleve-harceleur-sera-change-decole</link>
             <guid>https://www.gouvernement.fr/actualite/harcelement-scolaire-leleve-harceleur-sera-change-decole</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="322a7438-30eb-460c-a08d-6a9a7c5a4fb3" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="322a7438-30eb-460c-a08d-6a9a7c5a4fb3">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -291,7 +291,7 @@
             <link>https://www.gouvernement.fr/actualite/canicule-le-numero-vert-est-active</link>
             <guid>https://www.gouvernement.fr/actualite/canicule-le-numero-vert-est-active</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8307abb-9787-46fa-88b4-5ec5ba615d19" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8307abb-9787-46fa-88b4-5ec5ba615d19">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -322,7 +322,7 @@
             <link>https://www.gouvernement.fr/actualite/connaissez-vous-les-gestes-de-premiers-secours</link>
             <guid>https://www.gouvernement.fr/actualite/connaissez-vous-les-gestes-de-premiers-secours</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1e7438df-5f8c-40aa-bc16-fd2b29020511" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1e7438df-5f8c-40aa-bc16-fd2b29020511">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -353,7 +353,7 @@
             <link>https://www.gouvernement.fr/actualite/le-guide-de-la-rentree-etudiante-2023-est-sorti</link>
             <guid>https://www.gouvernement.fr/actualite/le-guide-de-la-rentree-etudiante-2023-est-sorti</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="01aa1160-0ed7-449e-bf5f-ae6549c59f41" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="01aa1160-0ed7-449e-bf5f-ae6549c59f41">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -384,7 +384,7 @@
             <link>https://www.gouvernement.fr/actualite/le-classement-shanghai-2023-valorise-les-universites-francaises</link>
             <guid>https://www.gouvernement.fr/actualite/le-classement-shanghai-2023-valorise-les-universites-francaises</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b750bbc2-a0e3-477c-ad5c-b3d3de756a08" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b750bbc2-a0e3-477c-ad5c-b3d3de756a08">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -415,7 +415,7 @@
             <link>https://www.gouvernement.fr/actualite/baignez-vous-en-toute-securite</link>
             <guid>https://www.gouvernement.fr/actualite/baignez-vous-en-toute-securite</guid>
             <pubDate>Fri, 25 Aug 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cc256ebd-c982-4523-ba44-f483d16c0de4" data-fr-js-card-actionee="true">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cc256ebd-c982-4523-ba44-f483d16c0de4">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
