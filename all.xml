@@ -4,92 +4,442 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 05:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 17:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Un réglement pour mieux encadrer les plateformes en ligne (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne</link>
+            <guid>https://www.gouvernement.fr/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7ec535ef-f7e2-409c-82ff-24203ec47a15">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne" class="fr-card__link" target="_self">
+                            Un réglement pour mieux encadrer les plateformes en ligne 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Europe
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 25/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0425735522a5a64653d81a4e8669b027e364bf06.jpg" alt="Une femme sur son ordinateur." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Feux de forêt : l’État renforce les moyens de lutte (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte</link>
+            <guid>https://www.gouvernement.fr/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e5f39950-400d-4b69-92dd-deeae71def8d">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte" class="fr-card__link" target="_self">
+                            Feux de forêt : l’État renforce les moyens de lutte 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 25/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/eefcf32de602cd786cf31f5b1950ef7320e23c95.jpg" alt="Véhicule pour les pompiers." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Orages : 25 départements en alerte orange (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/orages-25-departements-en-alerte-orange</link>
+            <guid>https://www.gouvernement.fr/actualite/orages-25-departements-en-alerte-orange</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17e58ee6-54f6-4775-b72d-58a8fd2ad1cc">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/orages-25-departements-en-alerte-orange" class="fr-card__link" target="_self">
+                            Orages : 25 départements en alerte orange 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/c2e3e1580a5942e013754a76bf06f2439799a5e7.jpg" alt="Paysage sous un ciel orageux" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Un plan pour une gestion plus écologique de l'eau (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau</link>
+            <guid>https://www.gouvernement.fr/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f54510a7-b211-4678-b8db-a827a6da7420">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau" class="fr-card__link" target="_self">
+                            Un plan pour une gestion plus écologique de l'eau 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/63057b7301637797c967d77744d69cae701d87ae.jpg" alt="Une usine en bord de fleuve." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cindy nous partage son métier de plombière (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/cindy-nous-partage-son-metier-de-plombiere</link>
+            <guid>https://www.gouvernement.fr/actualite/cindy-nous-partage-son-metier-de-plombiere</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2f4e6cfc-1770-4810-bd5c-47e83ce90174">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/cindy-nous-partage-son-metier-de-plombiere" class="fr-card__link" target="_self">
+                            Cindy nous partage son métier de plombière 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0b7c7879ace919917ec43c2f7b0b6ffbbfb0f155.png" alt="La plombière Cindy." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Papillomavirus : vaccination pour les 5e à la rentrée 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023</link>
+            <guid>https://www.gouvernement.fr/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e95187df-c3c9-4be6-ab52-141d7c0cebd3">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023" class="fr-card__link" target="_self">
+                            Papillomavirus : vaccination pour les 5e à la rentrée 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/bf3418f4e77de7048cb19291ecd06f502317e9af.jpg" alt="Enfant vacciné." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Les conseils pour garder son logement frais en été (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/les-conseils-pour-garder-son-logement-frais-en-ete</link>
+            <guid>https://www.gouvernement.fr/actualite/les-conseils-pour-garder-son-logement-frais-en-ete</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a80810c2-2297-475b-91cb-465c51c22908">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-conseils-pour-garder-son-logement-frais-en-ete" class="fr-card__link" target="_self">
+                            Les conseils pour garder son logement frais en été 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 21/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/e6862faecf2a8ec4814cf586548f6902808faa9d.jpg" alt="Commune française" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Vie étudiante : les mesures contre la précarité menstruelle (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/vie-etudiante-renforcement-des-mesures-contre-la-precarite-menstruelle</link>
+            <guid>https://www.gouvernement.fr/actualite/vie-etudiante-renforcement-des-mesures-contre-la-precarite-menstruelle</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f9508fd8-4530-4a19-b9be-f7caf6371ac4">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/vie-etudiante-renforcement-des-mesures-contre-la-precarite-menstruelle" class="fr-card__link" target="_self">
+                            Vie étudiante : les mesures contre la précarité menstruelle 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 21/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0c761d5e509aa7ffea84dca17c46bcdfdca2cca6.jpg" alt="Protections périodiques" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Harcèlement scolaire : l'élève harceleur sera changé d'école (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/harcelement-scolaire-leleve-harceleur-sera-change-decole</link>
+            <guid>https://www.gouvernement.fr/actualite/harcelement-scolaire-leleve-harceleur-sera-change-decole</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="322a7438-30eb-460c-a08d-6a9a7c5a4fb3">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/harcelement-scolaire-leleve-harceleur-sera-change-decole" class="fr-card__link" target="_self">
+                            Harcèlement scolaire : l'élève harceleur sera changé d'école 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 18/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/4d6313d219cc36f6487d10bc1bf8cb46a6f8ca30.jpg" alt="Salle de classe." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Canicule : le numéro vert est activé (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/canicule-le-numero-vert-est-active</link>
+            <guid>https://www.gouvernement.fr/actualite/canicule-le-numero-vert-est-active</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8307abb-9787-46fa-88b4-5ec5ba615d19">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/canicule-le-numero-vert-est-active" class="fr-card__link" target="_self">
+                            Canicule : le numéro vert est activé 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 18/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/5230872f96061ba555db3fccbecc1f52776e12a2.jpg" alt="Une fillette se désaltère." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Connaissez-vous les gestes de premiers secours ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/connaissez-vous-les-gestes-de-premiers-secours</link>
+            <guid>https://www.gouvernement.fr/actualite/connaissez-vous-les-gestes-de-premiers-secours</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1e7438df-5f8c-40aa-bc16-fd2b29020511">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/connaissez-vous-les-gestes-de-premiers-secours" class="fr-card__link" target="_self">
+                            Connaissez-vous les gestes de premiers secours ? 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 17/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/227bdc430e720cbf42996eef14339e55b2b4a995.jpg" alt="Alice, secouriste bénévole" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Le guide de la rentrée étudiante 2023 est sorti (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/le-guide-de-la-rentree-etudiante-2023-est-sorti</link>
+            <guid>https://www.gouvernement.fr/actualite/le-guide-de-la-rentree-etudiante-2023-est-sorti</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="01aa1160-0ed7-449e-bf5f-ae6549c59f41">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-guide-de-la-rentree-etudiante-2023-est-sorti" class="fr-card__link" target="_self">
+                            Le guide de la rentrée étudiante 2023 est sorti 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 17/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/18177b492958bfdff643f790ce61bc5b9663254b.jpg" alt="Un groupe d'étudiants sur un campus" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Le classement de Shanghai 2023 valorise les universités françaises (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/le-classement-shanghai-2023-valorise-les-universites-francaises</link>
+            <guid>https://www.gouvernement.fr/actualite/le-classement-shanghai-2023-valorise-les-universites-francaises</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b750bbc2-a0e3-477c-ad5c-b3d3de756a08">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-classement-shanghai-2023-valorise-les-universites-francaises" class="fr-card__link" target="_self">
+                            Le classement de Shanghai 2023 valorise les universités françaises 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 16/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/eb36b9f76ec8d0eea2bba8577efd62c4368fc75e.jpg" alt="Une salle de bibliothèque universitaire" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Baignez-vous en toute sécurité ! (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 27 Aug 2023 05:38:40 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/baignez-vous-en-toute-securite</link>
+            <guid>https://www.gouvernement.fr/actualite/baignez-vous-en-toute-securite</guid>
+            <pubDate>Sun, 27 Aug 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cc256ebd-c982-4523-ba44-f483d16c0de4">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/baignez-vous-en-toute-securite" class="fr-card__link" target="_self">
+                            Baignez-vous en toute sécurité ! 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sport
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 16/08/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/07a78b3d040ee064dfc2991ab85eeea4d40e67ff.jpg" alt="Un sauveteur nageur inscrit des instructions de sécurité sur une plage à Dinard" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Using granular electricity data to optimise urban mobility (Blog - Electricity Maps)]]></title>
