@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 05:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 17:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -516,9 +516,9 @@ A quantification of emission savings for electric vehicles in the city of Freder
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Fri, 01 Sep 2023 17:38:53 GMT</pubDate>
+            <link>https://tous-gagnants.fr/actu/1er-aout-le-prix-du-kwh-delectricite-eaugmente-de-10-et-augmentera-de-75-dici-la-fin-de-lannee-prochaine-edf</link>
+            <guid>https://tous-gagnants.fr/actu/1er-aout-le-prix-du-kwh-delectricite-eaugmente-de-10-et-augmentera-de-75-dici-la-fin-de-lannee-prochaine-edf</guid>
+            <pubDate>Sat, 02 Sep 2023 17:38:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
@@ -537,6 +537,57 @@ A quantification of emission savings for electric vehicles in the city of Freder
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
               </div>]]></content:encoded>
+            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64b69bf1c9ad6b5c6f51ae73_Couple%20inquiet%20face%20a%CC%80%2010%25%20augmentation%20EDF%20e%CC%81lectricite%CC%81.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[ (Sunology)]]></title>
+            <link>https://tous-gagnants.fr/conso/batteries-virtuelles-pour-le-solaire-le-grand-comparatif-rentabilite</link>
+            <guid>https://tous-gagnants.fr/conso/batteries-virtuelles-pour-le-solaire-le-grand-comparatif-rentabilite</guid>
+            <pubDate>Sat, 02 Sep 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
+                <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
+                  <div>
+                    <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
+                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title=""></h4>
+                  </div>
+                  <div class="tw-cursor-pointer tw-group tw-flex tw-flex-row tw-items-center lg:tw-pb-3 tw-w-max">
+                    <p class="group-hover:tw-underline tw-home-article-card-cta tw-m-0 tw-relative tw-bottom-[3px]">
+                      Découvrir Maintenant
+                    </p>
+                    <svg class="tw-rotate-[-90deg]" fill="none" height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+  <path class="tw-stroke-yellow1" d="M16.25 7.5L10 13.75L3.75 7.5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+</svg>
+
+                  </div>
+                </div>
+                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
+              </div>]]></content:encoded>
+            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ba3cfd5edf60c6b4c80a5f_Batterie%20Virtuelle%20Le%20Comparatif%202023.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[ (Sunology)]]></title>
+            <link>https://tous-gagnants.fr/actu/kits-solaires-autoconsommation-station-tout-savoir</link>
+            <guid>https://tous-gagnants.fr/actu/kits-solaires-autoconsommation-station-tout-savoir</guid>
+            <pubDate>Sat, 02 Sep 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
+                <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
+                  <div>
+                    <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
+                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title=""></h4>
+                  </div>
+                  <div class="tw-cursor-pointer tw-group tw-flex tw-flex-row tw-items-center lg:tw-pb-3 tw-w-max">
+                    <p class="group-hover:tw-underline tw-home-article-card-cta tw-m-0 tw-relative tw-bottom-[3px]">
+                      Découvrir Maintenant
+                    </p>
+                    <svg class="tw-rotate-[-90deg]" fill="none" height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+  <path class="tw-stroke-yellow1" d="M16.25 7.5L10 13.75L3.75 7.5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+</svg>
+
+                  </div>
+                </div>
+                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
+              </div>]]></content:encoded>
+            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/6479dee0c66c27459fce2b6c_2filles_1panneaux%20(1).webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
@@ -561,54 +612,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
               </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (Sunology)]]></title>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Fri, 01 Sep 2023 17:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
-                <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
-                  <div>
-                    <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
-                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title=""></h4>
-                  </div>
-                  <div class="tw-cursor-pointer tw-group tw-flex tw-flex-row tw-items-center lg:tw-pb-3 tw-w-max">
-                    <p class="group-hover:tw-underline tw-home-article-card-cta tw-m-0 tw-relative tw-bottom-[3px]">
-                      Découvrir Maintenant
-                    </p>
-                    <svg class="tw-rotate-[-90deg]" fill="none" height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
-  <path class="tw-stroke-yellow1" d="M16.25 7.5L10 13.75L3.75 7.5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
-</svg>
-
-                  </div>
-                </div>
-                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
-              </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ (Sunology)]]></title>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Fri, 01 Sep 2023 17:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
-                <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
-                  <div>
-                    <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
-                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title=""></h4>
-                  </div>
-                  <div class="tw-cursor-pointer tw-group tw-flex tw-flex-row tw-items-center lg:tw-pb-3 tw-w-max">
-                    <p class="group-hover:tw-underline tw-home-article-card-cta tw-m-0 tw-relative tw-bottom-[3px]">
-                      Découvrir Maintenant
-                    </p>
-                    <svg class="tw-rotate-[-90deg]" fill="none" height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
-  <path class="tw-stroke-yellow1" d="M16.25 7.5L10 13.75L3.75 7.5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
-</svg>
-
-                  </div>
-                </div>
-                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
-              </div>]]></content:encoded>
+            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ac22921d3697cbe577aa3c_Comparatif%20prix%20kWh%20EDF.webp" length="0" type="image/webp"/>
         </item>
     </channel>
 </rss>
