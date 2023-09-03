@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 05:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 17:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -319,9 +319,9 @@
         </item>
         <item>
             <title><![CDATA[Orages : 25 départements en alerte orange (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/orages-25-departements-en-alerte-orange</link>
-            <guid>https://www.gouvernement.fr/actualite/orages-25-departements-en-alerte-orange</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sun, 03 Sep 2023 17:38:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17e58ee6-54f6-4775-b72d-58a8fd2ad1cc">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -350,9 +350,9 @@
         </item>
         <item>
             <title><![CDATA[Un plan pour une gestion plus écologique de l'eau (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau</link>
-            <guid>https://www.gouvernement.fr/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sun, 03 Sep 2023 17:38:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f54510a7-b211-4678-b8db-a827a6da7420">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -381,10 +381,10 @@
         </item>
         <item>
             <title><![CDATA[Cindy nous partage son métier de plombière (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/cindy-nous-partage-son-metier-de-plombiere</link>
-            <guid>https://www.gouvernement.fr/actualite/cindy-nous-partage-son-metier-de-plombiere</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2f4e6cfc-1770-4810-bd5c-47e83ce90174">
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sun, 03 Sep 2023 17:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2f4e6cfc-1770-4810-bd5c-47e83ce90174" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -412,10 +412,10 @@
         </item>
         <item>
             <title><![CDATA[Papillomavirus : vaccination pour les 5e à la rentrée 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023</link>
-            <guid>https://www.gouvernement.fr/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e95187df-c3c9-4be6-ab52-141d7c0cebd3">
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sun, 03 Sep 2023 17:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e95187df-c3c9-4be6-ab52-141d7c0cebd3" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -537,7 +537,6 @@ A quantification of emission savings for electric vehicles in the city of Freder
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
               </div>]]></content:encoded>
-            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64b69bf1c9ad6b5c6f51ae73_Couple%20inquiet%20face%20a%CC%80%2010%25%20augmentation%20EDF%20e%CC%81lectricite%CC%81.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
@@ -562,7 +561,6 @@ A quantification of emission savings for electric vehicles in the city of Freder
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
               </div>]]></content:encoded>
-            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ba3cfd5edf60c6b4c80a5f_Batterie%20Virtuelle%20Le%20Comparatif%202023.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
@@ -587,7 +585,6 @@ A quantification of emission savings for electric vehicles in the city of Freder
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
               </div>]]></content:encoded>
-            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/6479dee0c66c27459fce2b6c_2filles_1panneaux%20(1).webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
