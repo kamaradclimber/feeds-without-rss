@@ -4,442 +4,92 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 17:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 05:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Des mesures pour améliorer le système de santé (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/des-mesures-pour-ameliorer-le-systeme-de-sante</link>
-            <guid>https://www.gouvernement.fr/actualite/des-mesures-pour-ameliorer-le-systeme-de-sante</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="007262ce-332a-4cac-a560-c28decf5b330">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/des-mesures-pour-ameliorer-le-systeme-de-sante" class="fr-card__link" target="_self">
-                            Des mesures pour améliorer le système de santé 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Santé
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 01/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a0878ca2093a19efcf64e01b86036ea4d883f642.jpg" alt="Le personnel de santé dans un hôpital." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 28 août au 3 septembre (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-28-aout-au-3-septembre</link>
-            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-28-aout-au-3-septembre</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d270253d-0775-4285-bfae-89cf53436285">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-28-aout-au-3-septembre" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 28 août au 3 septembre 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 01/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/e013835ab648ebeb0daffe3543c772dfb850a6ea.png" alt="La Première ministre à la Rencontre des entrepreneurs de France 2023." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Le Gouvernement simplifie la réutilisation des eaux usées traitées (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/plan-eau-le-gouvernement-simplifie-la-reutilisation-des-eaux-usees-traitees</link>
-            <guid>https://www.gouvernement.fr/actualite/plan-eau-le-gouvernement-simplifie-la-reutilisation-des-eaux-usees-traitees</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="598e75ec-2b17-458e-9bdc-e2892308e3bc">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/plan-eau-le-gouvernement-simplifie-la-reutilisation-des-eaux-usees-traitees" class="fr-card__link" target="_self">
-                            Le Gouvernement simplifie la réutilisation des eaux usées traitées 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 31/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/54d8ce239c4de007a501ef45ccd56e25a8a113f7.jpg" alt="Vue aérienne des travaux de traitement des eaux usées, Lorraine, France." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Le Gouvernement soutient 12 nouveaux territoires dans le transport (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/le-gouvernement-soutient-12-nouveaux-territoires-dans-le-transport</link>
-            <guid>https://www.gouvernement.fr/actualite/le-gouvernement-soutient-12-nouveaux-territoires-dans-le-transport</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f6cbd5a3-15a0-485f-ae0a-901da8a69e36">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-gouvernement-soutient-12-nouveaux-territoires-dans-le-transport" class="fr-card__link" target="_self">
-                            Le Gouvernement soutient 12 nouveaux territoires dans le transport 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 31/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/918cba7673abac6e5d1bd6b1b33c4c05af68dba6.jpg" alt="Des employés travaillant au sein de l'usine Renault Truck de Blainville-sur-Orne, à Colombelles, près de Caen, dans le nord-ouest de la France." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ce qui change à la rentrée scolaire 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ce-qui-change-a-la-rentree-scolaire-2023</link>
-            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-a-la-rentree-scolaire-2023</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e05b112e-918c-48ad-a62d-93fa28749323">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ce-qui-change-a-la-rentree-scolaire-2023" class="fr-card__link" target="_self">
-                            Ce qui change à la rentrée scolaire 2023 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 31/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/67efb75f62275b9a17b6dff7b0d6c195c1eea690.jpg" alt="Trousse sur une table." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ce qui change au 1er septembre 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-septembre-2023</link>
-            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-septembre-2023</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8a9eaa46-e507-43df-81c4-777f6c868b61">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ce-qui-change-au-1er-septembre-2023" class="fr-card__link" target="_self">
-                            Ce qui change au 1er septembre 2023 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 30/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/4b646065ccc95ce18735ff06d0d183bc2f4bd1ab.png" alt="Ce qui change au 1er Septembre" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Faire rimer croissance, réindustrialisation et décarbonation (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/faire-rimer-croissance-reindustrialisation-et-decarbonation</link>
-            <guid>https://www.gouvernement.fr/actualite/faire-rimer-croissance-reindustrialisation-et-decarbonation</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a68f9b41-7430-4d64-8f38-abb503a6720d">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/faire-rimer-croissance-reindustrialisation-et-decarbonation" class="fr-card__link" target="_self">
-                            Faire rimer croissance, réindustrialisation et décarbonation 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 29/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0e743c6bfec2c26d27fded5276185b487dd0467f.jpg" alt="La Première ministère à la Rencontre des entrepreneurs." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[J-365 avant les Jeux paralympiques de Paris 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/j-365-avant-les-jeux-paralympiques-de-paris-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/j-365-avant-les-jeux-paralympiques-de-paris-2024</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b1879abc-bcda-4540-9fff-59134f862a28">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/j-365-avant-les-jeux-paralympiques-de-paris-2024" class="fr-card__link" target="_self">
-                            J-365 avant les Jeux paralympiques de Paris 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sport
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 28/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/b20c33eb6bee1ca5450ebb56cedbb65f87035652.jpg" alt="Une nuit à Paris." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Un réglement pour mieux encadrer les plateformes en ligne (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne</link>
-            <guid>https://www.gouvernement.fr/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7ec535ef-f7e2-409c-82ff-24203ec47a15">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne" class="fr-card__link" target="_self">
-                            Un réglement pour mieux encadrer les plateformes en ligne 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Europe
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 25/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0425735522a5a64653d81a4e8669b027e364bf06.jpg" alt="Une femme sur son ordinateur." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Feux de forêt : l’État renforce les moyens de lutte (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte</link>
-            <guid>https://www.gouvernement.fr/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte</guid>
-            <pubDate>Sat, 02 Sep 2023 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e5f39950-400d-4b69-92dd-deeae71def8d">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte" class="fr-card__link" target="_self">
-                            Feux de forêt : l’État renforce les moyens de lutte 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sécurité
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 25/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/eefcf32de602cd786cf31f5b1950ef7320e23c95.jpg" alt="Véhicule pour les pompiers." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Orages : 25 départements en alerte orange (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
             <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 03 Sep 2023 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17e58ee6-54f6-4775-b72d-58a8fd2ad1cc">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/orages-25-departements-en-alerte-orange" class="fr-card__link" target="_self">
-                            Orages : 25 départements en alerte orange 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sécurité
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/c2e3e1580a5942e013754a76bf06f2439799a5e7.jpg" alt="Paysage sous un ciel orageux" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Un plan pour une gestion plus écologique de l'eau (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
             <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 03 Sep 2023 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f54510a7-b211-4678-b8db-a827a6da7420">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-plan-pour-une-gestion-plus-ecologique-de-leau" class="fr-card__link" target="_self">
-                            Un plan pour une gestion plus écologique de l'eau 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 23/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/63057b7301637797c967d77744d69cae701d87ae.jpg" alt="Une usine en bord de fleuve." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cindy nous partage son métier de plombière (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
             <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 03 Sep 2023 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2f4e6cfc-1770-4810-bd5c-47e83ce90174" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/cindy-nous-partage-son-metier-de-plombiere" class="fr-card__link" target="_self">
-                            Cindy nous partage son métier de plombière 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 23/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0b7c7879ace919917ec43c2f7b0b6ffbbfb0f155.png" alt="La plombière Cindy." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Papillomavirus : vaccination pour les 5e à la rentrée 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
             <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 03 Sep 2023 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e95187df-c3c9-4be6-ab52-141d7c0cebd3" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/papillomavirus-vaccination-pour-les-eleves-de-5e-a-la-rentree-2023" class="fr-card__link" target="_self">
-                            Papillomavirus : vaccination pour les 5e à la rentrée 2023 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Santé
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 23/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/bf3418f4e77de7048cb19291ecd06f502317e9af.jpg" alt="Enfant vacciné." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <pubDate>Mon, 04 Sep 2023 05:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using granular electricity data to optimise urban mobility (Blog - Electricity Maps)]]></title>
@@ -516,9 +166,9 @@ A quantification of emission savings for electric vehicles in the city of Freder
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Fri, 01 Sep 2023 17:38:53 GMT</pubDate>
+            <link>https://tous-gagnants.fr/actu/1er-aout-le-prix-du-kwh-delectricite-eaugmente-de-10-et-augmentera-de-75-dici-la-fin-de-lannee-prochaine-edf</link>
+            <guid>https://tous-gagnants.fr/actu/1er-aout-le-prix-du-kwh-delectricite-eaugmente-de-10-et-augmentera-de-75-dici-la-fin-de-lannee-prochaine-edf</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
@@ -537,12 +187,13 @@ A quantification of emission savings for electric vehicles in the city of Freder
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
               </div>]]></content:encoded>
+            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64b69bf1c9ad6b5c6f51ae73_Couple%20inquiet%20face%20a%CC%80%2010%25%20augmentation%20EDF%20e%CC%81lectricite%CC%81.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Fri, 01 Sep 2023 17:38:53 GMT</pubDate>
+            <link>https://tous-gagnants.fr/conso/batteries-virtuelles-pour-le-solaire-le-grand-comparatif-rentabilite</link>
+            <guid>https://tous-gagnants.fr/conso/batteries-virtuelles-pour-le-solaire-le-grand-comparatif-rentabilite</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
@@ -561,12 +212,13 @@ A quantification of emission savings for electric vehicles in the city of Freder
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
               </div>]]></content:encoded>
+            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ba3cfd5edf60c6b4c80a5f_Batterie%20Virtuelle%20Le%20Comparatif%202023.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Fri, 01 Sep 2023 17:38:53 GMT</pubDate>
+            <link>https://tous-gagnants.fr/actu/kits-solaires-autoconsommation-station-tout-savoir</link>
+            <guid>https://tous-gagnants.fr/actu/kits-solaires-autoconsommation-station-tout-savoir</guid>
+            <pubDate>Mon, 04 Sep 2023 05:38:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
@@ -585,6 +237,7 @@ A quantification of emission savings for electric vehicles in the city of Freder
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" loading="lazy" src="" width="200" height="225">
               </div>]]></content:encoded>
+            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/6479dee0c66c27459fce2b6c_2filles_1panneaux%20(1).webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[ (Sunology)]]></title>
