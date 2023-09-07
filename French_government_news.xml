@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-09-07T05:38:37.270Z</updated>
+    <updated>2023-09-07T17:39:52.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ma bibliothèque : le monde à portée de main]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-07T17:39:38.007Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rentrée 2023 : plus d’élèves en école inclusive]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.028Z</updated>
+        <updated>2023-09-07T17:39:38.007Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reef Pulse : une entreprise française qui protège les récifs]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.032Z</updated>
+        <updated>2023-09-07T17:39:38.007Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le Gouvernement consacre 156 millions d'euros à l'aide alimentaire]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.032Z</updated>
+        <updated>2023-09-07T17:39:38.007Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Des mesures pour améliorer le système de santé]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.037Z</updated>
+        <updated>2023-09-07T17:39:38.019Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 28 août au 3 septembre]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.041Z</updated>
+        <updated>2023-09-07T17:39:38.025Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le Gouvernement simplifie la réutilisation des eaux usées traitées]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.049Z</updated>
+        <updated>2023-09-07T17:39:38.025Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le Gouvernement soutient 12 nouveaux territoires dans le transport]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.051Z</updated>
+        <updated>2023-09-07T17:39:38.025Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ce qui change à la rentrée scolaire 2023]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.053Z</updated>
+        <updated>2023-09-07T17:39:38.025Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ce qui change au 1er septembre 2023]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.059Z</updated>
+        <updated>2023-09-07T17:39:38.028Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faire rimer croissance, réindustrialisation et décarbonation]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.061Z</updated>
+        <updated>2023-09-07T17:39:38.029Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[J-365 avant les Jeux paralympiques de Paris 2024]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.061Z</updated>
+        <updated>2023-09-07T17:39:38.030Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Un réglement pour mieux encadrer les plateformes en ligne]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.062Z</updated>
+        <updated>2023-09-07T17:39:38.031Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Feux de forêt : l’État renforce les moyens de lutte]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.064Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orages : 25 départements en alerte orange]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-09-07T05:38:27.073Z</updated>
+        <updated>2023-09-07T17:39:38.033Z</updated>
     </entry>
 </feed>
