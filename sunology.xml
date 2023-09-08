@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sunology.eu/</id>
     <title>Sunology</title>
-    <updated>2023-09-08T05:38:45.852Z</updated>
+    <updated>2023-09-08T17:38:48.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sunology.eu/favicon.ico</icon>
     <entry>
@@ -33,7 +33,7 @@
         <title type="html"><![CDATA[]]></title>
         <id>https://sunology.eu/#</id>
         <link href="https://sunology.eu/#"/>
-        <updated>2023-09-08T05:38:44.812Z</updated>
+        <updated>2023-09-08T05:38:44.808Z</updated>
         <content type="html"><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
@@ -57,7 +57,7 @@
         <title type="html"><![CDATA[]]></title>
         <id>https://sunology.eu/#</id>
         <link href="https://sunology.eu/#"/>
-        <updated>2023-09-08T05:38:44.816Z</updated>
+        <updated>2023-09-08T05:38:44.808Z</updated>
         <content type="html"><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
@@ -81,7 +81,7 @@
         <title type="html"><![CDATA[]]></title>
         <id>https://sunology.eu/#</id>
         <link href="https://sunology.eu/#"/>
-        <updated>2023-09-08T05:38:44.821Z</updated>
+        <updated>2023-09-08T05:38:44.808Z</updated>
         <content type="html"><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>

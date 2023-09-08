@@ -2,9 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-09-08T05:38:45.864Z</updated>
+    <updated>2023-09-08T17:38:48.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Les 4 actus de la semaine du 4 au 10 septembre]]></title>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-septembre</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-septembre"/>
+        <updated>2023-09-08T17:38:38.346Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="597cdb1e-bef6-4d69-b9a1-befacf7c26f8">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-4-au-10-septembre" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 4 au 10 septembre 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/09/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/fad5dad58c1af73908792f8eccca652d1d69f7a8.jpg" alt="Slides sur les 4 actus de la semaine." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un billet de transport unique entre la France et l’Irlande]]></title>
+        <id>https://www.gouvernement.fr/actualite/fluidifier-les-acces-entre-lirlande-et-la-france</id>
+        <link href="https://www.gouvernement.fr/actualite/fluidifier-les-acces-entre-lirlande-et-la-france"/>
+        <updated>2023-09-08T17:38:38.352Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="27458e93-04b9-4a05-a33a-354920fb4aff">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/fluidifier-les-acces-entre-lirlande-et-la-france" class="fr-card__link" target="_self">
+                            Un billet de transport unique entre la France et l’Irlande 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Europe
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/09/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/df900d89c8fd384d7933ad2d4fcb275027f9faba.jpg" alt="Jeune fille sur un ferry" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La pratique sportive au cœur de l’éducation]]></title>
+        <id>https://www.gouvernement.fr/actualite/la-pratique-sportive-au-coeur-de-leducation</id>
+        <link href="https://www.gouvernement.fr/actualite/la-pratique-sportive-au-coeur-de-leducation"/>
+        <updated>2023-09-08T17:38:38.355Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fa4faeb0-c48d-4d5f-8732-872be41ad276">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-pratique-sportive-au-coeur-de-leducation" class="fr-card__link" target="_self">
+                            La pratique sportive au cœur de l’éducation 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/09/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/45b2e788da6a9fd8812606efe8dc0c9e6a471b96.jpg" alt="Une élève en cours de sport." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Découvrez le programme des Journées européennes du patrimoine 2023]]></title>
+        <id>https://www.gouvernement.fr/actualite/journees-europeennes-du-patrimoine-2023</id>
+        <link href="https://www.gouvernement.fr/actualite/journees-europeennes-du-patrimoine-2023"/>
+        <updated>2023-09-08T17:38:38.368Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed0eda03-2b08-4fe8-b4e1-b203c494b740">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/journees-europeennes-du-patrimoine-2023" class="fr-card__link" target="_self">
+                            Découvrez le programme des Journées européennes du patrimoine 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Culture
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/09/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/81ab97ce81c5116e6c1594f3b32f7fa7e3bfd433.jpg" alt="JEP 2023." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lancement de la Coupe du monde de rugby 2023]]></title>
+        <id>https://www.gouvernement.fr/actualite/lancement-de-la-coupe-du-monde-de-rugby-2023</id>
+        <link href="https://www.gouvernement.fr/actualite/lancement-de-la-coupe-du-monde-de-rugby-2023"/>
+        <updated>2023-09-08T17:38:38.371Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2dc01a37-bd04-4b45-8427-eeeb510750be">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/lancement-de-la-coupe-du-monde-de-rugby-2023" class="fr-card__link" target="_self">
+                            Lancement de la Coupe du monde de rugby 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sport
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/09/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/54dd5a0c5445ab6a9ef755f3394f226c213cde0d.jpg" alt="Supporters pendant un match de rugby." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ma bibliothèque : le monde à portée de main]]></title>
         <id>https://www.gouvernement.fr/actualite/ma-bibliotheque-le-monde-a-portee-de-main</id>
@@ -31,7 +186,7 @@
                 </div>
             </div>
                             <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/04bad0f3fd773fb545866db35dc82e5359cec3e7.jpg" alt="Des livres." data-fr-js-ratio="true">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/809efd65b87f822af4a6f27acb28ba2cf907d07b.jpg" alt="Des livres" data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
@@ -124,7 +279,7 @@
                 </div>
             </div>
                             <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/02d1a8f60f561850443fcf3a38128d4e3dfd76b1.jpg" alt="Aide alimentaire" data-fr-js-ratio="true">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/e0c2632af2b9b4fae2a709dfa696b467152b6390.jpg" alt="Aide alimentaire" data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
@@ -280,161 +435,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/67efb75f62275b9a17b6dff7b0d6c195c1eea690.jpg" alt="Trousse sur une table." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ce qui change au 1er septembre 2023]]></title>
-        <id>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-septembre-2023</id>
-        <link href="https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-septembre-2023"/>
-        <updated>2023-09-08T05:38:36.217Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8a9eaa46-e507-43df-81c4-777f6c868b61">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ce-qui-change-au-1er-septembre-2023" class="fr-card__link" target="_self">
-                            Ce qui change au 1er septembre 2023 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 30/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/4b646065ccc95ce18735ff06d0d183bc2f4bd1ab.png" alt="Ce qui change au 1er Septembre" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faire rimer croissance, réindustrialisation et décarbonation]]></title>
-        <id>https://www.gouvernement.fr/actualite/faire-rimer-croissance-reindustrialisation-et-decarbonation</id>
-        <link href="https://www.gouvernement.fr/actualite/faire-rimer-croissance-reindustrialisation-et-decarbonation"/>
-        <updated>2023-09-08T05:38:36.225Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a68f9b41-7430-4d64-8f38-abb503a6720d">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/faire-rimer-croissance-reindustrialisation-et-decarbonation" class="fr-card__link" target="_self">
-                            Faire rimer croissance, réindustrialisation et décarbonation 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 29/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0e743c6bfec2c26d27fded5276185b487dd0467f.jpg" alt="La Première ministère à la Rencontre des entrepreneurs." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J-365 avant les Jeux paralympiques de Paris 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/j-365-avant-les-jeux-paralympiques-de-paris-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/j-365-avant-les-jeux-paralympiques-de-paris-2024"/>
-        <updated>2023-09-08T05:38:36.226Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b1879abc-bcda-4540-9fff-59134f862a28">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/j-365-avant-les-jeux-paralympiques-de-paris-2024" class="fr-card__link" target="_self">
-                            J-365 avant les Jeux paralympiques de Paris 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sport
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 28/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/b20c33eb6bee1ca5450ebb56cedbb65f87035652.jpg" alt="Une nuit à Paris." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un réglement pour mieux encadrer les plateformes en ligne]]></title>
-        <id>https://www.gouvernement.fr/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne</id>
-        <link href="https://www.gouvernement.fr/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne"/>
-        <updated>2023-09-08T05:38:36.227Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7ec535ef-f7e2-409c-82ff-24203ec47a15">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-reglement-pour-mieux-encadrer-les-plateformes-en-ligne" class="fr-card__link" target="_self">
-                            Un réglement pour mieux encadrer les plateformes en ligne 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Europe
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 25/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/0425735522a5a64653d81a4e8669b027e364bf06.jpg" alt="Une femme sur son ordinateur." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feux de forêt : l’État renforce les moyens de lutte]]></title>
-        <id>https://www.gouvernement.fr/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte</id>
-        <link href="https://www.gouvernement.fr/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte"/>
-        <updated>2023-09-08T05:38:36.227Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e5f39950-400d-4b69-92dd-deeae71def8d">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/feux-de-foret-letat-renforce-les-moyens-de-lutte" class="fr-card__link" target="_self">
-                            Feux de forêt : l’État renforce les moyens de lutte 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sécurité
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 25/08/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/06/eefcf32de602cd786cf31f5b1950ef7320e23c95.jpg" alt="Véhicule pour les pompiers." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
