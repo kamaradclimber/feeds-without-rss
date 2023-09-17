@@ -4,19 +4,18 @@
         <title>Sunology</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 17:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 05:39:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[1er Août : le prix du kWh d'électricité augmente de 10% (et augmentera de 75% d’ici la fin de l’année prochaine)]]></title>
             <link>https://tous-gagnants.fr/actu/1er-aout-le-prix-du-kwh-delectricite-eaugmente-de-10-et-augmentera-de-75-dici-la-fin-de-lannee-prochaine-edf</link>
             <guid>https://tous-gagnants.fr/actu/1er-aout-le-prix-du-kwh-delectricite-eaugmente-de-10-et-augmentera-de-75-dici-la-fin-de-lannee-prochaine-edf</guid>
             <pubDate>Fri, 15 Sep 2023 05:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
-                    <p class="tw-home-article-card-date tw-mb-2" data-date="">Mercredi 18 Juillet 2023</p>
-                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title="">1er Août : le prix du kWh d'électricité augmente de 10% (et augmentera de 75% d’ici la fin de l’année prochaine)</h4>
+                    <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
+                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title=""></h4>
                   </div>
                   <div class="tw-cursor-pointer tw-group tw-flex tw-flex-row tw-items-center lg:tw-pb-3 tw-w-max">
                     <p class="group-hover:tw-underline tw-home-article-card-cta tw-m-0 tw-relative tw-bottom-[3px]">
@@ -28,20 +27,19 @@
 
                   </div>
                 </div>
-                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64b69bf1c9ad6b5c6f51ae73_Couple%20inquiet%20face%20a%CC%80%2010%25%20augmentation%20EDF%20e%CC%81lectricite%CC%81.webp" width="200">
+                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
               </div>]]></content:encoded>
             <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64b69bf1c9ad6b5c6f51ae73_Couple%20inquiet%20face%20a%CC%80%2010%25%20augmentation%20EDF%20e%CC%81lectricite%CC%81.webp" length="0" type="image/webp"/>
         </item>
         <item>
-            <title><![CDATA[Batteries Virtuelles pour le solaire : le grand comparatif 2023]]></title>
-            <link>https://tous-gagnants.fr/conso/batteries-virtuelles-pour-le-solaire-le-grand-comparatif-rentabilite</link>
-            <guid>https://tous-gagnants.fr/conso/batteries-virtuelles-pour-le-solaire-le-grand-comparatif-rentabilite</guid>
-            <pubDate>Sat, 16 Sep 2023 05:38:47 GMT</pubDate>
+            <link>https://sunology.eu/#</link>
+            <guid>https://sunology.eu/#</guid>
+            <pubDate>Sun, 17 Sep 2023 05:39:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
-                    <p class="tw-home-article-card-date tw-mb-2" data-date="">Mardi 24 Juillet 2023</p>
-                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title="">Batteries Virtuelles pour le solaire : le grand comparatif 2023</h4>
+                    <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
+                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title=""></h4>
                   </div>
                   <div class="tw-cursor-pointer tw-group tw-flex tw-flex-row tw-items-center lg:tw-pb-3 tw-w-max">
                     <p class="group-hover:tw-underline tw-home-article-card-cta tw-m-0 tw-relative tw-bottom-[3px]">
@@ -53,20 +51,19 @@
 
                   </div>
                 </div>
-                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ba3cfd5edf60c6b4c80a5f_Batterie%20Virtuelle%20Le%20Comparatif%202023.webp" width="200">
+                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
               </div>]]></content:encoded>
             <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ba3cfd5edf60c6b4c80a5f_Batterie%20Virtuelle%20Le%20Comparatif%202023.webp" length="0" type="image/webp"/>
         </item>
         <item>
-            <title><![CDATA[Tout ce que vous avez besoin de savoir sur les Stations Solaires]]></title>
-            <link>https://tous-gagnants.fr/actu/kits-solaires-autoconsommation-station-tout-savoir</link>
-            <guid>https://tous-gagnants.fr/actu/kits-solaires-autoconsommation-station-tout-savoir</guid>
-            <pubDate>Sat, 16 Sep 2023 05:38:47 GMT</pubDate>
+            <link>https://sunology.eu/#</link>
+            <guid>https://sunology.eu/#</guid>
+            <pubDate>Sun, 17 Sep 2023 05:39:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
-                    <p class="tw-home-article-card-date tw-mb-2" data-date="">Jeudi 2 Août 2023</p>
-                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title="">Tout ce que vous avez besoin de savoir sur les Stations Solaires</h4>
+                    <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
+                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title=""></h4>
                   </div>
                   <div class="tw-cursor-pointer tw-group tw-flex tw-flex-row tw-items-center lg:tw-pb-3 tw-w-max">
                     <p class="group-hover:tw-underline tw-home-article-card-cta tw-m-0 tw-relative tw-bottom-[3px]">
@@ -78,20 +75,19 @@
 
                   </div>
                 </div>
-                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/6479dee0c66c27459fce2b6c_2filles_1panneaux%20(1).webp" width="200">
+                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
               </div>]]></content:encoded>
             <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/6479dee0c66c27459fce2b6c_2filles_1panneaux%20(1).webp" length="0" type="image/webp"/>
         </item>
         <item>
-            <title><![CDATA[Rentabilité : Comment comparer le prix du kWh d’EDF avec celui des panneaux solaires ?]]></title>
             <link>https://tous-gagnants.fr/actu/prix-du-kwh-edf-comparatif-rentabilite-panneaux-solaires</link>
             <guid>https://tous-gagnants.fr/actu/prix-du-kwh-edf-comparatif-rentabilite-panneaux-solaires</guid>
             <pubDate>Sat, 16 Sep 2023 05:38:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
-                    <p class="tw-home-article-card-date tw-mb-2" data-date="">Mercredi 11 Juillet 2023</p>
-                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title="">Rentabilité : Comment comparer le prix du kWh d’EDF avec celui des panneaux solaires ?</h4>
+                    <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
+                    <h4 class="tw-home-article-card-title tw-mb-6 tw-normal-case" data-title=""></h4>
                   </div>
                   <div class="tw-cursor-pointer tw-group tw-flex tw-flex-row tw-items-center lg:tw-pb-3 tw-w-max">
                     <p class="group-hover:tw-underline tw-home-article-card-cta tw-m-0 tw-relative tw-bottom-[3px]">
@@ -103,7 +99,7 @@
 
                   </div>
                 </div>
-                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ac22921d3697cbe577aa3c_Comparatif%20prix%20kWh%20EDF.webp" width="200">
+                <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
               </div>]]></content:encoded>
             <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ac22921d3697cbe577aa3c_Comparatif%20prix%20kWh%20EDF.webp" length="0" type="image/webp"/>
         </item>

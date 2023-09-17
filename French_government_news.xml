@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-09-16T17:39:22.331Z</updated>
+    <updated>2023-09-17T05:39:22.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[À la découverte du patrimoine de la République]]></title>
-        <id>https://www.gouvernement.fr/actualite/a-la-decouverte-du-patrimoine-de-la-republique</id>
-        <link href="https://www.gouvernement.fr/actualite/a-la-decouverte-du-patrimoine-de-la-republique"/>
-        <updated>2023-09-16T17:39:05.505Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.420Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="47e28b1d-c7cc-445a-9ab3-385a49b3f310">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -38,9 +38,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 11 au 17 septembre]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-11-au-17-septembre</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-11-au-17-septembre"/>
-        <updated>2023-09-16T17:39:05.513Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.422Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="28133c9d-53f5-49a5-a7ab-1aaaab21b39f">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -69,9 +69,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[La petite histoire de la devise « Liberté, Égalité, Fraternité »]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-petite-histoire-de-la-devise-francaise-liberte-egalite-fraternite</id>
-        <link href="https://www.gouvernement.fr/actualite/la-petite-histoire-de-la-devise-francaise-liberte-egalite-fraternite"/>
-        <updated>2023-09-16T17:39:05.515Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.426Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c3755624-5e6b-4007-9e8c-0058ee14a7b8">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -100,10 +100,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Une campagne contre les violences sexuelles faites aux enfants]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-gouvernement-contre-les-violences-sexuelles-faites-aux-enfants</id>
-        <link href="https://www.gouvernement.fr/actualite/le-gouvernement-contre-les-violences-sexuelles-faites-aux-enfants"/>
-        <updated>2023-09-16T17:39:05.828Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e54ef611-f239-4c52-846a-6dff811fc897">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.429Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e54ef611-f239-4c52-846a-6dff811fc897" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -131,10 +131,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Alléger la charge de travail grâce au  « cobot »]]></title>
-        <id>https://www.gouvernement.fr/actualite/alleger-la-charge-de-travail-grace-au-cobot</id>
-        <link href="https://www.gouvernement.fr/actualite/alleger-la-charge-de-travail-grace-au-cobot"/>
-        <updated>2023-09-16T17:39:05.845Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3c926f71-714a-4111-a493-4108feb274e7">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.431Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3c926f71-714a-4111-a493-4108feb274e7" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -162,10 +162,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Un camion qui conduit à l'enseignement agricole]]></title>
-        <id>https://www.gouvernement.fr/actualite/un-camion-qui-conduit-a-lenseignement-agricole</id>
-        <link href="https://www.gouvernement.fr/actualite/un-camion-qui-conduit-a-lenseignement-agricole"/>
-        <updated>2023-09-16T17:39:05.850Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="95462b77-d853-45ab-b035-b7baeb2cd642">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.433Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="95462b77-d853-45ab-b035-b7baeb2cd642" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -193,10 +193,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Pour une rénovation énergétique sans arnaque]]></title>
-        <id>https://www.gouvernement.fr/actualite/france-renov</id>
-        <link href="https://www.gouvernement.fr/actualite/france-renov"/>
-        <updated>2023-09-16T17:39:05.851Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9caefa43-eeef-4d0b-8412-ed6099ded9ec">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.435Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9caefa43-eeef-4d0b-8412-ed6099ded9ec" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -224,10 +224,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Trouver un « job » étudiant en trois étapes]]></title>
-        <id>https://www.gouvernement.fr/actualite/trouver-un-job-etudiant-en-trois-etapes</id>
-        <link href="https://www.gouvernement.fr/actualite/trouver-un-job-etudiant-en-trois-etapes"/>
-        <updated>2023-09-16T17:39:05.857Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a7e9ec4d-98c5-499a-acf3-bf24b33a9d12">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.475Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a7e9ec4d-98c5-499a-acf3-bf24b33a9d12" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -255,10 +255,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Transition écologique : transformer les zones commerciales]]></title>
-        <id>https://www.gouvernement.fr/actualite/lancement-du-programme-de-transformation-des-zones-commerciales</id>
-        <link href="https://www.gouvernement.fr/actualite/lancement-du-programme-de-transformation-des-zones-commerciales"/>
-        <updated>2023-09-16T17:39:05.858Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2dd5410c-28eb-4011-aeb9-8fc43573d47e">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.476Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2dd5410c-28eb-4011-aeb9-8fc43573d47e" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -286,10 +286,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[3114 : le numéro national de prévention du suicide]]></title>
-        <id>https://www.gouvernement.fr/actualite/3114-le-numero-national-de-prevention-du-suicide-a-composer</id>
-        <link href="https://www.gouvernement.fr/actualite/3114-le-numero-national-de-prevention-du-suicide-a-composer"/>
-        <updated>2023-09-16T17:39:05.859Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d56dadea-a51c-4dfb-9e84-86e554502861">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.479Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d56dadea-a51c-4dfb-9e84-86e554502861" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -317,10 +317,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 4 au 10 septembre]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-septembre</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-septembre"/>
-        <updated>2023-09-16T17:39:05.861Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="597cdb1e-bef6-4d69-b9a1-befacf7c26f8">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.481Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="597cdb1e-bef6-4d69-b9a1-befacf7c26f8" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -348,10 +348,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Un billet de transport unique entre la France et l’Irlande]]></title>
-        <id>https://www.gouvernement.fr/actualite/fluidifier-les-acces-entre-lirlande-et-la-france</id>
-        <link href="https://www.gouvernement.fr/actualite/fluidifier-les-acces-entre-lirlande-et-la-france"/>
-        <updated>2023-09-16T17:39:05.863Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="27458e93-04b9-4a05-a33a-354920fb4aff">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.483Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="27458e93-04b9-4a05-a33a-354920fb4aff" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -379,10 +379,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[La pratique sportive au cœur de l’éducation]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-pratique-sportive-au-coeur-de-leducation</id>
-        <link href="https://www.gouvernement.fr/actualite/la-pratique-sportive-au-coeur-de-leducation"/>
-        <updated>2023-09-16T17:39:05.870Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fa4faeb0-c48d-4d5f-8732-872be41ad276">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.485Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fa4faeb0-c48d-4d5f-8732-872be41ad276" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -410,10 +410,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Découvrez le programme des Journées européennes du patrimoine 2023]]></title>
-        <id>https://www.gouvernement.fr/actualite/journees-europeennes-du-patrimoine-2023</id>
-        <link href="https://www.gouvernement.fr/actualite/journees-europeennes-du-patrimoine-2023"/>
-        <updated>2023-09-16T17:39:05.874Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed0eda03-2b08-4fe8-b4e1-b203c494b740">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-09-17T05:39:09.487Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed0eda03-2b08-4fe8-b4e1-b203c494b740" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
