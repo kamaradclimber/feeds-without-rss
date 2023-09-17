@@ -4,13 +4,13 @@
         <title>Sunology</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 05:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 17:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <link>https://tous-gagnants.fr/actu/1er-aout-le-prix-du-kwh-delectricite-eaugmente-de-10-et-augmentera-de-75-dici-la-fin-de-lannee-prochaine-edf</link>
-            <guid>https://tous-gagnants.fr/actu/1er-aout-le-prix-du-kwh-delectricite-eaugmente-de-10-et-augmentera-de-75-dici-la-fin-de-lannee-prochaine-edf</guid>
-            <pubDate>Fri, 15 Sep 2023 05:39:15 GMT</pubDate>
+            <link>https://sunology.eu/#</link>
+            <guid>https://sunology.eu/#</guid>
+            <pubDate>Sun, 17 Sep 2023 05:39:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
@@ -29,7 +29,6 @@
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
               </div>]]></content:encoded>
-            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64b69bf1c9ad6b5c6f51ae73_Couple%20inquiet%20face%20a%CC%80%2010%25%20augmentation%20EDF%20e%CC%81lectricite%CC%81.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <link>https://sunology.eu/#</link>
@@ -53,7 +52,6 @@
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
               </div>]]></content:encoded>
-            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ba3cfd5edf60c6b4c80a5f_Batterie%20Virtuelle%20Le%20Comparatif%202023.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <link>https://sunology.eu/#</link>
@@ -80,9 +78,9 @@
             <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/6479dee0c66c27459fce2b6c_2filles_1panneaux%20(1).webp" length="0" type="image/webp"/>
         </item>
         <item>
-            <link>https://tous-gagnants.fr/actu/prix-du-kwh-edf-comparatif-rentabilite-panneaux-solaires</link>
-            <guid>https://tous-gagnants.fr/actu/prix-du-kwh-edf-comparatif-rentabilite-panneaux-solaires</guid>
-            <pubDate>Sat, 16 Sep 2023 05:38:47 GMT</pubDate>
+            <link>https://sunology.eu/#</link>
+            <guid>https://sunology.eu/#</guid>
+            <pubDate>Sun, 17 Sep 2023 05:39:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
@@ -101,7 +99,6 @@
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
               </div>]]></content:encoded>
-            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/64ac22921d3697cbe577aa3c_Comparatif%20prix%20kWh%20EDF.webp" length="0" type="image/webp"/>
         </item>
     </channel>
 </rss>
