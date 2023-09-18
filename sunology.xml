@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Sunology</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 17:39:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Sun, 17 Sep 2023 05:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sunology.eu/</id>
+    <title>Sunology</title>
+    <updated>2023-09-18T05:39:09.126Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://sunology.eu/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://sunology.eu/#</id>
+        <link href="https://sunology.eu/#"/>
+        <updated>2023-09-17T05:39:21.091Z</updated>
+        <content type="html"><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
                     <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
@@ -28,13 +27,14 @@
                   </div>
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
-              </div>]]></content:encoded>
-        </item>
-        <item>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Sun, 17 Sep 2023 05:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
+              </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://sunology.eu/#</id>
+        <link href="https://sunology.eu/#"/>
+        <updated>2023-09-17T05:39:21.091Z</updated>
+        <content type="html"><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
                     <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
@@ -51,13 +51,14 @@
                   </div>
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
-              </div>]]></content:encoded>
-        </item>
-        <item>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Sun, 17 Sep 2023 05:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
+              </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://sunology.eu/#</id>
+        <link href="https://sunology.eu/#"/>
+        <updated>2023-09-17T05:39:21.091Z</updated>
+        <content type="html"><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
                     <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
@@ -74,14 +75,14 @@
                   </div>
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
-              </div>]]></content:encoded>
-            <enclosure url="https://uploads-ssl.webflow.com/643557bab29d15f2d1bc2469/6479dee0c66c27459fce2b6c_2filles_1panneaux%20(1).webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <link>https://sunology.eu/#</link>
-            <guid>https://sunology.eu/#</guid>
-            <pubDate>Sun, 17 Sep 2023 05:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
+              </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://sunology.eu/#</id>
+        <link href="https://sunology.eu/#"/>
+        <updated>2023-09-17T05:39:21.091Z</updated>
+        <content type="html"><![CDATA[<div class="tw-flex tw-flex-col tw-h-full tw-justify-between">
                 <div class="lg:tw-p-10 tw-p-6 tw-flex tw-flex-col tw-justify-between tw-flex-1">
                   <div>
                     <p class="tw-home-article-card-date tw-mb-2" data-date=""></p>
@@ -98,7 +99,6 @@
                   </div>
                 </div>
                 <img alt="" class="tw-h-[225px] tw-w-full tw-object-cover" data-img="" height="225" loading="lazy" src="" width="200">
-              </div>]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+              </div>]]></content>
+    </entry>
+</feed>
