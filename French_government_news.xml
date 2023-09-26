@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-09-25T17:38:57.004Z</updated>
+    <updated>2023-09-26T05:39:05.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
@@ -14,9 +14,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-18-au-24-septembre" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 18 au 24 septembre 
-                        </a>
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-18-au-24-septembre" class="fr-card__link" target="_self">Les 4 actus de la semaine du 18 au 24 septembre</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -30,10 +28,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/1cf8783a25de2da66af89206ee3b500e675bfe39.png" alt="Quatre actus de la semaine du 18 au 24 septembre" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/1cf8783a25de2da66af89206ee3b500e675bfe39.png" alt="Quatre actus de la semaine du 18 au 24 septembre" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -45,9 +44,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-robot-humanoide-pour-aider-les-aidants" class="fr-card__link" target="_self">
-                            Un robot humanoïde pour aider les aidants 
-                        </a>
+                        <a href="/actualite/un-robot-humanoide-pour-aider-les-aidants" class="fr-card__link" target="_self">Un robot humanoïde pour aider les aidants</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -61,10 +58,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ddaf6ab9b05b33c164b604414c1a9273c60ade68.jpg" alt="Robots" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/ddaf6ab9b05b33c164b604414c1a9273c60ade68.jpg" alt="Robots" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -76,9 +74,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/pourquoi-les-elections-senatoriales-sont-elles-importantes" class="fr-card__link" target="_self">
-                            Pourquoi les élections sénatoriales sont-elles importantes ? 
-                        </a>
+                        <a href="/actualite/pourquoi-les-elections-senatoriales-sont-elles-importantes" class="fr-card__link" target="_self">Pourquoi les élections sénatoriales sont-elles importantes ?</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -92,10 +88,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f929f7a02e69871ce5fd2d2f799ac49d543d6577.jpg" alt="" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/f929f7a02e69871ce5fd2d2f799ac49d543d6577.jpg" alt="" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -107,9 +104,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/elisabeth-borne-lance-le-premier-comite-de-lintelligence-artificielle" class="fr-card__link" target="_self">
-                            Premier comité de l'intelligence artificielle générative 
-                        </a>
+                        <a href="/actualite/elisabeth-borne-lance-le-premier-comite-de-lintelligence-artificielle" class="fr-card__link" target="_self">Premier comité de l'intelligence artificielle générative</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -123,10 +118,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7356b65d1016e9f9321008063580c299bc505ea0.jpg" alt="La Première ministre, Élisabeth Borne, préside l'installation du comité  sur intelligence artificielle générative à Paris, le 19 septembre 2023." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/7356b65d1016e9f9321008063580c299bc505ea0.jpg" alt="La Première ministre, Élisabeth Borne, préside l'installation du comité  sur intelligence artificielle générative à Paris, le 19 septembre 2023." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -138,9 +134,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/on-a-toutes-une-tete-a-travailler-dans-la-tech" class="fr-card__link" target="_self">
-                            On a toutes une tête à travailler dans la tech 
-                        </a>
+                        <a href="/actualite/on-a-toutes-une-tete-a-travailler-dans-la-tech" class="fr-card__link" target="_self">On a toutes une tête à travailler dans la tech</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -154,10 +148,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0d748bb5a0cd71889f5145406fd39565872dbd08.jpg" alt="Une femme travaillant dans la « tech »." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/0d748bb5a0cd71889f5145406fd39565872dbd08.jpg" alt="Une femme travaillant dans la « tech »." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -169,9 +164,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-plan-de-protection-pour-les-agents-publics" class="fr-card__link" target="_self">
-                            Mieux protéger les agents de la Fonction publique 
-                        </a>
+                        <a href="/actualite/un-plan-de-protection-pour-les-agents-publics" class="fr-card__link" target="_self">Mieux protéger les agents de la Fonction publique</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -185,10 +178,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9e21d28b47d90bc66fe77867f8294f090cf347b1.jpg" alt="Un homme passant devant l'accueil d'un Pôle emploi." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/9e21d28b47d90bc66fe77867f8294f090cf347b1.jpg" alt="Un homme passant devant l'accueil d'un Pôle emploi." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -200,9 +194,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-journee-type-de-lea-programmeuse-informatique" class="fr-card__link" target="_self">
-                            Léa nous partage son métier de programmeuse informatique 
-                        </a>
+                        <a href="/actualite/la-journee-type-de-lea-programmeuse-informatique" class="fr-card__link" target="_self">Léa nous partage son métier de programmeuse informatique</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -216,10 +208,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/8f29bc8d6c1a10052de18db79eac31ae9473e567.jpg" alt="Programmeuse." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/8f29bc8d6c1a10052de18db79eac31ae9473e567.jpg" alt="Programmeuse." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -231,9 +224,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/proteger-les-nourrissons-contre-la-bronchiolite" class="fr-card__link" target="_self">
-                            Un traitement préventif contre la bronchiolite 
-                        </a>
+                        <a href="/actualite/proteger-les-nourrissons-contre-la-bronchiolite" class="fr-card__link" target="_self">Un traitement préventif contre la bronchiolite</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -247,10 +238,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5025a6ff6a9f0d8f08e756914cd52386460f4a25.jpg" alt="Une maman prenant soin de son bébé." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/5025a6ff6a9f0d8f08e756914cd52386460f4a25.jpg" alt="Une maman prenant soin de son bébé." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -262,9 +254,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/a-la-decouverte-du-patrimoine-de-la-republique" class="fr-card__link" target="_self">
-                            À la découverte du patrimoine de la République 
-                        </a>
+                        <a href="/actualite/a-la-decouverte-du-patrimoine-de-la-republique" class="fr-card__link" target="_self">À la découverte du patrimoine de la République</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -278,10 +268,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/25d1b6d3056985c2f683f4521b4f4993d9c6f62c.jpg" alt="JEP 2023" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/25d1b6d3056985c2f683f4521b4f4993d9c6f62c.jpg" alt="JEP 2023" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -293,9 +284,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-11-au-17-septembre" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 11 au 17 septembre 
-                        </a>
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-11-au-17-septembre" class="fr-card__link" target="_self">Les 4 actus de la semaine du 11 au 17 septembre</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -309,10 +298,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/dfc73b94ab627adea43c49b4abd11d671fc530b8.png" alt="4 actus de la semaine du 11 - 17 septembre 2023" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/dfc73b94ab627adea43c49b4abd11d671fc530b8.png" alt="4 actus de la semaine du 11 - 17 septembre 2023" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -324,9 +314,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-petite-histoire-de-la-devise-francaise-liberte-egalite-fraternite" class="fr-card__link" target="_self">
-                            La petite histoire de la devise « Liberté, Égalité, Fraternité » 
-                        </a>
+                        <a href="/actualite/la-petite-histoire-de-la-devise-francaise-liberte-egalite-fraternite" class="fr-card__link" target="_self">La petite histoire de la devise « Liberté, Égalité, Fraternité »</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -340,10 +328,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5a24390df30918a6d4d02f1b085ec598811873a2.png" alt="Bandeau de la devise républicaine." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/5a24390df30918a6d4d02f1b085ec598811873a2.png" alt="Bandeau de la devise républicaine." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -355,9 +344,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-gouvernement-contre-les-violences-sexuelles-faites-aux-enfants" class="fr-card__link" target="_self">
-                            Une campagne contre les violences sexuelles faites aux enfants 
-                        </a>
+                        <a href="/actualite/le-gouvernement-contre-les-violences-sexuelles-faites-aux-enfants" class="fr-card__link" target="_self">Une campagne contre les violences sexuelles faites aux enfants</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -371,10 +358,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ab52fdd746e6df753d6adb779c2762a364b7eb77.jpg" alt="Une petite fille." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/ab52fdd746e6df753d6adb779c2762a364b7eb77.jpg" alt="Une petite fille." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -386,9 +374,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/alleger-la-charge-de-travail-grace-au-cobot" class="fr-card__link" target="_self">
-                            Alléger la charge de travail grâce au  « cobot » 
-                        </a>
+                        <a href="/actualite/alleger-la-charge-de-travail-grace-au-cobot" class="fr-card__link" target="_self">Alléger la charge de travail grâce au  « cobot »</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -402,10 +388,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a8f27c6a2329572e14c2e246ae1c8a38b9c184ca.png" alt="Théo Rougemont, directeur opérationnel de MS-Innov." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/a8f27c6a2329572e14c2e246ae1c8a38b9c184ca.png" alt="Théo Rougemont, directeur opérationnel de MS-Innov." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -417,9 +404,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-camion-qui-conduit-a-lenseignement-agricole" class="fr-card__link" target="_self">
-                            Un camion qui conduit à l'enseignement agricole 
-                        </a>
+                        <a href="/actualite/un-camion-qui-conduit-a-lenseignement-agricole" class="fr-card__link" target="_self">Un camion qui conduit à l'enseignement agricole</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -433,10 +418,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/abe43331c4558f5e8b26d48f063cc3feea1f22f1.jpg" alt="Camion « l'aventure du vivant »" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/abe43331c4558f5e8b26d48f063cc3feea1f22f1.jpg" alt="Camion « l'aventure du vivant »" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
 </feed>
