@@ -4,442 +4,92 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 17:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 05:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Stéphanie nous partage son métier de bouchère (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/stephanie-nous-partage-son-metier-de-bouchere</link>
-            <guid>https://www.gouvernement.fr/actualite/stephanie-nous-partage-son-metier-de-bouchere</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="48be51d8-7aa6-49b1-b220-b93ae72c1516">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/stephanie-nous-partage-son-metier-de-bouchere" class="fr-card__link" target="_self">
-                            Stéphanie nous partage son métier de bouchère 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 29/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5d02b93edd314d33028020670402bc2aea03c5a0.jpg" alt="La bouchère Stéphanie." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les priorités du Gouvernement avec le budget pour 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/le-gouvernement-presente-le-projet-de-loi-de-finances-plf-pour-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/le-gouvernement-presente-le-projet-de-loi-de-finances-plf-pour-2024</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5395d6ac-0975-4639-8aa1-9d3342084b50">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-gouvernement-presente-le-projet-de-loi-de-finances-plf-pour-2024" class="fr-card__link" target="_self">
-                            Les priorités du Gouvernement avec le budget pour 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Institutions
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 29/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/8cbacd5879aff05e756c582788941f9d1fa36d01.jpg" alt="Photo de l'hémicycle de l'Assemblée nationale." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Des mesures pour la sécurité des professionnels de santé (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/des-mesures-pour-la-securite-des-professionnels-de-sante</link>
-            <guid>https://www.gouvernement.fr/actualite/des-mesures-pour-la-securite-des-professionnels-de-sante</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bcaa7bb6-5e33-4152-b975-f2f7456a52d8">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/des-mesures-pour-la-securite-des-professionnels-de-sante" class="fr-card__link" target="_self">
-                            Des mesures pour la sécurité des professionnels de santé 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Santé
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 29/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/94fe33b5814e8296db6d0d99062c73452df03d07.jpg" alt="Des soignants." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ce qui change au 1er octobre 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-octobre-2023</link>
-            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-octobre-2023</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="13e2e130-cd11-471e-bfc1-615de3a1ab00">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ce-qui-change-au-1er-octobre-2023" class="fr-card__link" target="_self">
-                            Ce qui change au 1er octobre 2023 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 29/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/948f366e5f828f824f6634838f5851a21a932f9a.png" alt="" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Agora, l'appli pour dialoguer avec le Gouvernement (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/agora-lappli-pour-dialoguer-avec-le-gouvernement</link>
-            <guid>https://www.gouvernement.fr/actualite/agora-lappli-pour-dialoguer-avec-le-gouvernement</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="48bb156b-d58d-41db-ab43-cf3323bf654b">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/agora-lappli-pour-dialoguer-avec-le-gouvernement" class="fr-card__link" target="_self">
-                            Agora, l'appli pour dialoguer avec le Gouvernement 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 28/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/cec90ad3cb2d3909421894ad36a9ace5f548e759.jpg" alt="Visualisation de l'application Agora et son logo." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IVG, la conquête d'un droit (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ivg-la-conquete-dun-droit</link>
-            <guid>https://www.gouvernement.fr/actualite/ivg-la-conquete-dun-droit</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a7654281-af45-41dc-889d-b55c098060cf">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ivg-la-conquete-dun-droit" class="fr-card__link" target="_self">
-                            IVG, la conquête d'un droit 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Santé
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 28/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/171ed58f555de952e6ffb0bba9fb422129ee3447.jpg" alt="La ministre de la Santé Simone Veil devant l'Assemblée nationale en 1974." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[« Bleu Blanc Bouge » : un programme TV sur les innovations françai (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/bleu-blanc-bouge-lemission-sur-les-innovations-francaises</link>
-            <guid>https://www.gouvernement.fr/actualite/bleu-blanc-bouge-lemission-sur-les-innovations-francaises</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="df042547-c7ae-4b1e-a7e4-1ca6ddba740c">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/bleu-blanc-bouge-lemission-sur-les-innovations-francaises" class="fr-card__link" target="_self">
-                            « Bleu Blanc Bouge » : un programme TV sur les innovations françai 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 28/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/bd274431cfede2ac31d1f956751a590e129d2537.jpg" alt="Bandeau " bleu="" blanc="" bouge""="" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop au harcèlement à l’école (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/stop-au-harcelement-a-lecole</link>
-            <guid>https://www.gouvernement.fr/actualite/stop-au-harcelement-a-lecole</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="00817256-050b-4976-8d96-fd245a94ae13">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/stop-au-harcelement-a-lecole" class="fr-card__link" target="_self">
-                            Stop au harcèlement à l’école 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 27/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c8149155ee775aa6a4e15b0d42027864320c7005.jpg" alt="La Première ministre lors de la présentation du plan de lutte contre le harcèlement à l'école." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Le bonus écologique pour l'achat d'un véhicule électrique évolue (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/vehicule-electrique-les-nouveaux-criteres-du-bonus-ecologique</link>
-            <guid>https://www.gouvernement.fr/actualite/vehicule-electrique-les-nouveaux-criteres-du-bonus-ecologique</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c6ec17f9-7604-44f2-a206-fb43b55b5435">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/vehicule-electrique-les-nouveaux-criteres-du-bonus-ecologique" class="fr-card__link" target="_self">
-                            Le bonus écologique pour l'achat d'un véhicule électrique évolue 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 27/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/70bf507ba555aa5ae7595fe43f4d5c609f5055ba.jpg" alt="Voiture électrique" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harcèlement à l’école : les clés du programme pHARe (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/harcelement-a-lecole-les-cles-du-programme-phare</link>
-            <guid>https://www.gouvernement.fr/actualite/harcelement-a-lecole-les-cles-du-programme-phare</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6780cc28-cd88-4463-8fd4-ed652d95cc6c">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/harcelement-a-lecole-les-cles-du-programme-phare" class="fr-card__link" target="_self">
-                            Harcèlement à l’école : les clés du programme pHARe 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 27/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3578af367fd4969e34a56563bd8893dfc0343ead.jpg" alt="Une jeune adolescente regarde son téléphone portable dans une cuisine." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Une campagne pour la sécurité au travail (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/une-campagne-pour-la-securite-au-travail</link>
-            <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-la-securite-au-travail</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="082b2059-72ab-42a2-96bd-69e950e3ab49">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-campagne-pour-la-securite-au-travail" class="fr-card__link" target="_self">
-                            Une campagne pour la sécurité au travail 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Travail
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 27/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4e76c83fd01604ac309e2c6ffb9d290f15a4eadc.jpg" alt="Ouvrier sur un chantier." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Planification écologique : ce qu’il faut retenir (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/planification-ecologique-ce-quil-faut-retenir</link>
-            <guid>https://www.gouvernement.fr/actualite/planification-ecologique-ce-quil-faut-retenir</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1fd9bac6-a832-48ee-a1a6-12deaa8bbc9e">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/planification-ecologique-ce-quil-faut-retenir" class="fr-card__link" target="_self">
-                            Planification écologique : ce qu’il faut retenir 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 26/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5e0742b911b5d915a985877125abf5d9c94ef097.jpg" alt="Une forêt." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lancement de la promotion des lauréats French Tech 2030 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/french-tech</link>
-            <guid>https://www.gouvernement.fr/actualite/french-tech</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="42d05905-dbd5-45e2-a3cb-f4050cb465ed">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/french-tech" class="fr-card__link" target="_self">
-                            Lancement de la promotion des lauréats French Tech 2030 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 26/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a99e1489eec2158d6492b81c3cf0253289f586e2.png" alt="Le coq de La French tech" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 18 au 24 septembre (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-18-au-24-septembre</link>
-            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-18-au-24-septembre</guid>
-            <pubDate>Sun, 01 Oct 2023 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="63433904-7d43-418d-a190-842e489f6d24">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-18-au-24-septembre" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 18 au 24 septembre 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 22/09/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/1cf8783a25de2da66af89206ee3b500e675bfe39.png" alt="Quatre actus de la semaine du 18 au 24 septembre" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Mon, 02 Oct 2023 05:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will wind and solar become the leading power sources in the EU in 2023? (Blog - Electricity Maps)]]></title>
