@@ -4,92 +4,442 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 17:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 05:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Les 4 actus de la semaine du 2 au 8 octobre (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-2-au-8-octobre</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-2-au-8-octobre</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="05ef7be4-6334-471d-a734-771c3a67cf81" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-2-au-8-octobre" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 2 au 8 octobre 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5730663d303545981282df558becf1b30874baac.jpg" alt="Bandeau des 4 actus du 2 au 8 octobre." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Des mesures pour faire face à la crise de l'eau à Mayotte (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/des-mesures-pour-faire-face-a-la-crise-de-leau-a-mayotte</link>
+            <guid>https://www.gouvernement.fr/actualite/des-mesures-pour-faire-face-a-la-crise-de-leau-a-mayotte</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="22d0d687-2639-4d44-afc2-4145aa5ecbe5" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/des-mesures-pour-faire-face-a-la-crise-de-leau-a-mayotte" class="fr-card__link" target="_self">
+                            Des mesures pour faire face à la crise de l'eau à Mayotte 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Outre-Mer
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/2694e6f6c09fbce9c9fd1d0f430e79c82edeab91.jpg" alt="La Première ministre, Élisabeth Borne participe à une réunion de ministres sur la situation à Mayotte, le 05 octobre 2023, à l'Hôtel de Matignon, à Paris." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Une journée pour découvrir les Jeux paralympiques de Paris 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/journee-paralympique</link>
+            <guid>https://www.gouvernement.fr/actualite/journee-paralympique</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="24a951ca-5883-4499-acc7-91fc46ac0361" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/journee-paralympique" class="fr-card__link" target="_self">
+                            Une journée pour découvrir les Jeux paralympiques de Paris 2024 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sport
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/8685fdfbec080e9eb26e3203b45113298a70d08e.jpg" alt="La place de la République." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Plan eau : 80 % des mesures engagées en 6 mois (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/plan-eau-80-des-mesures-engagees-en-6-mois</link>
+            <guid>https://www.gouvernement.fr/actualite/plan-eau-80-des-mesures-engagees-en-6-mois</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e1e1e2f5-57b8-4ebc-a08c-ae5656a00052" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/plan-eau-80-des-mesures-engagees-en-6-mois" class="fr-card__link" target="_self">
+                            Plan eau : 80 % des mesures engagées en 6 mois 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c482d281212149637227fb76bdced6dfadb7bc95.jpg" alt="Lever de soleil sur une station d'épuration d'eau." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA["1 jeune 1 solution" continue d'enrichir son offre (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/1-jeune-1-solution</link>
+            <guid>https://www.gouvernement.fr/actualite/1-jeune-1-solution</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7d58ebba-e509-4fd9-84ae-57406514ba63" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/1-jeune-1-solution" class="fr-card__link" target="_self">
+                            "1 jeune 1 solution" continue d'enrichir son offre 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Travail
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/49567243f69e1885e11c0605cbf03a2b4ed97f5d.jpg" alt="Une jeune femme aux cheveux bouclés sur fond jaune et logo 1jeune1solution" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Céline nous partage son métier de second capitaine de navire (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/celine-nous-partage-son-metier-de-capitaine-de-bateau</link>
+            <guid>https://www.gouvernement.fr/actualite/celine-nous-partage-son-metier-de-capitaine-de-bateau</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0ca559d4-3552-4ba3-a5fb-24adca0f987f" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/celine-nous-partage-son-metier-de-capitaine-de-bateau" class="fr-card__link" target="_self">
+                            Céline nous partage son métier de second capitaine de navire 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9913bdd592acce49abcac3414f401640520489c1.jpg" alt="Céline, capitaine de bateau" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Cancers du sein : un mois pour inciter au dépistage (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/depistage-des-cancers-du-sein</link>
+            <guid>https://www.gouvernement.fr/actualite/depistage-des-cancers-du-sein</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cebf3d0f-2893-4fa9-9351-d8df59fbf6dd" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/depistage-des-cancers-du-sein" class="fr-card__link" target="_self">
+                            Cancers du sein : un mois pour inciter au dépistage 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 04/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/e064755680796acd5bf734868f00d3d873976ba6.jpg" alt="Une femme de dos torse nu se fait examiner par un docteur." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[La petite histoire de la Constitution du 4 octobre 1958 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-petite-histoire-de-la-constitution-du-4-octobre-1958</link>
+            <guid>https://www.gouvernement.fr/actualite/la-petite-histoire-de-la-constitution-du-4-octobre-1958</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="efddc7d1-8066-41f4-9678-4c4ce9d786e6" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-petite-histoire-de-la-constitution-du-4-octobre-1958" class="fr-card__link" target="_self">
+                            La petite histoire de la Constitution du 4 octobre 1958 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 04/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/45f7336e91f2d492abdab991efc65f32835cc1a1.png" alt="Bandeau de la petite histoire de la constitution du 4 octobre 1958." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Harcèlement à l'école :  Élisabeth Borne rencontre des élèves (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/harcelement-a-lecole-rencontre-entre-elisabeth-borne-et-des-eleves</link>
+            <guid>https://www.gouvernement.fr/actualite/harcelement-a-lecole-rencontre-entre-elisabeth-borne-et-des-eleves</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="dff306d2-1349-4a7e-b289-3d9d5bc1f8eb" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/harcelement-a-lecole-rencontre-entre-elisabeth-borne-et-des-eleves" class="fr-card__link" target="_self">
+                            Harcèlement à l'école :  Élisabeth Borne rencontre des élèves 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 04/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/484e304a2c7c778c5ce5d482c946ac3db6e8c433.jpg" alt="La Première ministre échange avec des collégiens et lycéens à Matignon." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Océanide : l'entreprise qui veut optimiser l'énergie éolienne (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/oceanide-lentreprise-qui-veut-optimiser-lenergie-eolienne</link>
+            <guid>https://www.gouvernement.fr/actualite/oceanide-lentreprise-qui-veut-optimiser-lenergie-eolienne</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f157f280-67e6-4a9b-b769-95c3821dca3f" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/oceanide-lentreprise-qui-veut-optimiser-lenergie-eolienne" class="fr-card__link" target="_self">
+                            Océanide : l'entreprise qui veut optimiser l'énergie éolienne 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 03/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/61ed340f0abd3ef2bc469805cb69e011652ef5e0.jpg" alt="Bassin de génie océanique." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[238 nouvelles brigades de gendarmerie nationale (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/238-nouvelles-brigades-de-gendarmerie-nationale</link>
+            <guid>https://www.gouvernement.fr/actualite/238-nouvelles-brigades-de-gendarmerie-nationale</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fcdddfe1-d3a5-4926-bd45-5f030a032949" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/238-nouvelles-brigades-de-gendarmerie-nationale" class="fr-card__link" target="_self">
+                            238 nouvelles brigades de gendarmerie nationale 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 03/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0e73fb5e109c41794565401229e73ae47c4f733c.jpg" alt="Le vêtement d'une gendarme vu de dos." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Le harcèlement à l'école va jusqu’à parasiter le temps familial (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/le-harcelement-scolaire-va-jusqua-parasiter-le-temps-familial</link>
+            <guid>https://www.gouvernement.fr/actualite/le-harcelement-scolaire-va-jusqua-parasiter-le-temps-familial</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="98696b18-bdb8-4a4f-8bae-781dbc408049" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-harcelement-scolaire-va-jusqua-parasiter-le-temps-familial" class="fr-card__link" target="_self">
+                            Le harcèlement à l'école va jusqu’à parasiter le temps familial 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 02/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d3634c7e8ad2bb32081f9c7a035db26d94f7bfb3.png" alt="Image de Justine Atlan, directrice générale de l'Association e-Enfance / 30 18" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Covid-19 : lancement de la campagne de vaccination (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/covid-19-lancement-de-la-campagne-de-vaccination</link>
+            <guid>https://www.gouvernement.fr/actualite/covid-19-lancement-de-la-campagne-de-vaccination</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0630deec-848a-4e62-a70d-3622f1baafe9" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/covid-19-lancement-de-la-campagne-de-vaccination" class="fr-card__link" target="_self">
+                            Covid-19 : lancement de la campagne de vaccination 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 02/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c9d319b81f4e234765e2d28d91513558872c0dc2.jpg" alt="Une personne âgée venant de sa faire vacciner contre le covid-19." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 06 Oct 2023 17:39:14 GMT</pubDate>
+            <title><![CDATA[Stéphanie nous partage son métier de bouchère (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/stephanie-nous-partage-son-metier-de-bouchere</link>
+            <guid>https://www.gouvernement.fr/actualite/stephanie-nous-partage-son-metier-de-bouchere</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="48be51d8-7aa6-49b1-b220-b93ae72c1516" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/stephanie-nous-partage-son-metier-de-bouchere" class="fr-card__link" target="_self">
+                            Stéphanie nous partage son métier de bouchère 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 29/09/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5d02b93edd314d33028020670402bc2aea03c5a0.jpg" alt="La bouchère Stéphanie." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Will wind and solar become the leading power sources in the EU in 2023? (Blog - Electricity Maps)]]></title>
