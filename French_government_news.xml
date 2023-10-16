@@ -2,441 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-10-16T05:39:29.713Z</updated>
+    <updated>2023-10-16T17:39:09.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Discours de la Première ministre : remise du Prix Samuel Paty]]></title>
-        <id>https://www.gouvernement.fr/actualite/discours-de-la-premiere-ministre-remise-du-prix-samuel-paty</id>
-        <link href="https://www.gouvernement.fr/actualite/discours-de-la-premiere-ministre-remise-du-prix-samuel-paty"/>
-        <updated>2023-10-15T17:38:31.521Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="010a8104-cad2-429b-8618-6d335586dce0">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/discours-de-la-premiere-ministre-remise-du-prix-samuel-paty" class="fr-card__link" target="_self">
-                            Discours de la Première ministre : remise du Prix Samuel Paty 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Défense
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 14/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/eb1364edea443a6808902c552797da7217eec696.gif" alt="La Première ministre lors de son discours de remise du Prix Samuel Paty à la Sorbonne." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.464Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plan Vigipirate : niveau urgence attentat déclaré]]></title>
-        <id>https://www.gouvernement.fr/actualite/plan-vigipirate-niveau-urgence-attentat-declare</id>
-        <link href="https://www.gouvernement.fr/actualite/plan-vigipirate-niveau-urgence-attentat-declare"/>
-        <updated>2023-10-15T17:38:31.522Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a4f9a91b-d9e6-4997-9fcc-7206cf9d0150">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/plan-vigipirate-niveau-urgence-attentat-declare" class="fr-card__link" target="_self">
-                            Plan Vigipirate : niveau urgence attentat déclaré 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sécurité
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 13/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d4a3204cc4c7abfb256f7f4b2d4d8bb547e8442d.gif" alt="Logo Vigipirate urgence attentat." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.465Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le budget vert 2024 en hausse de 7 milliards d’euros]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-budget-vert-2024-en-hausse-de-7-milliards-deuros</id>
-        <link href="https://www.gouvernement.fr/actualite/le-budget-vert-2024-en-hausse-de-7-milliards-deuros"/>
-        <updated>2023-10-15T17:38:31.527Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4f6fc998-c156-4af3-9988-2740932ea1bd">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-budget-vert-2024-en-hausse-de-7-milliards-deuros" class="fr-card__link" target="_self">
-                            Le budget vert 2024 en hausse de 7 milliards d’euros 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Institutions
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 13/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/27a293384f78b17d5ef9d50bb786ea5ab71f4a55.jpg" alt="Les volcans du Puy de Dome" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.465Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sobriété énergétique : cinq annonces pour aller plus loin]]></title>
-        <id>https://www.gouvernement.fr/actualite/sobriete-energetique-cinq-annonces-pour-aller-plus-loin</id>
-        <link href="https://www.gouvernement.fr/actualite/sobriete-energetique-cinq-annonces-pour-aller-plus-loin"/>
-        <updated>2023-10-15T17:38:31.527Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="96d5c5b2-4a66-42e6-8d56-07a451285a11">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/sobriete-energetique-cinq-annonces-pour-aller-plus-loin" class="fr-card__link" target="_self">
-                            Sobriété énergétique : cinq annonces pour aller plus loin 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 13/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6fe24afd83a7010f29b94120b9f81c7f0f9ce92a.jpg" alt="Un gros plan sur la température affichée sur un radiateur." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.466Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rénovation énergétique : 1,6 milliard d’euros supplémentaires]]></title>
-        <id>https://www.gouvernement.fr/actualite/1-6-milliard-deuros-supplementaires-pour-la-renovation-energetique</id>
-        <link href="https://www.gouvernement.fr/actualite/1-6-milliard-deuros-supplementaires-pour-la-renovation-energetique"/>
-        <updated>2023-10-15T17:38:31.529Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c07435e0-aa80-418d-9e47-f272cc9af265">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/1-6-milliard-deuros-supplementaires-pour-la-renovation-energetique" class="fr-card__link" target="_self">
-                            Rénovation énergétique : 1,6 milliard d’euros supplémentaires 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 12/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a64d5fd921976bda4855d9db4d5dcfb1c1d6f036.jpg" alt="Une petite maison posée sur un bilan énergétique." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.466Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[France 2030 : 21 milliards d'euros engagés en deux ans]]></title>
-        <id>https://www.gouvernement.fr/actualite/france-2030-fete-ses-deux-ans</id>
-        <link href="https://www.gouvernement.fr/actualite/france-2030-fete-ses-deux-ans"/>
-        <updated>2023-10-15T17:38:31.530Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1a2769de-f2a0-4d45-a1d0-fd1765ce4d0f">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/france-2030-fete-ses-deux-ans" class="fr-card__link" target="_self">
-                            France 2030 : 21 milliards d'euros engagés en deux ans 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 12/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ec2329f2853813c64d6a2e93be7d2f8bba8983e3.jpg" alt="Des techniciens en blouse dans une salle blanche." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.466Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La France étoffe la marque État avec une identité sonore]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-france-etoffe-la-marque-etat-avec-une-identite-sonore</id>
-        <link href="https://www.gouvernement.fr/actualite/la-france-etoffe-la-marque-etat-avec-une-identite-sonore"/>
-        <updated>2023-10-15T17:38:31.619Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="57c4330c-00b7-4877-b332-f4aa1d4fceae">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-france-etoffe-la-marque-etat-avec-une-identite-sonore" class="fr-card__link" target="_self">
-                            La France étoffe la marque État avec une identité sonore 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 11/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/e97439b4b3d25e991fecf973c4cf75699ab08e9b.jpg" alt="Marianne sur fond tricolore, inscription Gouvernement suivi de la devise Liberté, Égalité, Fraternité." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.467Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Des vols spéciaux organisés entre la France et Israël]]></title>
-        <id>https://www.gouvernement.fr/actualite/organisation-dun-vol-special-entre-la-france-et-israel</id>
-        <link href="https://www.gouvernement.fr/actualite/organisation-dun-vol-special-entre-la-france-et-israel"/>
-        <updated>2023-10-15T17:38:31.620Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="39ee0b0b-0951-42a1-918d-532fcf06b67d">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/organisation-dun-vol-special-entre-la-france-et-israel" class="fr-card__link" target="_self">
-                            Des vols spéciaux organisés entre la France et Israël 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 11/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/aa7b3ff1b0c0a522ce57d77b7a866501b9fdb865.jpg" alt="Un avion Air France sur le tarmac de l'aéroport Charles de Gaulle." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.467Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Des câbles innovants pour les véhicules électriques]]></title>
-        <id>https://www.gouvernement.fr/actualite/acome-lentreprise-qui-produit-des-cables-pour-les-vehicules-electriques</id>
-        <link href="https://www.gouvernement.fr/actualite/acome-lentreprise-qui-produit-des-cables-pour-les-vehicules-electriques"/>
-        <updated>2023-10-15T17:38:31.621Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3a2069f7-f3f5-45e1-bd28-b033b52406c7">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/acome-lentreprise-qui-produit-des-cables-pour-les-vehicules-electriques" class="fr-card__link" target="_self">
-                            Des câbles innovants pour les véhicules électriques 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 11/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3cd5d8abcf1f08643d4930a6375f5acfab234817.jpg" alt="Un employé du groupe Acome en train de travailler sur des câbles." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.468Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tous résilients face aux risques :  développer les bons réflexes]]></title>
-        <id>https://www.gouvernement.fr/actualite/tous-resilients-face-aux-risques-une-journee-pour-apprendre-les-bons-reflexes</id>
-        <link href="https://www.gouvernement.fr/actualite/tous-resilients-face-aux-risques-une-journee-pour-apprendre-les-bons-reflexes"/>
-        <updated>2023-10-15T17:38:31.622Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2e5047c9-e1c3-42c1-ad7d-3aab3cfd8f5c">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/tous-resilients-face-aux-risques-une-journee-pour-apprendre-les-bons-reflexes" class="fr-card__link" target="_self">
-                            Tous résilients face aux risques :  développer les bons réflexes 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5b3c0d2ab420f397da1208a8b30168614ed2deab.jpg" alt="Des camions de pompiers protègent des maisons contre un incendie." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.470Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le 9 octobre 1981, la peine de mort est abolie en France]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-9-octobre-1981-la-peine-de-mort-est-abolie-en-france</id>
-        <link href="https://www.gouvernement.fr/actualite/le-9-octobre-1981-la-peine-de-mort-est-abolie-en-france"/>
-        <updated>2023-10-15T17:38:31.630Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5eb4ab0c-a5ab-48ce-9969-c9b8ff569130">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-9-octobre-1981-la-peine-de-mort-est-abolie-en-france" class="fr-card__link" target="_self">
-                            Le 9 octobre 1981, la peine de mort est abolie en France 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Justice
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 09/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ad73b210aa1f0d2b721c070747584c1c55db95cd.jpg" alt="Robert Badinter réclamant l'abolition de la peine de mort devant l'Assemblée nationale en 1981." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.470Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jeux paralympiques : ouverture de la billetterie]]></title>
-        <id>https://www.gouvernement.fr/actualite/jeux-paralympiques-ouverture-de-la-billetterie</id>
-        <link href="https://www.gouvernement.fr/actualite/jeux-paralympiques-ouverture-de-la-billetterie"/>
-        <updated>2023-10-15T17:38:31.632Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9549c0ea-8759-406a-8dc8-8ddae4a50d5e">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/jeux-paralympiques-ouverture-de-la-billetterie" class="fr-card__link" target="_self">
-                            Jeux paralympiques : ouverture de la billetterie 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sport
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 09/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/97347532830ca94d4bac01cd407c94546c7fefb5.jpg" alt="Un écran de téléphone portable montre l'écran d'accueil de la billetterie des Jeux." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.473Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aidants : les principales mesures de la stratégie 2023-2027]]></title>
-        <id>https://www.gouvernement.fr/actualite/aidants-les-principales-mesures-de-la-strategie-2023-2027</id>
-        <link href="https://www.gouvernement.fr/actualite/aidants-les-principales-mesures-de-la-strategie-2023-2027"/>
-        <updated>2023-10-15T17:38:31.633Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e6d73112-cf1f-4301-b5cf-fdb0143206e2">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/aidants-les-principales-mesures-de-la-strategie-2023-2027" class="fr-card__link" target="_self">
-                            Aidants : les principales mesures de la stratégie 2023-2027 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Handicap
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 09/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a38f2625ccb1873596d1275ca8c5cdde7e1cc99e.jpg" alt="Une personne tient les mains d'une personne plus âgée dans les siennes." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.475Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 2 au 8 octobre]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-2-au-8-octobre</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-2-au-8-octobre"/>
-        <updated>2023-10-15T17:38:31.634Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="05ef7be4-6334-471d-a734-771c3a67cf81">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-2-au-8-octobre" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 2 au 8 octobre 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 06/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5730663d303545981282df558becf1b30874baac.jpg" alt="Bandeau des 4 actus du 2 au 8 octobre." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-10-16T17:38:56.476Z</updated>
     </entry>
 </feed>
