@@ -4,442 +4,92 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 17:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 05:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Le prêt à taux zéro revu pour bénéficier à plus de ménages (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/le-pret-a-taux-zero-ameliore-pour-les-menages-les-plus-modestes</link>
-            <guid>https://www.gouvernement.fr/actualite/le-pret-a-taux-zero-ameliore-pour-les-menages-les-plus-modestes</guid>
-            <pubDate>Thu, 19 Oct 2023 17:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2e85053b-15b2-4e99-b680-6d681206a032" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-pret-a-taux-zero-ameliore-pour-les-menages-les-plus-modestes" class="fr-card__link" target="_self">
-                            Le prêt à taux zéro revu pour bénéficier à plus de ménages 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 19/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f4341f2d4636c87ab44e36a4b433ae7092564602.jpg" alt="Des immeubles neufs de quelques étages avec de la végétation." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[La French Tech fête ses 10 ans (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/la-french-tech-fete-ses-10-ans</link>
-            <guid>https://www.gouvernement.fr/actualite/la-french-tech-fete-ses-10-ans</guid>
-            <pubDate>Thu, 19 Oct 2023 17:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e27f7465-dce2-4feb-809e-89253dc6f511" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-french-tech-fete-ses-10-ans" class="fr-card__link" target="_self">
-                            La French Tech fête ses 10 ans 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 19/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/01342e9a5eb579eb46aadfffd56c537fedf6e465.jpg" alt="Logo des 10 ans de la French Tech." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alimentation scolaire : première réunion de la Coalition mondiale (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/insecurite-alimentaire-premiere-reunion-de-la-coalition-mondiale-pour-lalimentation-scolaire</link>
-            <guid>https://www.gouvernement.fr/actualite/insecurite-alimentaire-premiere-reunion-de-la-coalition-mondiale-pour-lalimentation-scolaire</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8145c815-45bf-476b-a8e0-fd6c3ee22f6c" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/insecurite-alimentaire-premiere-reunion-de-la-coalition-mondiale-pour-lalimentation-scolaire" class="fr-card__link" target="_self">
-                            Alimentation scolaire : première réunion de la Coalition mondiale 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 18/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/84a276b5fd642e0149ea8b686ac49bd98266ffbf.jpg" alt="Des mains d'enfants au-dessus d'un plateau de cantine." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dépasser les frontières avec le mentorat (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/depasser-les-frontieres-avec-le-mentorat</link>
-            <guid>https://www.gouvernement.fr/actualite/depasser-les-frontieres-avec-le-mentorat</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1b4c077e-daa0-4d01-aefd-ad1ece0b5a7b" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/depasser-les-frontieres-avec-le-mentorat" class="fr-card__link" target="_self">
-                            Dépasser les frontières avec le mentorat 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Travail
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 18/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/25a6e3926fa976913a5ddfafa222cf942f003de5.jpg" alt="Un jeune homme et une femme adulte discutent en prenant un café." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Une campagne pour mieux trier ses déchets (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/une-campagne-pour-mieux-trier-ses-dechets</link>
-            <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-mieux-trier-ses-dechets</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="06232308-df37-4d67-9368-ecfc2a10f0c8" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-campagne-pour-mieux-trier-ses-dechets" class="fr-card__link" target="_self">
-                            Une campagne pour mieux trier ses déchets 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 18/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9d4402d480359d77b2737b5b7fd0d80deef29887.jpg" alt="Identifiant visuel d'« Info-tri »" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Une campagne pour promouvoir la sobriété énergétique (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique</link>
-            <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed84bf26-b730-45e9-b2bd-48c85d661ad2" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique" class="fr-card__link" target="_self">
-                            Une campagne pour promouvoir la sobriété énergétique 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 18/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6c4b8dfce3486d00333583c0e063a0470ea1322e.jpg" alt="Logo de la campagne Chaque geste compte" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grippe saisonnière : lancement de la campagne de vaccination (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/grippe-saisonniere-lancement-de-la-campagne-de-vaccination</link>
-            <guid>https://www.gouvernement.fr/actualite/grippe-saisonniere-lancement-de-la-campagne-de-vaccination</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17dfb0e4-9335-4a88-89b6-59de62c0928a" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/grippe-saisonniere-lancement-de-la-campagne-de-vaccination" class="fr-card__link" target="_self">
-                            Grippe saisonnière : lancement de la campagne de vaccination 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Santé
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 17/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/89cbcf72111c970ae3f5fb18123c08e45e45acce.jpg" alt="Une personne en train de se faire vacciner" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conférence sociale : ce qu'il faut retenir (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/conference-sociale-des-mesures-pour-que-le-travail-paie-mieux</link>
-            <guid>https://www.gouvernement.fr/actualite/conference-sociale-des-mesures-pour-que-le-travail-paie-mieux</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="72dddc4a-4d2d-4844-a83d-b2c79b33c5f0" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/conference-sociale-des-mesures-pour-que-le-travail-paie-mieux" class="fr-card__link" target="_self">
-                            Conférence sociale : ce qu'il faut retenir 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 16/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/aef1e31b1364a2a5a8c36156cff18215a2c05812.gif" alt="Élisabeth Borne en plein discours lors de la conférence sociale du 16 octobre 2023" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Une campagne pour l'accès aux droits des femmes en ruralité (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/une-campagne-pour-lacces-aux-droits-des-femmes-en-milieu-rural</link>
-            <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-lacces-aux-droits-des-femmes-en-milieu-rural</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="eb082a9f-ae98-4c2f-b53a-80ff1ced3ca0" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-campagne-pour-lacces-aux-droits-des-femmes-en-milieu-rural" class="fr-card__link" target="_self">
-                            Une campagne pour l'accès aux droits des femmes en ruralité 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 16/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c321929ae94389babb9380447a9fe14c12fe2d6e.jpg" alt="Photo illustrant un village en France." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Un temps d'échange et de recueillement dans les écoles (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/un-temps-dechange-et-de-recueillement-dans-les-etablissements-scolaires</link>
-            <guid>https://www.gouvernement.fr/actualite/un-temps-dechange-et-de-recueillement-dans-les-etablissements-scolaires</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4926ac39-d80c-4dc9-b577-c706cc8810a6" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-temps-dechange-et-de-recueillement-dans-les-etablissements-scolaires" class="fr-card__link" target="_self">
-                            Un temps d'échange et de recueillement dans les écoles 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 16/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6dc1e57d94219512a8755b60bd04c095ccfa85cf.jpg" alt="Salle de classe." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Logement : un simulateur pour connaître la zone de votre commune (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/logement-un-simulateur-pour-connaitre-la-zone-de-votre-commune-a-b-c</link>
-            <guid>https://www.gouvernement.fr/actualite/logement-un-simulateur-pour-connaitre-la-zone-de-votre-commune-a-b-c</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d75e296f-a23f-4bc0-a24d-480e62feed4c" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/logement-un-simulateur-pour-connaitre-la-zone-de-votre-commune-a-b-c" class="fr-card__link" target="_self">
-                            Logement : un simulateur pour connaître la zone de votre commune 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Aménagement du territoire
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 16/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/bfae02ee94931d708555d11faaee02a0ea2567b1.jpg" alt="Vue aérienne du 12e arrondissement de Paris" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Discours de la Première ministre : remise du Prix Samuel Paty (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/discours-de-la-premiere-ministre-remise-du-prix-samuel-paty</link>
-            <guid>https://www.gouvernement.fr/actualite/discours-de-la-premiere-ministre-remise-du-prix-samuel-paty</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="010a8104-cad2-429b-8618-6d335586dce0" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/discours-de-la-premiere-ministre-remise-du-prix-samuel-paty" class="fr-card__link" target="_self">
-                            Discours de la Première ministre : remise du Prix Samuel Paty 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Défense
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 14/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/139ca7c87cee3ad4f3036a8b1575820e4790bb52.gif" alt="La Première ministre pendant son discours de remise du Prix Samuel Paty." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plan Vigipirate : niveau urgence attentat déclaré (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/plan-vigipirate-niveau-urgence-attentat-declare</link>
-            <guid>https://www.gouvernement.fr/actualite/plan-vigipirate-niveau-urgence-attentat-declare</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a4f9a91b-d9e6-4997-9fcc-7206cf9d0150" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/plan-vigipirate-niveau-urgence-attentat-declare" class="fr-card__link" target="_self">
-                            Plan Vigipirate : niveau urgence attentat déclaré 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sécurité
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 13/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d4a3204cc4c7abfb256f7f4b2d4d8bb547e8442d.gif" alt="Logo Vigipirate urgence attentat." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Le budget vert 2024 en hausse de 7 milliards d’euros (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/le-budget-vert-2024-en-hausse-de-7-milliards-deuros</link>
-            <guid>https://www.gouvernement.fr/actualite/le-budget-vert-2024-en-hausse-de-7-milliards-deuros</guid>
-            <pubDate>Wed, 18 Oct 2023 17:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4f6fc998-c156-4af3-9988-2740932ea1bd" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-budget-vert-2024-en-hausse-de-7-milliards-deuros" class="fr-card__link" target="_self">
-                            Le budget vert 2024 en hausse de 7 milliards d’euros 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Institutions
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 13/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/27a293384f78b17d5ef9d50bb786ea5ab71f4a55.jpg" alt="Les volcans du Puy de Dome" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Fri, 20 Oct 2023 05:38:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will wind and solar become the leading power sources in the EU in 2023? (Blog - Electricity Maps)]]></title>
