@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-10-25T17:39:18.233Z</updated>
+    <updated>2023-10-26T05:38:58.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.gouvernement.fr/actualite/harcelement-un-questionnaire-pour-donner-la-parole-aux-eleves</id>
         <link href="https://www.gouvernement.fr/actualite/harcelement-un-questionnaire-pour-donner-la-parole-aux-eleves"/>
         <updated>2023-10-25T17:39:01.243Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8d3265a4-f442-4fbb-a3ee-9b4c9c921770" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8d3265a4-f442-4fbb-a3ee-9b4c9c921770">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -41,7 +41,7 @@
         <id>https://www.gouvernement.fr/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique</id>
         <link href="https://www.gouvernement.fr/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique"/>
         <updated>2023-10-25T17:39:01.243Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed84bf26-b730-45e9-b2bd-48c85d661ad2" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed84bf26-b730-45e9-b2bd-48c85d661ad2">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -72,7 +72,7 @@
         <id>https://www.gouvernement.fr/actualite/apprentissage-l-etat-aux-cotes-des-jeunes</id>
         <link href="https://www.gouvernement.fr/actualite/apprentissage-l-etat-aux-cotes-des-jeunes"/>
         <updated>2023-10-25T17:39:01.249Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bdc311e3-be84-47fc-b330-f0197d3c3c15" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bdc311e3-be84-47fc-b330-f0197d3c3c15">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -103,7 +103,7 @@
         <id>https://www.gouvernement.fr/actualite/une-plateforme-en-ligne-pour-signaler-les-problemes-de-reseaux</id>
         <link href="https://www.gouvernement.fr/actualite/une-plateforme-en-ligne-pour-signaler-les-problemes-de-reseaux"/>
         <updated>2023-10-25T17:39:01.250Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7161fa7b-f90f-4e5f-8024-3ab2b0e09ac8" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7161fa7b-f90f-4e5f-8024-3ab2b0e09ac8">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -134,7 +134,7 @@
         <id>https://www.gouvernement.fr/actualite/un-cybermoi-s-pour-promouvoir-la-cybersecurite</id>
         <link href="https://www.gouvernement.fr/actualite/un-cybermoi-s-pour-promouvoir-la-cybersecurite"/>
         <updated>2023-10-25T17:39:01.250Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8c3b29c6-5dd1-4a7b-809c-305994204628" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8c3b29c6-5dd1-4a7b-809c-305994204628">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -165,7 +165,7 @@
         <id>https://www.gouvernement.fr/actualite/hausse-et-elargissement-du-bonus-reparation</id>
         <link href="https://www.gouvernement.fr/actualite/hausse-et-elargissement-du-bonus-reparation"/>
         <updated>2023-10-25T17:39:01.253Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1d9d929e-1522-4a0e-9c23-e6fc8c993222" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1d9d929e-1522-4a0e-9c23-e6fc8c993222">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -196,7 +196,7 @@
         <id>https://www.gouvernement.fr/actualite/mission-nature-un-jeu-de-grattage-consacre-a-la-biodiversite</id>
         <link href="https://www.gouvernement.fr/actualite/mission-nature-un-jeu-de-grattage-consacre-a-la-biodiversite"/>
         <updated>2023-10-25T17:39:01.255Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8066e70c-c64c-4d8a-93e1-2db0f3a30008" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8066e70c-c64c-4d8a-93e1-2db0f3a30008">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -227,7 +227,7 @@
         <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-octobre</id>
         <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-octobre"/>
         <updated>2023-10-25T17:39:01.259Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2dcf8dbf-f4dd-468c-9abd-d19e2313e140" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2dcf8dbf-f4dd-468c-9abd-d19e2313e140">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -258,7 +258,7 @@
         <id>https://www.gouvernement.fr/actualite/ouverture-des-inscriptions-pour-le-mois-sans-tabac</id>
         <link href="https://www.gouvernement.fr/actualite/ouverture-des-inscriptions-pour-le-mois-sans-tabac"/>
         <updated>2023-10-25T17:39:01.265Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="317bd704-4948-4a2b-a5eb-cf9fd1a0ceb1" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="317bd704-4948-4a2b-a5eb-cf9fd1a0ceb1">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -289,7 +289,7 @@
         <id>https://www.gouvernement.fr/actualite/le-pret-a-taux-zero-ameliore-pour-les-menages-les-plus-modestes</id>
         <link href="https://www.gouvernement.fr/actualite/le-pret-a-taux-zero-ameliore-pour-les-menages-les-plus-modestes"/>
         <updated>2023-10-25T17:39:01.269Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2e85053b-15b2-4e99-b680-6d681206a032" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2e85053b-15b2-4e99-b680-6d681206a032">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -320,7 +320,7 @@
         <id>https://www.gouvernement.fr/actualite/la-french-tech-fete-ses-10-ans</id>
         <link href="https://www.gouvernement.fr/actualite/la-french-tech-fete-ses-10-ans"/>
         <updated>2023-10-25T17:39:01.272Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e27f7465-dce2-4feb-809e-89253dc6f511" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e27f7465-dce2-4feb-809e-89253dc6f511">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -351,7 +351,7 @@
         <id>https://www.gouvernement.fr/actualite/insecurite-alimentaire-premiere-reunion-de-la-coalition-mondiale-pour-lalimentation-scolaire</id>
         <link href="https://www.gouvernement.fr/actualite/insecurite-alimentaire-premiere-reunion-de-la-coalition-mondiale-pour-lalimentation-scolaire"/>
         <updated>2023-10-25T17:39:01.277Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8145c815-45bf-476b-a8e0-fd6c3ee22f6c" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8145c815-45bf-476b-a8e0-fd6c3ee22f6c">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -382,7 +382,7 @@
         <id>https://www.gouvernement.fr/actualite/depasser-les-frontieres-avec-le-mentorat</id>
         <link href="https://www.gouvernement.fr/actualite/depasser-les-frontieres-avec-le-mentorat"/>
         <updated>2023-10-25T17:39:01.285Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1b4c077e-daa0-4d01-aefd-ad1ece0b5a7b" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1b4c077e-daa0-4d01-aefd-ad1ece0b5a7b">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -413,7 +413,7 @@
         <id>https://www.gouvernement.fr/actualite/une-campagne-pour-mieux-trier-ses-dechets</id>
         <link href="https://www.gouvernement.fr/actualite/une-campagne-pour-mieux-trier-ses-dechets"/>
         <updated>2023-10-25T17:39:01.285Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="06232308-df37-4d67-9368-ecfc2a10f0c8" data-fr-js-card-actionee="true">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="06232308-df37-4d67-9368-ecfc2a10f0c8">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
