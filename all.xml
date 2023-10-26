@@ -4,15 +4,77 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 05:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 17:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[France services pour plus de proximité avec les services publics (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/une-campagne-pour-les-services-publics-de-proximite</link>
+            <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-les-services-publics-de-proximite</guid>
+            <pubDate>Thu, 26 Oct 2023 17:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8b00a4e5-3b19-4e8d-963e-09db2b84cd40" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-campagne-pour-les-services-publics-de-proximite" class="fr-card__link" target="_self">
+                            France services pour plus de proximité avec les services publics 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 26/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f7fab4cd55f6e13fe5d26f6b73d7ddbdf2200581.jpg" alt="Une photo prise au sein d'une maison France services." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Déjà 75 000 secouristes en santé mentale formés en France (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/deja-75-000-secouristes-en-sante-mentale-formes-en-france</link>
+            <guid>https://www.gouvernement.fr/actualite/deja-75-000-secouristes-en-sante-mentale-formes-en-france</guid>
+            <pubDate>Thu, 26 Oct 2023 17:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="03fb28a4-819e-4f6b-8dd8-a9a6ae416b1d" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/deja-75-000-secouristes-en-sante-mentale-formes-en-france" class="fr-card__link" target="_self">
+                            Déjà 75 000 secouristes en santé mentale formés en France 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 26/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f89478605b9bfa5c5de96a3968f081882f375655.jpg" alt="Deux personnes se tiennent la main amicalement." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Harcèlement : un questionnaire pour donner la parole aux élèves (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/harcelement-un-questionnaire-pour-donner-la-parole-aux-eleves</link>
             <guid>https://www.gouvernement.fr/actualite/harcelement-un-questionnaire-pour-donner-la-parole-aux-eleves</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8d3265a4-f442-4fbb-a3ee-9b4c9c921770">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8d3265a4-f442-4fbb-a3ee-9b4c9c921770" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -43,7 +105,7 @@
             <link>https://www.gouvernement.fr/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique</link>
             <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed84bf26-b730-45e9-b2bd-48c85d661ad2">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed84bf26-b730-45e9-b2bd-48c85d661ad2" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -74,7 +136,7 @@
             <link>https://www.gouvernement.fr/actualite/apprentissage-l-etat-aux-cotes-des-jeunes</link>
             <guid>https://www.gouvernement.fr/actualite/apprentissage-l-etat-aux-cotes-des-jeunes</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bdc311e3-be84-47fc-b330-f0197d3c3c15">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bdc311e3-be84-47fc-b330-f0197d3c3c15" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -105,7 +167,7 @@
             <link>https://www.gouvernement.fr/actualite/une-plateforme-en-ligne-pour-signaler-les-problemes-de-reseaux</link>
             <guid>https://www.gouvernement.fr/actualite/une-plateforme-en-ligne-pour-signaler-les-problemes-de-reseaux</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7161fa7b-f90f-4e5f-8024-3ab2b0e09ac8">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7161fa7b-f90f-4e5f-8024-3ab2b0e09ac8" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -136,7 +198,7 @@
             <link>https://www.gouvernement.fr/actualite/un-cybermoi-s-pour-promouvoir-la-cybersecurite</link>
             <guid>https://www.gouvernement.fr/actualite/un-cybermoi-s-pour-promouvoir-la-cybersecurite</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8c3b29c6-5dd1-4a7b-809c-305994204628">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8c3b29c6-5dd1-4a7b-809c-305994204628" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -167,7 +229,7 @@
             <link>https://www.gouvernement.fr/actualite/hausse-et-elargissement-du-bonus-reparation</link>
             <guid>https://www.gouvernement.fr/actualite/hausse-et-elargissement-du-bonus-reparation</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1d9d929e-1522-4a0e-9c23-e6fc8c993222">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1d9d929e-1522-4a0e-9c23-e6fc8c993222" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -198,7 +260,7 @@
             <link>https://www.gouvernement.fr/actualite/mission-nature-un-jeu-de-grattage-consacre-a-la-biodiversite</link>
             <guid>https://www.gouvernement.fr/actualite/mission-nature-un-jeu-de-grattage-consacre-a-la-biodiversite</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8066e70c-c64c-4d8a-93e1-2db0f3a30008">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8066e70c-c64c-4d8a-93e1-2db0f3a30008" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -229,7 +291,7 @@
             <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-octobre</link>
             <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-octobre</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2dcf8dbf-f4dd-468c-9abd-d19e2313e140">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2dcf8dbf-f4dd-468c-9abd-d19e2313e140" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -260,7 +322,7 @@
             <link>https://www.gouvernement.fr/actualite/ouverture-des-inscriptions-pour-le-mois-sans-tabac</link>
             <guid>https://www.gouvernement.fr/actualite/ouverture-des-inscriptions-pour-le-mois-sans-tabac</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="317bd704-4948-4a2b-a5eb-cf9fd1a0ceb1">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="317bd704-4948-4a2b-a5eb-cf9fd1a0ceb1" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -291,7 +353,7 @@
             <link>https://www.gouvernement.fr/actualite/le-pret-a-taux-zero-ameliore-pour-les-menages-les-plus-modestes</link>
             <guid>https://www.gouvernement.fr/actualite/le-pret-a-taux-zero-ameliore-pour-les-menages-les-plus-modestes</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2e85053b-15b2-4e99-b680-6d681206a032">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2e85053b-15b2-4e99-b680-6d681206a032" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -322,7 +384,7 @@
             <link>https://www.gouvernement.fr/actualite/la-french-tech-fete-ses-10-ans</link>
             <guid>https://www.gouvernement.fr/actualite/la-french-tech-fete-ses-10-ans</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e27f7465-dce2-4feb-809e-89253dc6f511">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e27f7465-dce2-4feb-809e-89253dc6f511" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -353,7 +415,7 @@
             <link>https://www.gouvernement.fr/actualite/insecurite-alimentaire-premiere-reunion-de-la-coalition-mondiale-pour-lalimentation-scolaire</link>
             <guid>https://www.gouvernement.fr/actualite/insecurite-alimentaire-premiere-reunion-de-la-coalition-mondiale-pour-lalimentation-scolaire</guid>
             <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8145c815-45bf-476b-a8e0-fd6c3ee22f6c">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8145c815-45bf-476b-a8e0-fd6c3ee22f6c" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -375,68 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/84a276b5fd642e0149ea8b686ac49bd98266ffbf.jpg" alt="Des mains d'enfants au-dessus d'un plateau de cantine." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dépasser les frontières avec le mentorat (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/depasser-les-frontieres-avec-le-mentorat</link>
-            <guid>https://www.gouvernement.fr/actualite/depasser-les-frontieres-avec-le-mentorat</guid>
-            <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1b4c077e-daa0-4d01-aefd-ad1ece0b5a7b">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/depasser-les-frontieres-avec-le-mentorat" class="fr-card__link" target="_self">
-                            Dépasser les frontières avec le mentorat 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Travail
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 18/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/25a6e3926fa976913a5ddfafa222cf942f003de5.jpg" alt="Un jeune homme et une femme adulte discutent en prenant une boisson." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Une campagne pour mieux trier ses déchets (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/une-campagne-pour-mieux-trier-ses-dechets</link>
-            <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-mieux-trier-ses-dechets</guid>
-            <pubDate>Wed, 25 Oct 2023 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="06232308-df37-4d67-9368-ecfc2a10f0c8">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-campagne-pour-mieux-trier-ses-dechets" class="fr-card__link" target="_self">
-                            Une campagne pour mieux trier ses déchets 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 18/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9d4402d480359d77b2737b5b7fd0d80deef29887.jpg" alt="Identifiant visuel d'« Info-tri »" data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
