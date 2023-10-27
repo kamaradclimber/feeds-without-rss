@@ -2,91 +2,441 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-10-27T05:38:57.030Z</updated>
+    <updated>2023-10-27T17:39:23.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[La France rayonne par son agriculture et sa gastronomie]]></title>
+        <id>https://www.gouvernement.fr/actualite/agriculture-et-gastronomie-a-la-francaise</id>
+        <link href="https://www.gouvernement.fr/actualite/agriculture-et-gastronomie-a-la-francaise"/>
+        <updated>2023-10-27T17:39:07.844Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6a572658-ebb7-45f3-948c-d134dac11e23" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/agriculture-et-gastronomie-a-la-francaise" class="fr-card__link" target="_self">
+                            La France rayonne par son agriculture et sa gastronomie 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/34bfd14f181764f9480142e99c141b7d68452c26.jpg" alt="Tables de restaurant en France." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La France, toujours première destination touristique au monde]]></title>
+        <id>https://www.gouvernement.fr/actualite/la-france-toujours-premiere-destination-touristique-au-monde</id>
+        <link href="https://www.gouvernement.fr/actualite/la-france-toujours-premiere-destination-touristique-au-monde"/>
+        <updated>2023-10-27T17:39:07.847Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="89d6f1c1-0026-4887-b08d-99bd49ee8612" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-france-toujours-premiere-destination-touristique-au-monde" class="fr-card__link" target="_self">
+                            La France, toujours première destination touristique au monde 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/cf428c160ebc04fa779f6811b6da72845bab59f0.jpg" alt="Paris la nuit" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La French Tech au cœur du monde]]></title>
+        <id>https://www.gouvernement.fr/actualite/la-french-tech-au-coeur-du-monde</id>
+        <link href="https://www.gouvernement.fr/actualite/la-french-tech-au-coeur-du-monde"/>
+        <updated>2023-10-27T17:39:07.849Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="058cf6a9-e7cc-4f77-85d8-ad2e97c6cbaa" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-french-tech-au-coeur-du-monde" class="fr-card__link" target="_self">
+                            La French Tech au cœur du monde 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6a20d34b442966ad5693099da544ba4d3867ab88.jpg" alt="Visuel illustrant le domaine de la Tech." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La France, terre d’accueil pour les investissements internationaux]]></title>
+        <id>https://www.gouvernement.fr/actualite/la-france-terre-daccueil-pour-les-investissements-internationaux</id>
+        <link href="https://www.gouvernement.fr/actualite/la-france-terre-daccueil-pour-les-investissements-internationaux"/>
+        <updated>2023-10-27T17:39:07.858Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9aefc684-8fa3-46f4-a798-87a4c7f58cef" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-france-terre-daccueil-pour-les-investissements-internationaux" class="fr-card__link" target="_self">
+                            La France, terre d’accueil pour les investissements internationaux 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/27beb887bf04761be55fc07a58811c14da3c8a33.jpg" alt="Le quartier de La Défense à Paris." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Les 4 actus de la semaine du 23 au 29 octobre]]></title>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-23-au-29-octobre</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-23-au-29-octobre"/>
+        <updated>2023-10-27T17:39:07.868Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e4d075b5-eb9e-429c-8c4a-b89932316cca" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-23-au-29-octobre" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 23 au 29 octobre 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4b525c9e97fcf272932f11b6551bbc2bab4441dc.jpg" alt="Visuel des quatre actualités de la semaine_23 au 29 octobre 2023" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Les mesures du Gouvernement pour répondre aux violences urbaines]]></title>
+        <id>https://www.gouvernement.fr/actualite/presentation-des-mesures-du-gouvernement-pour-repondre-aux-violences-urbaines</id>
+        <link href="https://www.gouvernement.fr/actualite/presentation-des-mesures-du-gouvernement-pour-repondre-aux-violences-urbaines"/>
+        <updated>2023-10-27T17:39:07.874Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="032d89a6-1f46-4fb7-9925-966515c1b293" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/presentation-des-mesures-du-gouvernement-pour-repondre-aux-violences-urbaines" class="fr-card__link" target="_self">
+                            Les mesures du Gouvernement pour répondre aux violences urbaines 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Aménagement du territoire
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3ff4183bfd46b9b1bdcd2b0eb50e250f55d408d1.jpg" alt="Présentation des mesures du Gouvernement pour répondre aux violences urbaines" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[France services pour plus de proximité avec les services publics]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.780Z</updated>
+        <id>https://www.gouvernement.fr/actualite/une-campagne-pour-les-services-publics-de-proximite</id>
+        <link href="https://www.gouvernement.fr/actualite/une-campagne-pour-les-services-publics-de-proximite"/>
+        <updated>2023-10-27T17:39:07.878Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8b00a4e5-3b19-4e8d-963e-09db2b84cd40" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-campagne-pour-les-services-publics-de-proximite" class="fr-card__link" target="_self">
+                            France services pour plus de proximité avec les services publics 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 26/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f7fab4cd55f6e13fe5d26f6b73d7ddbdf2200581.jpg" alt="Une photo prise au sein d'une maison France services." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Déjà 75 000 secouristes en santé mentale formés en France]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.782Z</updated>
+        <id>https://www.gouvernement.fr/actualite/deja-75-000-secouristes-en-sante-mentale-formes-en-france</id>
+        <link href="https://www.gouvernement.fr/actualite/deja-75-000-secouristes-en-sante-mentale-formes-en-france"/>
+        <updated>2023-10-27T17:39:07.881Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="03fb28a4-819e-4f6b-8dd8-a9a6ae416b1d" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/deja-75-000-secouristes-en-sante-mentale-formes-en-france" class="fr-card__link" target="_self">
+                            Déjà 75 000 secouristes en santé mentale formés en France 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 26/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f89478605b9bfa5c5de96a3968f081882f375655.jpg" alt="Deux personnes se tiennent la main amicalement." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Harcèlement : un questionnaire pour donner la parole aux élèves]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.784Z</updated>
+        <id>https://www.gouvernement.fr/actualite/harcelement-un-questionnaire-pour-donner-la-parole-aux-eleves</id>
+        <link href="https://www.gouvernement.fr/actualite/harcelement-un-questionnaire-pour-donner-la-parole-aux-eleves"/>
+        <updated>2023-10-27T17:39:07.884Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8d3265a4-f442-4fbb-a3ee-9b4c9c921770" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/harcelement-un-questionnaire-pour-donner-la-parole-aux-eleves" class="fr-card__link" target="_self">
+                            Harcèlement : un questionnaire pour donner la parole aux élèves 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 25/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/96fe81fec6c37573456ce7a379e71c7707e542af.jpg" alt="Un adolescent dans une salle de classe est penché en train d'écrire." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Une campagne pour promouvoir la sobriété énergétique]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.785Z</updated>
+        <id>https://www.gouvernement.fr/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique</id>
+        <link href="https://www.gouvernement.fr/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique"/>
+        <updated>2023-10-27T17:39:07.887Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed84bf26-b730-45e9-b2bd-48c85d661ad2" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-campagne-pour-promouvoir-la-sobriete-energetique" class="fr-card__link" target="_self">
+                            Une campagne pour promouvoir la sobriété énergétique 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 25/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6c4b8dfce3486d00333583c0e063a0470ea1322e.jpg" alt="Visuel de la campagne Chaque geste compte" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apprentissage : l’État aux côtés des jeunes]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.786Z</updated>
+        <id>https://www.gouvernement.fr/actualite/apprentissage-l-etat-aux-cotes-des-jeunes</id>
+        <link href="https://www.gouvernement.fr/actualite/apprentissage-l-etat-aux-cotes-des-jeunes"/>
+        <updated>2023-10-27T17:39:07.891Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bdc311e3-be84-47fc-b330-f0197d3c3c15" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/apprentissage-l-etat-aux-cotes-des-jeunes" class="fr-card__link" target="_self">
+                            Apprentissage : l’État aux côtés des jeunes 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Travail
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/189f4770d47e61a3892189be3a2c93fec5a7ca93.jpg" alt="Trois jeunes gens regardent des affichettes sur un mur avec un air concentré." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Une plateforme en ligne pour signaler les problèmes de réseaux]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.786Z</updated>
+        <id>https://www.gouvernement.fr/actualite/une-plateforme-en-ligne-pour-signaler-les-problemes-de-reseaux</id>
+        <link href="https://www.gouvernement.fr/actualite/une-plateforme-en-ligne-pour-signaler-les-problemes-de-reseaux"/>
+        <updated>2023-10-27T17:39:07.903Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7161fa7b-f90f-4e5f-8024-3ab2b0e09ac8" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-plateforme-en-ligne-pour-signaler-les-problemes-de-reseaux" class="fr-card__link" target="_self">
+                            Une plateforme en ligne pour signaler les problèmes de réseaux 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Recherche &amp; Innovation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ad00b633d580eb36f570d31907d8b589af6827db.jpg" alt="Femme tapant sur un ordinateur portable." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Un Cybermoi/s pour promouvoir la cybersécurité]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.895Z</updated>
+        <id>https://www.gouvernement.fr/actualite/un-cybermoi-s-pour-promouvoir-la-cybersecurite</id>
+        <link href="https://www.gouvernement.fr/actualite/un-cybermoi-s-pour-promouvoir-la-cybersecurite"/>
+        <updated>2023-10-27T17:39:07.903Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8c3b29c6-5dd1-4a7b-809c-305994204628" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/un-cybermoi-s-pour-promouvoir-la-cybersecurite" class="fr-card__link" target="_self">
+                            Un Cybermoi/s pour promouvoir la cybersécurité 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/2382486d1a9c2f554a3560b6c5bcfa23e7c4b3e1.jpg" alt="Le logo du CyberMoi/S montrant deux visages stylisés et les mots Cyber Mois." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hausse et élargissement du bonus réparation]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.896Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mission nature : un jeu de grattage consacré à la biodiversité]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.904Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 16 au 22 octobre]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.905Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ouverture des inscriptions pour le Mois sans tabac]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.905Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le prêt à taux zéro revu pour bénéficier à plus de ménages]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.906Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La French Tech fête ses 10 ans]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.907Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alimentation scolaire : première réunion de la Coalition mondiale]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-10-27T05:38:46.908Z</updated>
+        <id>https://www.gouvernement.fr/actualite/hausse-et-elargissement-du-bonus-reparation</id>
+        <link href="https://www.gouvernement.fr/actualite/hausse-et-elargissement-du-bonus-reparation"/>
+        <updated>2023-10-27T17:39:07.905Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1d9d929e-1522-4a0e-9c23-e6fc8c993222" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/hausse-et-elargissement-du-bonus-reparation" class="fr-card__link" target="_self">
+                            Hausse et élargissement du bonus réparation 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/b9cacad390d690a68caf3ebdd905b9c5c708a2df.jpg" alt="Gros plan du hublot et du tambour d'un lave-linge." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
 </feed>
