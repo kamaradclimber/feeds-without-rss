@@ -4,92 +4,442 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 17:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[Ce qui change au 1er novembre 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-novembre-2023</link>
+            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-novembre-2023</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a78d1e7c-07c2-4545-9c4b-43bc03017abc" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/ce-qui-change-au-1er-novembre-2023" class="fr-card__link" target="_self">
+                            Ce qui change au 1er novembre 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d57009437e757a064df3f11695781ecae0df8df5.jpg" alt="Vignette Ce qui change au 1er novembre" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[200 millions d'euros supplémentaires pour les bornes de recharge (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/acceleration-du-deploiement-des-bornes-de-recharge-electriques</link>
+            <guid>https://www.gouvernement.fr/actualite/acceleration-du-deploiement-des-bornes-de-recharge-electriques</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="985c1bb7-6f20-4e56-9530-eebcb274c79d" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/acceleration-du-deploiement-des-bornes-de-recharge-electriques" class="fr-card__link" target="_self">
+                            200 millions d'euros supplémentaires pour les bornes de recharge 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/53bf3614c44d2b72f7927ca4d26c2a9ae3369e80.jpg" alt="Une personne recharge son véhicule." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[La Cité internationale de la langue française ouvre ses portes (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/cite-internationale-de-la-langue-francaise</link>
+            <guid>https://www.gouvernement.fr/actualite/cite-internationale-de-la-langue-francaise</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="62829eb2-3908-464d-89cf-4ae5fa209ce1" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/cite-internationale-de-la-langue-francaise" class="fr-card__link" target="_self">
+                            La Cité internationale de la langue française ouvre ses portes 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Culture
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c247dd3d1ab975e4d7f8b04acd65c37c03a6ffdc.jpg" alt="Bâtiment de la Cité internationale de la langue française" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[La marque France veut promouvoir l'audace à la française (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-marque-france-pour-promouvoir-lesprit-dentreprise-et-de-creation-francais</link>
+            <guid>https://www.gouvernement.fr/actualite/la-marque-france-pour-promouvoir-lesprit-dentreprise-et-de-creation-francais</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="111ed160-f747-4210-b043-4f5e4d936443" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-marque-france-pour-promouvoir-lesprit-dentreprise-et-de-creation-francais" class="fr-card__link" target="_self">
+                            La marque France veut promouvoir l'audace à la française 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/8baff774f474245e83b8ef86097e238ceec2ed97.jpg" alt="Visuel « Choose France »" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[Un train du futur léger et autonome (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/railenium-un-institut-francais-sur-le-train-du-futur</link>
+            <guid>https://www.gouvernement.fr/actualite/railenium-un-institut-francais-sur-le-train-du-futur</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8c3b2e8-de6c-468b-85ec-6d0000c8dee2" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/railenium-un-institut-francais-sur-le-train-du-futur" class="fr-card__link" target="_self">
+                            Un train du futur léger et autonome 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 30/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c6fec3b0d759b3ca00312b423c3402be127c3a50.jpg" alt="Train du futur selon Railenium." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[France 2030 : des projets innovants sur tout le territoire (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/france-2030-des-projets-innovants-sur-tout-le-territoire</link>
+            <guid>https://www.gouvernement.fr/actualite/france-2030-des-projets-innovants-sur-tout-le-territoire</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="127a4b18-0e93-4fce-bfcf-5d5114bac54f" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/france-2030-des-projets-innovants-sur-tout-le-territoire" class="fr-card__link" target="_self">
+                            France 2030 : des projets innovants sur tout le territoire 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 30/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/16e83d3b084a7e05caa0288676dcabf7987efe24.jpg" alt="Visuel de France 2030." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[Les principales mesures du Comité interministériel des villes (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-principales-mesures-du-comite-interministeriel-des-villes</link>
+            <guid>https://www.gouvernement.fr/actualite/les-principales-mesures-du-comite-interministeriel-des-villes</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2e521e34-83b2-4fc5-ad9e-ce324cc7107b" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-principales-mesures-du-comite-interministeriel-des-villes" class="fr-card__link" target="_self">
+                            Les principales mesures du Comité interministériel des villes 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Aménagement du territoire
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4c2cca655a4b21dd7e88ca8d1024426150684ad6.jpg" alt="la réunion du Comité interministériel des villes." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[La France rayonne par son agriculture et sa gastronomie (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/agriculture-et-gastronomie-a-la-francaise</link>
+            <guid>https://www.gouvernement.fr/actualite/agriculture-et-gastronomie-a-la-francaise</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6a572658-ebb7-45f3-948c-d134dac11e23" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/agriculture-et-gastronomie-a-la-francaise" class="fr-card__link" target="_self">
+                            La France rayonne par son agriculture et sa gastronomie 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/34bfd14f181764f9480142e99c141b7d68452c26.jpg" alt="Tables de restaurant en France." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[La France, toujours première destination touristique au monde (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-france-toujours-premiere-destination-touristique-au-monde</link>
+            <guid>https://www.gouvernement.fr/actualite/la-france-toujours-premiere-destination-touristique-au-monde</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="89d6f1c1-0026-4887-b08d-99bd49ee8612" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-france-toujours-premiere-destination-touristique-au-monde" class="fr-card__link" target="_self">
+                            La France, toujours première destination touristique au monde 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/cf428c160ebc04fa779f6811b6da72845bab59f0.jpg" alt="Paris la nuit" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[La French Tech au cœur du monde (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-french-tech-au-coeur-du-monde</link>
+            <guid>https://www.gouvernement.fr/actualite/la-french-tech-au-coeur-du-monde</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="058cf6a9-e7cc-4f77-85d8-ad2e97c6cbaa" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-french-tech-au-coeur-du-monde" class="fr-card__link" target="_self">
+                            La French Tech au cœur du monde 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6a20d34b442966ad5693099da544ba4d3867ab88.jpg" alt="Visuel illustrant le domaine de la Tech." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[La France, terre d’accueil pour les investissements internationaux (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-france-terre-daccueil-pour-les-investissements-internationaux</link>
+            <guid>https://www.gouvernement.fr/actualite/la-france-terre-daccueil-pour-les-investissements-internationaux</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9aefc684-8fa3-46f4-a798-87a4c7f58cef" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-france-terre-daccueil-pour-les-investissements-internationaux" class="fr-card__link" target="_self">
+                            La France, terre d’accueil pour les investissements internationaux 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/27beb887bf04761be55fc07a58811c14da3c8a33.jpg" alt="Le quartier de La Défense à Paris." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[Les 4 actus de la semaine du 23 au 29 octobre (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-23-au-29-octobre</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-23-au-29-octobre</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e4d075b5-eb9e-429c-8c4a-b89932316cca" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-23-au-29-octobre" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 23 au 29 octobre 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4b525c9e97fcf272932f11b6551bbc2bab4441dc.jpg" alt="Visuel des quatre actualités de la semaine_23 au 29 octobre 2023" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[Les mesures du Gouvernement pour répondre aux violences urbaines (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/presentation-des-mesures-du-gouvernement-pour-repondre-aux-violences-urbaines</link>
+            <guid>https://www.gouvernement.fr/actualite/presentation-des-mesures-du-gouvernement-pour-repondre-aux-violences-urbaines</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="032d89a6-1f46-4fb7-9925-966515c1b293" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/presentation-des-mesures-du-gouvernement-pour-repondre-aux-violences-urbaines" class="fr-card__link" target="_self">
+                            Les mesures du Gouvernement pour répondre aux violences urbaines 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Aménagement du territoire
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3ff4183bfd46b9b1bdcd2b0eb50e250f55d408d1.jpg" alt="Présentation des mesures du Gouvernement pour répondre aux violences urbaines" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Tue, 31 Oct 2023 05:38:39 GMT</pubDate>
+            <title><![CDATA[France services pour plus de proximité avec les services publics (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/une-campagne-pour-les-services-publics-de-proximite</link>
+            <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-les-services-publics-de-proximite</guid>
+            <pubDate>Tue, 31 Oct 2023 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8b00a4e5-3b19-4e8d-963e-09db2b84cd40" data-fr-js-card-actionee="true">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-campagne-pour-les-services-publics-de-proximite" class="fr-card__link" target="_self">
+                            France services pour plus de proximité avec les services publics 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 26/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f7fab4cd55f6e13fe5d26f6b73d7ddbdf2200581.jpg" alt="Une photo prise au sein d'une maison France services." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Will wind and solar become the leading power sources in the EU in 2023? (Blog - Electricity Maps)]]></title>
