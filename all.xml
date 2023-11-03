@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 17:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 05:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,7 +22,7 @@
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
-                             Économie
+                             Handicap
                         </p>
                     </div>
                     <div class="fr-card__end">
@@ -33,7 +33,7 @@
                 </div>
             </div>
                             <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d2b4d9a28f02dfdd9896bad2a6e423558d23b8a7.jpg" alt="Un panneau bleu indiquant " accès="" pmr",="" un="" logo="" de="" personne="" en="" fauteuil="" roulant="" et="" une="" sonnette."="" data-fr-js-ratio="true">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d2b4d9a28f02dfdd9896bad2a6e423558d23b8a7.jpg" alt="Un panneau bleu indiquant l'accès PMR avec une représentation de personne en fauteuil roulant et une sonnette." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
