@@ -4,92 +4,442 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 05:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 17:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Premier sommet international dédié aux pôles et glaciers (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/one-planet-polar-summit-premier-sommet-international-dedie-aux-poles-et-glaciers</link>
+            <guid>https://www.gouvernement.fr/actualite/one-planet-polar-summit-premier-sommet-international-dedie-aux-poles-et-glaciers</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c96f12ba-a166-478f-9e64-effa93d27ccd">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/one-planet-polar-summit-premier-sommet-international-dedie-aux-poles-et-glaciers" class="fr-card__link" target="_self">
+                            Premier sommet international dédié aux pôles et glaciers 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f92b939fd18e477dd2f0d742788a4bbcde4d2405.jpg" alt="Un iceberg dans l'Antarctique." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Un site pour accompagner les usagers vers le très haut débit (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/un-site-pour-accompagner-les-usagers-vers-le-tres-haut-debit</link>
+            <guid>https://www.gouvernement.fr/actualite/un-site-pour-accompagner-les-usagers-vers-le-tres-haut-debit</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="dce3d5d7-70a7-4cb6-be83-5c0cf29bec5a">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/un-site-pour-accompagner-les-usagers-vers-le-tres-haut-debit" class="fr-card__link" target="_self">
+                            Un site pour accompagner les usagers vers le très haut débit 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Aménagement du territoire
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d74bca8ee4f611814991f7cfe61896dd24ac98bb.jpg" alt="Une femme sur sa tablette." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Une Marianne de l’avenir sur les nouveaux timbres (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/une-marianne-de-lavenir-sur-les-nouveaux-timbres</link>
+            <guid>https://www.gouvernement.fr/actualite/une-marianne-de-lavenir-sur-les-nouveaux-timbres</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a8431294-12cb-49ba-a80a-f16ac943b4f0">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-marianne-de-lavenir-sur-les-nouveaux-timbres" class="fr-card__link" target="_self">
+                            Une Marianne de l’avenir sur les nouveaux timbres 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 07/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/b35b1785c63b12e5d363c5b0a5fd9ab5695cfb66.jpg" alt="La nouvelle Marianne ornant les timbres des lettres vertes." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Justice : aider des mineurs en difficulté en devenant réserviste (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/justice-aider-les-mineurs-en-difficulte-en-devenant-reserviste</link>
+            <guid>https://www.gouvernement.fr/actualite/justice-aider-les-mineurs-en-difficulte-en-devenant-reserviste</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e0c96c9e-1498-41fc-b776-1d592c7723d3">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/justice-aider-les-mineurs-en-difficulte-en-devenant-reserviste" class="fr-card__link" target="_self">
+                            Justice : aider des mineurs en difficulté en devenant réserviste 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Justice
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 07/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6ad77c0151e76cbacb633e3e7b08b7776e7b7d7d.jpg" alt="Un visuel de la campagne pour devenir réserviste montrant un homme souriant en polo et veste, avec l'inscription " je="" fais="" de="" mon="" expérience="" un="" engagement"."="" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[« DuoDay 2023 » : une journée pour l'inclusion au travail (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/duoday-2023-une-journee-pour-linclusion-au-travail</link>
+            <guid>https://www.gouvernement.fr/actualite/duoday-2023-une-journee-pour-linclusion-au-travail</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9cfbee46-e6a3-4301-bfce-d693c8d89ce0">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/duoday-2023-une-journee-pour-linclusion-au-travail" class="fr-card__link" target="_self">
+                            « DuoDay 2023 » : une journée pour l'inclusion au travail 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Handicap
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 07/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/91a0ac23a5dd12d45592b4d5b8dd676199dc99e5.jpg" alt="Logo du Duoday 2023." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Un cabinet médical mobile pour lutter contre les déserts médicaux (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/un-cabinet-medical-mobile-sur-les-routes-du-perche</link>
+            <guid>https://www.gouvernement.fr/actualite/un-cabinet-medical-mobile-sur-les-routes-du-perche</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="71cc63a8-eace-4cf7-bb45-b70d319c9eb0">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/un-cabinet-medical-mobile-sur-les-routes-du-perche" class="fr-card__link" target="_self">
+                            Un cabinet médical mobile pour lutter contre les déserts médicaux 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/cc810ca9e5e28daa4ab33f72cfb3d37b57a42d28.jpg" alt="Le Médicobus" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Handicap : 300 millions d’euros pour une meilleure accessibilité (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/handicap-300-millions-deuros-pour-rendre-accessibles-les-etablissements-recevant-du-public</link>
+            <guid>https://www.gouvernement.fr/actualite/handicap-300-millions-deuros-pour-rendre-accessibles-les-etablissements-recevant-du-public</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8420c048-8a4f-40ae-9171-43ddb2d293b6">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/handicap-300-millions-deuros-pour-rendre-accessibles-les-etablissements-recevant-du-public" class="fr-card__link" target="_self">
+                            Handicap : 300 millions d’euros pour une meilleure accessibilité 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Handicap
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 02/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d2b4d9a28f02dfdd9896bad2a6e423558d23b8a7.jpg" alt="Un panneau bleu indiquant l'accès PMR avec une représentation de personne en fauteuil roulant et une sonnette." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Ce qui change au 1er novembre 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-novembre-2023</link>
+            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-novembre-2023</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a78d1e7c-07c2-4545-9c4b-43bc03017abc">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/ce-qui-change-au-1er-novembre-2023" class="fr-card__link" target="_self">
+                            Ce qui change au 1er novembre 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d57009437e757a064df3f11695781ecae0df8df5.jpg" alt="Vignette Ce qui change au 1er novembre" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[200 millions d'euros supplémentaires pour les bornes de recharge (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/acceleration-du-deploiement-des-bornes-de-recharge-electriques</link>
+            <guid>https://www.gouvernement.fr/actualite/acceleration-du-deploiement-des-bornes-de-recharge-electriques</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="985c1bb7-6f20-4e56-9530-eebcb274c79d">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/acceleration-du-deploiement-des-bornes-de-recharge-electriques" class="fr-card__link" target="_self">
+                            200 millions d'euros supplémentaires pour les bornes de recharge 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/53bf3614c44d2b72f7927ca4d26c2a9ae3369e80.jpg" alt="Une personne recharge son véhicule." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[La Cité internationale de la langue française ouvre ses portes (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/cite-internationale-de-la-langue-francaise</link>
+            <guid>https://www.gouvernement.fr/actualite/cite-internationale-de-la-langue-francaise</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="62829eb2-3908-464d-89cf-4ae5fa209ce1">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/cite-internationale-de-la-langue-francaise" class="fr-card__link" target="_self">
+                            La Cité internationale de la langue française ouvre ses portes 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Culture
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c247dd3d1ab975e4d7f8b04acd65c37c03a6ffdc.jpg" alt="Bâtiment de la Cité internationale de la langue française" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[La marque France veut promouvoir l'audace à la française (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-marque-france-pour-promouvoir-lesprit-dentreprise-et-de-creation-francais</link>
+            <guid>https://www.gouvernement.fr/actualite/la-marque-france-pour-promouvoir-lesprit-dentreprise-et-de-creation-francais</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="111ed160-f747-4210-b043-4f5e4d936443">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-marque-france-pour-promouvoir-lesprit-dentreprise-et-de-creation-francais" class="fr-card__link" target="_self">
+                            La marque France veut promouvoir l'audace à la française 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/8baff774f474245e83b8ef86097e238ceec2ed97.jpg" alt="Visuel « Choose France »" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Un train du futur léger et autonome (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/railenium-un-institut-francais-sur-le-train-du-futur</link>
+            <guid>https://www.gouvernement.fr/actualite/railenium-un-institut-francais-sur-le-train-du-futur</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8c3b2e8-de6c-468b-85ec-6d0000c8dee2">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/railenium-un-institut-francais-sur-le-train-du-futur" class="fr-card__link" target="_self">
+                            Un train du futur léger et autonome 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 30/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c6fec3b0d759b3ca00312b423c3402be127c3a50.jpg" alt="Train du futur selon Railenium." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[France 2030 : des projets innovants sur tout le territoire (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/france-2030-des-projets-innovants-sur-tout-le-territoire</link>
+            <guid>https://www.gouvernement.fr/actualite/france-2030-des-projets-innovants-sur-tout-le-territoire</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="127a4b18-0e93-4fce-bfcf-5d5114bac54f">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/france-2030-des-projets-innovants-sur-tout-le-territoire" class="fr-card__link" target="_self">
+                            France 2030 : des projets innovants sur tout le territoire 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 30/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/16e83d3b084a7e05caa0288676dcabf7987efe24.jpg" alt="Visuel de France 2030." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 08 Nov 2023 05:39:05 GMT</pubDate>
+            <title><![CDATA[Les principales mesures du Comité interministériel des villes (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-principales-mesures-du-comite-interministeriel-des-villes</link>
+            <guid>https://www.gouvernement.fr/actualite/les-principales-mesures-du-comite-interministeriel-des-villes</guid>
+            <pubDate>Wed, 08 Nov 2023 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2e521e34-83b2-4fc5-ad9e-ce324cc7107b">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-principales-mesures-du-comite-interministeriel-des-villes" class="fr-card__link" target="_self">
+                            Les principales mesures du Comité interministériel des villes 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Aménagement du territoire
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/10/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4c2cca655a4b21dd7e88ca8d1024426150684ad6.jpg" alt="la réunion du Comité interministériel des villes." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Will wind and solar become the leading power sources in the EU in 2023? (Blog - Electricity Maps)]]></title>
