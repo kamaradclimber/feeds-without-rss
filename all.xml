@@ -4,442 +4,92 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 17:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 05:39:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 6 au 12 novembre (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-6-au-12-novembre</link>
-            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-6-au-12-novembre</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f5aee353-1be5-4664-9495-9adab29f474c">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-6-au-12-novembre" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 6 au 12 novembre 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ce413dab7af6b99c96b52b32253c637f7d6a9a8d.jpg" alt="Vignette des quatre actus de la semaine du 6 au 12 novembre 2023." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[900 postes de surveillants pénitentiaires à pourvoir (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/900-nouveaux-postes-de-surveillants-penitentiaires-a-pourvoir</link>
-            <guid>https://www.gouvernement.fr/actualite/900-nouveaux-postes-de-surveillants-penitentiaires-a-pourvoir</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1924eb0f-ac5d-4750-a00e-44d5877166cb">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/900-nouveaux-postes-de-surveillants-penitentiaires-a-pourvoir" class="fr-card__link" target="_self">
-                            900 postes de surveillants pénitentiaires à pourvoir 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Justice
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/bff4e6ac342dd45da3f32a94005b0767ccc35517.jpg" alt="Un surveillant pénitentiaire" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Les inscriptions aux concours de greffier sont ouvertes (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-inscriptions-aux-concours-pour-devenir-greffier-sont-ouvertes</link>
-            <guid>https://www.gouvernement.fr/actualite/les-inscriptions-aux-concours-pour-devenir-greffier-sont-ouvertes</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d81a305d-715c-4f00-989a-50f548e8fde1">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-inscriptions-aux-concours-pour-devenir-greffier-sont-ouvertes" class="fr-card__link" target="_self">
-                            Les inscriptions aux concours de greffier sont ouvertes 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Justice
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4e00edd46cb04dd0a2b05a4a0696c42ea8d48788.jpg" alt="La balance, symbole de justice." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Une semaine pour découvrir les métiers du sport (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/une-semaine-pour-decouvrir-les-metiers-du-sport</link>
-            <guid>https://www.gouvernement.fr/actualite/une-semaine-pour-decouvrir-les-metiers-du-sport</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8fc277c5-0b78-4fb8-bd4b-434f8737ab67">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-semaine-pour-decouvrir-les-metiers-du-sport" class="fr-card__link" target="_self">
-                            Une semaine pour découvrir les métiers du sport 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9b9af3b5fb4b2fd1d52af7b1b691dd615005eeea.jpg" alt="Visuel de La semaine des métiers du sport avec le slogan « Vivre de sa passion du sport, c'est possible !  »" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harcèlement à l’école : ne pas minimiser ce que vivent les enfants (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/harcelement-a-lecole-ne-pas-minimiser-ce-que-vivent-les-enfants</link>
-            <guid>https://www.gouvernement.fr/actualite/harcelement-a-lecole-ne-pas-minimiser-ce-que-vivent-les-enfants</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="871b3ddc-876a-4a7c-a38d-13f7ba13243a">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/harcelement-a-lecole-ne-pas-minimiser-ce-que-vivent-les-enfants" class="fr-card__link" target="_self">
-                            Harcèlement à l’école : ne pas minimiser ce que vivent les enfants 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 09/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/197f8bd664fa4608a9e2368482e45c76f2c086ee.jpg" alt="Un enfant rempli la grille d'auto-évaluation sur le sujet du harcèlement à l'école" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Une soirée lecture pour les lycéens à Matignon (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/soirees-lecture-de-matignon</link>
-            <guid>https://www.gouvernement.fr/actualite/soirees-lecture-de-matignon</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e1a4be17-3ffd-48f3-957d-e251dacda954">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/soirees-lecture-de-matignon" class="fr-card__link" target="_self">
-                            Une soirée lecture pour les lycéens à Matignon 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Culture
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 09/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0394bd76429c22d463bac8c31b42de0e5225d64d.jpg" alt="La Première ministre à l'occasion d'une soirée lecture à Matignon." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Premier sommet international dédié aux pôles et glaciers (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/one-planet-polar-summit-premier-sommet-international-dedie-aux-poles-et-glaciers</link>
-            <guid>https://www.gouvernement.fr/actualite/one-planet-polar-summit-premier-sommet-international-dedie-aux-poles-et-glaciers</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c96f12ba-a166-478f-9e64-effa93d27ccd">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/one-planet-polar-summit-premier-sommet-international-dedie-aux-poles-et-glaciers" class="fr-card__link" target="_self">
-                            Premier sommet international dédié aux pôles et glaciers 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 08/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f92b939fd18e477dd2f0d742788a4bbcde4d2405.jpg" alt="Un iceberg dans l'Antarctique." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Un site pour accompagner les usagers vers le très haut débit (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/un-site-pour-accompagner-les-usagers-vers-le-tres-haut-debit</link>
-            <guid>https://www.gouvernement.fr/actualite/un-site-pour-accompagner-les-usagers-vers-le-tres-haut-debit</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="dce3d5d7-70a7-4cb6-be83-5c0cf29bec5a">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-site-pour-accompagner-les-usagers-vers-le-tres-haut-debit" class="fr-card__link" target="_self">
-                            Un site pour accompagner les usagers vers le très haut débit 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Aménagement du territoire
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 08/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d74bca8ee4f611814991f7cfe61896dd24ac98bb.jpg" alt="Une femme sur sa tablette." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Une Marianne de l’avenir sur les nouveaux timbres (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/une-marianne-de-lavenir-sur-les-nouveaux-timbres</link>
-            <guid>https://www.gouvernement.fr/actualite/une-marianne-de-lavenir-sur-les-nouveaux-timbres</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a8431294-12cb-49ba-a80a-f16ac943b4f0">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-marianne-de-lavenir-sur-les-nouveaux-timbres" class="fr-card__link" target="_self">
-                            Une Marianne de l’avenir sur les nouveaux timbres 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 07/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/b35b1785c63b12e5d363c5b0a5fd9ab5695cfb66.jpg" alt="La nouvelle Marianne ornant les timbres des lettres vertes." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Justice : aider des mineurs en difficulté en devenant réserviste (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/justice-aider-les-mineurs-en-difficulte-en-devenant-reserviste</link>
-            <guid>https://www.gouvernement.fr/actualite/justice-aider-les-mineurs-en-difficulte-en-devenant-reserviste</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e0c96c9e-1498-41fc-b776-1d592c7723d3">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/justice-aider-les-mineurs-en-difficulte-en-devenant-reserviste" class="fr-card__link" target="_self">
-                            Justice : aider des mineurs en difficulté en devenant réserviste 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Justice
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 07/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6ad77c0151e76cbacb633e3e7b08b7776e7b7d7d.jpg" alt="Un visuel de la campagne pour devenir réserviste montrant un homme souriant en polo et veste, avec l'inscription " je="" fais="" de="" mon="" expérience="" un="" engagement"."="" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[« DuoDay 2023 » : une journée pour l'inclusion au travail (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/duoday-2023-une-journee-pour-linclusion-au-travail</link>
-            <guid>https://www.gouvernement.fr/actualite/duoday-2023-une-journee-pour-linclusion-au-travail</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9cfbee46-e6a3-4301-bfce-d693c8d89ce0">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/duoday-2023-une-journee-pour-linclusion-au-travail" class="fr-card__link" target="_self">
-                            « DuoDay 2023 » : une journée pour l'inclusion au travail 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Handicap
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 07/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/91a0ac23a5dd12d45592b4d5b8dd676199dc99e5.jpg" alt="Logo du Duoday 2023." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Un cabinet médical mobile pour lutter contre les déserts médicaux (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/un-cabinet-medical-mobile-sur-les-routes-du-perche</link>
-            <guid>https://www.gouvernement.fr/actualite/un-cabinet-medical-mobile-sur-les-routes-du-perche</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="71cc63a8-eace-4cf7-bb45-b70d319c9eb0">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-cabinet-medical-mobile-sur-les-routes-du-perche" class="fr-card__link" target="_self">
-                            Un cabinet médical mobile pour lutter contre les déserts médicaux 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Santé
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 06/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/cc810ca9e5e28daa4ab33f72cfb3d37b57a42d28.jpg" alt="Le Médicobus" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handicap : 300 millions d’euros pour une meilleure accessibilité (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/handicap-300-millions-deuros-pour-rendre-accessibles-les-etablissements-recevant-du-public</link>
-            <guid>https://www.gouvernement.fr/actualite/handicap-300-millions-deuros-pour-rendre-accessibles-les-etablissements-recevant-du-public</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8420c048-8a4f-40ae-9171-43ddb2d293b6">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/handicap-300-millions-deuros-pour-rendre-accessibles-les-etablissements-recevant-du-public" class="fr-card__link" target="_self">
-                            Handicap : 300 millions d’euros pour une meilleure accessibilité 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Handicap
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 02/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d2b4d9a28f02dfdd9896bad2a6e423558d23b8a7.jpg" alt="Un panneau bleu indiquant l'accès PMR avec une représentation de personne en fauteuil roulant et une sonnette." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ce qui change au 1er novembre 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-novembre-2023</link>
-            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-novembre-2023</guid>
-            <pubDate>Fri, 10 Nov 2023 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a78d1e7c-07c2-4545-9c4b-43bc03017abc">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ce-qui-change-au-1er-novembre-2023" class="fr-card__link" target="_self">
-                            Ce qui change au 1er novembre 2023 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 31/10/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d57009437e757a064df3f11695781ecae0df8df5.jpg" alt="Vignette Ce qui change au 1er novembre" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Sat, 11 Nov 2023 05:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will wind and solar become the leading power sources in the EU in 2023? (Blog - Electricity Maps)]]></title>
