@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-11-11T17:39:38.778Z</updated>
+    <updated>2023-11-12T05:39:18.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
@@ -14,9 +14,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-6-au-12-novembre" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 6 au 12 novembre 
-                        </a>
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-6-au-12-novembre" class="fr-card__link" target="_self">Les 4 actus de la semaine du 6 au 12 novembre</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -30,10 +28,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ce413dab7af6b99c96b52b32253c637f7d6a9a8d.jpg" alt="Vignette des quatre actus de la semaine du 6 au 12 novembre 2023." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/ce413dab7af6b99c96b52b32253c637f7d6a9a8d.jpg" alt="Vignette des quatre actus de la semaine du 6 au 12 novembre 2023." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -45,9 +44,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/900-nouveaux-postes-de-surveillants-penitentiaires-a-pourvoir" class="fr-card__link" target="_self">
-                            900 postes de surveillants pénitentiaires à pourvoir 
-                        </a>
+                        <a href="/actualite/900-nouveaux-postes-de-surveillants-penitentiaires-a-pourvoir" class="fr-card__link" target="_self">900 postes de surveillants pénitentiaires à pourvoir</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -61,10 +58,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/bff4e6ac342dd45da3f32a94005b0767ccc35517.jpg" alt="Un surveillant pénitentiaire" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/bff4e6ac342dd45da3f32a94005b0767ccc35517.jpg" alt="Un surveillant pénitentiaire" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -76,9 +74,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-inscriptions-aux-concours-pour-devenir-greffier-sont-ouvertes" class="fr-card__link" target="_self">
-                            Les inscriptions aux concours de greffier sont ouvertes 
-                        </a>
+                        <a href="/actualite/les-inscriptions-aux-concours-pour-devenir-greffier-sont-ouvertes" class="fr-card__link" target="_self">Les inscriptions aux concours de greffier sont ouvertes</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -92,10 +88,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4e00edd46cb04dd0a2b05a4a0696c42ea8d48788.jpg" alt="La balance, symbole de justice." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/4e00edd46cb04dd0a2b05a4a0696c42ea8d48788.jpg" alt="La balance, symbole de justice." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -107,9 +104,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-semaine-pour-decouvrir-les-metiers-du-sport" class="fr-card__link" target="_self">
-                            Une semaine pour découvrir les métiers du sport 
-                        </a>
+                        <a href="/actualite/une-semaine-pour-decouvrir-les-metiers-du-sport" class="fr-card__link" target="_self">Une semaine pour découvrir les métiers du sport</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -123,10 +118,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9b9af3b5fb4b2fd1d52af7b1b691dd615005eeea.jpg" alt="Visuel de La semaine des métiers du sport avec le slogan « Vivre de sa passion du sport, c'est possible !  »" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/9b9af3b5fb4b2fd1d52af7b1b691dd615005eeea.jpg" alt="Visuel de La semaine des métiers du sport avec le slogan « Vivre de sa passion du sport, c'est possible !  »" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -138,9 +134,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/harcelement-a-lecole-ne-pas-minimiser-ce-que-vivent-les-enfants" class="fr-card__link" target="_self">
-                            Harcèlement à l’école : ne pas minimiser ce que vivent les enfants 
-                        </a>
+                        <a href="/actualite/harcelement-a-lecole-ne-pas-minimiser-ce-que-vivent-les-enfants" class="fr-card__link" target="_self">Harcèlement à l’école : ne pas minimiser ce que vivent les enfants</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -154,10 +148,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/197f8bd664fa4608a9e2368482e45c76f2c086ee.jpg" alt="Un enfant rempli la grille d'auto-évaluation sur le sujet du harcèlement à l'école" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/197f8bd664fa4608a9e2368482e45c76f2c086ee.jpg" alt="Un enfant rempli la grille d'auto-évaluation sur le sujet du harcèlement à l'école" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -169,9 +164,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/soirees-lecture-de-matignon" class="fr-card__link" target="_self">
-                            Une soirée lecture pour les lycéens à Matignon 
-                        </a>
+                        <a href="/actualite/soirees-lecture-de-matignon" class="fr-card__link" target="_self">Une soirée lecture pour les lycéens à Matignon</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -185,10 +178,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0394bd76429c22d463bac8c31b42de0e5225d64d.jpg" alt="La Première ministre à l'occasion d'une soirée lecture à Matignon." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/0394bd76429c22d463bac8c31b42de0e5225d64d.jpg" alt="La Première ministre à l'occasion d'une soirée lecture à Matignon." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -200,9 +194,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/one-planet-polar-summit-premier-sommet-international-dedie-aux-poles-et-glaciers" class="fr-card__link" target="_self">
-                            Premier sommet international dédié aux pôles et glaciers 
-                        </a>
+                        <a href="/actualite/one-planet-polar-summit-premier-sommet-international-dedie-aux-poles-et-glaciers" class="fr-card__link" target="_self">Premier sommet international dédié aux pôles et glaciers</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -216,10 +208,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f92b939fd18e477dd2f0d742788a4bbcde4d2405.jpg" alt="Un iceberg dans l'Antarctique." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/f92b939fd18e477dd2f0d742788a4bbcde4d2405.jpg" alt="Un iceberg dans l'Antarctique." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -231,9 +224,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-site-pour-accompagner-les-usagers-vers-le-tres-haut-debit" class="fr-card__link" target="_self">
-                            Un site pour accompagner les usagers vers le très haut débit 
-                        </a>
+                        <a href="/actualite/un-site-pour-accompagner-les-usagers-vers-le-tres-haut-debit" class="fr-card__link" target="_self">Un site pour accompagner les usagers vers le très haut débit</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -247,10 +238,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d74bca8ee4f611814991f7cfe61896dd24ac98bb.jpg" alt="Une femme sur sa tablette." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/d74bca8ee4f611814991f7cfe61896dd24ac98bb.jpg" alt="Une femme sur sa tablette." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -262,9 +254,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-marianne-de-lavenir-sur-les-nouveaux-timbres" class="fr-card__link" target="_self">
-                            Une Marianne de l’avenir sur les nouveaux timbres 
-                        </a>
+                        <a href="/actualite/une-marianne-de-lavenir-sur-les-nouveaux-timbres" class="fr-card__link" target="_self">Une Marianne de l’avenir sur les nouveaux timbres</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -278,10 +268,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/b35b1785c63b12e5d363c5b0a5fd9ab5695cfb66.jpg" alt="La nouvelle Marianne ornant les timbres des lettres vertes." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/b35b1785c63b12e5d363c5b0a5fd9ab5695cfb66.jpg" alt="La nouvelle Marianne ornant les timbres des lettres vertes." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -293,9 +284,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/justice-aider-les-mineurs-en-difficulte-en-devenant-reserviste" class="fr-card__link" target="_self">
-                            Justice : aider des mineurs en difficulté en devenant réserviste 
-                        </a>
+                        <a href="/actualite/justice-aider-les-mineurs-en-difficulte-en-devenant-reserviste" class="fr-card__link" target="_self">Justice : aider des mineurs en difficulté en devenant réserviste</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -309,10 +298,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6ad77c0151e76cbacb633e3e7b08b7776e7b7d7d.jpg" alt="Un visuel de la campagne pour devenir réserviste montrant un homme souriant en polo et veste, avec l'inscription " je="" fais="" de="" mon="" expérience="" un="" engagement"."="" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/6ad77c0151e76cbacb633e3e7b08b7776e7b7d7d.jpg" alt="Un visuel de la campagne pour devenir réserviste montrant un homme souriant en polo et veste, avec l'inscription " je="" fais="" de="" mon="" expérience="" un="" engagement"."="" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -324,9 +314,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/duoday-2023-une-journee-pour-linclusion-au-travail" class="fr-card__link" target="_self">
-                            « DuoDay 2023 » : une journée pour l'inclusion au travail 
-                        </a>
+                        <a href="/actualite/duoday-2023-une-journee-pour-linclusion-au-travail" class="fr-card__link" target="_self">« DuoDay 2023 » : une journée pour l'inclusion au travail</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -340,10 +328,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/91a0ac23a5dd12d45592b4d5b8dd676199dc99e5.jpg" alt="Logo du Duoday 2023." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/91a0ac23a5dd12d45592b4d5b8dd676199dc99e5.jpg" alt="Logo du Duoday 2023." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -355,9 +344,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-cabinet-medical-mobile-sur-les-routes-du-perche" class="fr-card__link" target="_self">
-                            Un cabinet médical mobile pour lutter contre les déserts médicaux 
-                        </a>
+                        <a href="/actualite/un-cabinet-medical-mobile-sur-les-routes-du-perche" class="fr-card__link" target="_self">Un cabinet médical mobile pour lutter contre les déserts médicaux</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -371,10 +358,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/cc810ca9e5e28daa4ab33f72cfb3d37b57a42d28.jpg" alt="Le Médicobus" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/cc810ca9e5e28daa4ab33f72cfb3d37b57a42d28.jpg" alt="Le Médicobus" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -386,9 +374,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/handicap-300-millions-deuros-pour-rendre-accessibles-les-etablissements-recevant-du-public" class="fr-card__link" target="_self">
-                            Handicap : 300 millions d’euros pour une meilleure accessibilité 
-                        </a>
+                        <a href="/actualite/handicap-300-millions-deuros-pour-rendre-accessibles-les-etablissements-recevant-du-public" class="fr-card__link" target="_self">Handicap : 300 millions d’euros pour une meilleure accessibilité</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -402,10 +388,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d2b4d9a28f02dfdd9896bad2a6e423558d23b8a7.jpg" alt="Un panneau bleu indiquant l'accès PMR avec une représentation de personne en fauteuil roulant et une sonnette." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/d2b4d9a28f02dfdd9896bad2a6e423558d23b8a7.jpg" alt="Un panneau bleu indiquant l'accès PMR avec une représentation de personne en fauteuil roulant et une sonnette." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
     <entry>
@@ -417,9 +404,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ce-qui-change-au-1er-novembre-2023" class="fr-card__link" target="_self">
-                            Ce qui change au 1er novembre 2023 
-                        </a>
+                        <a href="/actualite/ce-qui-change-au-1er-novembre-2023" class="fr-card__link" target="_self">Ce qui change au 1er novembre 2023</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -433,10 +418,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d57009437e757a064df3f11695781ecae0df8df5.jpg" alt="Vignette Ce qui change au 1er novembre" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/d57009437e757a064df3f11695781ecae0df8df5.jpg" alt="Vignette Ce qui change au 1er novembre" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content>
     </entry>
 </feed>
