@@ -2,9 +2,195 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-11-17T05:38:46.334Z</updated>
+    <updated>2023-11-17T17:38:42.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Les 4 actus de la semaine du 13 au 19 novembre]]></title>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-13-au-19-novembre</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-13-au-19-novembre"/>
+        <updated>2023-11-17T17:38:34.333Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1e42dc2e-c76c-479d-9fbe-1889cacf79d1">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-13-au-19-novembre" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 13 au 19 novembre 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 17/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/26910317807b418aea449859a6f33f7b620f72d4.jpg" alt="Vignette des 4 actus de la semaine du 13 au 19 novembre 2023" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[81 mesures pour les troubles du neurodéveloppement]]></title>
+        <id>https://www.gouvernement.fr/actualite/81-mesures-pour-les-troubles-du-neurodeveloppement</id>
+        <link href="https://www.gouvernement.fr/actualite/81-mesures-pour-les-troubles-du-neurodeveloppement"/>
+        <updated>2023-11-17T17:38:34.333Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8b27c049-79f7-4b7c-9978-ca93bdd40048">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/81-mesures-pour-les-troubles-du-neurodeveloppement" class="fr-card__link" target="_self">
+                            81 mesures pour les troubles du neurodéveloppement 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 17/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/92d54e8e8193d5301c7d112fa5b33a40b30ee6e8.jpg" alt="Une soignante avec un enfant" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La feuille de route du Gouvernement pour le logement]]></title>
+        <id>https://www.gouvernement.fr/actualite/la-feuille-de-route-du-gouvernement-sur-le-logement</id>
+        <link href="https://www.gouvernement.fr/actualite/la-feuille-de-route-du-gouvernement-sur-le-logement"/>
+        <updated>2023-11-17T17:38:34.335Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="66523ea6-2776-4ee8-bf2f-547a39a67797">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-feuille-de-route-du-gouvernement-sur-le-logement" class="fr-card__link" target="_self">
+                            La feuille de route du Gouvernement pour le logement 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 17/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/22aea050c78c0ba25a0d7b55fb058c22d37aae5a.jpg" alt="Élisabeth Borne présente la feuille de route du Gouvernement pour le logement." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Des brigades citoyennes SNU pour aider face aux intempéries]]></title>
+        <id>https://www.gouvernement.fr/actualite/des-brigades-citoyennes-snu</id>
+        <link href="https://www.gouvernement.fr/actualite/des-brigades-citoyennes-snu"/>
+        <updated>2023-11-17T17:38:34.335Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5ad90df3-0bbc-45cf-a729-b4796f50bbf5">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/des-brigades-citoyennes-snu" class="fr-card__link" target="_self">
+                            Des brigades citoyennes SNU pour aider face aux intempéries 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 17/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f835713e9a49c6783d3055ccb494bd2ff7ba9638.jpg" alt="Des jeunes du Service national universel" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Une « gigafactory » pour développer des batteries bas-carbone]]></title>
+        <id>https://www.gouvernement.fr/actualite/une-gigafactory-pour-developper-des-batteries-bas-carbone</id>
+        <link href="https://www.gouvernement.fr/actualite/une-gigafactory-pour-developper-des-batteries-bas-carbone"/>
+        <updated>2023-11-17T17:38:34.336Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4b862562-2016-4f66-85ca-2c1a89a25345">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-gigafactory-pour-developper-des-batteries-bas-carbone" class="fr-card__link" target="_self">
+                            Une « gigafactory » pour développer des batteries bas-carbone 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 17/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0a285bfe3eb264ef191b4689e854baf373268192.jpg" alt="La Première ministre et la ministre de la Transition énergétique" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le Gouvernement se mobilise face aux inondations]]></title>
+        <id>https://www.gouvernement.fr/actualite/le-gouvernement-se-mobilise-face-aux-inondations</id>
+        <link href="https://www.gouvernement.fr/actualite/le-gouvernement-se-mobilise-face-aux-inondations"/>
+        <updated>2023-11-17T17:38:34.337Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3933ddcc-4a54-42f0-91b0-5c270e7b1def">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-gouvernement-se-mobilise-face-aux-inondations" class="fr-card__link" target="_self">
+                            Le Gouvernement se mobilise face aux inondations 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 17/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9241c0d003ca9f6f0999bd5116a4f7d4b7d72551.jpg" alt="Scène d'inondation dans les Hauts-de-France" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Débroussailler dès l'automne pour prévenir les feux de l’été 2024]]></title>
         <id>https://www.gouvernement.fr/actualite/debroussailler-des-lautomne-pour-pr%C3%A9venir-les-feux-de-lete-2024</id>
@@ -249,192 +435,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ba39cdf1335aab868be0ca80c5f8a256b33c43cf.jpg" alt="Des écrans montrant des cartes météorologiques regardées par un spécialiste." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un programme pour des routes plus écologiques]]></title>
-        <id>https://www.gouvernement.fr/actualite/un-programme-pour-des-routesp-plus-ecologiques</id>
-        <link href="https://www.gouvernement.fr/actualite/un-programme-pour-des-routesp-plus-ecologiques"/>
-        <updated>2023-11-15T17:38:40.941Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9f46acd9-1d1d-42b5-8b31-ab26aac27326">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/un-programme-pour-des-routesp-plus-ecologiques" class="fr-card__link" target="_self">
-                            Un programme pour des routes plus écologiques 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Transport
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 13/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/e1da2e9c85b2a91d365c7c88fb239c4d1c560266.jpg" alt="Une route avec une vue sur des montagnes." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 6 au 12 novembre]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-6-au-12-novembre</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-6-au-12-novembre"/>
-        <updated>2023-11-15T17:38:40.943Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f5aee353-1be5-4664-9495-9adab29f474c">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-6-au-12-novembre" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 6 au 12 novembre 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ce413dab7af6b99c96b52b32253c637f7d6a9a8d.jpg" alt="Vignette des quatre actus de la semaine du 6 au 12 novembre 2023." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[900 postes de surveillants pénitentiaires à pourvoir]]></title>
-        <id>https://www.gouvernement.fr/actualite/900-nouveaux-postes-de-surveillants-penitentiaires-a-pourvoir</id>
-        <link href="https://www.gouvernement.fr/actualite/900-nouveaux-postes-de-surveillants-penitentiaires-a-pourvoir"/>
-        <updated>2023-11-15T17:38:40.945Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1924eb0f-ac5d-4750-a00e-44d5877166cb">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/900-nouveaux-postes-de-surveillants-penitentiaires-a-pourvoir" class="fr-card__link" target="_self">
-                            900 postes de surveillants pénitentiaires à pourvoir 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Justice
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/bff4e6ac342dd45da3f32a94005b0767ccc35517.jpg" alt="Un surveillant pénitentiaire" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les inscriptions aux concours de greffier sont ouvertes]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-inscriptions-aux-concours-pour-devenir-greffier-sont-ouvertes</id>
-        <link href="https://www.gouvernement.fr/actualite/les-inscriptions-aux-concours-pour-devenir-greffier-sont-ouvertes"/>
-        <updated>2023-11-15T17:38:40.948Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d81a305d-715c-4f00-989a-50f548e8fde1">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-inscriptions-aux-concours-pour-devenir-greffier-sont-ouvertes" class="fr-card__link" target="_self">
-                            Les inscriptions aux concours de greffier sont ouvertes 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Justice
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4e00edd46cb04dd0a2b05a4a0696c42ea8d48788.jpg" alt="La balance, symbole de justice." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Une semaine pour découvrir les métiers du sport]]></title>
-        <id>https://www.gouvernement.fr/actualite/une-semaine-pour-decouvrir-les-metiers-du-sport</id>
-        <link href="https://www.gouvernement.fr/actualite/une-semaine-pour-decouvrir-les-metiers-du-sport"/>
-        <updated>2023-11-15T17:38:40.952Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8fc277c5-0b78-4fb8-bd4b-434f8737ab67">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-semaine-pour-decouvrir-les-metiers-du-sport" class="fr-card__link" target="_self">
-                            Une semaine pour découvrir les métiers du sport 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9b9af3b5fb4b2fd1d52af7b1b691dd615005eeea.jpg" alt="Visuel de La semaine des métiers du sport avec le slogan « Vivre de sa passion du sport, c'est possible !  »" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harcèlement à l’école : ne pas minimiser ce que vivent les enfants]]></title>
-        <id>https://www.gouvernement.fr/actualite/harcelement-a-lecole-ne-pas-minimiser-ce-que-vivent-les-enfants</id>
-        <link href="https://www.gouvernement.fr/actualite/harcelement-a-lecole-ne-pas-minimiser-ce-que-vivent-les-enfants"/>
-        <updated>2023-11-17T05:38:37.206Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="871b3ddc-876a-4a7c-a38d-13f7ba13243a">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/harcelement-a-lecole-ne-pas-minimiser-ce-que-vivent-les-enfants" class="fr-card__link" target="_self">
-                            Harcèlement à l’école : ne pas minimiser ce que vivent les enfants 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 09/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/197f8bd664fa4608a9e2368482e45c76f2c086ee.jpg" alt="Un enfant rempli la grille d'auto-évaluation sur le sujet du harcèlement à l'école" data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
