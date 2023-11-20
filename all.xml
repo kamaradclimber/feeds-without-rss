@@ -4,9 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 05:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 17:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Le plan 2023-2027 contre les violences faites aux enfants (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/plan-2023-2027-contre-les-violences-faites-aux-enfants-22-actions-pour-agir</link>
+            <guid>https://www.gouvernement.fr/actualite/plan-2023-2027-contre-les-violences-faites-aux-enfants-22-actions-pour-agir</guid>
+            <pubDate>Mon, 20 Nov 2023 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b3e3020a-e512-49a8-b02c-34d25ff1cb29">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/plan-2023-2027-contre-les-violences-faites-aux-enfants-22-actions-pour-agir" class="fr-card__link" target="_self">
+                            Le plan 2023-2027 contre les violences faites aux enfants 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Affaires sociales
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 20/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4e88fbe154c5eb89f0ffa36a4646fe48feb9db43.jpg" alt="Une petite fille cachée derrière un rideau regarde par la fenêtre." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 13 au 19 novembre (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-13-au-19-novembre</link>
@@ -406,37 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ba33a3dfdc03157b3fb6060c7256afc0b088d0a3.jpg" alt="Un plan large d'une usine française." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Météo France rend gratuite la réutilisation des données publiques (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/meteo-france-la-reutilisation-des-donnees-publiques-devient-gratuite</link>
-            <guid>https://www.gouvernement.fr/actualite/meteo-france-la-reutilisation-des-donnees-publiques-devient-gratuite</guid>
-            <pubDate>Wed, 15 Nov 2023 17:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5dac45a1-3edf-4ec1-bc85-f0c5ceae8e15">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/meteo-france-la-reutilisation-des-donnees-publiques-devient-gratuite" class="fr-card__link" target="_self">
-                            Météo France rend gratuite la réutilisation des données publiques 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 13/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ba39cdf1335aab868be0ca80c5f8a256b33c43cf.jpg" alt="Des écrans montrant des cartes météorologiques regardées par un spécialiste." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
