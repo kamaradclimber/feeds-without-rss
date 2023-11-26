@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-11-26T05:38:16.597Z</updated>
+    <updated>2023-11-26T17:38:49.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
@@ -410,10 +410,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Le plan 2023-2027 contre les violences faites aux enfants]]></title>
-        <id>https://www.gouvernement.fr/actualite/plan-2023-2027-contre-les-violences-faites-aux-enfants-22-actions-pour-agir</id>
-        <link href="https://www.gouvernement.fr/actualite/plan-2023-2027-contre-les-violences-faites-aux-enfants-22-actions-pour-agir"/>
-        <updated>2023-11-24T05:38:21.183Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b3e3020a-e512-49a8-b02c-34d25ff1cb29">
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-26T17:38:40.808Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b3e3020a-e512-49a8-b02c-34d25ff1cb29" data-fr-js-card-actionee="true">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
