@@ -2,441 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-11-26T17:38:49.006Z</updated>
+    <updated>2023-11-27T05:38:56.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Des territoires plus attractifs : 4 projets soutenus par l'UE]]></title>
-        <id>https://www.gouvernement.fr/actualite/des-territoires-plus-attractifs-zoom-sur-4-projets-soutenus-par-lunion-europeenne</id>
-        <link href="https://www.gouvernement.fr/actualite/des-territoires-plus-attractifs-zoom-sur-4-projets-soutenus-par-lunion-europeenne"/>
-        <updated>2023-11-24T17:38:19.329Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ef56d95c-f3fe-402b-b6b9-1b3f8bb923bf">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/des-territoires-plus-attractifs-zoom-sur-4-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
-                            Des territoires plus attractifs : 4 projets soutenus par l'UE 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d09e3703e1728d443244bf29ec8541066b0530d6.jpg" alt="Photo du drapeau de l'union européenne." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France - USA : love story, success story]]></title>
-        <id>https://www.gouvernement.fr/actualite/france-usa-love-story-success-story</id>
-        <link href="https://www.gouvernement.fr/actualite/france-usa-love-story-success-story"/>
-        <updated>2023-11-24T17:38:19.329Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a71ed4b7-5896-4bda-8ebb-9fd14f49b518">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/france-usa-love-story-success-story" class="fr-card__link" target="_self">
-                            France - USA : love story, success story 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/084d38463b330857ee27794667b489550e55a78d.jpg" alt="Corinne Leboucher ( à gauche) et Colombia Barrosse (à droite)." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Santé et bien-être : focus sur 3 projets soutenus par l’UE]]></title>
-        <id>https://www.gouvernement.fr/actualite/sante-et-bien-etre-focus-sur-3-projets-soutenus-par-lunion-europeenne</id>
-        <link href="https://www.gouvernement.fr/actualite/sante-et-bien-etre-focus-sur-3-projets-soutenus-par-lunion-europeenne"/>
-        <updated>2023-11-24T17:38:19.330Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0c50cd28-a869-470b-ab84-e1ddc0c1ba96">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/sante-et-bien-etre-focus-sur-3-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
-                            Santé et bien-être : focus sur 3 projets soutenus par l’UE 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/2b27371b30901a200d33a25794900874d0b5861e.jpg" alt="Photo illustrant une machine d'IRM." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plus de nature en ville : focus sur 3 projets soutenus par l’UE]]></title>
-        <id>https://www.gouvernement.fr/actualite/plus-de-nature-en-ville-focus-sur-3-projets-soutenus-par-lunion-europeenne</id>
-        <link href="https://www.gouvernement.fr/actualite/plus-de-nature-en-ville-focus-sur-3-projets-soutenus-par-lunion-europeenne"/>
-        <updated>2023-11-24T17:38:19.331Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ac80c2ae-4b5f-48e2-a724-952e3b58f51c">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/plus-de-nature-en-ville-focus-sur-3-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
-                            Plus de nature en ville : focus sur 3 projets soutenus par l’UE 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/01fe0ea78fcda6c45a9e55a4f6ce093d02a3890e.jpg" alt="Un espace public." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Une campagne contre les violences sexistes dans les transports]]></title>
-        <id>https://www.gouvernement.fr/actualite/une-campagne-contre-les-violences-sexistes-et-sexuelles-dans-les-transports-en-commun</id>
-        <link href="https://www.gouvernement.fr/actualite/une-campagne-contre-les-violences-sexistes-et-sexuelles-dans-les-transports-en-commun"/>
-        <updated>2023-11-24T17:38:19.333Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="49a06c5f-1b6c-4ab6-b521-5103b2a1286a">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-campagne-contre-les-violences-sexistes-et-sexuelles-dans-les-transports-en-commun" class="fr-card__link" target="_self">
-                            Une campagne contre les violences sexistes dans les transports 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/665b53bbd38d28a2004ef96bf7e97a6c2f31d422.jpg" alt="Bandeau « Levons les yeux »" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Construction durable : focus sur 4 projets soutenus par l’UE]]></title>
-        <id>https://www.gouvernement.fr/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne</id>
-        <link href="https://www.gouvernement.fr/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne"/>
-        <updated>2023-11-24T17:38:19.336Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ae4135c1-2dc2-4d8f-b829-2f033a481d96">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
-                            Construction durable : focus sur 4 projets soutenus par l’UE 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3a2cb533e9e3b50999d41835f5bf5c0ab028b4e4.jpg" alt="Panneaux solaires." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 20 au 26 novembre 2023]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-20-au-26-novembre-2023</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-20-au-26-novembre-2023"/>
-        <updated>2023-11-24T17:38:19.337Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6c34a163-53aa-4d5c-85e8-4f4f2d9ce6c6">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-20-au-26-novembre-2023" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 20 au 26 novembre 2023 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0627434d25abc155c224358bcfc10164934afb13.jpg" alt="Vignette des 4 actus de la semaine du 20 au 26 novembre 2023." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nouvelle édition du baromètre des résultats de l’action publique]]></title>
-        <id>https://www.gouvernement.fr/actualite/nouvelle-edition-du-barometre-des-resultats-de-laction-publique</id>
-        <link href="https://www.gouvernement.fr/actualite/nouvelle-edition-du-barometre-des-resultats-de-laction-publique"/>
-        <updated>2023-11-24T05:38:21.180Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ddf4593c-8a14-43f5-af77-da4b46439b98">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/nouvelle-edition-du-barometre-des-resultats-de-laction-publique" class="fr-card__link" target="_self">
-                            Nouvelle édition du baromètre des résultats de l’action publique 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 23/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/b2527aa6888b6fde4c52da227c12d3d0146e2953.png" alt="Un dessin stylisé de la France avec un mouvement ascendant." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« DuoDay 2023 » : une journée pour l'inclusion au travail]]></title>
-        <id>https://www.gouvernement.fr/actualite/duoday-2023-une-journee-pour-linclusion-au-travail</id>
-        <link href="https://www.gouvernement.fr/actualite/duoday-2023-une-journee-pour-linclusion-au-travail"/>
-        <updated>2023-11-24T05:38:21.180Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9cfbee46-e6a3-4301-bfce-d693c8d89ce0">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/duoday-2023-une-journee-pour-linclusion-au-travail" class="fr-card__link" target="_self">
-                            « DuoDay 2023 » : une journée pour l'inclusion au travail 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Handicap
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 23/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/91a0ac23a5dd12d45592b4d5b8dd676199dc99e5.jpg" alt="Logo du Duoday 2023." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETIncelles veut accompagner la croissance de 500 PME d’ici à 2027]]></title>
-        <id>https://www.gouvernement.fr/actualite/etincelles-veut-accompagner-la-croissance-de-500-pme-dici-a-2027</id>
-        <link href="https://www.gouvernement.fr/actualite/etincelles-veut-accompagner-la-croissance-de-500-pme-dici-a-2027"/>
-        <updated>2023-11-24T05:38:21.180Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="42292724-1b6f-47c9-92ce-52a504b3a4fc">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/etincelles-veut-accompagner-la-croissance-de-500-pme-dici-a-2027" class="fr-card__link" target="_self">
-                            ETIncelles veut accompagner la croissance de 500 PME d’ici à 2027 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 22/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c435d949efac6810bfa8613f06ed24e96138d682.jpg" alt="Une vue d'un open space vitré dans une entreprise." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayotte : des bouteilles d’eau pour chaque habitant]]></title>
-        <id>https://www.gouvernement.fr/actualite/crise-de-leau-a-mayotte-des-bouteilles-deau-pour-chaque-habitant</id>
-        <link href="https://www.gouvernement.fr/actualite/crise-de-leau-a-mayotte-des-bouteilles-deau-pour-chaque-habitant"/>
-        <updated>2023-11-24T05:38:21.180Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="629da276-379a-4ce9-892c-03059b5e5639">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/crise-de-leau-a-mayotte-des-bouteilles-deau-pour-chaque-habitant" class="fr-card__link" target="_self">
-                            Mayotte : des bouteilles d’eau pour chaque habitant 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 22/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/312aadada49c9e78396bb4b5e6e5e964d35550a9.jpg" alt="Un homme et une petite fille viennent récupérer des bouteilles d'eau distribuées à Mayotte." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le prix Irène Joliot-Curie récompense cinq chercheuses]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-prix-irene-joliot-curie-recompense-cinq-chercheuses</id>
-        <link href="https://www.gouvernement.fr/actualite/le-prix-irene-joliot-curie-recompense-cinq-chercheuses"/>
-        <updated>2023-11-24T05:38:21.183Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d6d2d667-7a5a-478e-9bd7-a8a8e942fd73">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-prix-irene-joliot-curie-recompense-cinq-chercheuses" class="fr-card__link" target="_self">
-                            Le prix Irène Joliot-Curie récompense cinq chercheuses 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 21/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9ca34093c49255004232556a2dba1d0be3ee2add.jpg" alt="Le visuel du prix Irène Joliot-Curie avec des visages stylisés dans les tons de mauve et orangé." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lancement de la Grande Cause Nationale 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/activite-physique-et-sportive-la-grande-cause-nationale-2024-est-lancee</id>
-        <link href="https://www.gouvernement.fr/actualite/activite-physique-et-sportive-la-grande-cause-nationale-2024-est-lancee"/>
-        <updated>2023-11-24T05:38:21.183Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8056edb4-514f-4fd9-bfc2-72713d2493a0">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/activite-physique-et-sportive-la-grande-cause-nationale-2024-est-lancee" class="fr-card__link" target="_self">
-                            Lancement de la Grande Cause Nationale 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sport
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 21/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/f108face19af25e080d87d83a753ea5ce4aa66f3.jpg" alt="Le slogan de la Grande cause nationale  « Bouge 30 minutes chaque  jour ! »." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le plan 2023-2027 contre les violences faites aux enfants]]></title>
+        <title type="html"><![CDATA[0]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-11-26T17:38:40.808Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b3e3020a-e512-49a8-b02c-34d25ff1cb29" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/plan-2023-2027-contre-les-violences-faites-aux-enfants-22-actions-pour-agir" class="fr-card__link" target="_self">
-                            Le plan 2023-2027 contre les violences faites aux enfants 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Affaires sociales
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 20/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4e88fbe154c5eb89f0ffa36a4646fe48feb9db43.jpg" alt="Une petite fille cachée derrière un rideau regarde par la fenêtre." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
+        <updated>2023-11-27T05:38:47.766Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.766Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.766Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.767Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.768Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.769Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.770Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.771Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.772Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.773Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.774Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.775Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.776Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2023-11-27T05:38:47.777Z</updated>
     </entry>
 </feed>
