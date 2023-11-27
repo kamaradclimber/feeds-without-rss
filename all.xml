@@ -4,92 +4,442 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 05:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 17:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Une semaine pour découvrir le secteur de l'industrie (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/une-semaine-por-decouvrir-du-secteur-de-lindustrie</link>
+            <guid>https://www.gouvernement.fr/actualite/une-semaine-por-decouvrir-du-secteur-de-lindustrie</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7f05ec7d-0353-47d2-905f-84e209347504">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-semaine-por-decouvrir-du-secteur-de-lindustrie" class="fr-card__link" target="_self">
+                            Une semaine pour découvrir le secteur de l'industrie 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/2d0f6ff62d05904fb83448a7b0afa54ea449ebab.jpg" alt="Visuel de la Semaine de l'industrie." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[La Police nationale recrute plus de 4 000 gardiens de la paix (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-police-nationale-recrute-plus-de-4000-gardiens-de-la-paix</link>
+            <guid>https://www.gouvernement.fr/actualite/la-police-nationale-recrute-plus-de-4000-gardiens-de-la-paix</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e4c5fe89-bf10-4744-8146-02083a67a9a9">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-police-nationale-recrute-plus-de-4000-gardiens-de-la-paix" class="fr-card__link" target="_self">
+                            La Police nationale recrute plus de 4 000 gardiens de la paix 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9028d22970760d495711c7e5910bce679068df24.jpg" alt="Photo de deux membres de la Police nationale." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Des territoires plus attractifs : quatre projets soutenus par l'UE (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/des-territoires-plus-attractifs-zoom-sur-4-projets-soutenus-par-lunion-europeenne</link>
+            <guid>https://www.gouvernement.fr/actualite/des-territoires-plus-attractifs-zoom-sur-4-projets-soutenus-par-lunion-europeenne</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ef56d95c-f3fe-402b-b6b9-1b3f8bb923bf">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/des-territoires-plus-attractifs-zoom-sur-4-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
+                            Des territoires plus attractifs : quatre projets soutenus par l'UE 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d09e3703e1728d443244bf29ec8541066b0530d6.jpg" alt="Drapeau de l'Union européenne." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[France - USA : « love story, success story » (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/france-usa-love-story-success-story</link>
+            <guid>https://www.gouvernement.fr/actualite/france-usa-love-story-success-story</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a71ed4b7-5896-4bda-8ebb-9fd14f49b518">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/france-usa-love-story-success-story" class="fr-card__link" target="_self">
+                            France - USA : « love story, success story » 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/d7809f3669085b330699bd1ac32d126a2478f98d.jpg" alt="Corinne Leboucher (à gauche) et Colombia Barrosse." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Santé et bien-être : focus sur 3 projets soutenus par l’UE (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/sante-et-bien-etre-focus-sur-3-projets-soutenus-par-lunion-europeenne</link>
+            <guid>https://www.gouvernement.fr/actualite/sante-et-bien-etre-focus-sur-3-projets-soutenus-par-lunion-europeenne</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0c50cd28-a869-470b-ab84-e1ddc0c1ba96">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/sante-et-bien-etre-focus-sur-3-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
+                            Santé et bien-être : focus sur 3 projets soutenus par l’UE 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/79d3deba246f4b9b3315152574710a38fcd92f11.jpg" alt="Machine d'IRM." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Plus de nature en ville : focus sur 3 projets soutenus par l’UE (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/plus-de-nature-en-ville-focus-sur-3-projets-soutenus-par-lunion-europeenne</link>
+            <guid>https://www.gouvernement.fr/actualite/plus-de-nature-en-ville-focus-sur-3-projets-soutenus-par-lunion-europeenne</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ac80c2ae-4b5f-48e2-a724-952e3b58f51c">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/plus-de-nature-en-ville-focus-sur-3-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
+                            Plus de nature en ville : focus sur 3 projets soutenus par l’UE 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/01fe0ea78fcda6c45a9e55a4f6ce093d02a3890e.jpg" alt="Un espace public." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Une campagne contre les violences sexistes dans les transports (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/une-campagne-contre-les-violences-sexistes-et-sexuelles-dans-les-transports-en-commun</link>
+            <guid>https://www.gouvernement.fr/actualite/une-campagne-contre-les-violences-sexistes-et-sexuelles-dans-les-transports-en-commun</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="49a06c5f-1b6c-4ab6-b521-5103b2a1286a">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-campagne-contre-les-violences-sexistes-et-sexuelles-dans-les-transports-en-commun" class="fr-card__link" target="_self">
+                            Une campagne contre les violences sexistes dans les transports 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/665b53bbd38d28a2004ef96bf7e97a6c2f31d422.jpg" alt="Bandeau « Levons les yeux »" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Construction durable : focus sur quatre projets soutenus par l’UE (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne</link>
+            <guid>https://www.gouvernement.fr/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ae4135c1-2dc2-4d8f-b829-2f033a481d96">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
+                            Construction durable : focus sur quatre projets soutenus par l’UE 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/17c480f7de91bbbb1cf7d1cffcdccd067a5b06fe.jpg" alt="Panneaux solaires." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Les 4 actus de la semaine du 20 au 26 novembre 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-20-au-26-novembre-2023</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-20-au-26-novembre-2023</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6c34a163-53aa-4d5c-85e8-4f4f2d9ce6c6">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-20-au-26-novembre-2023" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 20 au 26 novembre 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 24/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0627434d25abc155c224358bcfc10164934afb13.jpg" alt="Vignette des 4 actus de la semaine du 20 au 26 novembre 2023." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Nouvelle édition du baromètre des résultats de l’action publique (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/nouvelle-edition-du-barometre-des-resultats-de-laction-publique</link>
+            <guid>https://www.gouvernement.fr/actualite/nouvelle-edition-du-barometre-des-resultats-de-laction-publique</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ddf4593c-8a14-43f5-af77-da4b46439b98">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/nouvelle-edition-du-barometre-des-resultats-de-laction-publique" class="fr-card__link" target="_self">
+                            Nouvelle édition du baromètre des résultats de l’action publique 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/b2527aa6888b6fde4c52da227c12d3d0146e2953.png" alt="Un dessin stylisé de la France avec un mouvement ascendant." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[« DuoDay 2023 » : une journée pour l'inclusion au travail (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/duoday-2023-une-journee-pour-linclusion-au-travail</link>
+            <guid>https://www.gouvernement.fr/actualite/duoday-2023-une-journee-pour-linclusion-au-travail</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9cfbee46-e6a3-4301-bfce-d693c8d89ce0">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/duoday-2023-une-journee-pour-linclusion-au-travail" class="fr-card__link" target="_self">
+                            « DuoDay 2023 » : une journée pour l'inclusion au travail 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Handicap
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 23/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/91a0ac23a5dd12d45592b4d5b8dd676199dc99e5.jpg" alt="Logo du Duoday 2023." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[ETIncelles veut accompagner la croissance de 500 PME d’ici à 2027 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/etincelles-veut-accompagner-la-croissance-de-500-pme-dici-a-2027</link>
+            <guid>https://www.gouvernement.fr/actualite/etincelles-veut-accompagner-la-croissance-de-500-pme-dici-a-2027</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="42292724-1b6f-47c9-92ce-52a504b3a4fc">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/etincelles-veut-accompagner-la-croissance-de-500-pme-dici-a-2027" class="fr-card__link" target="_self">
+                            ETIncelles veut accompagner la croissance de 500 PME d’ici à 2027 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 22/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c435d949efac6810bfa8613f06ed24e96138d682.jpg" alt="Une vue d'un open space vitré dans une entreprise." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Mayotte : des bouteilles d’eau pour chaque habitant (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/crise-de-leau-a-mayotte-des-bouteilles-deau-pour-chaque-habitant</link>
+            <guid>https://www.gouvernement.fr/actualite/crise-de-leau-a-mayotte-des-bouteilles-deau-pour-chaque-habitant</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="629da276-379a-4ce9-892c-03059b5e5639">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/crise-de-leau-a-mayotte-des-bouteilles-deau-pour-chaque-habitant" class="fr-card__link" target="_self">
+                            Mayotte : des bouteilles d’eau pour chaque habitant 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 22/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/312aadada49c9e78396bb4b5e6e5e964d35550a9.jpg" alt="Un homme et une petite fille viennent récupérer des bouteilles d'eau distribuées à Mayotte." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Mon, 27 Nov 2023 05:38:47 GMT</pubDate>
+            <title><![CDATA[Le prix Irène Joliot-Curie récompense cinq chercheuses (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/le-prix-irene-joliot-curie-recompense-cinq-chercheuses</link>
+            <guid>https://www.gouvernement.fr/actualite/le-prix-irene-joliot-curie-recompense-cinq-chercheuses</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d6d2d667-7a5a-478e-9bd7-a8a8e942fd73">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-prix-irene-joliot-curie-recompense-cinq-chercheuses" class="fr-card__link" target="_self">
+                            Le prix Irène Joliot-Curie récompense cinq chercheuses 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 21/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9ca34093c49255004232556a2dba1d0be3ee2add.jpg" alt="Le visuel du prix Irène Joliot-Curie avec des visages stylisés dans les tons de mauve et orangé." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Will wind and solar become the leading power sources in the EU in 2023? (Blog - Electricity Maps)]]></title>
