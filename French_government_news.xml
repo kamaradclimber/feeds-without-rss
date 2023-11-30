@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-11-30T05:38:27.312Z</updated>
+    <updated>2023-11-30T17:38:36.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[La recherche médicale française attire les scientifiques étrangers]]></title>
+        <id>https://www.gouvernement.fr/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation</id>
+        <link href="https://www.gouvernement.fr/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation"/>
+        <updated>2023-11-30T17:38:28.704Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bd52a27d-cf0f-4f84-87d0-27151f6963a5">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation" class="fr-card__link" target="_self">
+                            La recherche médicale française attire les scientifiques étrangers 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 30/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/eeb0de764c6efdb9bcf4a35e006f3729338d9962.jpg" alt="Photo d'Eliane Piaggio." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JO et JOP 2024 : les périmètres de sécurité autour des sites]]></title>
         <id>https://www.gouvernement.fr/actualite/jeux-olympiques-et-paralympiques-les-cartes-des-perimetres-de-securite-autour-des-sites</id>
@@ -31,7 +62,7 @@
                 </div>
             </div>
                             <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6a299453c5c49398fec24490bc025eb1f9370755.jpg" alt="Une carte de Paris montrant des périmètres en bleu et rouge." data-fr-js-ratio="true">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6a299453c5c49398fec24490bc025eb1f9370755.jpg" alt="Une carte de Paris montrant les périmètres de sécurtié des JOP 2024 en bleu et rouge." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
@@ -404,37 +435,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/665b53bbd38d28a2004ef96bf7e97a6c2f31d422.jpg" alt="Bandeau « Levons les yeux »" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Construction durable : focus sur quatre projets soutenus par l’UE]]></title>
-        <id>https://www.gouvernement.fr/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne</id>
-        <link href="https://www.gouvernement.fr/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne"/>
-        <updated>2023-11-27T17:38:25.910Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ae4135c1-2dc2-4d8f-b829-2f033a481d96">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/construction-durable-focus-sur-4-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
-                            Construction durable : focus sur quatre projets soutenus par l’UE 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 24/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/17c480f7de91bbbb1cf7d1cffcdccd067a5b06fe.jpg" alt="Panneaux solaires." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
