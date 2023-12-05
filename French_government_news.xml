@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-12-05T05:38:29.835Z</updated>
+    <updated>2023-12-05T17:38:48.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Comment éviter les intoxications au monoxyde de carbone ?]]></title>
+        <id>https://www.gouvernement.fr/actualite/appareil-de-chauffage-comment-eviter-les-intoxications-au-monoxyde-de-carbone</id>
+        <link href="https://www.gouvernement.fr/actualite/appareil-de-chauffage-comment-eviter-les-intoxications-au-monoxyde-de-carbone"/>
+        <updated>2023-12-05T17:38:40.012Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="22fe73b9-bc2a-4d98-8b1d-6810dddbfbd9">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/appareil-de-chauffage-comment-eviter-les-intoxications-au-monoxyde-de-carbone" class="fr-card__link" target="_self">
+                            Comment éviter les intoxications au monoxyde de carbone ? 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 05/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/12e7e40854bf0ae31baab4646af9f62fcfd342d9.jpg" alt="Main d'une femme réglant un thermostat" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Une campagne pour sensibiliser au bon usage des antibiotiques]]></title>
         <id>https://www.gouvernement.fr/actualite/une-campagne-pour-sensibiliser-au-bon-usage-des-antibiotiques</id>
@@ -372,7 +403,7 @@
                 </div>
             </div>
                             <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/980279968b3eddb8a4a4625a3f73541093fb1417.jpg" alt="Visuel de ce qui change en décembre" data-fr-js-ratio="true">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/209ffdc64ff0510b8667490d1acf9cf1b9fa70a2.jpg" alt="Un cahier d'écolier avec la mention de ce qui change au 1er décembre 2023." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
@@ -404,37 +435,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/2d0f6ff62d05904fb83448a7b0afa54ea449ebab.jpg" alt="Visuel de la Semaine de l'industrie." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Police nationale recrute plus de 4 000 gardiens de la paix]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-police-nationale-recrute-plus-de-4000-gardiens-de-la-paix</id>
-        <link href="https://www.gouvernement.fr/actualite/la-police-nationale-recrute-plus-de-4000-gardiens-de-la-paix"/>
-        <updated>2023-12-03T17:38:42.162Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e4c5fe89-bf10-4744-8146-02083a67a9a9">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-police-nationale-recrute-plus-de-4000-gardiens-de-la-paix" class="fr-card__link" target="_self">
-                            La Police nationale recrute plus de 4 000 gardiens de la paix 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sécurité
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 27/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9028d22970760d495711c7e5910bce679068df24.jpg" alt="Photo de deux membres de la Police nationale." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
