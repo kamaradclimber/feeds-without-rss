@@ -4,9 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 05:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 17:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Agora : l'intelligence artificielle, quelles priorités ? (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites</link>
+            <guid>https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites</guid>
+            <pubDate>Tue, 12 Dec 2023 17:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="eaa1b701-97e7-4fd2-a9e5-a6d289ef6d01">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/lintelligence-artificielle-quelles-priorites" class="fr-card__link" target="_self">
+                            Agora : l'intelligence artificielle, quelles priorités ? 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 12/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/256ede6305ddf07b828829681b4e7332483eb962.jpg" alt="Visuel montrant une série de captures d'écran de l'application Agora et le slogan " la="" première="" application="" pour="" un="" dialogue="" direct="" avec="" les="" français"."="" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[France 2030 : vos projets pour l'avenir en lumière (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030</link>
@@ -406,37 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/eeb0de764c6efdb9bcf4a35e006f3729338d9962.jpg" alt="Photo d'Eliane Piaggio." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JO et JOP 2024 : les périmètres de sécurité autour des sites (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/jeux-olympiques-et-paralympiques-les-cartes-des-perimetres-de-securite-autour-des-sites</link>
-            <guid>https://www.gouvernement.fr/actualite/jeux-olympiques-et-paralympiques-les-cartes-des-perimetres-de-securite-autour-des-sites</guid>
-            <pubDate>Mon, 11 Dec 2023 17:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="770deed7-7ff7-4738-a643-f179ad1d529f">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/jeux-olympiques-et-paralympiques-les-cartes-des-perimetres-de-securite-autour-des-sites" class="fr-card__link" target="_self">
-                            JO et JOP 2024 : les périmètres de sécurité autour des sites 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sécurité
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 29/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6a299453c5c49398fec24490bc025eb1f9370755.jpg" alt="Une carte de Paris montrant les périmètres de sécurtié des JOP 2024 en bleu et rouge." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
