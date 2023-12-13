@@ -2,91 +2,441 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-12-13T05:39:02.468Z</updated>
+    <updated>2023-12-13T17:38:38.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Agora : l'intelligence artificielle, quelles priorités ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.335Z</updated>
+        <id>https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites</id>
+        <link href="https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites"/>
+        <updated>2023-12-13T17:38:30.070Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="eaa1b701-97e7-4fd2-a9e5-a6d289ef6d01">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/lintelligence-artificielle-quelles-priorites" class="fr-card__link" target="_self">
+                            Agora : l'intelligence artificielle, quelles priorités ? 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 12/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/256ede6305ddf07b828829681b4e7332483eb962.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[France 2030 : vos projets pour l'avenir en lumière]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.338Z</updated>
+        <id>https://www.gouvernement.fr/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030</id>
+        <link href="https://www.gouvernement.fr/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030"/>
+        <updated>2023-12-13T17:38:30.072Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0ec9f0ff-5102-4b28-a21b-2dd14012c660">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030" class="fr-card__link" target="_self">
+                            France 2030 : vos projets pour l'avenir en lumière 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 11/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/8702a9c136fbe4b4aaed5bcceddb124af4ec7edc.jpg" alt="Deux personnes construisent une maquette." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les mesures pour faire face aux difficultés à Mayotte]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.338Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-mesures-pour-faire-face-aux-difficultes-a-mayotte</id>
+        <link href="https://www.gouvernement.fr/actualite/les-mesures-pour-faire-face-aux-difficultes-a-mayotte"/>
+        <updated>2023-12-13T17:38:30.072Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="81b76a78-48d3-42ff-9fb7-fab6b6b891cc">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-mesures-pour-faire-face-aux-difficultes-a-mayotte" class="fr-card__link" target="_self">
+                            Les mesures pour faire face aux difficultés à Mayotte 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6d861118cef55faa873fc9ff1cc2c319041fd1a7.jpg" alt="Élisabeth Borne à Mayotte, le 8 décembre 2023." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[L'adoption de la Déclaration universelle des droits de l'homme]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.338Z</updated>
+        <id>https://www.gouvernement.fr/actualite/le-jour-ou-fut-adoptee-la-declaration-universelle-des-droits-de-lhomme</id>
+        <link href="https://www.gouvernement.fr/actualite/le-jour-ou-fut-adoptee-la-declaration-universelle-des-droits-de-lhomme"/>
+        <updated>2023-12-13T17:38:30.072Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="deb9e78c-922b-4e94-ab56-6b52422c83f2">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-jour-ou-fut-adoptee-la-declaration-universelle-des-droits-de-lhomme" class="fr-card__link" target="_self">
+                            L'adoption de la Déclaration universelle des droits de l'homme 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9dae70c96b3f3ea027ed327b0eba44192c03a24a.jpg" alt="Photo prise le 24 octobre 1948 à Paris, au palais de Chaillot, où siège l'Assemblée générale de l'ONU." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 4 au 10 décembre 2023]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.339Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-decembre-2023</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-decembre-2023"/>
+        <updated>2023-12-13T17:38:30.072Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="70a610e6-df35-4555-a246-973977a48139">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-4-au-10-decembre-2023" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 4 au 10 décembre 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0d6a082d7cbda6576f2dc0d15c8fa2c7e7630f69.jpg" alt="Enfants en classe." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Impôts : dernier jour pour corriger sa déclaration de revenus]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.339Z</updated>
+        <id>https://www.gouvernement.fr/actualite/impot-la-date-limite-pour-corriger-sa-declaration-de-revenus</id>
+        <link href="https://www.gouvernement.fr/actualite/impot-la-date-limite-pour-corriger-sa-declaration-de-revenus"/>
+        <updated>2023-12-13T17:38:30.073Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a98fba3a-b6e4-4116-a2c3-5716ebc21bf4">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/impot-la-date-limite-pour-corriger-sa-declaration-de-revenus" class="fr-card__link" target="_self">
+                            Impôts : dernier jour pour corriger sa déclaration de revenus 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Institutions
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/5f72c8ad3075f4f50e7ffeeab3a9933343cef85c.jpg" alt="Une personne en train de faire sa déclaration de revenus." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[« Choc des savoirs »: des mesures pour élever le niveau de l'École]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.339Z</updated>
+        <id>https://www.gouvernement.fr/actualite/choc-des-savoirs-des-mesures-pour-elever-le-niveau-de-lecole</id>
+        <link href="https://www.gouvernement.fr/actualite/choc-des-savoirs-des-mesures-pour-elever-le-niveau-de-lecole"/>
+        <updated>2023-12-13T17:38:30.074Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1bd4b89f-b983-4338-8fa5-ca7ccb953021">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/choc-des-savoirs-des-mesures-pour-elever-le-niveau-de-lecole" class="fr-card__link" target="_self">
+                            « Choc des savoirs »: des mesures pour élever le niveau de l'École 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 06/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/66ff17ce4fcdabd41e29f1f4f986b671f49a540f.jpg" alt="Des élèves dns une cour d'école." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Comment éviter les intoxications au monoxyde de carbone ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.340Z</updated>
+        <id>https://www.gouvernement.fr/actualite/appareil-de-chauffage-comment-eviter-les-intoxications-au-monoxyde-de-carbone</id>
+        <link href="https://www.gouvernement.fr/actualite/appareil-de-chauffage-comment-eviter-les-intoxications-au-monoxyde-de-carbone"/>
+        <updated>2023-12-13T17:38:30.078Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="22fe73b9-bc2a-4d98-8b1d-6810dddbfbd9">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/appareil-de-chauffage-comment-eviter-les-intoxications-au-monoxyde-de-carbone" class="fr-card__link" target="_self">
+                            Comment éviter les intoxications au monoxyde de carbone ? 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 05/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/12e7e40854bf0ae31baab4646af9f62fcfd342d9.jpg" alt="Main d'une femme réglant un thermostat" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Une campagne pour sensibiliser au bon usage des antibiotiques]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.341Z</updated>
+        <id>https://www.gouvernement.fr/actualite/une-campagne-pour-sensibiliser-au-bon-usage-des-antibiotiques</id>
+        <link href="https://www.gouvernement.fr/actualite/une-campagne-pour-sensibiliser-au-bon-usage-des-antibiotiques"/>
+        <updated>2023-12-13T17:38:30.078Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b5f6cfbd-71ca-48b5-8a8e-fd1b80bbcff8">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-campagne-pour-sensibiliser-au-bon-usage-des-antibiotiques" class="fr-card__link" target="_self">
+                            Une campagne pour sensibiliser au bon usage des antibiotiques 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 04/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6624af028727da4d1326a8d3f3ca1c5459d77ad5.jpg" alt="Des antibiotiques dans une main." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[35 000 nouveaux logements étudiants d'ici à fin 2027]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.342Z</updated>
+        <id>https://www.gouvernement.fr/actualite/logement-etudiant-la-feuille-de-route-du-gouvernement</id>
+        <link href="https://www.gouvernement.fr/actualite/logement-etudiant-la-feuille-de-route-du-gouvernement"/>
+        <updated>2023-12-13T17:38:30.080Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b8281419-7d70-4e8b-94ad-b5597792fcc2">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/logement-etudiant-la-feuille-de-route-du-gouvernement" class="fr-card__link" target="_self">
+                            35 000 nouveaux logements étudiants d'ici à fin 2027 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 04/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3e04a92afddf6cda124a8068a65e49365e8e266d.jpg" alt="Une étudiante regarde son ordinateur dans sa chambre d'étudiante." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 27 novembre au 3 décembre 2023]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.343Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-27-novembre-au-3-decembre-2023</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-27-novembre-au-3-decembre-2023"/>
+        <updated>2023-12-13T17:38:30.080Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0ae6170f-d7fd-4ca4-a250-60ecf8fc1c80">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-27-novembre-au-3-decembre-2023" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 27 novembre au 3 décembre 2023 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 01/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/347c0eaa42d262e38fca38f6ca7c648297d5be36.jpg" alt="Visuel des quatre actus de la semaine du 27 novembre au 3 décembre 2023" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les mesures sur les aides aux consommateurs d’énergie en 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.344Z</updated>
+        <id>https://www.gouvernement.fr/actualite/aides-energies</id>
+        <link href="https://www.gouvernement.fr/actualite/aides-energies"/>
+        <updated>2023-12-13T17:38:30.081Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e7d1e460-0c43-4836-97cc-4149f48eb3e6">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/aides-energies" class="fr-card__link" target="_self">
+                            Les mesures sur les aides aux consommateurs d’énergie en 2024 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 01/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/38b0a2452a5b96adfe809fe1d75ce8321b0dd6cf.jpg" alt="Radiateur." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Une aide d'urgence pour les victimes de violences conjugales]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.346Z</updated>
+        <id>https://www.gouvernement.fr/actualite/une-aide-durgence-pour-les-victimes-de-violences-conjugales</id>
+        <link href="https://www.gouvernement.fr/actualite/une-aide-durgence-pour-les-victimes-de-violences-conjugales"/>
+        <updated>2023-12-13T17:38:30.082Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1e27251a-f9e5-4835-8a87-8972c1098c72">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/une-aide-durgence-pour-les-victimes-de-violences-conjugales" class="fr-card__link" target="_self">
+                            Une aide d'urgence pour les victimes de violences conjugales 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 01/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a27795e62c41b72ab9de55f9fcc4306ef24526e5.jpg" alt="Femme de dos marchant seule dans la rue." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[La recherche médicale française attire les scientifiques étrangers]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-13T05:38:53.348Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation</id>
+        <link href="https://www.gouvernement.fr/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation"/>
+        <updated>2023-12-13T17:38:30.084Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bd52a27d-cf0f-4f84-87d0-27151f6963a5">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation" class="fr-card__link" target="_self">
+                            La recherche médicale française attire les scientifiques étrangers 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             International
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 30/11/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/eeb0de764c6efdb9bcf4a35e006f3729338d9962.jpg" alt="Photo d'Eliane Piaggio." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
 </feed>
