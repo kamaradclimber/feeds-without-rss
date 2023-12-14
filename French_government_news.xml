@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-12-14T05:38:40.921Z</updated>
+    <updated>2023-12-14T17:38:30.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L'État lance la voiture électrique à 100 euros par mois]]></title>
+        <id>https://www.gouvernement.fr/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois</id>
+        <link href="https://www.gouvernement.fr/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois"/>
+        <updated>2023-12-14T17:38:22.230Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e7d41be1-6709-4dc3-bac3-4d686b8e0398">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois" class="fr-card__link" target="_self">
+                            L'État lance la voiture électrique à 100 euros par mois 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 14/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/50e3c1532dc26ad2e97ef6550f72907f0f9393a6.jpg" alt="Vignette de « Mon leasing électrique. »" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agora : l'intelligence artificielle, quelles priorités ?]]></title>
         <id>https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites</id>
@@ -404,37 +435,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a27795e62c41b72ab9de55f9fcc4306ef24526e5.jpg" alt="Femme de dos marchant seule dans la rue." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La recherche médicale française attire les scientifiques étrangers]]></title>
-        <id>https://www.gouvernement.fr/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation</id>
-        <link href="https://www.gouvernement.fr/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation"/>
-        <updated>2023-12-13T17:38:30.084Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bd52a27d-cf0f-4f84-87d0-27151f6963a5">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linstitut-curie-jouit-dune-grande-renommee-internationale-les-industries-pharmaceutiques-viennent-y-chercher-linnovation" class="fr-card__link" target="_self">
-                            La recherche médicale française attire les scientifiques étrangers 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 30/11/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/eeb0de764c6efdb9bcf4a35e006f3729338d9962.jpg" alt="Photo d'Eliane Piaggio." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
