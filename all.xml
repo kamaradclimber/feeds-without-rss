@@ -4,15 +4,108 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 05:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 17:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[La liste des voitures éligibles au bonus écologique (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique</link>
+            <guid>https://www.gouvernement.fr/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="beeaa220-3611-4d78-a6ae-d9d60d7c2470">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique" class="fr-card__link" target="_self">
+                            La liste des voitures éligibles au bonus écologique 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 15/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a88fd2ef2ab2838a6db39a6e12df7e0bdc0a4945.jpg" alt="Places de parking pour les voitures électriques." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Versement de la prime de Noël (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-prime-de-noel-versee-ce-15-decembre</link>
+            <guid>https://www.gouvernement.fr/actualite/la-prime-de-noel-versee-ce-15-decembre</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d08cb404-650d-475d-bee1-2120050ad467">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-prime-de-noel-versee-ce-15-decembre" class="fr-card__link" target="_self">
+                            Versement de la prime de Noël 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 15/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3afd27c9af5fd86d5fa12c38ee9356ff9c20bb41.jpg" alt="Un sapin de Noël." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Un parcours de consolidation pour réussir en BTS (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/article-parcours-de-consolidation-bts</link>
+            <guid>https://www.gouvernement.fr/actualite/article-parcours-de-consolidation-bts</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2afe9374-a166-4383-9c7f-7a4c0a85fad1">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/article-parcours-de-consolidation-bts" class="fr-card__link" target="_self">
+                            Un parcours de consolidation pour réussir en BTS 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 15/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6b711fc97ffad7404e4673bd15186e7df302788d.jpg" alt="Des jeunes gens en train d'étudier." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[L'État lance la voiture électrique à 100 euros par mois (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e7d41be1-6709-4dc3-bac3-4d686b8e0398" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois</link>
+            <guid>https://www.gouvernement.fr/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e7d41be1-6709-4dc3-bac3-4d686b8e0398">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -40,10 +133,10 @@
         </item>
         <item>
             <title><![CDATA[Agora : l'intelligence artificielle, quelles priorités ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="eaa1b701-97e7-4fd2-a9e5-a6d289ef6d01" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites</link>
+            <guid>https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="eaa1b701-97e7-4fd2-a9e5-a6d289ef6d01">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -71,10 +164,10 @@
         </item>
         <item>
             <title><![CDATA[France 2030 : vos projets pour l'avenir en lumière (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0ec9f0ff-5102-4b28-a21b-2dd14012c660" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030</link>
+            <guid>https://www.gouvernement.fr/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0ec9f0ff-5102-4b28-a21b-2dd14012c660">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -102,10 +195,10 @@
         </item>
         <item>
             <title><![CDATA[Les mesures pour faire face aux difficultés à Mayotte (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="81b76a78-48d3-42ff-9fb7-fab6b6b891cc" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/les-mesures-pour-faire-face-aux-difficultes-a-mayotte</link>
+            <guid>https://www.gouvernement.fr/actualite/les-mesures-pour-faire-face-aux-difficultes-a-mayotte</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="81b76a78-48d3-42ff-9fb7-fab6b6b891cc">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -133,10 +226,10 @@
         </item>
         <item>
             <title><![CDATA[L'adoption de la Déclaration universelle des droits de l'homme (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="deb9e78c-922b-4e94-ab56-6b52422c83f2" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/le-jour-ou-fut-adoptee-la-declaration-universelle-des-droits-de-lhomme</link>
+            <guid>https://www.gouvernement.fr/actualite/le-jour-ou-fut-adoptee-la-declaration-universelle-des-droits-de-lhomme</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="deb9e78c-922b-4e94-ab56-6b52422c83f2">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -164,10 +257,10 @@
         </item>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 4 au 10 décembre 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="70a610e6-df35-4555-a246-973977a48139" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-decembre-2023</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-decembre-2023</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="70a610e6-df35-4555-a246-973977a48139">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -195,10 +288,10 @@
         </item>
         <item>
             <title><![CDATA[Impôts : dernier jour pour corriger sa déclaration de revenus (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a98fba3a-b6e4-4116-a2c3-5716ebc21bf4" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/impot-la-date-limite-pour-corriger-sa-declaration-de-revenus</link>
+            <guid>https://www.gouvernement.fr/actualite/impot-la-date-limite-pour-corriger-sa-declaration-de-revenus</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a98fba3a-b6e4-4116-a2c3-5716ebc21bf4">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -226,10 +319,10 @@
         </item>
         <item>
             <title><![CDATA[« Choc des savoirs »: des mesures pour élever le niveau de l'École (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1bd4b89f-b983-4338-8fa5-ca7ccb953021" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/choc-des-savoirs-des-mesures-pour-elever-le-niveau-de-lecole</link>
+            <guid>https://www.gouvernement.fr/actualite/choc-des-savoirs-des-mesures-pour-elever-le-niveau-de-lecole</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1bd4b89f-b983-4338-8fa5-ca7ccb953021">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -257,10 +350,10 @@
         </item>
         <item>
             <title><![CDATA[Comment éviter les intoxications au monoxyde de carbone ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="22fe73b9-bc2a-4d98-8b1d-6810dddbfbd9" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/appareil-de-chauffage-comment-eviter-les-intoxications-au-monoxyde-de-carbone</link>
+            <guid>https://www.gouvernement.fr/actualite/appareil-de-chauffage-comment-eviter-les-intoxications-au-monoxyde-de-carbone</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="22fe73b9-bc2a-4d98-8b1d-6810dddbfbd9">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -288,10 +381,10 @@
         </item>
         <item>
             <title><![CDATA[Une campagne pour sensibiliser au bon usage des antibiotiques (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b5f6cfbd-71ca-48b5-8a8e-fd1b80bbcff8" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/une-campagne-pour-sensibiliser-au-bon-usage-des-antibiotiques</link>
+            <guid>https://www.gouvernement.fr/actualite/une-campagne-pour-sensibiliser-au-bon-usage-des-antibiotiques</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b5f6cfbd-71ca-48b5-8a8e-fd1b80bbcff8">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -319,10 +412,10 @@
         </item>
         <item>
             <title><![CDATA[35 000 nouveaux logements étudiants d'ici à fin 2027 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b8281419-7d70-4e8b-94ad-b5597792fcc2" data-fr-js-card-actionee="true">
+            <link>https://www.gouvernement.fr/actualite/logement-etudiant-la-feuille-de-route-du-gouvernement</link>
+            <guid>https://www.gouvernement.fr/actualite/logement-etudiant-la-feuille-de-route-du-gouvernement</guid>
+            <pubDate>Fri, 15 Dec 2023 17:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b8281419-7d70-4e8b-94ad-b5597792fcc2">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
@@ -344,99 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3e04a92afddf6cda124a8068a65e49365e8e266d.jpg" alt="Une étudiante regarde son ordinateur dans sa chambre d'étudiante." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les 4 actus de la semaine du 27 novembre au 3 décembre 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0ae6170f-d7fd-4ca4-a250-60ecf8fc1c80" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-27-novembre-au-3-decembre-2023" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 27 novembre au 3 décembre 2023 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 01/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/347c0eaa42d262e38fca38f6ca7c648297d5be36.jpg" alt="Visuel des quatre actus de la semaine du 27 novembre au 3 décembre 2023" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les mesures sur les aides aux consommateurs d’énergie en 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e7d1e460-0c43-4836-97cc-4149f48eb3e6" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/aides-energies" class="fr-card__link" target="_self">
-                            Les mesures sur les aides aux consommateurs d’énergie en 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 01/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/38b0a2452a5b96adfe809fe1d75ce8321b0dd6cf.jpg" alt="Radiateur." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Une aide d'urgence pour les victimes de violences conjugales (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Fri, 15 Dec 2023 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1e27251a-f9e5-4835-8a87-8972c1098c72" data-fr-js-card-actionee="true">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/une-aide-durgence-pour-les-victimes-de-violences-conjugales" class="fr-card__link" target="_self">
-                            Une aide d'urgence pour les victimes de violences conjugales 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 01/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a27795e62c41b72ab9de55f9fcc4306ef24526e5.jpg" alt="Femme de dos marchant seule dans la rue." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
