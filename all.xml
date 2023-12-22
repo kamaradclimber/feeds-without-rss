@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 17:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,9 +16,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/parcoursup-2024-ouvre-mercredi-20-decembre" class="fr-card__link" target="_self">
-                            Parcoursup 2024 ouvre ce mercredi 20 décembre 
-                        </a>
+                        <a href="/actualite/parcoursup-2024-ouvre-mercredi-20-decembre" class="fr-card__link" target="_self">Parcoursup 2024 ouvre ce mercredi 20 décembre</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -32,10 +30,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7b01480a31a2ca4d39c73f5c0c3dfd744570869b.jpg" alt="Une jeune fille consulte son ordinateur portable." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/7b01480a31a2ca4d39c73f5c0c3dfd744570869b.jpg" alt="Une jeune fille consulte son ordinateur portable." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -47,9 +46,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-calendrier-parcoursup-2024" class="fr-card__link" target="_self">
-                            Le calendrier Parcoursup 2024 
-                        </a>
+                        <a href="/actualite/le-calendrier-parcoursup-2024" class="fr-card__link" target="_self">Le calendrier Parcoursup 2024</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -63,10 +60,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a55d231483a76164d2dbc1cf62ca6d7e949c09d0.jpg" alt="Des étudiants regardent un ordinateur portable." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/a55d231483a76164d2dbc1cf62ca6d7e949c09d0.jpg" alt="Des étudiants regardent un ordinateur portable." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -78,9 +76,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/stop-aux-violences-contre-les-professionnels-de-sante" class="fr-card__link" target="_self">
-                            Stop aux violences contre les professionnels de santé 
-                        </a>
+                        <a href="/actualite/stop-aux-violences-contre-les-professionnels-de-sante" class="fr-card__link" target="_self">Stop aux violences contre les professionnels de santé</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -94,10 +90,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4bf6b2d866e7f9fd83557b618dfe1474ce999d60.jpg" alt="Une professionnelle de santé." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/4bf6b2d866e7f9fd83557b618dfe1474ce999d60.jpg" alt="Une professionnelle de santé." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -109,9 +106,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/votre-avis-sur-agora-quelle-reforme-pour-le-metier-dinfirmier" class="fr-card__link" target="_self">
-                            Agora : quelle réforme pour le métier d'infirmier ? 
-                        </a>
+                        <a href="/actualite/votre-avis-sur-agora-quelle-reforme-pour-le-metier-dinfirmier" class="fr-card__link" target="_self">Agora : quelle réforme pour le métier d'infirmier ?</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -125,10 +120,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/bb526f07ccc145f1023f3cc49ba28c3d5f9edeeb.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/bb526f07ccc145f1023f3cc49ba28c3d5f9edeeb.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -140,9 +136,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/pole-emploi-devient-france-travail-au-1er-janvier-2024" class="fr-card__link" target="_self">
-                            Pôle emploi devient France Travail 
-                        </a>
+                        <a href="/actualite/pole-emploi-devient-france-travail-au-1er-janvier-2024" class="fr-card__link" target="_self">Pôle emploi devient France Travail</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -156,10 +150,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/51694138f394d15da9f095d54c7ac410ed852d96.jpg" alt="Identifiant visuel de France Travail." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/51694138f394d15da9f095d54c7ac410ed852d96.jpg" alt="Identifiant visuel de France Travail." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -171,9 +166,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique" class="fr-card__link" target="_self">
-                            La liste des voitures éligibles au bonus écologique 
-                        </a>
+                        <a href="/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique" class="fr-card__link" target="_self">La liste des voitures éligibles au bonus écologique</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -187,10 +180,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a88fd2ef2ab2838a6db39a6e12df7e0bdc0a4945.jpg" alt="Places de parking pour les voitures électriques." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/a88fd2ef2ab2838a6db39a6e12df7e0bdc0a4945.jpg" alt="Places de parking pour les voitures électriques." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -202,9 +196,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-prime-de-noel-versee-ce-15-decembre" class="fr-card__link" target="_self">
-                            Versement de la prime de Noël 
-                        </a>
+                        <a href="/actualite/la-prime-de-noel-versee-ce-15-decembre" class="fr-card__link" target="_self">Versement de la prime de Noël</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -218,10 +210,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3afd27c9af5fd86d5fa12c38ee9356ff9c20bb41.jpg" alt="Un sapin de Noël." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/3afd27c9af5fd86d5fa12c38ee9356ff9c20bb41.jpg" alt="Un sapin de Noël." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -233,9 +226,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/article-parcours-de-consolidation-bts" class="fr-card__link" target="_self">
-                            Un parcours de consolidation pour réussir en BTS 
-                        </a>
+                        <a href="/actualite/article-parcours-de-consolidation-bts" class="fr-card__link" target="_self">Un parcours de consolidation pour réussir en BTS</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -249,10 +240,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6b711fc97ffad7404e4673bd15186e7df302788d.jpg" alt="Des jeunes gens en train d'étudier." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/6b711fc97ffad7404e4673bd15186e7df302788d.jpg" alt="Des jeunes gens en train d'étudier." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -264,9 +256,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois" class="fr-card__link" target="_self">
-                            L'État lance la voiture électrique à 100 euros par mois 
-                        </a>
+                        <a href="/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois" class="fr-card__link" target="_self">L'État lance la voiture électrique à 100 euros par mois</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -280,10 +270,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/50e3c1532dc26ad2e97ef6550f72907f0f9393a6.jpg" alt="Vignette de « Mon leasing électrique. »" data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/50e3c1532dc26ad2e97ef6550f72907f0f9393a6.jpg" alt="Vignette de « Mon leasing électrique. »" data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -295,9 +286,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/lintelligence-artificielle-quelles-priorites" class="fr-card__link" target="_self">
-                            Agora : l'intelligence artificielle, quelles priorités ? 
-                        </a>
+                        <a href="/actualite/lintelligence-artificielle-quelles-priorites" class="fr-card__link" target="_self">Agora : l'intelligence artificielle, quelles priorités ?</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -311,10 +300,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/256ede6305ddf07b828829681b4e7332483eb962.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/256ede6305ddf07b828829681b4e7332483eb962.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -326,9 +316,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030" class="fr-card__link" target="_self">
-                            France 2030 : vos projets pour l'avenir en lumière 
-                        </a>
+                        <a href="/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030" class="fr-card__link" target="_self">France 2030 : vos projets pour l'avenir en lumière</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -342,10 +330,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/8702a9c136fbe4b4aaed5bcceddb124af4ec7edc.jpg" alt="Deux personnes construisent une maquette." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/8702a9c136fbe4b4aaed5bcceddb124af4ec7edc.jpg" alt="Deux personnes construisent une maquette." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -357,9 +346,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-mesures-pour-faire-face-aux-difficultes-a-mayotte" class="fr-card__link" target="_self">
-                            Les mesures pour faire face aux difficultés à Mayotte 
-                        </a>
+                        <a href="/actualite/les-mesures-pour-faire-face-aux-difficultes-a-mayotte" class="fr-card__link" target="_self">Les mesures pour faire face aux difficultés à Mayotte</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -373,10 +360,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6d861118cef55faa873fc9ff1cc2c319041fd1a7.jpg" alt="Élisabeth Borne à Mayotte, le 8 décembre 2023." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/6d861118cef55faa873fc9ff1cc2c319041fd1a7.jpg" alt="Élisabeth Borne à Mayotte, le 8 décembre 2023." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -388,9 +376,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-jour-ou-fut-adoptee-la-declaration-universelle-des-droits-de-lhomme" class="fr-card__link" target="_self">
-                            L'adoption de la Déclaration universelle des droits de l'homme 
-                        </a>
+                        <a href="/actualite/le-jour-ou-fut-adoptee-la-declaration-universelle-des-droits-de-lhomme" class="fr-card__link" target="_self">L'adoption de la Déclaration universelle des droits de l'homme</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -404,10 +390,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/9dae70c96b3f3ea027ed327b0eba44192c03a24a.jpg" alt="Photo prise le 24 octobre 1948 à Paris, au palais de Chaillot, où siège l'Assemblée générale de l'ONU." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/9dae70c96b3f3ea027ed327b0eba44192c03a24a.jpg" alt="Photo prise le 24 octobre 1948 à Paris, au palais de Chaillot, où siège l'Assemblée générale de l'ONU." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
@@ -419,9 +406,7 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-4-au-10-decembre-2023" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 4 au 10 décembre 2023 
-                        </a>
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-4-au-10-decembre-2023" class="fr-card__link" target="_self">Les 4 actus de la semaine du 4 au 10 décembre 2023</a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -435,10 +420,11 @@
                     </div>
                 </div>
             </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/0d6a082d7cbda6576f2dc0d15c8fa2c7e7630f69.jpg" alt="Enfants en classe." data-fr-js-ratio="true">
-                </div>
-                      
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/07/0d6a082d7cbda6576f2dc0d15c8fa2c7e7630f69.jpg" alt="Enfants en classe." data-fr-js-ratio="true">
+            </div>
+                   
         </div>]]></content:encoded>
         </item>
         <item>
