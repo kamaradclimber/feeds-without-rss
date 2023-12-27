@@ -2,91 +2,441 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-12-26T17:38:11.220Z</updated>
+    <updated>2023-12-27T05:38:42.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.798Z</updated>
+        <title type="html"><![CDATA[Ce qui change au 1er janvier 2024]]></title>
+        <id>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-janvier-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-janvier-2024"/>
+        <updated>2023-12-27T05:38:34.207Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="814ab140-7404-4f67-aeb0-16490127a033">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/ce-qui-change-au-1er-janvier-2024" class="fr-card__link" target="_self">
+                            Ce qui change au 1er janvier 2024 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 26/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3347d92eaedb9827594b0e4c89fba1fdf2de3d54.png" alt="" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.798Z</updated>
+        <title type="html"><![CDATA[Santé mentale : une plateforme d'écoute pour les étudiants]]></title>
+        <id>https://www.gouvernement.fr/actualite/sante-mentale-une-plateforme-decoute-pour-les-etudiants</id>
+        <link href="https://www.gouvernement.fr/actualite/sante-mentale-une-plateforme-decoute-pour-les-etudiants"/>
+        <updated>2023-12-27T05:38:34.214Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a608d7c3-bca3-42f5-b360-ada39ebc1a11">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/sante-mentale-une-plateforme-decoute-pour-les-etudiants" class="fr-card__link" target="_self">
+                            Santé mentale : une plateforme d'écoute pour les étudiants 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 26/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/43e095fa4efe176ccbce788509353de244925ed4.jpg" alt="Le visage stylisé d'une jeune fille avec écrit Cnaé." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.798Z</updated>
+        <title type="html"><![CDATA[Éducation : des moyens renforcés à la rentrée 2024]]></title>
+        <id>https://www.gouvernement.fr/actualite/education-des-moyens-renforces-a-la-rentree-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/education-des-moyens-renforces-a-la-rentree-2024"/>
+        <updated>2023-12-27T05:38:34.214Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="802b9c41-3231-44b4-890d-55dff1632fa1">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/education-des-moyens-renforces-a-la-rentree-2024" class="fr-card__link" target="_self">
+                            Éducation : des moyens renforcés à la rentrée 2024 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 22/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7fccffd76887d8523ce81eaa365dd0c7807f1edb.jpg" alt="Des écoliers lèvent la main dans une classe." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.798Z</updated>
+        <title type="html"><![CDATA[Parcoursup 2024 ouvre ce mercredi 20 décembre]]></title>
+        <id>https://www.gouvernement.fr/actualite/parcoursup-2024-ouvre-mercredi-20-decembre</id>
+        <link href="https://www.gouvernement.fr/actualite/parcoursup-2024-ouvre-mercredi-20-decembre"/>
+        <updated>2023-12-27T05:38:34.215Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1bca21d7-b423-4db7-975d-b830ca8f379a">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/parcoursup-2024-ouvre-mercredi-20-decembre" class="fr-card__link" target="_self">
+                            Parcoursup 2024 ouvre ce mercredi 20 décembre 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 20/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7b01480a31a2ca4d39c73f5c0c3dfd744570869b.jpg" alt="Une jeune fille consulte son ordinateur portable." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.799Z</updated>
+        <title type="html"><![CDATA[Le calendrier Parcoursup 2024]]></title>
+        <id>https://www.gouvernement.fr/actualite/le-calendrier-parcoursup-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/le-calendrier-parcoursup-2024"/>
+        <updated>2023-12-27T05:38:34.217Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b04fcdfc-7976-48a7-82db-364ac510ac07">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-calendrier-parcoursup-2024" class="fr-card__link" target="_self">
+                            Le calendrier Parcoursup 2024 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 19/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a55d231483a76164d2dbc1cf62ca6d7e949c09d0.jpg" alt="Des étudiants regardent un ordinateur portable." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.799Z</updated>
+        <title type="html"><![CDATA[Stop aux violences contre les professionnels de santé]]></title>
+        <id>https://www.gouvernement.fr/actualite/stop-aux-violences-contre-les-professionnels-de-sante</id>
+        <link href="https://www.gouvernement.fr/actualite/stop-aux-violences-contre-les-professionnels-de-sante"/>
+        <updated>2023-12-27T05:38:34.219Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d8e5ecaf-7917-41d1-b1ab-33326908f437">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/stop-aux-violences-contre-les-professionnels-de-sante" class="fr-card__link" target="_self">
+                            Stop aux violences contre les professionnels de santé 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 19/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4bf6b2d866e7f9fd83557b618dfe1474ce999d60.jpg" alt="Une professionnelle de santé." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.799Z</updated>
+        <title type="html"><![CDATA[Agora : quelle réforme pour le métier d'infirmier ?]]></title>
+        <id>https://www.gouvernement.fr/actualite/votre-avis-sur-agora-quelle-reforme-pour-le-metier-dinfirmier</id>
+        <link href="https://www.gouvernement.fr/actualite/votre-avis-sur-agora-quelle-reforme-pour-le-metier-dinfirmier"/>
+        <updated>2023-12-27T05:38:34.220Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="35092a22-3935-465f-b3ff-66b0361a1b94">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/votre-avis-sur-agora-quelle-reforme-pour-le-metier-dinfirmier" class="fr-card__link" target="_self">
+                            Agora : quelle réforme pour le métier d'infirmier ? 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 18/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/bb526f07ccc145f1023f3cc49ba28c3d5f9edeeb.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.801Z</updated>
+        <title type="html"><![CDATA[Pôle emploi devient France Travail]]></title>
+        <id>https://www.gouvernement.fr/actualite/pole-emploi-devient-france-travail-au-1er-janvier-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/pole-emploi-devient-france-travail-au-1er-janvier-2024"/>
+        <updated>2023-12-27T05:38:34.222Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="afc09199-96a9-4a65-a556-3d404b763f84">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/pole-emploi-devient-france-travail-au-1er-janvier-2024" class="fr-card__link" target="_self">
+                            Pôle emploi devient France Travail 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Travail
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 18/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/51694138f394d15da9f095d54c7ac410ed852d96.jpg" alt="Identifiant visuel de France Travail." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.802Z</updated>
+        <title type="html"><![CDATA[La liste des voitures éligibles au bonus écologique]]></title>
+        <id>https://www.gouvernement.fr/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique</id>
+        <link href="https://www.gouvernement.fr/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique"/>
+        <updated>2023-12-27T05:38:34.223Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="beeaa220-3611-4d78-a6ae-d9d60d7c2470">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique" class="fr-card__link" target="_self">
+                            La liste des voitures éligibles au bonus écologique 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 15/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a88fd2ef2ab2838a6db39a6e12df7e0bdc0a4945.jpg" alt="Places de parking pour les voitures électriques." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.803Z</updated>
+        <title type="html"><![CDATA[Versement de la prime de Noël]]></title>
+        <id>https://www.gouvernement.fr/actualite/la-prime-de-noel-versee-ce-15-decembre</id>
+        <link href="https://www.gouvernement.fr/actualite/la-prime-de-noel-versee-ce-15-decembre"/>
+        <updated>2023-12-27T05:38:34.225Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d08cb404-650d-475d-bee1-2120050ad467">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/la-prime-de-noel-versee-ce-15-decembre" class="fr-card__link" target="_self">
+                            Versement de la prime de Noël 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 15/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3afd27c9af5fd86d5fa12c38ee9356ff9c20bb41.jpg" alt="Un sapin de Noël." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.804Z</updated>
+        <title type="html"><![CDATA[Un parcours de consolidation pour réussir en BTS]]></title>
+        <id>https://www.gouvernement.fr/actualite/article-parcours-de-consolidation-bts</id>
+        <link href="https://www.gouvernement.fr/actualite/article-parcours-de-consolidation-bts"/>
+        <updated>2023-12-27T05:38:34.229Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2afe9374-a166-4383-9c7f-7a4c0a85fad1">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/article-parcours-de-consolidation-bts" class="fr-card__link" target="_self">
+                            Un parcours de consolidation pour réussir en BTS 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Éducation
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 15/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6b711fc97ffad7404e4673bd15186e7df302788d.jpg" alt="Des jeunes gens en train d'étudier." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.808Z</updated>
+        <title type="html"><![CDATA[L'État lance la voiture électrique à 100 euros par mois]]></title>
+        <id>https://www.gouvernement.fr/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois</id>
+        <link href="https://www.gouvernement.fr/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois"/>
+        <updated>2023-12-27T05:38:34.230Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e7d41be1-6709-4dc3-bac3-4d686b8e0398">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois" class="fr-card__link" target="_self">
+                            L'État lance la voiture électrique à 100 euros par mois 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 14/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/50e3c1532dc26ad2e97ef6550f72907f0f9393a6.jpg" alt="Vignette de « Mon leasing électrique. »" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.808Z</updated>
+        <title type="html"><![CDATA[Agora : l'intelligence artificielle, quelles priorités ?]]></title>
+        <id>https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites</id>
+        <link href="https://www.gouvernement.fr/actualite/lintelligence-artificielle-quelles-priorites"/>
+        <updated>2023-12-27T05:38:34.231Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="eaa1b701-97e7-4fd2-a9e5-a6d289ef6d01">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/lintelligence-artificielle-quelles-priorites" class="fr-card__link" target="_self">
+                            Agora : l'intelligence artificielle, quelles priorités ? 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 12/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/256ede6305ddf07b828829681b4e7332483eb962.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2023-12-26T17:38:02.809Z</updated>
+        <title type="html"><![CDATA[France 2030 : vos projets pour l'avenir en lumière]]></title>
+        <id>https://www.gouvernement.fr/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030</id>
+        <link href="https://www.gouvernement.fr/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030"/>
+        <updated>2023-12-27T05:38:34.233Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0ec9f0ff-5102-4b28-a21b-2dd14012c660">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/lavenir-se-construit-en-mettant-vos-projets-en-lumiere-avec-france-2030" class="fr-card__link" target="_self">
+                            France 2030 : vos projets pour l'avenir en lumière 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 11/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/8702a9c136fbe4b4aaed5bcceddb124af4ec7edc.jpg" alt="Deux personnes construisent une maquette." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
     </entry>
 </feed>
