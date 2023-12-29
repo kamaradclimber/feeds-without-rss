@@ -2,9 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2023-12-29T05:38:52.974Z</updated>
+    <updated>2023-12-29T17:39:12.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Biodéchets : le tri devient obligatoire]]></title>
+        <id>https://www.gouvernement.fr/actualite/biodechets-le-tri-devient-obligatoire</id>
+        <link href="https://www.gouvernement.fr/actualite/biodechets-le-tri-devient-obligatoire"/>
+        <updated>2023-12-29T17:39:03.793Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3ae3dbe5-224e-4152-aaee-41183b7c1cce">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/biodechets-le-tri-devient-obligatoire" class="fr-card__link" target="_self">
+                            Biodéchets : le tri devient obligatoire 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 29/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6ec690828f1a4f528d79b3588f0bf6f373ac81cf.jpg" alt="Écologie - Composter ses déchets verts" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le permis de conduire possible à partir de 17 ans]]></title>
+        <id>https://www.gouvernement.fr/actualite/le-permis-de-conduire-possible-a-partir-de-17-ans</id>
+        <link href="https://www.gouvernement.fr/actualite/le-permis-de-conduire-possible-a-partir-de-17-ans"/>
+        <updated>2023-12-29T17:39:03.793Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="39d4edb4-2cec-4756-879b-a6ae30b33fc1">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-permis-de-conduire-possible-a-partir-de-17-ans" class="fr-card__link" target="_self">
+                            Le permis de conduire possible à partir de 17 ans 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 29/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c2c8e0cb0b785647e989a96ce9020894440ac3f8.jpg" alt="Deux mains posées sur le volant d'une voiture." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeux olympiques : un bingo pour démonter les idées reçues]]></title>
+        <id>https://www.gouvernement.fr/actualite/jeux-olympiques-un-bingo-pour-demonter-les-idees-recues</id>
+        <link href="https://www.gouvernement.fr/actualite/jeux-olympiques-un-bingo-pour-demonter-les-idees-recues"/>
+        <updated>2023-12-29T17:39:03.794Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e05ecbb6-efab-4df9-abae-bf949836316f">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/jeux-olympiques-un-bingo-pour-demonter-les-idees-recues" class="fr-card__link" target="_self">
+                            Jeux olympiques : un bingo pour démonter les idées reçues 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sport
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 29/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/aa67f91922f774f696714cd0cef2363341bdeca4.jpg" alt="Un fond bleu clair avec les mots « Bingo des idées reçues sur les Jeux olympiques et paralympiques de Paris 2024 » écrits en blanc et des pictogrammes représentant une coupe, une médaille et d'autres éléments divers en référence aux Jeux olympiques." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 gestes clés pour économiser l’énergie au quotidien]]></title>
         <id>https://www.gouvernement.fr/actualite/7-gestes-cles-pour-economiser-lenergie-au-quotidien</id>
@@ -342,99 +435,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a88fd2ef2ab2838a6db39a6e12df7e0bdc0a4945.jpg" alt="Places de parking pour les voitures électriques." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Versement de la prime de Noël]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-prime-de-noel-versee-ce-15-decembre</id>
-        <link href="https://www.gouvernement.fr/actualite/la-prime-de-noel-versee-ce-15-decembre"/>
-        <updated>2023-12-27T05:38:34.225Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d08cb404-650d-475d-bee1-2120050ad467">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-prime-de-noel-versee-ce-15-decembre" class="fr-card__link" target="_self">
-                            Versement de la prime de Noël 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 15/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/3afd27c9af5fd86d5fa12c38ee9356ff9c20bb41.jpg" alt="Un sapin de Noël." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un parcours de consolidation pour réussir en BTS]]></title>
-        <id>https://www.gouvernement.fr/actualite/article-parcours-de-consolidation-bts</id>
-        <link href="https://www.gouvernement.fr/actualite/article-parcours-de-consolidation-bts"/>
-        <updated>2023-12-27T05:38:34.229Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2afe9374-a166-4383-9c7f-7a4c0a85fad1">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/article-parcours-de-consolidation-bts" class="fr-card__link" target="_self">
-                            Un parcours de consolidation pour réussir en BTS 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 15/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6b711fc97ffad7404e4673bd15186e7df302788d.jpg" alt="Des jeunes gens en train d'étudier." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'État lance la voiture électrique à 100 euros par mois]]></title>
-        <id>https://www.gouvernement.fr/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois</id>
-        <link href="https://www.gouvernement.fr/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois"/>
-        <updated>2023-12-27T05:38:34.230Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e7d41be1-6709-4dc3-bac3-4d686b8e0398">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/letat-lance-la-voiture-electrique-a-100-euros-par-mois" class="fr-card__link" target="_self">
-                            L'État lance la voiture électrique à 100 euros par mois 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 14/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/50e3c1532dc26ad2e97ef6550f72907f0f9393a6.jpg" alt="Vignette de « Mon leasing électrique. »" data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
