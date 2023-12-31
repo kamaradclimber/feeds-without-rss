@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 05:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 17:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/biodechets-le-tri-devient-obligatoire" class="fr-card__link" target="_self">Biodéchets : le tri devient obligatoire</a>
+                        <a href="/actualite/biodechets-le-tri-devient-obligatoire" class="fr-card__link" target="_self">
+                            Biodéchets : le tri devient obligatoire 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -30,11 +32,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/6ec690828f1a4f528d79b3588f0bf6f373ac81cf.jpg" alt="Écologie - Composter ses déchets verts" data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/6ec690828f1a4f528d79b3588f0bf6f373ac81cf.jpg" alt="Écologie - Composter ses déchets verts" data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -46,7 +47,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-permis-de-conduire-possible-a-partir-de-17-ans" class="fr-card__link" target="_self">Le permis de conduire possible à partir de 17 ans</a>
+                        <a href="/actualite/le-permis-de-conduire-possible-a-partir-de-17-ans" class="fr-card__link" target="_self">
+                            Le permis de conduire possible à partir de 17 ans 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -60,11 +63,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/c2c8e0cb0b785647e989a96ce9020894440ac3f8.jpg" alt="Deux mains posées sur le volant d'une voiture." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c2c8e0cb0b785647e989a96ce9020894440ac3f8.jpg" alt="Deux mains posées sur le volant d'une voiture." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -76,7 +78,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/jeux-olympiques-un-bingo-pour-demonter-les-idees-recues" class="fr-card__link" target="_self">Jeux olympiques : un bingo pour démonter les idées reçues</a>
+                        <a href="/actualite/jeux-olympiques-un-bingo-pour-demonter-les-idees-recues" class="fr-card__link" target="_self">
+                            Jeux olympiques : un bingo pour démonter les idées reçues 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -90,11 +94,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/aa67f91922f774f696714cd0cef2363341bdeca4.jpg" alt="Un fond bleu clair avec les mots « Bingo des idées reçues sur les Jeux olympiques et paralympiques de Paris 2024 » écrits en blanc et des pictogrammes représentant une coupe, une médaille et d'autres éléments divers en référence aux Jeux olympiques." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/aa67f91922f774f696714cd0cef2363341bdeca4.jpg" alt="Un fond bleu clair avec les mots « Bingo des idées reçues sur les Jeux olympiques et paralympiques de Paris 2024 » écrits en blanc et des pictogrammes représentant une coupe, une médaille et d'autres éléments divers en référence aux Jeux olympiques." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -106,7 +109,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/7-gestes-cles-pour-economiser-lenergie-au-quotidien" class="fr-card__link" target="_self">7 gestes clés pour économiser l’énergie au quotidien</a>
+                        <a href="/actualite/7-gestes-cles-pour-economiser-lenergie-au-quotidien" class="fr-card__link" target="_self">
+                            7 gestes clés pour économiser l’énergie au quotidien 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -120,11 +125,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/42d6ff5875dea5e430a70f941675411051e9e7cf.jpg" alt="Un visuel montrant un pommeau de douche et le message « Prenons des douches moins longues »." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/42d6ff5875dea5e430a70f941675411051e9e7cf.jpg" alt="Un visuel montrant un pommeau de douche et le message « Prenons des douches moins longues »." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -136,7 +140,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/gaz-a-effet-de-serre-baisse-de-4-6-sur-9-mois" class="fr-card__link" target="_self">Émissions de gaz à effet de serre : baisse de 4,6 % sur 9 mois</a>
+                        <a href="/actualite/gaz-a-effet-de-serre-baisse-de-4-6-sur-9-mois" class="fr-card__link" target="_self">
+                            Émissions de gaz à effet de serre : baisse de 4,6 % sur 9 mois 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -150,11 +156,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/454a4a3525a6ecf52b4bc17a3ffda978b298720d.jpg" alt="Fumée blanche s’échappant de la cheminée d’une usine sur un ciel bleu profond." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/454a4a3525a6ecf52b4bc17a3ffda978b298720d.jpg" alt="Fumée blanche s’échappant de la cheminée d’une usine sur un ciel bleu profond." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -166,7 +171,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ce-qui-change-au-1er-janvier-2024" class="fr-card__link" target="_self">Ce qui change au 1er janvier 2024</a>
+                        <a href="/actualite/ce-qui-change-au-1er-janvier-2024" class="fr-card__link" target="_self">
+                            Ce qui change au 1er janvier 2024 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -180,11 +187,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/ee29c709192a066d858d0855efe53db6ad905fd0.png" alt="La date du 1er janvier 2024 sur une feuille de cahier" data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ee29c709192a066d858d0855efe53db6ad905fd0.png" alt="La date du 1er janvier 2024 sur une feuille de cahier" data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -196,7 +202,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/sante-mentale-une-plateforme-decoute-pour-les-etudiants" class="fr-card__link" target="_self">Santé mentale : une plateforme d'écoute pour les étudiants</a>
+                        <a href="/actualite/sante-mentale-une-plateforme-decoute-pour-les-etudiants" class="fr-card__link" target="_self">
+                            Santé mentale : une plateforme d'écoute pour les étudiants 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -210,11 +218,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/43e095fa4efe176ccbce788509353de244925ed4.jpg" alt="Le visage stylisé d'une jeune fille avec écrit Cnaé." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/43e095fa4efe176ccbce788509353de244925ed4.jpg" alt="Le visage stylisé d'une jeune fille avec écrit Cnaé." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -226,7 +233,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/education-des-moyens-renforces-a-la-rentree-2024" class="fr-card__link" target="_self">Éducation : des moyens renforcés à la rentrée 2024</a>
+                        <a href="/actualite/education-des-moyens-renforces-a-la-rentree-2024" class="fr-card__link" target="_self">
+                            Éducation : des moyens renforcés à la rentrée 2024 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -240,11 +249,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/7fccffd76887d8523ce81eaa365dd0c7807f1edb.jpg" alt="Des écoliers lèvent la main dans une classe." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7fccffd76887d8523ce81eaa365dd0c7807f1edb.jpg" alt="Des écoliers lèvent la main dans une classe." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -256,7 +264,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/parcoursup-2024-ouvre-mercredi-20-decembre" class="fr-card__link" target="_self">Parcoursup 2024 ouvre ce mercredi 20 décembre</a>
+                        <a href="/actualite/parcoursup-2024-ouvre-mercredi-20-decembre" class="fr-card__link" target="_self">
+                            Parcoursup 2024 ouvre ce mercredi 20 décembre 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -270,11 +280,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/7b01480a31a2ca4d39c73f5c0c3dfd744570869b.jpg" alt="Une jeune fille consulte son ordinateur portable." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7b01480a31a2ca4d39c73f5c0c3dfd744570869b.jpg" alt="Une jeune fille consulte son ordinateur portable." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -286,7 +295,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-calendrier-parcoursup-2024" class="fr-card__link" target="_self">Le calendrier Parcoursup 2024</a>
+                        <a href="/actualite/le-calendrier-parcoursup-2024" class="fr-card__link" target="_self">
+                            Le calendrier Parcoursup 2024 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -300,11 +311,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/a55d231483a76164d2dbc1cf62ca6d7e949c09d0.jpg" alt="Des étudiants regardent un ordinateur portable." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a55d231483a76164d2dbc1cf62ca6d7e949c09d0.jpg" alt="Des étudiants regardent un ordinateur portable." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -316,7 +326,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/stop-aux-violences-contre-les-professionnels-de-sante" class="fr-card__link" target="_self">Stop aux violences contre les professionnels de santé</a>
+                        <a href="/actualite/stop-aux-violences-contre-les-professionnels-de-sante" class="fr-card__link" target="_self">
+                            Stop aux violences contre les professionnels de santé 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -330,11 +342,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/4bf6b2d866e7f9fd83557b618dfe1474ce999d60.jpg" alt="Une professionnelle de santé." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/4bf6b2d866e7f9fd83557b618dfe1474ce999d60.jpg" alt="Une professionnelle de santé." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -346,7 +357,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/votre-avis-sur-agora-quelle-reforme-pour-le-metier-dinfirmier" class="fr-card__link" target="_self">Agora : quelle réforme pour le métier d'infirmier ?</a>
+                        <a href="/actualite/votre-avis-sur-agora-quelle-reforme-pour-le-metier-dinfirmier" class="fr-card__link" target="_self">
+                            Agora : quelle réforme pour le métier d'infirmier ? 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -360,11 +373,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/bb526f07ccc145f1023f3cc49ba28c3d5f9edeeb.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/bb526f07ccc145f1023f3cc49ba28c3d5f9edeeb.jpg" alt="Visuel montrant l'application Agora et le slogan « La première application pour un dialogue direct avec les Français »." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -376,7 +388,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/pole-emploi-devient-france-travail-au-1er-janvier-2024" class="fr-card__link" target="_self">Pôle emploi devient France Travail</a>
+                        <a href="/actualite/pole-emploi-devient-france-travail-au-1er-janvier-2024" class="fr-card__link" target="_self">
+                            Pôle emploi devient France Travail 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -390,11 +404,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/51694138f394d15da9f095d54c7ac410ed852d96.jpg" alt="Identifiant visuel de France Travail." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/51694138f394d15da9f095d54c7ac410ed852d96.jpg" alt="Identifiant visuel de France Travail." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
@@ -406,7 +419,9 @@
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique" class="fr-card__link" target="_self">La liste des voitures éligibles au bonus écologique</a>
+                        <a href="/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique" class="fr-card__link" target="_self">
+                            La liste des voitures éligibles au bonus écologique 
+                        </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
@@ -420,11 +435,10 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="fr-card__img">
-                <img class="fr-responsive-img" src="/upload/media/content/0001/07/a88fd2ef2ab2838a6db39a6e12df7e0bdc0a4945.jpg" alt="Places de parking pour les voitures électriques." data-fr-js-ratio="true">
-            </div>
-                   
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a88fd2ef2ab2838a6db39a6e12df7e0bdc0a4945.jpg" alt="Places de parking pour les voitures électriques." data-fr-js-ratio="true">
+                </div>
+                      
         </div>]]></content:encoded>
         </item>
         <item>
