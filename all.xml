@@ -4,9 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 17:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 05:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Meilleurs vœux 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/voeux2024</link>
+            <guid>https://www.gouvernement.fr/actualite/voeux2024</guid>
+            <pubDate>Mon, 01 Jan 2024 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c9eaa253-e2bc-42e1-b283-f8217a765008">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/voeux2024" class="fr-card__link" target="_self">
+                            Meilleurs vœux 2024 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Institutions
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 31/12/2023
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/c5ee4191db6520344450697c28dfe034da5e97ef.jpg" alt="2024 et la devise liberté, égalité, fraternité inscrits sur fond clair, avec un rameau d'olivier stylisé." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Biodéchets : le tri devient obligatoire (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/biodechets-le-tri-devient-obligatoire</link>
@@ -406,37 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/51694138f394d15da9f095d54c7ac410ed852d96.jpg" alt="Identifiant visuel de France Travail." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[La liste des voitures éligibles au bonus écologique (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique</link>
-            <guid>https://www.gouvernement.fr/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique</guid>
-            <pubDate>Sun, 31 Dec 2023 05:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="beeaa220-3611-4d78-a6ae-d9d60d7c2470">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-liste-des-voitures-eligibles-au-bonus-ecologique" class="fr-card__link" target="_self">
-                            La liste des voitures éligibles au bonus écologique 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 15/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/a88fd2ef2ab2838a6db39a6e12df7e0bdc0a4945.jpg" alt="Places de parking pour les voitures électriques." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
