@@ -4,9 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 17:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Permis : fin du retrait de point pour les petits excès de vitesse (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/permis-fin-du-retrait-de-point-pour-les-petits-exces-de-vitesse</link>
+            <guid>https://www.gouvernement.fr/actualite/permis-fin-du-retrait-de-point-pour-les-petits-exces-de-vitesse</guid>
+            <pubDate>Thu, 04 Jan 2024 17:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="631adf94-a3de-4f05-a08e-3218d406c901">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/permis-fin-du-retrait-de-point-pour-les-petits-exces-de-vitesse" class="fr-card__link" target="_self">
+                            Permis : fin du retrait de point pour les petits excès de vitesse 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 04/01/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7b52e50d6683e6a3a253c21bf95cc90cf4fa9976.jpg" alt="Un tableau de bord de voiture montrant le cadran de vitesse." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Un arrêt maladie sans jour de carence pour les fausses couches (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/un-arret-maladie-sans-jour-de-carence-pour-les-fausses-couches</link>
@@ -406,37 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7fccffd76887d8523ce81eaa365dd0c7807f1edb.jpg" alt="Des écoliers lèvent la main dans une classe." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Parcoursup 2024 ouvre ce mercredi 20 décembre (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/parcoursup-2024-ouvre-mercredi-20-decembre</link>
-            <guid>https://www.gouvernement.fr/actualite/parcoursup-2024-ouvre-mercredi-20-decembre</guid>
-            <pubDate>Wed, 03 Jan 2024 05:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1bca21d7-b423-4db7-975d-b830ca8f379a">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/parcoursup-2024-ouvre-mercredi-20-decembre" class="fr-card__link" target="_self">
-                            Parcoursup 2024 ouvre ce mercredi 20 décembre 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 20/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/7b01480a31a2ca4d39c73f5c0c3dfd744570869b.jpg" alt="Une jeune fille consulte son ordinateur portable." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
