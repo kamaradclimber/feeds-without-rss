@@ -4,11 +4,42 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 17:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[40 ans de francophonie avec TV5 Monde (Toute l'actualité | Gouvernement.fr)]]></title>
+            <title><![CDATA[Démission d'Élisabeth Borne (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/composition-du-nouveau-gouvernement</link>
+            <guid>https://www.gouvernement.fr/actualite/composition-du-nouveau-gouvernement</guid>
+            <pubDate>Mon, 08 Jan 2024 17:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="90746e27-9288-4a48-b0b5-dae8ec489bce">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/composition-du-nouveau-gouvernement" class="fr-card__link" target="_self">
+                            Démission d'Élisabeth Borne 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 08/01/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/203fb981f680a546fee2e19bf4eec764dc5325bc.jpg" alt="Le mot " gouvernement"="" inscrit="" en="" bleu="" sur="" fond="" blanc="" avec="" un="" liseret="" rouge."="" data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[40 ans de francophonie avec TV5Monde (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/40-ans-de-francophonie-avec-tv5-monde</link>
             <guid>https://www.gouvernement.fr/actualite/40-ans-de-francophonie-avec-tv5-monde</guid>
             <pubDate>Sun, 07 Jan 2024 17:38:17 GMT</pubDate>
@@ -17,12 +48,12 @@
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
                         <a href="/actualite/40-ans-de-francophonie-avec-tv5-monde" class="fr-card__link" target="_self">
-                            40 ans de francophonie avec TV5 Monde 
+                            40 ans de francophonie avec TV5Monde 
                         </a>
                     </h4>
                     <div class="fr-card__start">
                         <p class="fr-card__detail">
-                             Culture
+                             International
                         </p>
                     </div>
                     <div class="fr-card__end">
@@ -33,7 +64,7 @@
                 </div>
             </div>
                             <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/39b5d8508d39724329f1f597cd829e147e00230c.jpg" alt="Une télécommande au premier plan ; un écran de télévision flouté en arrière plan." data-fr-js-ratio="true">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/0c6c64bd9babe6d5670fd6106ad4fb19feb5c6ad.jpg" alt="Une télécommande au premier plan ; un écran de télévision en arrière plan." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
@@ -406,37 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/454a4a3525a6ecf52b4bc17a3ffda978b298720d.jpg" alt="Fumée blanche s’échappant de la cheminée d’une usine sur un ciel bleu profond." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ce qui change au 1er janvier 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-janvier-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-janvier-2024</guid>
-            <pubDate>Sun, 07 Jan 2024 17:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="814ab140-7404-4f67-aeb0-16490127a033">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/ce-qui-change-au-1er-janvier-2024" class="fr-card__link" target="_self">
-                            Ce qui change au 1er janvier 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 26/12/2023
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/07/ee29c709192a066d858d0855efe53db6ad905fd0.png" alt="La date du 1er janvier 2024 sur une feuille de cahier" data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
