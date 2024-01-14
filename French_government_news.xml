@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-01-13T17:38:32.985Z</updated>
+    <updated>2024-01-14T05:38:45.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
@@ -410,9 +410,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Le permis de conduire possible à partir de 17 ans]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-permis-de-conduire-possible-a-partir-de-17-ans</id>
-        <link href="https://www.gouvernement.fr/actualite/le-permis-de-conduire-possible-a-partir-de-17-ans"/>
-        <updated>2024-01-13T05:38:21.555Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-01-14T05:38:36.829Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="39d4edb4-2cec-4756-879b-a6ae30b33fc1">
             <div class="fr-card__body">
                 <div class="fr-card__content">
