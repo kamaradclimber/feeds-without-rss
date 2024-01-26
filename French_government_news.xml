@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-01-25T17:38:44.603Z</updated>
+    <updated>2024-01-26T05:38:34.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
@@ -248,7 +248,7 @@
                 </div>
             </div>
                             <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/fd513bd44ad15183e525fa5ffce8e929e425ed22.jpg" alt="Denis Ferrand" data-fr-js-ratio="true">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/4b98de7d72637b7275e4cba745947dbce9eb67b3.jpg" alt="Denis Ferrand" data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
