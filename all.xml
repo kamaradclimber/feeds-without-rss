@@ -4,9 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 05:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 17:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Les 4 actus de la semaine du 22 au 28 janvier 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-22-au-28-janvier-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-22-au-28-janvier-2024</guid>
+            <pubDate>Sat, 27 Jan 2024 17:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="21453667-8069-48e4-b1d4-67c8d40b6b9f">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-22-au-28-janvier-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 22 au 28 janvier 2024 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 27/01/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/4c5d15aa1a1ad952795ee132ffcc3630afcd061e.jpg" alt="Bannière des 4 actus de la semaine du 22 au 28 janvier 2024." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Des mesures d'urgence en faveur du monde agricole (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/des-mesures-en-faveur-du-monde-agricole</link>
@@ -406,37 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/3f2a8b862f58e2f0bcd25d635ecc0a606f7dcdc6.jpg" alt="Photo de Christine Mazereau" data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les dates des vacances scolaires d'hiver 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-dates-des-vacances-scolaires-dhiver-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/les-dates-des-vacances-scolaires-dhiver-2024</guid>
-            <pubDate>Sun, 21 Jan 2024 05:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6a8954b3-4582-445b-986b-b91d53153b17">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-dates-des-vacances-scolaires-dhiver-2024" class="fr-card__link" target="_self">
-                            Les dates des vacances scolaires d'hiver 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 10/01/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/ff324d41ff66be4c8e2d084d764cd73a87a218ec.jpg" alt="Trois écoliers de dos courent." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
