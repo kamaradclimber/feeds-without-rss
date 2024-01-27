@@ -4,9 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 17:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 05:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Des mesures d'urgence en faveur du monde agricole (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/des-mesures-en-faveur-du-monde-agricole</link>
+            <guid>https://www.gouvernement.fr/actualite/des-mesures-en-faveur-du-monde-agricole</guid>
+            <pubDate>Sat, 27 Jan 2024 05:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5cc651fb-6c28-4a26-a093-4396db5741ba">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/des-mesures-en-faveur-du-monde-agricole" class="fr-card__link" target="_self">
+                            Des mesures d'urgence en faveur du monde agricole 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Agriculture
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 26/01/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/fce799eae6f5f537ffc16817f09fc909f539ac60.jpg" alt="Le Premier ministre Gabriel Attal aux côtés des agriculteurs." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Ce qui change au 1er février 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-fevrier-2024</link>
@@ -406,37 +437,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/ff324d41ff66be4c8e2d084d764cd73a87a218ec.jpg" alt="Trois écoliers de dos courent." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les soldes d’hiver 2024 débutent mercredi 10 janvier (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-soldes-dhiver-2024-debutent-mercredi-10-janvier</link>
-            <guid>https://www.gouvernement.fr/actualite/les-soldes-dhiver-2024-debutent-mercredi-10-janvier</guid>
-            <pubDate>Sun, 21 Jan 2024 05:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="873d36d2-38bb-400a-a14b-0b183cd2fd8a">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-soldes-dhiver-2024-debutent-mercredi-10-janvier" class="fr-card__link" target="_self">
-                            Les soldes d’hiver 2024 débutent mercredi 10 janvier 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 09/01/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/8dd006cc88e126ec46c2a2baee7169d41c813b60.jpg" alt="Une devanture de vitrine avec un sac en papier sur lequel est écrit Soldes en rouge." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content:encoded>
