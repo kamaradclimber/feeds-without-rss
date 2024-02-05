@@ -2,9 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-02-05T05:38:26.343Z</updated>
+    <updated>2024-02-05T17:38:34.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Une plateforme de remboursement du gazole non routier]]></title>
+        <id>https://www.gouvernement.fr/actualite/agriculture-une-plateforme-de-remboursement-du-gazole-non-routier</id>
+        <link href="https://www.gouvernement.fr/actualite/agriculture-une-plateforme-de-remboursement-du-gazole-non-routier"/>
+        <updated>2024-02-05T17:38:24.623Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="52258b7e-b442-4d7a-b899-d0995399981d">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/agriculture-une-plateforme-de-remboursement-du-gazole-non-routier" class="fr-card__link" target="_self">
+                            Une plateforme de remboursement du gazole non routier 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Transport
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 05/02/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/cdc9b72ec3e86d5478eac8eef4660abf9f8af44c.jpg" alt="Un agriculteur sur son tracteur." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Santé publique : les dispositifs pour prévenir le suicide]]></title>
+        <id>https://www.gouvernement.fr/actualite/sante-publique-les-dispositifs-pour-prevenir-le-suicide</id>
+        <link href="https://www.gouvernement.fr/actualite/sante-publique-les-dispositifs-pour-prevenir-le-suicide"/>
+        <updated>2024-02-05T17:38:24.623Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6c34cfe5-130c-4d07-9ab7-9029b56289bb">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/sante-publique-les-dispositifs-pour-prevenir-le-suicide" class="fr-card__link" target="_self">
+                            Santé publique : les dispositifs pour prévenir le suicide 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 05/02/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__img">
+                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/88af46582b01cfbb5f830353b0eee0b0981d9e9a.jpg" alt="Une poignée de mains de soutien." data-fr-js-ratio="true">
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 29 janvier au 4 février 2024]]></title>
         <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-29-janvier-au-4-fevrier-2024</id>
@@ -373,68 +435,6 @@
             </div>
                             <div class="fr-card__img">
                     <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/b6d527bdbbb76acc69dac9db51be54039c18ab58.jpg" alt="Une voiture électrique en train de se recharger." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un challenge pour sensibiliser les lycéens à la sécurité numérique]]></title>
-        <id>https://www.gouvernement.fr/actualite/passe-ton-hack-dabord-le-challenge-qui-initie-les-lyceens-a-la-cybersecurite</id>
-        <link href="https://www.gouvernement.fr/actualite/passe-ton-hack-dabord-le-challenge-qui-initie-les-lyceens-a-la-cybersecurite"/>
-        <updated>2024-02-04T17:38:30.510Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="51fb627d-ab50-46d9-96b3-5b7d5049647f">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/passe-ton-hack-dabord-le-challenge-qui-initie-les-lyceens-a-la-cybersecurite" class="fr-card__link" target="_self">
-                            Un challenge pour sensibiliser les lycéens à la sécurité numérique 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 23/01/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/ff826f3ffba3502d8e8a3c0f4806dfbe6e673063.jpg" alt="De jeunes personnes sur des ordinateurs portables." data-fr-js-ratio="true">
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'état des lieux du sexisme en France]]></title>
-        <id>https://www.gouvernement.fr/actualite/letat-des-lieux-du-sexisme-en-france</id>
-        <link href="https://www.gouvernement.fr/actualite/letat-des-lieux-du-sexisme-en-france"/>
-        <updated>2024-02-04T17:38:30.512Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e9bd6631-489d-47a6-b333-5369e211442c">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/letat-des-lieux-du-sexisme-en-france" class="fr-card__link" target="_self">
-                            L'état des lieux du sexisme en France 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié 22/01/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__img">
-                    <img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/bdbd3c1c987dce57654f7f65b18eb0f3d05dbdea.jpg" alt="Une femme dans la foule." data-fr-js-ratio="true">
                 </div>
                       
         </div>]]></content>
