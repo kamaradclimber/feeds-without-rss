@@ -4,9 +4,17 @@
         <title>Blog - Electricity Maps</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 05:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 17:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Electricity Mapped 2023 - US]]></title>
+            <link>https://www.electricitymaps.com/blog/us-electricity-year-in-review-2023</link>
+            <guid>https://www.electricitymaps.com/blog/us-electricity-year-in-review-2023</guid>
+            <pubDate>Thu, 22 Feb 2024 17:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="div-block-2"><a href="/blog/us-electricity-year-in-review-2023" class="card-link w-inline-block"><img src="https://assets-global.website-files.com/63c7ac359aace754812ca46a/65bb629aca386523760c9c5f_Thumbnail.png" loading="lazy" alt="" sizes="(max-width: 479px) 71vw, (max-width: 991px) 39vw, (max-width: 1439px) 26vw, 340px" srcset="https://assets-global.website-files.com/63c7ac359aace754812ca46a/65bb629aca386523760c9c5f_Thumbnail-p-500.png 500w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/65bb629aca386523760c9c5f_Thumbnail-p-800.png 800w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/65bb629aca386523760c9c5f_Thumbnail.png 870w" class="image-11"></a><div class="div-block-3"><div class="text-small date">January 31, 2024</div><div class="text-small dash">-</div><div class="text-small date">10 minutes</div></div><a href="/blog/us-electricity-year-in-review-2023" class="link-block-5 w-inline-block"><h2 class="heading-20 header-link">Electricity Mapped 2023 - US</h2></a><div class="text-small blog-summary">In 2023, emissions from electricity consumption decreased by 5% with a 20% reduction in coal-fired generation. Can wind and solar exceed coal in 2024?</div><a href="/blog/us-electricity-year-in-review-2023" class="link-4 text-small">Read more</a></div>]]></content:encoded>
+            <enclosure url="https://assets-global.website-files.com/63c7ac359aace754812ca46a/65bb629aca386523760c9c5f_Thumbnail.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Electricity Mapped 2023 - Europe]]></title>
             <link>https://www.electricitymaps.com/blog/europe-electricity-year-in-review-2023</link>
@@ -71,14 +79,6 @@ A quantification of emission savings for electric vehicles in the city of Freder
             <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="div-block-2"><a href="/blog/2022-us-review" class="card-link w-inline-block"><img src="https://assets-global.website-files.com/63c7ac359aace754812ca46a/63ece0b10b57b9a2dc3785c3_63da372c8b48021b3dfd2751_us%20prod-min.png" loading="lazy" alt="" sizes="(max-width: 479px) 71vw, (max-width: 991px) 39vw, (max-width: 1439px) 26vw, 340px" srcset="https://assets-global.website-files.com/63c7ac359aace754812ca46a/63ece0b10b57b9a2dc3785c3_63da372c8b48021b3dfd2751_us%20prod-min-p-500.png 500w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/63ece0b10b57b9a2dc3785c3_63da372c8b48021b3dfd2751_us%20prod-min-p-800.png 800w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/63ece0b10b57b9a2dc3785c3_63da372c8b48021b3dfd2751_us%20prod-min.png 1770w" class="image-11"></a><div class="div-block-3"><div class="text-small date">February 7, 2023</div><div class="text-small dash">-</div><div class="text-small date">10 min</div></div><a href="/blog/2022-us-review" class="link-block-5 w-inline-block"><h2 class="heading-20 header-link">Gas power generation ramped up to cover increases in demand and coal phase-outs in the US - 2022 review</h2></a><div class="text-small blog-summary">In 2022, total average electricity consumption increased in the United States by 4% compared to 2021. This is in particular due to several severe weather events. Learn more in the blog post. </div><a href="/blog/2022-us-review" class="link-4 text-small">Read more</a></div>]]></content:encoded>
             <enclosure url="https://assets-global.website-files.com/63c7ac359aace754812ca46a/63ece0b10b57b9a2dc3785c3_63da372c8b48021b3dfd2751_us%20prod-min.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Storm Elliott: How extreme weather events massively impact carbon emissions from electricity grids]]></title>
-            <link>https://www.electricitymaps.com/blog/storm-elliott</link>
-            <guid>https://www.electricitymaps.com/blog/storm-elliott</guid>
-            <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="div-block-2"><a href="/blog/storm-elliott" class="card-link w-inline-block"><img src="https://assets-global.website-files.com/63c7ac359aace754812ca46a/63c7ac359aace7eb0c2ca5d6_us2.jpg" loading="lazy" alt="" sizes="(max-width: 479px) 71vw, (max-width: 991px) 39vw, (max-width: 1439px) 26vw, 340px" srcset="https://assets-global.website-files.com/63c7ac359aace754812ca46a/63c7ac359aace7eb0c2ca5d6_us2-p-500.jpg 500w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/63c7ac359aace7eb0c2ca5d6_us2-p-800.jpg 800w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/63c7ac359aace7eb0c2ca5d6_us2-p-1080.jpg 1080w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/63c7ac359aace7eb0c2ca5d6_us2.jpg 1500w" class="image-11"></a><div class="div-block-3"><div class="text-small date">January 11, 2023</div><div class="text-small dash">-</div><div class="text-small date">20 min read</div></div><a href="/blog/storm-elliott" class="link-block-5 w-inline-block"><h2 class="heading-20 header-link">Storm Elliott: How extreme weather events massively impact carbon emissions from electricity grids</h2></a><div class="text-small blog-summary">During the Christmas period, storm Elliott hit the US with freezing temperatures. This had a great impact on some of the US power grids. This resulted in record high demand as well as tons of extra CO2 emitted.</div><a href="/blog/storm-elliott" class="link-4 text-small">Read more</a></div>]]></content:encoded>
-            <enclosure url="https://assets-global.website-files.com/63c7ac359aace754812ca46a/63c7ac359aace7eb0c2ca5d6_us2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
