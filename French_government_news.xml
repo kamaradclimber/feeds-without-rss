@@ -2,189 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-02-27T17:38:39.095Z</updated>
+    <updated>2024-02-28T05:38:25.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Ouverture des candidatures sur Mon master]]></title>
-        <id>https://www.gouvernement.fr/actualite/ouverture-des-candidatures-sur-mon-master</id>
-        <link href="https://www.gouvernement.fr/actualite/ouverture-des-candidatures-sur-mon-master"/>
-        <updated>2024-02-27T17:38:30.002Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ae51f9ff-c37f-4e10-bedb-9afddba2e74d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ouverture-des-candidatures-sur-mon-master" class="fr-card__link" target="_self">
-                            Ouverture des candidatures sur Mon master 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 27/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/b2b8c59c37ef81929383c89dffd9920b7a984f6e.jpg" alt="Une jeune femme, l'air concentré regarde un ordinateur portable." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.033Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lancement d'un plan gouvernemental de reconquête de la souveraineté sur l’élevage]]></title>
-        <id>https://www.gouvernement.fr/actualite/lancement-du-plan-gouvernemental-de-reconquete-de-notre-souverainete-sur-lelevage</id>
-        <link href="https://www.gouvernement.fr/actualite/lancement-du-plan-gouvernemental-de-reconquete-de-notre-souverainete-sur-lelevage"/>
-        <updated>2024-02-27T17:38:30.002Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8a6384c2-e8df-4fbc-ad9b-03c2f4979c51"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/lancement-du-plan-gouvernemental-de-reconquete-de-notre-souverainete-sur-lelevage" class="fr-card__link" target="_self">
-                            Lancement d'un plan gouvernemental de reconquête de la souveraineté sur l’élevage 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Agriculture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 27/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/575588ae93718f3a0e1f692935a46a548cd9a64b.jpg" alt="Des vaches." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.034Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Échangez avec des ambassadeurs sur les métiers de la justice]]></title>
-        <id>https://www.gouvernement.fr/actualite/echangez-avec-des-ambassadeurs-sur-les-metiers-de-la-justice</id>
-        <link href="https://www.gouvernement.fr/actualite/echangez-avec-des-ambassadeurs-sur-les-metiers-de-la-justice"/>
-        <updated>2024-02-27T17:38:30.002Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="71361f84-9879-4827-a8d9-1e65b576a2e5"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/echangez-avec-des-ambassadeurs-sur-les-metiers-de-la-justice" class="fr-card__link" target="_self">
-                            Échangez avec des ambassadeurs sur les métiers de la justice 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Justice
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 27/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/b405df8873ab39c23c477c0eafd6b4deed2347e1.jpg" alt="Deux exemplaires du code pénal manipulés par une avocate." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.036Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[« Team France Filière » : une stratégie export commune dans le domaine agricole]]></title>
-        <id>https://www.gouvernement.fr/actualite/team-france-filiere-une-strategie-export-commune-dans-le-domaine-agricole</id>
-        <link href="https://www.gouvernement.fr/actualite/team-france-filiere-une-strategie-export-commune-dans-le-domaine-agricole"/>
-        <updated>2024-02-27T17:38:30.003Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2bafd673-9811-4c4a-81e1-cde80f2184fe"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/team-france-filiere-une-strategie-export-commune-dans-le-domaine-agricole" class="fr-card__link" target="_self">
-                            « Team France Filière » : une stratégie export commune dans le domaine agricole 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Agriculture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 27/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/910cda5656ebfcfd2b8524d7b63d1cdb35dd8109.jpg" alt="Agriculteurs dans un champ." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.037Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les métiers agricoles dans la liste des métiers en tension]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-metiers-agricoles-dans-la-liste-des-metiers-en-tension</id>
-        <link href="https://www.gouvernement.fr/actualite/les-metiers-agricoles-dans-la-liste-des-metiers-en-tension"/>
-        <updated>2024-02-27T17:38:30.005Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d810826c-29c1-465d-82c2-c0e89b8a8408"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-metiers-agricoles-dans-la-liste-des-metiers-en-tension" class="fr-card__link" target="_self">
-                            Les métiers agricoles dans la liste des métiers en tension 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Agriculture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 27/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/ea0cb4ca5feb88e67b692e993f85f353eb45e794.jpg" alt="Vue aérienne d'un tracteur dans des vignes." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.042Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La célébration du 8 mai]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-celebration-du-8-mai</id>
-        <link href="https://www.gouvernement.fr/actualite/la-celebration-du-8-mai"/>
-        <updated>2024-02-27T17:38:30.008Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7a918b29-100c-4f14-a603-459e8ab0dce2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-celebration-du-8-mai" class="fr-card__link" target="_self">
-                            La célébration du 8 mai 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Défense
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/ee1c3b6ee11ea80a0c8a2cd8440afe79b3843ae7.jpg" alt="Célébration du 8 mai." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.042Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Loi sur les comptes bancaires inactifs : comment ça marche]]></title>
-        <id>https://www.gouvernement.fr/actualite/loi-sur-les-comptes-bancaires-inactifs-comment-ca-marche</id>
-        <link href="https://www.gouvernement.fr/actualite/loi-sur-les-comptes-bancaires-inactifs-comment-ca-marche"/>
-        <updated>2024-02-27T17:38:30.008Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9050f648-2966-43fe-af22-6922019454a6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/loi-sur-les-comptes-bancaires-inactifs-comment-ca-marche" class="fr-card__link" target="_self">
-                            Loi sur les comptes bancaires inactifs : comment ça marche 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Économie
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/eae43d7f59fd3786dc2457e2bd7a9f799907deca.jpg" alt="Pièces de monnaie." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.042Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1927-2017 : c’était Simone Veil]]></title>
-        <id>https://www.gouvernement.fr/actualite/1927-2017-cetait-simone-veil</id>
-        <link href="https://www.gouvernement.fr/actualite/1927-2017-cetait-simone-veil"/>
-        <updated>2024-02-27T17:38:30.008Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="760e9de7-a0d4-4de5-810d-fd9b8f0e4778"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/1927-2017-cetait-simone-veil" class="fr-card__link" target="_self">
-                            1927-2017 : c’était Simone Veil 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Culture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/3e05dc3c5e1969d156a3571f67afdac7fa5c5715.jpg" alt="Photo de Simone Veil" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.044Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marseille : 45 écoles rénovées en 2028]]></title>
-        <id>https://www.gouvernement.fr/actualite/marseille-45-ecoles-renovees-en-2028</id>
-        <link href="https://www.gouvernement.fr/actualite/marseille-45-ecoles-renovees-en-2028"/>
-        <updated>2024-02-27T17:38:30.010Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed93d84c-caf1-49a2-8bc0-7966fed1223e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/marseille-45-ecoles-renovees-en-2028" class="fr-card__link" target="_self">
-                            Marseille : 45 écoles rénovées en 2028 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/f29fb026728715df34964eca663b627fb3e997f9.jpg" alt="Salle de classe." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.044Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le ministère au Salon international de l’agriculture 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-ministere-a-la-60e-edition-du-salon-international-de-lagriculture</id>
-        <link href="https://www.gouvernement.fr/actualite/le-ministere-a-la-60e-edition-du-salon-international-de-lagriculture"/>
-        <updated>2024-02-27T17:38:30.011Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e11834b4-38b0-4f8f-a7ec-45cd233c284f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/le-ministere-a-la-60e-edition-du-salon-international-de-lagriculture" class="fr-card__link" target="_self">
-                            Le ministère au Salon international de l’agriculture 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Agriculture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/057600c9148bcfb28dcc53cb26a300749cc4eb92.jpg" alt="Stand du ministère chargé de l'agriculture au SIA 2024." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.044Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ce qui change au 1er mars 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-mars-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-mars-2024"/>
-        <updated>2024-02-27T17:38:30.012Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="84623b88-94c6-4bd9-ac13-df254617f60c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-qui-change-au-1er-mars-2024" class="fr-card__link" target="_self">
-                            Ce qui change au 1er mars 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 23/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/d42c126a2d97c568e88c12dbc8d388b5f111bbb5.jpg" alt="Ce qui change au 1er mars 2024" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.045Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Un podcast sur les deux ans de la guerre en Ukraine]]></title>
-        <id>https://www.gouvernement.fr/actualite/un-podcast-sur-les-deux-ans-de-guerre-en-ukraine</id>
-        <link href="https://www.gouvernement.fr/actualite/un-podcast-sur-les-deux-ans-de-guerre-en-ukraine"/>
-        <updated>2024-02-27T17:38:30.014Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="91b0b622-8c48-4c46-ad40-875b17a90b17"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-podcast-sur-les-deux-ans-de-guerre-en-ukraine" class="fr-card__link" target="_self">
-                            Un podcast sur les deux ans de la guerre en Ukraine 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Défense
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 23/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/aa51d4ce8959280d4cbb7438ae299e9d9e887abf.jpg" alt="Visuel « Pensez stratégique - Ukraine : 2 ans de guerre en Europe »" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.046Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Regards croisés : l'inscription de l'IVG dans la Constitution]]></title>
-        <id>https://www.gouvernement.fr/actualite/regards-croises-linscription-de-livg-dans-la-constitution</id>
-        <link href="https://www.gouvernement.fr/actualite/regards-croises-linscription-de-livg-dans-la-constitution"/>
-        <updated>2024-02-27T17:38:30.016Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="965df210-6610-4e8e-ae7d-508f151651ca"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/regards-croises-linscription-de-livg-dans-la-constitution" class="fr-card__link" target="_self">
-                            Regards croisés : l'inscription de l'IVG dans la Constitution 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 23/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/44795bfd7378df6304e31e119fd8bea30290c25a.jpg" alt="Portraits en noir et blanc de Violaine de Filippis-Abate, avocate et porte-parole d’Osez le féminisme, et de Diane Roman, professeure de droit public à l’université Paris 1 Panthéon Sorbonne." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.047Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 19 au 25 février 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-19-au-25-fevrier-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-19-au-25-fevrier-2024"/>
-        <updated>2024-02-27T17:38:30.018Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3339da49-2606-4a13-8d30-be60b3f33fdb"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-19-au-25-fevrier-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 19 au 25 février 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 23/02/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/08/563dc8d112433f2c0c1dc94309b6555c55d7d9ad.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-02-28T05:38:17.048Z</updated>
     </entry>
 </feed>
