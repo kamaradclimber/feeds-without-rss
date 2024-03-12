@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 05:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 17:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Parcoursup 2024 : la fin des voeux est le 14 mars (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/parcoursup-2024-la-fin-des-voeux-est-le-14-mars</link>
+            <guid>https://www.gouvernement.fr/actualite/parcoursup-2024-la-fin-des-voeux-est-le-14-mars</guid>
+            <pubDate>Tue, 12 Mar 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b3b18f12-6d63-4935-ae31-2de51360fee4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/parcoursup-2024-la-fin-des-voeux-est-le-14-mars" class="fr-card__link" target="_self">
+                            Parcoursup 2024 : la fin des voeux est le 14 mars 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 12/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/32e741e0ab2cea89d907e5c137861480f409b008.jpg" alt="Une jeune fille sur son ordinateur." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Des pièces de monnaie à l'effigie des femmes (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/des-pieces-de-monnaie-a-leffigie-de-trois-femmes</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 06/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/04cba7695838c9d1e9434d7bb79597660242c1ae.jpg" alt="La coupole de l'Institut de France, vue extérieure." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[L'encadrement des promotions sur les produits d’hygiène (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-promotions-sur-les-produits-dhygiene-encadrees-depuis-le-1er-mars</link>
-            <guid>https://www.gouvernement.fr/actualite/les-promotions-sur-les-produits-dhygiene-encadrees-depuis-le-1er-mars</guid>
-            <pubDate>Sun, 10 Mar 2024 17:38:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="95ecbe52-7f70-43e5-bc66-16f35f596d29"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-promotions-sur-les-produits-dhygiene-encadrees-depuis-le-1er-mars" class="fr-card__link" target="_self">
-                            L'encadrement des promotions sur les produits d’hygiène 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Économie
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 05/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/597460a58ef62065d38105ab8a2c3dbe346585dc.jpg" alt="Un chariot de supermarché au premier plan. Des produits d'hygiène légèrement flous sur des rayonnages." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Electricity Mapped 2023 - US (Blog - Electricity Maps)]]></title>
