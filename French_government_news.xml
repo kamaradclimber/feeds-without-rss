@@ -2,27 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-03-13T05:38:43.425Z</updated>
+    <updated>2024-03-13T17:38:55.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.gouvernement.fr/favicon.ico</icon>
+    <icon>https://www.gouvernement.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[25 recommandations pour l'IA en France]]></title>
+        <id>https://www.gouvernement.fr/actualite/25-recommandations-pour-lia-en-france</id>
+        <link href="https://www.gouvernement.fr/actualite/25-recommandations-pour-lia-en-france"/>
+        <updated>2024-03-13T17:38:45.820Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="67e4187d-8aeb-41fd-a558-9bff5e782acb"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/25-recommandations-pour-lia-en-france" class="fr-card__link" target="_self">
+                            25 recommandations pour l'IA en France 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Recherche &amp; Innovation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 13/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/44b2ff233ac7ec90ad9ee5e34a8ba9c67f050a12.jpg" alt="Rapport « IA : notre ambition pour la France »" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MétierScope, la plateforme des emplois du sport]]></title>
+        <id>https://www.gouvernement.fr/actualite/metierscope-la-plateforme-des-emplois-du-sport</id>
+        <link href="https://www.gouvernement.fr/actualite/metierscope-la-plateforme-des-emplois-du-sport"/>
+        <updated>2024-03-13T17:38:45.821Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a836b1e2-0f99-4015-8449-3d45cc7b8a8e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/metierscope-la-plateforme-des-emplois-du-sport" class="fr-card__link" target="_self">
+                            MétierScope, la plateforme des emplois du sport 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 13/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/e511d603548d4d0d78de031aeccd853ef8b7fcf4.jpg" alt="Une balle de tennis sur un terrain bleu avec deux lignes blanches." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coup d’envoi imminent pour la Grande collecte du sport]]></title>
+        <id>https://www.gouvernement.fr/actualite/coup-denvoi-imminent-pour-la-grande-collecte-du-sport</id>
+        <link href="https://www.gouvernement.fr/actualite/coup-denvoi-imminent-pour-la-grande-collecte-du-sport"/>
+        <updated>2024-03-13T17:38:45.822Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="06f87d91-7668-48f0-9095-b1d719acdc27"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/coup-denvoi-imminent-pour-la-grande-collecte-du-sport" class="fr-card__link" target="_self">
+                            Coup d’envoi imminent pour la Grande collecte du sport 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 13/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/d705694727876f4bfdacb63042287a52a86bd9cd.jpg" alt="Un visuel indiquant de rapporter son ancien matériel avec les dates 20 mars-30 avril 2024 et le visuel de la Grande collecte du sport." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parcoursup 2024 : la fin des voeux est le 14 mars]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.485Z</updated>
+        <id>https://www.gouvernement.fr/actualite/parcoursup-2024-la-fin-des-voeux-est-le-14-mars</id>
+        <link href="https://www.gouvernement.fr/actualite/parcoursup-2024-la-fin-des-voeux-est-le-14-mars"/>
+        <updated>2024-03-13T17:38:45.823Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b3b18f12-6d63-4935-ae31-2de51360fee4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/parcoursup-2024-la-fin-des-voeux-est-le-14-mars" class="fr-card__link" target="_self">
                             Parcoursup 2024 : la fin des voeux est le 14 mars 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Éducation
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 12/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/32e741e0ab2cea89d907e5c137861480f409b008.jpg" alt="Une jeune fille sur son ordinateur." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/943218cdd21c42a67db8725f6614099f01bcb81d.jpg" alt="Une jeune fille regarde son ordinateur." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Des pièces de monnaie à l'effigie des femmes]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.485Z</updated>
+        <id>https://www.gouvernement.fr/actualite/des-pieces-de-monnaie-a-leffigie-de-trois-femmes</id>
+        <link href="https://www.gouvernement.fr/actualite/des-pieces-de-monnaie-a-leffigie-de-trois-femmes"/>
+        <updated>2024-03-13T17:38:45.824Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7cfbcfc6-0ba5-437a-ab43-6d6c7df6ed0c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/des-pieces-de-monnaie-a-leffigie-de-trois-femmes" class="fr-card__link" target="_self">
                             Des pièces de monnaie à l'effigie des femmes 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -33,35 +72,35 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Défense : la stratégie ministérielle sur l'IA]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.487Z</updated>
+        <id>https://www.gouvernement.fr/actualite/defense-la-strategie-ministerielle-sur-lintelligence-artificielle</id>
+        <link href="https://www.gouvernement.fr/actualite/defense-la-strategie-ministerielle-sur-lintelligence-artificielle"/>
+        <updated>2024-03-13T17:38:45.827Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8a97b2d8-a2aa-4144-9271-207fe1988a6c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/defense-la-strategie-ministerielle-sur-lintelligence-artificielle" class="fr-card__link" target="_self">
                             Défense : la stratégie ministérielle sur l'IA 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Défense
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 11/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/215ad15719b029f284a2aafed141e7e2ab387be9.jpg" alt="Le ministre des Armées Sébastien Lecornu derrière un pupitre, les drapeaux français et européen en fond." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/ee456b0b8f5c816769a20754fd09d39c2bd0ffda.jpg" alt="Le ministre des Armées Sébastien Lecornu au pupitre, avec les drapeaux français et européen." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quatre entrepreneuses à suivre dans la Tech]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.488Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-4-entrepreneuses-a-suivre-dans-la-tech</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-entrepreneuses-a-suivre-dans-la-tech"/>
+        <updated>2024-03-13T17:38:45.829Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f2f9801e-ea89-47a9-9cd9-0f4dd0c1a5ea"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-entrepreneuses-a-suivre-dans-la-tech" class="fr-card__link" target="_self">
                             Quatre entrepreneuses à suivre dans la Tech 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Économie
+                             Citoyenneté
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 08/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/91af2ff4439876e4eb637742b4ae7c87046402dc.jpg" alt="Une photo en gros plan de mains de femme sur un ordinateur portable vu de profil. La femme porte un pull moutarde et une bague." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Petite enfance : des revalorisations salariales]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.502Z</updated>
+        <id>https://www.gouvernement.fr/actualite/des-revalorisations-salariales-dans-le-secteur-de-la-petite-enfance</id>
+        <link href="https://www.gouvernement.fr/actualite/des-revalorisations-salariales-dans-le-secteur-de-la-petite-enfance"/>
+        <updated>2024-03-13T17:38:45.835Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d90b9a4f-9159-4b2f-8636-7615aedd765a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/des-revalorisations-salariales-dans-le-secteur-de-la-petite-enfance" class="fr-card__link" target="_self">
                             Petite enfance : des revalorisations salariales 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -72,9 +111,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Origine des produits : plus de 2 000 contrôles déjà réalisés]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.502Z</updated>
+        <id>https://www.gouvernement.fr/actualite/origine-des-produits-plus-de-2-000-controles-deja-realises</id>
+        <link href="https://www.gouvernement.fr/actualite/origine-des-produits-plus-de-2-000-controles-deja-realises"/>
+        <updated>2024-03-13T17:38:45.838Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8bc4820a-7898-42f4-900a-11000726f083"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/origine-des-produits-plus-de-2-000-controles-deja-realises" class="fr-card__link" target="_self">
                             Origine des produits : plus de 2 000 contrôles déjà réalisés 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -85,9 +124,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 4 au 10 mars 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.502Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-mars-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-mars-2024"/>
+        <updated>2024-03-13T17:38:45.839Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="45a4572a-f819-4ad4-85e0-aac2c36311c6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-4-au-10-mars-2024" class="fr-card__link" target="_self">
                             Les 4 actus de la semaine du 4 au 10 mars 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -98,9 +137,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[« Tous aux Jeux » : le programme de billetterie populaire historique de l’État]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.502Z</updated>
+        <id>https://www.gouvernement.fr/actualite/tous-aux-jeux-le-programme-de-billetterie-populaire-historique-de-letat</id>
+        <link href="https://www.gouvernement.fr/actualite/tous-aux-jeux-le-programme-de-billetterie-populaire-historique-de-letat"/>
+        <updated>2024-03-13T17:38:45.840Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ae2b6eb9-c6ab-4a51-9579-00fddee3b59e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/tous-aux-jeux-le-programme-de-billetterie-populaire-historique-de-letat" class="fr-card__link" target="_self">
                             « Tous aux Jeux » : le programme de billetterie populaire historique de l’État 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -111,9 +150,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[« Attirer les femmes dans la Tech, cela se joue dès l’école »]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.502Z</updated>
+        <id>https://www.gouvernement.fr/actualite/attirer-les-femmes-dans-la-tech-cela-se-joue-des-lecole</id>
+        <link href="https://www.gouvernement.fr/actualite/attirer-les-femmes-dans-la-tech-cela-se-joue-des-lecole"/>
+        <updated>2024-03-13T17:38:45.841Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4572af3a-4019-46ad-aa68-be833d2353b2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/attirer-les-femmes-dans-la-tech-cela-se-joue-des-lecole" class="fr-card__link" target="_self">
                             « Attirer les femmes dans la Tech, cela se joue dès l’école » 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -124,9 +163,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Martine Boulart, la fin du management guerrier]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.504Z</updated>
+        <id>https://www.gouvernement.fr/actualite/en-vingt-ans-les-choses-ont-beaucoup-evolue</id>
+        <link href="https://www.gouvernement.fr/actualite/en-vingt-ans-les-choses-ont-beaucoup-evolue"/>
+        <updated>2024-03-13T17:38:45.843Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5725e9a5-68ce-42d7-9cd0-0e0904a90003"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/en-vingt-ans-les-choses-ont-beaucoup-evolue" class="fr-card__link" target="_self">
                             Martine Boulart, la fin du management guerrier 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -137,9 +176,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Marie Eloy, la puissance du collectif pour entreprendre]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.518Z</updated>
+        <id>https://www.gouvernement.fr/actualite/entrepreneuses-il-faut-etre-entourees</id>
+        <link href="https://www.gouvernement.fr/actualite/entrepreneuses-il-faut-etre-entourees"/>
+        <updated>2024-03-13T17:38:45.844Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6245417f-bce1-4c10-a080-2ba2aa7559f2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/entrepreneuses-il-faut-etre-entourees" class="fr-card__link" target="_self">
                             Marie Eloy, la puissance du collectif pour entreprendre 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -147,30 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 07/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/1ba220f38502e750b3b7347e78f5710e63268a7c.jpg" alt="Un portrait en noir et blanc de Marie Eloy, les cheveux légèrement dans le vent." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roxanne Varza, engagée pour les femmes dans la tech]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.519Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f32b1d20-8000-4800-bd9e-e06e22e99cba"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/roxanne-varza-engagee-pour-les-femmes-dans-la-tech" class="fr-card__link" target="_self">
-                            Roxanne Varza, engagée pour les femmes dans la tech 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 06/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/3d3b04c01d8896e6f730086c44cabbe9eec4ffa3.jpg" alt="Un portrait Roxane Varza." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commerce : des mesures pour simplifier la vie des commerçants]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.520Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La finale de la Grande dictée du sport à l'Institut de France]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-03-13T05:38:29.521Z</updated>
     </entry>
 </feed>
