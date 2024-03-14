@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-03-14T05:38:55.716Z</updated>
+    <updated>2024-03-14T17:38:49.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mathématiques : « si Singapour réussit, nous le pouvons aussi »]]></title>
+        <id>https://www.gouvernement.fr/actualite/methode-de-singapour-si-singapour-reussit-nous-le-pouvons-aussi</id>
+        <link href="https://www.gouvernement.fr/actualite/methode-de-singapour-si-singapour-reussit-nous-le-pouvons-aussi"/>
+        <updated>2024-03-14T17:38:40.265Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7723c957-1019-4a9a-a373-63b9f819d524"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/methode-de-singapour-si-singapour-reussit-nous-le-pouvons-aussi" class="fr-card__link" target="_self">
+                            Mathématiques : « si Singapour réussit, nous le pouvons aussi » 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 14/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/7f13dcca8d4ef27fada7a77ea52557c860bdb29b.jpg" alt="Une représentation stylisée de Monica Neagoy, docteure en didactique des mathématiques, spécialiste de la méthode de Singapour, sur fond rosé." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25 recommandations pour l'IA en France]]></title>
         <id>https://www.gouvernement.fr/actualite/25-recommandations-pour-lia-en-france</id>
@@ -173,18 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 07/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/82a72000f9e4f8e019d3c33449676cff983e1146.jpg" alt="Un portrait de Martine Boulart souriante, une bibliothèque derrière elle." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marie Eloy, la puissance du collectif pour entreprendre]]></title>
-        <id>https://www.gouvernement.fr/actualite/entrepreneuses-il-faut-etre-entourees</id>
-        <link href="https://www.gouvernement.fr/actualite/entrepreneuses-il-faut-etre-entourees"/>
-        <updated>2024-03-13T17:38:45.844Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6245417f-bce1-4c10-a080-2ba2aa7559f2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/entrepreneuses-il-faut-etre-entourees" class="fr-card__link" target="_self">
-                            Marie Eloy, la puissance du collectif pour entreprendre 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 07/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/1ba220f38502e750b3b7347e78f5710e63268a7c.jpg" alt="Un portrait en noir et blanc de Marie Eloy, les cheveux légèrement dans le vent." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
