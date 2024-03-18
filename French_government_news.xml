@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-03-18T05:39:07.730Z</updated>
+    <updated>2024-03-18T17:38:44.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Le crédit d’impôt pour financer l’industrie verte entre en vigueur]]></title>
+        <id>https://www.gouvernement.fr/actualite/le-credit-dimpot-pour-financer-lindustrie-verte-entre-en-vigueur</id>
+        <link href="https://www.gouvernement.fr/actualite/le-credit-dimpot-pour-financer-lindustrie-verte-entre-en-vigueur"/>
+        <updated>2024-03-18T17:38:35.723Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9f5928c4-5c94-4561-bccd-aa1fe2ca2c47"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/le-credit-dimpot-pour-financer-lindustrie-verte-entre-en-vigueur" class="fr-card__link" target="_self">
+                            Le crédit d’impôt pour financer l’industrie verte entre en vigueur 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Environnement
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 18/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/24062da021ca2c09badfa0281001c4c3de8081c7.jpg" alt="Une rangée d'éoliennes." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semaine des métiers du tourisme :  début de la 2e édition]]></title>
+        <id>https://www.gouvernement.fr/actualite/semaine-des-metiers-du-tourisme-debut-de-la-2e-edition</id>
+        <link href="https://www.gouvernement.fr/actualite/semaine-des-metiers-du-tourisme-debut-de-la-2e-edition"/>
+        <updated>2024-03-18T17:38:35.726Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c941ae78-c063-4b2e-b845-da4e7f42cb31"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/semaine-des-metiers-du-tourisme-debut-de-la-2e-edition" class="fr-card__link" target="_self">
+                            Semaine des métiers du tourisme :  début de la 2e édition 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Aménagement du territoire
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 18/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/f2c493162fe38e810693ac5beb9531e6363b3d60.jpg" alt="Affiche de la seconde édition de la Semaine des métiers du tourisme 2024." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 11 au 17 mars 2024]]></title>
         <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-11-au-17-mars-2024</id>
@@ -17,6 +43,19 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 15/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/7bb7ce63984d3a498b72003440e7e947181fccc4.jpg" alt="Gabriel Attal" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logement intermédiaire : les assureurs s’engagent]]></title>
+        <id>https://www.gouvernement.fr/actualite/les-assureurs-sengagent-avec-la-caisse-des-depots-en-faveur-du-logement-intermediaire</id>
+        <link href="https://www.gouvernement.fr/actualite/les-assureurs-sengagent-avec-la-caisse-des-depots-en-faveur-du-logement-intermediaire"/>
+        <updated>2024-03-18T17:38:35.729Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4d6bcead-67c3-4461-b6d1-a000d3d07420"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-assureurs-sengagent-avec-la-caisse-des-depots-en-faveur-du-logement-intermediaire" class="fr-card__link" target="_self">
+                            Logement intermédiaire : les assureurs s’engagent 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Économie
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 15/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/dc6888aaf1c3e3bad1bdcdb1d3387209b287b980.jpg" alt="Une vue de Paris depuis la tour Eiffel, le ciel est bleu, la Seine est visible sur la droite." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[« Fresques Sportives » : quand le sport devient art]]></title>
@@ -43,6 +82,19 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 14/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/7f13dcca8d4ef27fada7a77ea52557c860bdb29b.jpg" alt="Une représentation stylisée de Monica Neagoy, docteure en didactique des mathématiques, spécialiste de la méthode de Singapour, sur fond rosé." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’entrepreneuriat se décline au féminin pluriel]]></title>
+        <id>https://www.gouvernement.fr/actualite/lentrepreneuriat-se-decline-au-feminin-pluriel</id>
+        <link href="https://www.gouvernement.fr/actualite/lentrepreneuriat-se-decline-au-feminin-pluriel"/>
+        <updated>2024-03-18T17:38:35.734Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="56adb0b5-a53f-44a1-a7d9-b36fcc829f59"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/lentrepreneuriat-se-decline-au-feminin-pluriel" class="fr-card__link" target="_self">
+                            L’entrepreneuriat se décline au féminin pluriel 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 13/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/7a5981ca1d92e21a2f057f4484839bfcf1ae5c41.jpg" alt="Le Premier ministre avec les participantes de l'événement de la célébration du 8 mars 2024, journée internationale célébrant les droits des femmes." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[25 recommandations pour l'IA en France]]></title>
@@ -134,57 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 08/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/91af2ff4439876e4eb637742b4ae7c87046402dc.jpg" alt="Une photo en gros plan de mains de femme sur un ordinateur portable vu de profil. La femme porte un pull moutarde et une bague." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petite enfance : des revalorisations salariales]]></title>
-        <id>https://www.gouvernement.fr/actualite/des-revalorisations-salariales-dans-le-secteur-de-la-petite-enfance</id>
-        <link href="https://www.gouvernement.fr/actualite/des-revalorisations-salariales-dans-le-secteur-de-la-petite-enfance"/>
-        <updated>2024-03-13T17:38:45.835Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d90b9a4f-9159-4b2f-8636-7615aedd765a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/des-revalorisations-salariales-dans-le-secteur-de-la-petite-enfance" class="fr-card__link" target="_self">
-                            Petite enfance : des revalorisations salariales 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Affaires sociales
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 08/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/017d43095400c57200b8659f1dab22934b719df2.jpg" alt="Un gros plan sur des cubes en bois manipulés par des enfants et un adulte." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Origine des produits : plus de 2 000 contrôles déjà réalisés]]></title>
-        <id>https://www.gouvernement.fr/actualite/origine-des-produits-plus-de-2-000-controles-deja-realises</id>
-        <link href="https://www.gouvernement.fr/actualite/origine-des-produits-plus-de-2-000-controles-deja-realises"/>
-        <updated>2024-03-13T17:38:45.838Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8bc4820a-7898-42f4-900a-11000726f083"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/origine-des-produits-plus-de-2-000-controles-deja-realises" class="fr-card__link" target="_self">
-                            Origine des produits : plus de 2 000 contrôles déjà réalisés 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Agriculture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 08/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/13222ab8584cba711f140c8fbb274df0ef7e0baf.jpg" alt="Un gros plan sur les mains d'un agent de la DGCCRF contrôlant l'origine de pommes dans un supermarché." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 4 au 10 mars 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-mars-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-mars-2024"/>
-        <updated>2024-03-13T17:38:45.839Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="45a4572a-f819-4ad4-85e0-aac2c36311c6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-4-au-10-mars-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 4 au 10 mars 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 08/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/ecdbb42df9e274bafd6b4a72c363b3804b0a6358.jpg" alt="Gabriel Attal parlant à la tribune." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« Tous aux Jeux » : le programme de billetterie populaire historique de l’État]]></title>
-        <id>https://www.gouvernement.fr/actualite/tous-aux-jeux-le-programme-de-billetterie-populaire-historique-de-letat</id>
-        <link href="https://www.gouvernement.fr/actualite/tous-aux-jeux-le-programme-de-billetterie-populaire-historique-de-letat"/>
-        <updated>2024-03-13T17:38:45.840Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ae2b6eb9-c6ab-4a51-9579-00fddee3b59e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/tous-aux-jeux-le-programme-de-billetterie-populaire-historique-de-letat" class="fr-card__link" target="_self">
-                            « Tous aux Jeux » : le programme de billetterie populaire historique de l’État 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 07/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/fc58b95eb653d86cc947134b6951eb88112cd54b.png" alt="" data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
