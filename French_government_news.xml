@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-03-29T05:38:59.673Z</updated>
+    <updated>2024-03-29T17:39:38.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Le 2 avril : du bleu pour sensibiliser à l’autisme]]></title>
+        <id>https://www.gouvernement.fr/actualite/du-bleu-le-2-avril-pour-sensibiliser-a-lautisme</id>
+        <link href="https://www.gouvernement.fr/actualite/du-bleu-le-2-avril-pour-sensibiliser-a-lautisme"/>
+        <updated>2024-03-29T17:39:29.090Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ca1bd413-b621-4eaa-b16c-cb5f1a3a1eb7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/du-bleu-le-2-avril-pour-sensibiliser-a-lautisme" class="fr-card__link" target="_self">
+                            Le 2 avril : du bleu pour sensibiliser à l’autisme 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 29/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/85af8f5cbbe69f85a81556cb8e4e445909c1c23a.jpg" alt="Un ruban bleu sur fond bleu." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Les 4 actus de la semaine du 25 au 31 mars 2024]]></title>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-25-au-31-mars-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-25-au-31-mars-2024"/>
+        <updated>2024-03-29T17:39:29.091Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="edc9ae28-d7d8-4b89-a334-729123e2b114"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-25-au-31-mars-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 25 au 31 mars 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 29/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/2c5df1ef744e754fdd9cad687a3190232c1f8ef4.jpg" alt="Des adolescents vus de profile consultent des ordinateurs dans une salle de classe. Les quatre actus de la semaine et la date sont inscrits en couleur." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collèges et lycées : la messagerie des ENT suspendue]]></title>
+        <id>https://www.gouvernement.fr/actualite/menace-terroriste-la-messagerie-des-espaces-numeriques-de-travail-suspendue</id>
+        <link href="https://www.gouvernement.fr/actualite/menace-terroriste-la-messagerie-des-espaces-numeriques-de-travail-suspendue"/>
+        <updated>2024-03-29T17:39:29.091Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="180c376b-f112-424f-921a-0ac8dbdecebf"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/menace-terroriste-la-messagerie-des-espaces-numeriques-de-travail-suspendue" class="fr-card__link" target="_self">
+                            Collèges et lycées : la messagerie des ENT suspendue 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 29/03/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/8edc309d6b9a47f6a3d36d88b05df305119dc163.jpg" alt="Une lycéenne." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Travail : Gabriel Attal réaffirme les priorités du Gouvernement]]></title>
         <id>https://www.gouvernement.fr/actualite/travail-gabriel-attal-reaffirme-les-priorites-du-gouvernement</id>
@@ -147,44 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 26/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/dbdef922bd155c7cd30f92fe83f80fc4a3f8b33c.jpg" alt="Une vue aérienne de Port-au-Prince" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un pacte pour financer 75 000 logements intermédiaires d’ici 3 ans]]></title>
-        <id>https://www.gouvernement.fr/actualite/un-pacte-pour-financer-75-000-logements-intermediaires-dici-3-ans</id>
-        <link href="https://www.gouvernement.fr/actualite/un-pacte-pour-financer-75-000-logements-intermediaires-dici-3-ans"/>
-        <updated>2024-03-27T17:38:30.395Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cbb06cda-5e94-4fd2-801f-e14897b3be73"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-pacte-pour-financer-75-000-logements-intermediaires-dici-3-ans" class="fr-card__link" target="_self">
-                            Un pacte pour financer 75 000 logements intermédiaires d’ici 3 ans 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Économie
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/a100218bbd7863d9daf3b8f7cb5b43dfef4be84b.jpg" alt="Une vue aérienne de la ville de Lyon" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La stratégie nationale contre les maltraitances]]></title>
-        <id>https://www.gouvernement.fr/actualite/personnes-vulnerables-des-controles-renforces-pour-lutter-contre-la-maltraitance</id>
-        <link href="https://www.gouvernement.fr/actualite/personnes-vulnerables-des-controles-renforces-pour-lutter-contre-la-maltraitance"/>
-        <updated>2024-03-27T17:38:30.396Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4c512fe9-4384-4072-b269-2e539b75555a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/personnes-vulnerables-des-controles-renforces-pour-lutter-contre-la-maltraitance" class="fr-card__link" target="_self">
-                            La stratégie nationale contre les maltraitances 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Affaires sociales
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/84883f5cd292307580ad541d0b9634fab580c488.jpg" alt="Une personne tenant les deux mains d'une personne plus âgée dans les siennes." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petite enfance : une mission de contrôle de grands groupes de micro-crèches]]></title>
-        <id>https://www.gouvernement.fr/actualite/petite-enfance-une-mission-de-controle-de-grands-groupes-de-micro-creches</id>
-        <link href="https://www.gouvernement.fr/actualite/petite-enfance-une-mission-de-controle-de-grands-groupes-de-micro-creches"/>
-        <updated>2024-03-27T17:38:30.398Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="87760f73-df01-4712-bc2f-a5ae0bb5e1e3"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/petite-enfance-une-mission-de-controle-de-grands-groupes-de-micro-creches" class="fr-card__link" target="_self">
-                            Petite enfance : une mission de contrôle de grands groupes de micro-crèches 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Affaires sociales
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/4562ad0e3acebaf794cf8620cdd9accf0eb7ded0.jpg" alt="Des petits enfants en train de jouer ensemble." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
