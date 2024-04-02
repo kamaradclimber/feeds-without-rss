@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-04-02T05:38:26.421Z</updated>
+    <updated>2024-04-02T17:39:12.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gouvernement.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[La 3e édition du Baromètre de l'esprit critique]]></title>
+        <id>https://www.gouvernement.fr/actualite/barometre-de-lesprit-critique-2024-comment-les-francais-percoivent-lia</id>
+        <link href="https://www.gouvernement.fr/actualite/barometre-de-lesprit-critique-2024-comment-les-francais-percoivent-lia"/>
+        <updated>2024-04-02T17:39:03.896Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="157da887-e2a4-4e44-92d0-d5794597654e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/barometre-de-lesprit-critique-2024-comment-les-francais-percoivent-lia" class="fr-card__link" target="_self">
+                            La 3e édition du Baromètre de l'esprit critique 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Recherche &amp; Innovation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 02/04/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/dcc6713bb923f8275e3bfb8dfc14fb5570cb05fd.jpg" alt="Visage." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le Grand Défi de l’ADEME pour des solutions écologiques]]></title>
+        <id>https://www.gouvernement.fr/actualite/le-grand-defi-de-lademe-pour-des-solutions-ecologiques</id>
+        <link href="https://www.gouvernement.fr/actualite/le-grand-defi-de-lademe-pour-des-solutions-ecologiques"/>
+        <updated>2024-04-02T17:39:03.896Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="27006f8f-5199-4f64-b18a-e82d4e3bbd0a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/le-grand-defi-de-lademe-pour-des-solutions-ecologiques" class="fr-card__link" target="_self">
+                            Le Grand Défi de l’ADEME pour des solutions écologiques 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Environnement
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 02/04/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/4420c9ff54c0af0d06567414b1c9890fdde076bc.jpg" alt="Un homme visse des panneaux solaires." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Le 2 avril : du bleu pour sensibiliser à l’autisme]]></title>
         <id>https://www.gouvernement.fr/actualite/du-bleu-le-2-avril-pour-sensibiliser-a-lautisme</id>
@@ -160,31 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 27/03/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/621fe0c21e6a62de4ff0d063e99891c23ce58d92.jpg" alt="Pièce d'identité et permis de conduire" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« ChangeNow » : un sommet sur la transition écologique et sociale]]></title>
-        <id>https://www.gouvernement.fr/actualite/changenow-un-sommet-sur-la-transition-ecologique-et-sociale</id>
-        <link href="https://www.gouvernement.fr/actualite/changenow-un-sommet-sur-la-transition-ecologique-et-sociale"/>
-        <updated>2024-04-02T05:38:16.342Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ae3907bd-4442-4b12-b671-024d8ded1652"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/changenow-un-sommet-sur-la-transition-ecologique-et-sociale" class="fr-card__link" target="_self">
-                            « ChangeNow » : un sommet sur la transition écologique et sociale 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Environnement
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 27/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/eec107e4c61f2a3594061b901fe7136e26362ecd.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haïti : des vols spéciaux pour les ressortissants français]]></title>
-        <id>https://www.gouvernement.fr/actualite/haiti-des-vols-speciaux-pour-les-ressortissants-francais-vulnerables</id>
-        <link href="https://www.gouvernement.fr/actualite/haiti-des-vols-speciaux-pour-les-ressortissants-francais-vulnerables"/>
-        <updated>2024-04-02T05:38:16.343Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7a480020-ed0e-4428-8e58-4598bd8ae90f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/haiti-des-vols-speciaux-pour-les-ressortissants-francais-vulnerables" class="fr-card__link" target="_self">
-                            Haïti : des vols spéciaux pour les ressortissants français 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             International
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/dbdef922bd155c7cd30f92fe83f80fc4a3f8b33c.jpg" alt="Une vue aérienne de Port-au-Prince" data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
