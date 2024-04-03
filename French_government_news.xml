@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-04-03T05:38:36.769Z</updated>
+    <updated>2024-04-03T17:38:46.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.gouvernement.fr/build/favicon.1c258718.ico</icon>
+    <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Agriculture : ce qu’il faut retenir du projet de loi d’orientation]]></title>
+        <id>https://www.gouvernement.fr/actualite/agriculture-ce-quil-faut-retenir-du-projet-de-loi-dorientation</id>
+        <link href="https://www.gouvernement.fr/actualite/agriculture-ce-quil-faut-retenir-du-projet-de-loi-dorientation"/>
+        <updated>2024-04-03T17:38:38.091Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="816cb4e7-f1f0-4b8f-8351-26bb1c18e6e9"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/agriculture-ce-quil-faut-retenir-du-projet-de-loi-dorientation" class="fr-card__link" target="_self">
+                            Agriculture : ce qu’il faut retenir du projet de loi d’orientation 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Agriculture
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 03/04/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/e48b5e81bd294be5a322a551e5ac4104d3479be6.jpg" alt="Un homme accroupi observe une plantation sous une serre, une tablette tactile à la main." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un plan massif de recrutements pour une justice plus rapide]]></title>
+        <id>https://www.gouvernement.fr/actualite/un-plan-massif-de-recrutements-pour-une-justice-plus-rapide</id>
+        <link href="https://www.gouvernement.fr/actualite/un-plan-massif-de-recrutements-pour-une-justice-plus-rapide"/>
+        <updated>2024-04-03T17:38:38.092Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8b737d2c-3518-4388-9fd5-11f1d89a4b27"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-plan-massif-de-recrutements-pour-une-justice-plus-rapide" class="fr-card__link" target="_self">
+                            Un plan massif de recrutements pour une justice plus rapide 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Justice
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 03/04/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/15066ac6c878d44d00143dc39e52026814b1299d.jpg" alt="Une balance, symbole de la justice, sculptée dans un mur. Une colonne sur la droite." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La 3e édition du Baromètre de l'esprit critique]]></title>
         <id>https://www.gouvernement.fr/actualite/barometre-de-lesprit-critique-2024-comment-les-francais-percoivent-lia</id>
@@ -16,7 +42,7 @@
                              Recherche &amp; Innovation
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 02/04/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/dcc6713bb923f8275e3bfb8dfc14fb5570cb05fd.jpg" alt="Visage." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/dcc6713bb923f8275e3bfb8dfc14fb5570cb05fd.jpg" alt="Visage." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le Grand Défi de l’ADEME pour des solutions écologiques]]></title>
@@ -29,7 +55,7 @@
                              Environnement
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 02/04/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/4420c9ff54c0af0d06567414b1c9890fdde076bc.jpg" alt="Un homme visse des panneaux solaires." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/4420c9ff54c0af0d06567414b1c9890fdde076bc.jpg" alt="Un homme visse des panneaux solaires." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le 2 avril : du bleu pour sensibiliser à l’autisme]]></title>
@@ -42,7 +68,7 @@
                              Santé
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 29/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/85af8f5cbbe69f85a81556cb8e4e445909c1c23a.jpg" alt="Un ruban bleu sur fond bleu." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/85af8f5cbbe69f85a81556cb8e4e445909c1c23a.jpg" alt="Un ruban bleu sur fond bleu." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 25 au 31 mars 2024]]></title>
@@ -55,7 +81,7 @@
                              Citoyenneté
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 29/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/2c5df1ef744e754fdd9cad687a3190232c1f8ef4.jpg" alt="Des adolescents vus de profile consultent des ordinateurs dans une salle de classe. Les quatre actus de la semaine et la date sont inscrits en couleur." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/2c5df1ef744e754fdd9cad687a3190232c1f8ef4.jpg" alt="Des adolescents vus de profile consultent des ordinateurs dans une salle de classe. Les quatre actus de la semaine et la date sont inscrits en couleur." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Collèges et lycées : la messagerie des ENT suspendue]]></title>
@@ -68,7 +94,7 @@
                              Éducation
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 29/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/8edc309d6b9a47f6a3d36d88b05df305119dc163.jpg" alt="Une lycéenne." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/8edc309d6b9a47f6a3d36d88b05df305119dc163.jpg" alt="Une lycéenne." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Travail : Gabriel Attal réaffirme les priorités du Gouvernement]]></title>
@@ -81,7 +107,7 @@
                              Économie
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 28/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/f797d4272ae9263ddeb5841a164a8e5f90e63392.jpg" alt="Le Premier ministre assis à une table avec un écran géant en arrière-plan." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/f797d4272ae9263ddeb5841a164a8e5f90e63392.jpg" alt="Le Premier ministre assis à une table avec un écran géant en arrière-plan." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Endométriose : « on me disait que j’étais simplement stressée »]]></title>
@@ -94,7 +120,7 @@
                              Santé
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 28/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/7a704cf6af9c54ab7a428734710473ac1c2802b7.jpg" alt="Visuel illustrant Fanny Robin" data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/7a704cf6af9c54ab7a428734710473ac1c2802b7.jpg" alt="Visuel illustrant Fanny Robin" data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Industrie : 201 ouvertures de sites industriels en 2023]]></title>
@@ -107,7 +133,7 @@
                              Économie
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 28/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/98f774d0007023bdfe0fda28674e8efe19200015.jpg" alt="Photo d'une industrie." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/98f774d0007023bdfe0fda28674e8efe19200015.jpg" alt="Photo d'une industrie." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[P@rents, parlons numérique : un label sur la parentalité numérique]]></title>
@@ -120,7 +146,7 @@
                              Affaires sociales
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 28/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/4643b32bcce96b1d1813ece246c3489169e7184f.jpg" alt="Visuel du label P@rents, parlons numérique" data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/4643b32bcce96b1d1813ece246c3489169e7184f.jpg" alt="Visuel du label P@rents, parlons numérique" data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Annonce  du thème du concours national de la Résistance et de la Déportation 2024-2025]]></title>
@@ -133,7 +159,7 @@
                              Éducation
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 28/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/bc419fb3da47b9163a45796984206876c63eb368.jpg" alt="Salle de classe." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/bc419fb3da47b9163a45796984206876c63eb368.jpg" alt="Salle de classe." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les dates des vacances scolaires de printemps 2024]]></title>
@@ -146,7 +172,7 @@
                              Éducation
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 27/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/e2de94440aa07f6c33ca649be01abb44de1e12c4.jpg" alt="Quatre enfants vus de dos courent en se tenant la main, sacs sur le dos." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/e2de94440aa07f6c33ca649be01abb44de1e12c4.jpg" alt="Quatre enfants vus de dos courent en se tenant la main, sacs sur le dos." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[La feuille de route de la France pour la décennie numérique]]></title>
@@ -159,32 +185,6 @@
                              Aménagement du territoire
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 27/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/59751c7425fee2beca6ec1eb8cdfa9d0416f5d25.jpg" alt="Deux câbles avec des connecteurs RJ45." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le déficit public de la France à 5,5 % du PIB en 2023]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-deficit-public-de-la-france-a-5-5-du-pib-en-2023</id>
-        <link href="https://www.gouvernement.fr/actualite/le-deficit-public-de-la-france-a-5-5-du-pib-en-2023"/>
-        <updated>2024-04-02T05:38:16.339Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2ca05120-54da-4d5c-b580-643720e2f8a2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/le-deficit-public-de-la-france-a-5-5-du-pib-en-2023" class="fr-card__link" target="_self">
-                            Le déficit public de la France à 5,5 % du PIB en 2023 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Institutions
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 27/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/c98cf96cd70b4f1a7b2214dcd308f77e18995b1b.jpg" alt="Une vue du ministère chargé de l'Économie" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Permis de conduire : une plateforme pour connaître le solde des points]]></title>
-        <id>https://www.gouvernement.fr/actualite/une-plateforme-pour-conna%C3%AEtre-le-nombre-de-points-restant-sur-le-permis-de-conduire</id>
-        <link href="https://www.gouvernement.fr/actualite/une-plateforme-pour-conna%C3%AEtre-le-nombre-de-points-restant-sur-le-permis-de-conduire"/>
-        <updated>2024-04-02T05:38:16.340Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="67edf185-fb0a-4df3-9e8f-0b983a325eb2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/une-plateforme-pour-conna%C3%AEtre-le-nombre-de-points-restant-sur-le-permis-de-conduire" class="fr-card__link" target="_self">
-                            Permis de conduire : une plateforme pour connaître le solde des points 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sécurité
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 27/03/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.gouvernement.fr/upload/media/content/0001/09/621fe0c21e6a62de4ff0d063e99891c23ce58d92.jpg" alt="Pièce d'identité et permis de conduire" data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/59751c7425fee2beca6ec1eb8cdfa9d0416f5d25.jpg" alt="Deux câbles avec des connecteurs RJ45." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
