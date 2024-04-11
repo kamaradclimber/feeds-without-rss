@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-04-10T17:38:40.563Z</updated>
+    <updated>2024-04-11T05:38:25.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
     <entry>
@@ -20,9 +20,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[JOP : un site dédié au « QR code » lancé le 10 mai]]></title>
-        <id>https://www.gouvernement.fr/actualite/jop-un-site-dedie-au-qr-code-lance-le-10-mai</id>
-        <link href="https://www.gouvernement.fr/actualite/jop-un-site-dedie-au-qr-code-lance-le-10-mai"/>
-        <updated>2024-04-10T17:38:31.589Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.026Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0d32f6a8-aa6b-4ae6-8cf4-dd9cd756d2cf"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jop-un-site-dedie-au-qr-code-lance-le-10-mai" class="fr-card__link" target="_self">
                             JOP : un site dédié au « QR code » lancé le 10 mai 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -33,9 +33,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Photovoltaïque : de nouvelles mesures pour soutenir la filière]]></title>
-        <id>https://www.gouvernement.fr/actualite/photovoltaique-de-nouvelles-mesures-pour-soutenir-la-filiere</id>
-        <link href="https://www.gouvernement.fr/actualite/photovoltaique-de-nouvelles-mesures-pour-soutenir-la-filiere"/>
-        <updated>2024-04-10T17:38:31.590Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.027Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d0f12330-6dc3-4be7-9ee4-ec89e7f3454e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/photovoltaique-de-nouvelles-mesures-pour-soutenir-la-filiere" class="fr-card__link" target="_self">
                             Photovoltaïque : de nouvelles mesures pour soutenir la filière 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -46,9 +46,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L'État lance l'Alliance pour l'inclusion par le sport]]></title>
-        <id>https://www.gouvernement.fr/actualite/letat-lance-lalliance-pour-linclusion-par-le-sport</id>
-        <link href="https://www.gouvernement.fr/actualite/letat-lance-lalliance-pour-linclusion-par-le-sport"/>
-        <updated>2024-04-10T17:38:31.590Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.028Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="123e801c-7433-4c0d-a49f-75006978100c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/letat-lance-lalliance-pour-linclusion-par-le-sport" class="fr-card__link" target="_self">
                             L'État lance l'Alliance pour l'inclusion par le sport 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -59,9 +59,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Lancement du Beauvau des polices municipales]]></title>
-        <id>https://www.gouvernement.fr/actualite/lancement-du-beauvau-des-polices-municipales</id>
-        <link href="https://www.gouvernement.fr/actualite/lancement-du-beauvau-des-polices-municipales"/>
-        <updated>2024-04-10T17:38:31.592Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.029Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2b3b358d-fcec-4977-8a3e-712068dbe4b8"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/lancement-du-beauvau-des-polices-municipales" class="fr-card__link" target="_self">
                             Lancement du Beauvau des polices municipales 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -72,9 +72,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Le Gouvernement lance le Service civique écologique]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-gouvernement-lance-le-service-civique-ecologique</id>
-        <link href="https://www.gouvernement.fr/actualite/le-gouvernement-lance-le-service-civique-ecologique"/>
-        <updated>2024-04-10T17:38:31.593Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.030Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="86803df2-2754-49a3-ae27-59a0afc04837"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/le-gouvernement-lance-le-service-civique-ecologique" class="fr-card__link" target="_self">
                             Le Gouvernement lance le Service civique écologique 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -85,9 +85,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Des actes concrets pour la santé]]></title>
-        <id>https://www.gouvernement.fr/actualite/des-actes-concrets-pour-la-sante</id>
-        <link href="https://www.gouvernement.fr/actualite/des-actes-concrets-pour-la-sante"/>
-        <updated>2024-04-10T17:38:31.595Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.033Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fb9804c1-a7ce-4270-a5b9-7d3c6fde36df"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/des-actes-concrets-pour-la-sante" class="fr-card__link" target="_self">
                             Des actes concrets pour la santé 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -98,9 +98,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’État aide les agriculteurs touchés par les aléas climatiques]]></title>
-        <id>https://www.gouvernement.fr/actualite/letat-aide-les-agriculteurs-touches-par-les-tempetes-et-les-inondations</id>
-        <link href="https://www.gouvernement.fr/actualite/letat-aide-les-agriculteurs-touches-par-les-tempetes-et-les-inondations"/>
-        <updated>2024-04-10T17:38:31.597Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.034Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e50b4f76-0b71-40ac-be2a-25450b9430d9"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/letat-aide-les-agriculteurs-touches-par-les-tempetes-et-les-inondations" class="fr-card__link" target="_self">
                             L’État aide les agriculteurs touchés par les aléas climatiques 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -111,9 +111,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[PFAS : un plan interministériel pour limiter les risques]]></title>
-        <id>https://www.gouvernement.fr/actualite/polluants-eternels-un-plan-interministeriel-pour-limiter-les-risques</id>
-        <link href="https://www.gouvernement.fr/actualite/polluants-eternels-un-plan-interministeriel-pour-limiter-les-risques"/>
-        <updated>2024-04-10T17:38:31.600Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.036Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5cc42f1a-5255-43b3-adc9-95ae7735607f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/polluants-eternels-un-plan-interministeriel-pour-limiter-les-risques" class="fr-card__link" target="_self">
                             PFAS : un plan interministériel pour limiter les risques 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -124,9 +124,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Des mesures pour améliorer le service public de l'éducation]]></title>
-        <id>https://www.gouvernement.fr/actualite/des-mesures-pour-ameliorer-le-service-public-de-leducation</id>
-        <link href="https://www.gouvernement.fr/actualite/des-mesures-pour-ameliorer-le-service-public-de-leducation"/>
-        <updated>2024-04-10T17:38:31.602Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.036Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="55cfd836-c2ca-4a0d-90a1-ab185d52af72"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/des-mesures-pour-ameliorer-le-service-public-de-leducation" class="fr-card__link" target="_self">
                             Des mesures pour améliorer le service public de l'éducation 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -137,9 +137,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Prêt à taux zéro : 29 millions de foyers éligibles]]></title>
-        <id>https://www.gouvernement.fr/actualite/pret-a-taux-zero-29-millions-de-foyers-eligibles</id>
-        <link href="https://www.gouvernement.fr/actualite/pret-a-taux-zero-29-millions-de-foyers-eligibles"/>
-        <updated>2024-04-10T17:38:31.604Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.038Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="60a2d021-5ac7-413f-bcf1-e5bdae7de8d2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/pret-a-taux-zero-29-millions-de-foyers-eligibles" class="fr-card__link" target="_self">
                             Prêt à taux zéro : 29 millions de foyers éligibles 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -150,9 +150,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Harcèlement à l'école : comment aider son enfant ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/harcelement-a-lecole-comment-aider-son-enfant</id>
-        <link href="https://www.gouvernement.fr/actualite/harcelement-a-lecole-comment-aider-son-enfant"/>
-        <updated>2024-04-10T17:38:31.605Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.039Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="63c74371-e4aa-4951-907e-e70d3af14a15"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/harcelement-a-lecole-comment-aider-son-enfant" class="fr-card__link" target="_self">
                             Harcèlement à l'école : comment aider son enfant ? 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -163,9 +163,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Ecobalyse : l'outil qui mesure l'impact écologique d'un vêtement]]></title>
-        <id>https://www.gouvernement.fr/actualite/ecobalyse-letiquette-qui-mesure-limpact-ecologique-dun-vetement</id>
-        <link href="https://www.gouvernement.fr/actualite/ecobalyse-letiquette-qui-mesure-limpact-ecologique-dun-vetement"/>
-        <updated>2024-04-10T17:38:31.606Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.040Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4437ab7f-868b-4d1b-a3f5-e74991ad288c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ecobalyse-letiquette-qui-mesure-limpact-ecologique-dun-vetement" class="fr-card__link" target="_self">
                             Ecobalyse : l'outil qui mesure l'impact écologique d'un vêtement 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -176,9 +176,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 1er au 7 avril 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-1er-au-7-avril-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-1er-au-7-avril-2024"/>
-        <updated>2024-04-10T17:38:31.608Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-04-11T05:38:17.044Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e56e45bf-70f2-4d7f-842e-9e9be4aa5115"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-1er-au-7-avril-2024" class="fr-card__link" target="_self">
                             Les 4 actus de la semaine du 1er au 7 avril 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
