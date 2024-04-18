@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-04-18T05:38:59.228Z</updated>
+    <updated>2024-04-18T17:38:41.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Des propositions pour lutter contre la violence des mineurs]]></title>
+        <id>https://www.gouvernement.fr/actualite/des-propositions-pour-lutter-contre-la-violence-des-mineurs</id>
+        <link href="https://www.gouvernement.fr/actualite/des-propositions-pour-lutter-contre-la-violence-des-mineurs"/>
+        <updated>2024-04-18T17:38:32.320Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f9114126-5ade-41a9-a425-8e53f82ecfcc"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/des-propositions-pour-lutter-contre-la-violence-des-mineurs" class="fr-card__link" target="_self">
+                            Des propositions pour lutter contre la violence des mineurs 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 18/04/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/081d01017d9d99790e08e93f0e970ba9fa32ba58.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80 ans de la Libération : une grande collecte des archives lancée]]></title>
+        <id>https://www.gouvernement.fr/actualite/80-ans-de-la-liberation-une-grande-collecte-des-archives-lancee</id>
+        <link href="https://www.gouvernement.fr/actualite/80-ans-de-la-liberation-une-grande-collecte-des-archives-lancee"/>
+        <updated>2024-04-18T17:38:32.321Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f7a8bacf-b2a6-45ba-b281-b938c496c562"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/80-ans-de-la-liberation-une-grande-collecte-des-archives-lancee" class="fr-card__link" target="_self">
+                            80 ans de la Libération : une grande collecte des archives lancée 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Défense
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 18/04/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b096799e04bf54452f3cd50667d21539ea496a79.jpg" alt="La Libération de la France en 1945." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un million de pompes à chaleur dès 2027]]></title>
+        <id>https://www.gouvernement.fr/actualite/un-million-de-pompes-a-chaleur-des-2027</id>
+        <link href="https://www.gouvernement.fr/actualite/un-million-de-pompes-a-chaleur-des-2027"/>
+        <updated>2024-04-18T17:38:32.323Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0deaf8a9-d174-4a61-a70f-2a5ed76f3b36"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-million-de-pompes-a-chaleur-des-2027" class="fr-card__link" target="_self">
+                            Un million de pompes à chaleur dès 2027 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Environnement
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 18/04/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/f1cc0b55568d115646b511e367e7a27ea3e49d86.jpg" alt="Pompe à chaleur" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La stratégie du Gouvernement pour faire rayonner la haute gastronomie française]]></title>
         <id>https://www.gouvernement.fr/actualite/la-strategie-du-gouvernement-pour-faire-rayonner-la-haute-gastronomie-francaise</id>
@@ -147,44 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 12/04/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/52fcbd71aa13df984774f917897da0dd3ab11c9e.jpg" alt="La ministre Catherine Vautrin présidant le premier Comité national pour l'emploi." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fin de vie : que retenir du projet de loi ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/aide-a-mourir-que-retenir-du-projet-de-loi</id>
-        <link href="https://www.gouvernement.fr/actualite/aide-a-mourir-que-retenir-du-projet-de-loi"/>
-        <updated>2024-04-17T05:38:21.214Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="de5f4e95-96ef-4720-a9df-dd4f82f59fcf"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/aide-a-mourir-que-retenir-du-projet-de-loi" class="fr-card__link" target="_self">
-                            Fin de vie : que retenir du projet de loi ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 12/04/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a923a68470ce1c34c44db027e4df3e8108ed4ca6.jpg" alt="Des mains posées sur une table : une personne plus jeune réconforte une personne plus âgée." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment repérer un infarctus chez une femme ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/comment-reperer-un-infarctus-chez-une-femme</id>
-        <link href="https://www.gouvernement.fr/actualite/comment-reperer-un-infarctus-chez-une-femme"/>
-        <updated>2024-04-17T05:38:21.215Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b8065e46-a882-4ee3-9527-3db8bce5573d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/comment-reperer-un-infarctus-chez-une-femme" class="fr-card__link" target="_self">
-                            Comment repérer un infarctus chez une femme ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 11/04/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/f4db0685b2e19799497551c755994efa604ad1ea.jpg" alt="Une femme, dont on voit seulement le buste, est assise sur un canapé. Ses mains posées sur son torse indiquent une gêne thoracique et abdominale." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment les députés européens sont-ils élus ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/comment-sont-elus-les-deputes-europeens</id>
-        <link href="https://www.gouvernement.fr/actualite/comment-sont-elus-les-deputes-europeens"/>
-        <updated>2024-04-17T05:38:21.217Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d3d5d4fb-d150-406a-9285-c7b5d961d329"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/comment-sont-elus-les-deputes-europeens" class="fr-card__link" target="_self">
-                            Comment les députés européens sont-ils élus ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Europe
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 11/04/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/09/fe6b2fa72c8cf63cc4c0d9bf3cac62d5b8eed8b4.jpg" alt="Vignette qui explique comment sont élus les députés européens." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
