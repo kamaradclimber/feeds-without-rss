@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-05-03T05:38:52.080Z</updated>
+    <updated>2024-05-03T17:38:39.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Les 4 actus de la semaine du 29 avril au 5 mai 2024]]></title>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-29-avril-au-5-mai-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-29-avril-au-5-mai-2024"/>
+        <updated>2024-05-03T17:38:30.990Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3e3b4a4f-6b96-458f-be9d-b35c8278169c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-29-avril-au-5-mai-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 29 avril au 5 mai 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 03/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/0fa6a9c14c207ded127a13a768e1fc5441467e31.jpg" alt="Visuel des Quatre actualités de la semaine avec une photo de la tour Eiffel." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qu’est-ce qu’une capitale européenne de la culture ?]]></title>
+        <id>https://www.gouvernement.fr/actualite/quest-ce-quune-capitale-europeenne-de-la-culture</id>
+        <link href="https://www.gouvernement.fr/actualite/quest-ce-quune-capitale-europeenne-de-la-culture"/>
+        <updated>2024-05-03T17:38:30.991Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="73d57583-53a0-480a-9022-c82d8ba0e560"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/quest-ce-quune-capitale-europeenne-de-la-culture" class="fr-card__link" target="_self">
+                            Qu’est-ce qu’une capitale européenne de la culture ? 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Culture
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 03/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/535e529c3ba91f50c14ead8444e6136cceefc00a.jpg" alt="Une vue aérienne de Bourges." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pas d'écran avant trois ans]]></title>
         <id>https://www.gouvernement.fr/actualite/pas-decran-avant-trois-ans</id>
@@ -160,31 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 26/04/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/9d50c3b61f7016f3e3ef5c6557f575c7d28041b3.jpg" alt="Une maison sur fond de drapeau européen" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrastructures de transports : focus sur quatre projets soutenus par l’Union européenne]]></title>
-        <id>https://www.gouvernement.fr/actualite/infrastructures-de-transports-focus-sur-4-projets-soutenus-par-lunion-europeenne</id>
-        <link href="https://www.gouvernement.fr/actualite/infrastructures-de-transports-focus-sur-4-projets-soutenus-par-lunion-europeenne"/>
-        <updated>2024-05-03T05:38:42.869Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c83898d2-73df-4ddc-8356-76180bc80390"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/infrastructures-de-transports-focus-sur-4-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
-                            Infrastructures de transports : focus sur quatre projets soutenus par l’Union européenne 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Europe
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/04/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/1e88a944556cf3c68175389a83bf360b1ad646ed.jpg" alt="Photo du Port à La Réunion." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protection des milieux marins : focus sur quatre projets soutenus par l’Union européenne]]></title>
-        <id>https://www.gouvernement.fr/actualite/protection-des-milieux-marins-focus-sur-4-projets-soutenus-par-lunion-europeenne</id>
-        <link href="https://www.gouvernement.fr/actualite/protection-des-milieux-marins-focus-sur-4-projets-soutenus-par-lunion-europeenne"/>
-        <updated>2024-05-03T05:38:42.871Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3e6e42aa-796a-4b5c-9450-fb3bf59b1fe5"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/protection-des-milieux-marins-focus-sur-4-projets-soutenus-par-lunion-europeenne" class="fr-card__link" target="_self">
-                            Protection des milieux marins : focus sur quatre projets soutenus par l’Union européenne 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Europe
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/04/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/3534d104be09686b1eae4ae35ef59dd6a8130bdb.jpg" alt="Côté de la Martinique." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
