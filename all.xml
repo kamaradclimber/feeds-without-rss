@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 05:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 17:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JO : ouverture de la plateforme pour demander le QR code (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/jo-ouverture-de-la-plateforme-pour-demander-le-qr-code</link>
+            <guid>https://www.gouvernement.fr/actualite/jo-ouverture-de-la-plateforme-pour-demander-le-qr-code</guid>
+            <pubDate>Fri, 10 May 2024 17:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9659b5a4-527e-4a9a-ad0e-ba92b82fac6c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jo-ouverture-de-la-plateforme-pour-demander-le-qr-code" class="fr-card__link" target="_self">
+                            JO : ouverture de la plateforme pour demander le QR code 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 10/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/28af99947f3da1ef43848faabd0ba45dd83d14ae.jpg" alt="Une carte montrant les périmètres sécurisés pour la cérémonie des JOP." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[La flamme olympique à Marseille (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/la-flamme-olympique-a-marseille</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 02/05/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/113a5093eb22fce8a8bbdc7b58bd5eb0804bf318.jpg" alt="La Seine olympique." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[La France championne d’Europe des investissements étrangers (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/attractivite-la-france-championne-deurope-des-investissements-etrangers</link>
-            <guid>https://www.gouvernement.fr/actualite/attractivite-la-france-championne-deurope-des-investissements-etrangers</guid>
-            <pubDate>Thu, 09 May 2024 05:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b2e103d0-20d9-45b2-9558-6c72afc61b27"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/attractivite-la-france-championne-deurope-des-investissements-etrangers" class="fr-card__link" target="_self">
-                            La France championne d’Europe des investissements étrangers 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             International
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 02/05/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/959a6342785602e09c22d7acb5a21e9f0acf4094.jpg" alt="Vue d'une usine à son inauguration." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond the Code: the Power of Leadership and Emotional Fluency in Tech Leads (Blog - Electricity Maps)]]></title>
