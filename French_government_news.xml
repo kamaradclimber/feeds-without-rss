@@ -2,105 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-05-13T17:39:39.523Z</updated>
+    <updated>2024-05-14T05:38:24.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
     <entry>
         <title type="html"><![CDATA[Choose France : 15 milliards d'euros d'investissements étrangers]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.849Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="11ccc1a1-1901-44c2-bfe3-0bb6fce37f61"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/choose-france-un-record-de-15-milliards-deuros-dinvestissements-etrangers" class="fr-card__link" target="_self">
-                            Choose France : 15 milliards d'euros d'investissements étrangers 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             International
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 13/05/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/7d90537117f2cc6a2a1b524b5a39542418e80a2f.jpg" alt="Visuel de la 7e édition de l'événement « Choose France »." data-fr-js-ratio="true"></div></div>]]></content>
+        <updated>2024-05-14T05:38:16.211Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[JO : ouverture de la plateforme pour demander le « QR code »]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.850Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9659b5a4-527e-4a9a-ad0e-ba92b82fac6c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jo-ouverture-de-la-plateforme-pour-demander-le-qr-code" class="fr-card__link" target="_self">
-                            JO : ouverture de la plateforme pour demander le « QR code » 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 10/05/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/28af99947f3da1ef43848faabd0ba45dd83d14ae.jpg" alt="Une carte affichant les périmètres sécurisés pour la cérémonie des JOP de Paris 2024." data-fr-js-ratio="true"></div></div>]]></content>
+        <updated>2024-05-14T05:38:16.212Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[La flamme olympique à Marseille]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.850Z</updated>
+        <updated>2024-05-14T05:38:16.213Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Automobile : le choix résolu de l'électrique]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.853Z</updated>
+        <updated>2024-05-14T05:38:16.215Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Une carte interactive pour vivre l'expérience olympique]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.854Z</updated>
+        <updated>2024-05-14T05:38:16.216Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tourisme : l’État aux côtés des professionnels]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.855Z</updated>
+        <updated>2024-05-14T05:38:16.217Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pesticides : les 5 axes de la stratégie Écophyto 2030]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.856Z</updated>
+        <updated>2024-05-14T05:38:16.218Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[56 lauréats pour un tourisme durable et équitable]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.857Z</updated>
+        <updated>2024-05-14T05:38:16.219Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Écrans : apprendre à maîtriser ses usages]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.858Z</updated>
+        <updated>2024-05-14T05:38:16.221Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[De nouvelles mesures pour soutenir l’éolien en mer]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.859Z</updated>
+        <updated>2024-05-14T05:38:16.223Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Que retenir du projet de loi sur le logement abordable ?]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.860Z</updated>
+        <updated>2024-05-14T05:38:16.227Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 29 avril au 5 mai 2024]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.863Z</updated>
+        <updated>2024-05-14T05:38:16.228Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Qu’est-ce qu’une capitale européenne de la culture ?]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.865Z</updated>
+        <updated>2024-05-14T05:38:16.229Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pas d'écran avant trois ans]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-05-13T17:39:30.866Z</updated>
+        <updated>2024-05-14T05:38:16.232Z</updated>
     </entry>
 </feed>
