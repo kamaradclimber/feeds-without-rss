@@ -4,14 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 05:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 17:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[L'info.gouv du jour : 23 mai 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2a35ddee-b18c-4e9e-bd56-e1d9e170b733"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-jour-23-mai-2024" class="fr-card__link" target="_self">
+                            L'info.gouv du jour : 23 mai 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 23/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/63e1ea6f3dc4ce2fa9c81372c8284473370c6546.png" alt="Un chat (de race sacré de Birmanie) endormi sur un canapé. La date du jour inscrite en vert." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[IA : connaissez-vous Albert ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ia-connaissez-vous-albert</link>
-            <guid>https://www.gouvernement.fr/actualite/ia-connaissez-vous-albert</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="be85f1ba-c4c1-4882-b246-1bca11cf44ac"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ia-connaissez-vous-albert" class="fr-card__link" target="_self">
                             IA : connaissez-vous Albert ? 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -22,9 +35,9 @@
         </item>
         <item>
             <title><![CDATA[L'IA réaffirmée comme priorité stratégique pour la France (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/lia-reaffirmee-comme-priorite-strategique</link>
-            <guid>https://www.gouvernement.fr/actualite/lia-reaffirmee-comme-priorite-strategique</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d13eeaea-51bf-41e2-9397-1e83941b3850"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/lia-reaffirmee-comme-priorite-strategique" class="fr-card__link" target="_self">
                             L'IA réaffirmée comme priorité stratégique pour la France 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -35,9 +48,9 @@
         </item>
         <item>
             <title><![CDATA[MaPrimeRénov' : un parcours simplifié de rénovation des logements (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/maprimerenov-un-parcours-simplifie-de-renovation-des-logements</link>
-            <guid>https://www.gouvernement.fr/actualite/maprimerenov-un-parcours-simplifie-de-renovation-des-logements</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8d0324b3-12d3-4b23-ba26-7181d1a2c687"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/maprimerenov-un-parcours-simplifie-de-renovation-des-logements" class="fr-card__link" target="_self">
                             MaPrimeRénov' : un parcours simplifié de rénovation des logements 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -48,9 +61,9 @@
         </item>
         <item>
             <title><![CDATA[Kaavan : le podcast autour de la santé mentale (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/kaavan-le-podcast-de-sante-psy-etudiant-autour-de-la-sante-mentale</link>
-            <guid>https://www.gouvernement.fr/actualite/kaavan-le-podcast-de-sante-psy-etudiant-autour-de-la-sante-mentale</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5b9b9d04-8545-4691-9984-06d16326436b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/kaavan-le-podcast-de-sante-psy-etudiant-autour-de-la-sante-mentale" class="fr-card__link" target="_self">
                             Kaavan : le podcast autour de la santé mentale 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -61,9 +74,9 @@
         </item>
         <item>
             <title><![CDATA[Impôt sur le revenu : date limite pour la déclaration papier (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/impot-sur-le-revenu-date-limite-pour-la-declaration-papier</link>
-            <guid>https://www.gouvernement.fr/actualite/impot-sur-le-revenu-date-limite-pour-la-declaration-papier</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fcbc69b4-b866-4543-a9d6-cd1b9cdb623f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/impot-sur-le-revenu-date-limite-pour-la-declaration-papier" class="fr-card__link" target="_self">
                             Impôt sur le revenu : date limite pour la déclaration papier 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -74,9 +87,9 @@
         </item>
         <item>
             <title><![CDATA[Des mesures pour aider les sinistrés des Hauts-de-France (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/47-millions-deuros-de-lue-pour-aider-les-sinistres-des-inondations-des-hauts-de-france</link>
-            <guid>https://www.gouvernement.fr/actualite/47-millions-deuros-de-lue-pour-aider-les-sinistres-des-inondations-des-hauts-de-france</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="92822a27-6337-4502-baf4-92023e048e8f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/47-millions-deuros-de-lue-pour-aider-les-sinistres-des-inondations-des-hauts-de-france" class="fr-card__link" target="_self">
                             Des mesures pour aider les sinistrés des Hauts-de-France 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -87,9 +100,9 @@
         </item>
         <item>
             <title><![CDATA[Lutte contre les LGBT-phobies (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/lutte-contre-les-lgbt-phobies-keiona-prend-la-parole</link>
-            <guid>https://www.gouvernement.fr/actualite/lutte-contre-les-lgbt-phobies-keiona-prend-la-parole</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="09e519f5-a6e6-4a25-80f6-588bb782645b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/lutte-contre-les-lgbt-phobies-keiona-prend-la-parole" class="fr-card__link" target="_self">
                             Lutte contre les LGBT-phobies 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -100,9 +113,9 @@
         </item>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 13 au 19 mai 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-13-au-19-mai-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-13-au-19-mai-2024</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="44f20b2e-8908-46bb-97bf-188902c8a533"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-13-au-19-mai-2024" class="fr-card__link" target="_self">
                             Les 4 actus de la semaine du 13 au 19 mai 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -113,9 +126,9 @@
         </item>
         <item>
             <title><![CDATA[L'info.gouv du jour : 17 mai 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-17-mai-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-17-mai-2024</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2d5023a1-56f4-4361-a2b2-7702fd280d1f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-jour-17-mai-2024" class="fr-card__link" target="_self">
                             L'info.gouv du jour : 17 mai 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -126,9 +139,9 @@
         </item>
         <item>
             <title><![CDATA[Les chiffres des infractions anti-LGBT+ enregistrées en 2023 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-chiffres-des-infractions-anti-lgbt-enregistrees-en-2023</link>
-            <guid>https://www.gouvernement.fr/actualite/les-chiffres-des-infractions-anti-lgbt-enregistrees-en-2023</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="eed3adb3-fda9-4f93-8120-fe25e3c13d8b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-chiffres-des-infractions-anti-lgbt-enregistrees-en-2023" class="fr-card__link" target="_self">
                             Les chiffres des infractions anti-LGBT+ enregistrées en 2023 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -139,9 +152,9 @@
         </item>
         <item>
             <title><![CDATA[La 9e édition du Comité interministériel du handicap (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-mesures-du-comite-interministeriel-du-handicap-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/les-mesures-du-comite-interministeriel-du-handicap-2024</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="038ec18a-8ccc-42d7-97b4-80123e3522bf"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-mesures-du-comite-interministeriel-du-handicap-2024" class="fr-card__link" target="_self">
                             La 9e édition du Comité interministériel du handicap 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -152,9 +165,9 @@
         </item>
         <item>
             <title><![CDATA[Les réflexes à adopter face à un jeune en souffrance mentale (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/jeunes-en-souffrance-mentale-la-fausse-bonne-idee-cest-de-croire-quen-parler-fera-du-tort</link>
-            <guid>https://www.gouvernement.fr/actualite/jeunes-en-souffrance-mentale-la-fausse-bonne-idee-cest-de-croire-quen-parler-fera-du-tort</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ad14add7-ba84-4db6-bfd5-396c1ee9c29f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jeunes-en-souffrance-mentale-la-fausse-bonne-idee-cest-de-croire-quen-parler-fera-du-tort" class="fr-card__link" target="_self">
                             Les réflexes à adopter face à un jeune en souffrance mentale 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -165,9 +178,9 @@
         </item>
         <item>
             <title><![CDATA[L’état d’urgence décrété en Nouvelle-Calédonie (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/letat-durgence-decrete-en-nouvelle-caledonie</link>
-            <guid>https://www.gouvernement.fr/actualite/letat-durgence-decrete-en-nouvelle-caledonie</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Thu, 23 May 2024 17:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="418a0006-6d85-4245-9388-8828b57396e3"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/letat-durgence-decrete-en-nouvelle-caledonie" class="fr-card__link" target="_self">
                             L’état d’urgence décrété en Nouvelle-Calédonie 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 16/05/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a189d1417f8c39b7a6e0de75f2c1a86c82e06d55.jpg" alt="Un véhicule blindé de la gendarmerie à Nouméa, le 15 mai 2024." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[« Bouge 30 minutes chaque jour ! » : une campagne qui favorise l'activité physique (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/grande-cause-nationale-2024-bouge-30-minutes-chaque-jour</link>
-            <guid>https://www.gouvernement.fr/actualite/grande-cause-nationale-2024-bouge-30-minutes-chaque-jour</guid>
-            <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="61e37857-c1ea-4afc-b21b-b43e7a91ca1a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/grande-cause-nationale-2024-bouge-30-minutes-chaque-jour" class="fr-card__link" target="_self">
-                            « Bouge 30 minutes chaque jour ! » : une campagne qui favorise l'activité physique 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 15/05/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/9058136614db5ddc48d4c2828c974b55d0c48349.jpg" alt="Une femme en tenue de sport monte des marches en courant." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our latest innovations on Marginal signals (Blog - Electricity Maps)]]></title>
