@@ -4,92 +4,198 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 05:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 17:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[L'info.gouv du 29 mai : Parcoursup, espace santé et harcèlement (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-29-mai-parcoursup-espace-sante-et-harcelement</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-29-mai-parcoursup-espace-sante-et-harcelement</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7f5bcb48-860b-4eaa-a175-2ae698e6b2cc"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-29-mai-parcoursup-espace-sante-et-harcelement" class="fr-card__link" target="_self">
+                            L'info.gouv du 29 mai : Parcoursup, espace santé et harcèlement 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 29/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b9d683b2aa814650706f4fc3f8e2aa1e7b66b0c1.jpg" alt="Des jeunes sur ordinateur." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mieux soigner l’endométriose (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/soutenir-la-recherche-pour-mieux-soigner-lendometriose</link>
+            <guid>https://www.gouvernement.fr/actualite/soutenir-la-recherche-pour-mieux-soigner-lendometriose</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7e194975-ab75-4ae7-a554-c12055508610"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/soutenir-la-recherche-pour-mieux-soigner-lendometriose" class="fr-card__link" target="_self">
+                            Mieux soigner l’endométriose 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 29/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/e11d7956d456fc49da6863af9f3ec3e4dbabd6e7.jpg" alt="Marina Kvaskoff, chercheuse épidémiologiste à l’Inserm" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[L'info.gouv du jour : 28 mai 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-28-mai-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-28-mai-2024</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fdfb6e07-3dba-4e9a-b337-20e5fe6a5a94"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-jour-28-mai-2024" class="fr-card__link" target="_self">
+                            L'info.gouv du jour : 28 mai 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 28/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/ad64dd1bb1cb27124546e9c20c7e6e0b4a093058.png" alt="Dessin d'une femme qui se tient le ventre." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Accompagner les malades, jusqu’à la fin (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/accompagner-les-malades-jusqua-la-fin</link>
+            <guid>https://www.gouvernement.fr/actualite/accompagner-les-malades-jusqua-la-fin</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4e5942b8-a2cf-4d0c-9a0c-5ae767df214c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/accompagner-les-malades-jusqua-la-fin" class="fr-card__link" target="_self">
+                            Accompagner les malades, jusqu’à la fin 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 27/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/ad74e2accaef2527a2b6f64b4191efecb26433fe.png" alt="Franck Chauvin, professeur de santé publique" data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ce qui change au 1er juin 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-juin-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-juin-2024</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b12f8fe0-ffea-4e40-9d2a-249195c5af73"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-qui-change-au-1er-juin-2024" class="fr-card__link" target="_self">
+                            Ce qui change au 1er juin 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 27/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a884fec4746dd33d17eebbd14634356ae8df8cec.jpg" alt="Cahier d'écolier stylisé." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L'info.gouv du jour : 27 mai 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-27-mai-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-27-mai-2024</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6c61d2a2-4351-4e00-9452-dbfd28785e48"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-jour-27-mai-2024" class="fr-card__link" target="_self">
+                            L'info.gouv du jour : 27 mai 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Environnement
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 27/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/3fecf572afe59a17b68fbd8efd123cbef605c130.png" alt="Les membres d'une famille lisant sur les outils numériques." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cet été, rendez-vous au Club France ! (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/cet-ete-rendez-vous-au-club-france</link>
+            <guid>https://www.gouvernement.fr/actualite/cet-ete-rendez-vous-au-club-france</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e0532832-b317-428e-a120-5eaaba15d137"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/cet-ete-rendez-vous-au-club-france" class="fr-card__link" target="_self">
+                            Cet été, rendez-vous au Club France ! 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 24/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b8912a1666c9529bf0e55027543263d7344aa944.jpg" alt="Des sportifs français avec la phrase : Au coeur des Jeux, le coeur en bleu." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Des mesures de soutien économique en Nouvelle-Calédonie (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/nouvelle-caledonie-le-president-de-la-republique-annonce-des-mesures-de-soutien-economique</link>
+            <guid>https://www.gouvernement.fr/actualite/nouvelle-caledonie-le-president-de-la-republique-annonce-des-mesures-de-soutien-economique</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2f00c469-3ce1-480d-90ac-8d29106c86be"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/nouvelle-caledonie-le-president-de-la-republique-annonce-des-mesures-de-soutien-economique" class="fr-card__link" target="_self">
+                            Des mesures de soutien économique en Nouvelle-Calédonie 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sécurité
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 24/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/257ecc501fa0d30f5126ae04fb4e0c7e37f1605e.jpg" alt="La réunion de mai 2024 en Nouvelle-Calédonie" data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L'info.gouv du jour : 24 mai 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-24-mai-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-24-mai-2024</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1f97ee26-d64d-444c-8042-cd1eb95e8dfd"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-jour-24-mai-2024" class="fr-card__link" target="_self">
+                            L'info.gouv du jour : 24 mai 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 24/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/6cf589e4398edb575e813e68f48e99db6d85ad14.png" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 20 au 26 mai 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-20-au-26-mai-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-20-au-26-mai-2024</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="af34f30d-d9b6-4792-8870-dcbdb0946dcb"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-20-au-26-mai-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 20 au 26 mai 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 24/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/2b030f858b33cb12e176c1e7d168f7966cc2d58f.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Qu'est-ce que l'« AI Act » ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/quest-ce-que-lai-act</link>
+            <guid>https://www.gouvernement.fr/actualite/quest-ce-que-lai-act</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e8888db4-fcc7-4a6e-afe1-acc44d2c599d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/quest-ce-que-lai-act" class="fr-card__link" target="_self">
+                            Qu'est-ce que l'« AI Act » ? 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Europe
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 24/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/1565c6c805d69e87a2bdacc97ed2c727acd654a8.jpg" alt="Image générée par IA" data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L'info.gouv du jour : 23 mai 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-23-mai-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-jour-23-mai-2024</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2a35ddee-b18c-4e9e-bd56-e1d9e170b733"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-jour-23-mai-2024" class="fr-card__link" target="_self">
+                            L'info.gouv du jour : 23 mai 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 23/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/63e1ea6f3dc4ce2fa9c81372c8284473370c6546.png" alt="Un chat (de race sacré de Birmanie) endormi sur un canapé. La date du jour inscrite en vert." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IA : connaissez-vous Albert ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/ia-connaissez-vous-albert</link>
+            <guid>https://www.gouvernement.fr/actualite/ia-connaissez-vous-albert</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="be85f1ba-c4c1-4882-b246-1bca11cf44ac"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ia-connaissez-vous-albert" class="fr-card__link" target="_self">
+                            IA : connaissez-vous Albert ? 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Recherche &amp; Innovation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 22/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/3d216d6e19c5ee27f9b8699fc53aa61e07eaadc0.jpg" alt="Gabriel Attal devant un ordinateur pendant la présentation de l'IA Albert" data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L'IA réaffirmée comme priorité stratégique pour la France (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <link>https://www.gouvernement.fr/actualite/lia-reaffirmee-comme-priorite-strategique</link>
+            <guid>https://www.gouvernement.fr/actualite/lia-reaffirmee-comme-priorite-strategique</guid>
+            <pubDate>Wed, 29 May 2024 17:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d13eeaea-51bf-41e2-9397-1e83941b3850"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/lia-reaffirmee-comme-priorite-strategique" class="fr-card__link" target="_self">
+                            L'IA réaffirmée comme priorité stratégique pour la France 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Économie
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 22/05/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/12c0ff5c36d2e9a365104995147b7b63b282e086.jpg" alt="Des silhouettes floues passent devant des lettres géantes et colorées formant le mot « Viva »." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MaPrimeRénov' : un parcours simplifié de rénovation des logements (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kaavan : le podcast autour de la santé mentale (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Wed, 29 May 2024 05:38:56 GMT</pubDate>
+            <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
+            <link>https://www.electricitymaps.com/blog/our-road-to-impact</link>
+            <guid>https://www.electricitymaps.com/blog/our-road-to-impact</guid>
+            <pubDate>Wed, 29 May 2024 17:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="div-block-2"><a href="/blog/our-road-to-impact" class="card-link w-inline-block"><img src="https://assets-global.website-files.com/63c7ac359aace754812ca46a/664c490d3bb38cd1850a57ec_Thumbnail%20Road%20To%20Impact.jpg" loading="lazy" alt="" sizes="(max-width: 479px) 71vw, (max-width: 991px) 39vw, (max-width: 1439px) 26vw, 340px" srcset="https://assets-global.website-files.com/63c7ac359aace754812ca46a/664c490d3bb38cd1850a57ec_Thumbnail%20Road%20To%20Impact-p-500.jpg 500w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/664c490d3bb38cd1850a57ec_Thumbnail%20Road%20To%20Impact-p-800.jpg 800w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/664c490d3bb38cd1850a57ec_Thumbnail%20Road%20To%20Impact.jpg 1020w" class="image-11"></a><div class="div-block-3"><div class="text-small date">May 21, 2024</div><div class="text-small dash">-</div><div class="text-small date">5 mins</div></div><a href="/blog/our-road-to-impact" class="link-block-5 w-inline-block"><h2 class="heading-20 header-link">Our road to impact</h2></a><div class="text-small blog-summary">Electricity Maps was created with the mission to enable a data-driven decarbonization of electricity. But what exactly does that mean? And how do we ensure we continuously contribute to fighting climate change?</div><a href="/blog/our-road-to-impact" class="link-4 text-small">Read more</a></div>]]></content:encoded>
+            <enclosure url="https://assets-global.website-files.com/63c7ac359aace754812ca46a/664c490d3bb38cd1850a57ec_Thumbnail%20Road%20To%20Impact.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Our latest innovations on Marginal signals (Blog - Electricity Maps)]]></title>
@@ -155,14 +261,6 @@
             <content:encoded><![CDATA[<div class="div-block-2"><a href="/blog/using-granular-electricity-data-to-optimise-urban-mobility" class="card-link w-inline-block"><img src="https://assets-global.website-files.com/63c7ac359aace754812ca46a/64b5033ea296921df4c7a516_using-granular-electricity.png" loading="lazy" alt="" sizes="(max-width: 479px) 71vw, (max-width: 991px) 39vw, (max-width: 1439px) 26vw, 340px" srcset="https://assets-global.website-files.com/63c7ac359aace754812ca46a/64b5033ea296921df4c7a516_using-granular-electricity-p-500.png 500w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/64b5033ea296921df4c7a516_using-granular-electricity-p-800.png 800w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/64b5033ea296921df4c7a516_using-granular-electricity.png 1020w" class="image-11"></a><div class="div-block-3"><div class="text-small date">June 21, 2023</div><div class="text-small dash">-</div><div class="text-small date">14 mins</div></div><a href="/blog/using-granular-electricity-data-to-optimise-urban-mobility" class="link-block-5 w-inline-block"><h2 class="heading-20 header-link">Using granular electricity data to optimise urban mobility</h2></a><div class="text-small blog-summary">On the value of using granular electricity data to optimise urban mobility: FUSE,
 A quantification of emission savings for electric vehicles in the city of Frederiksberg.</div><a href="/blog/using-granular-electricity-data-to-optimise-urban-mobility" class="link-4 text-small">Read more</a></div>]]></content:encoded>
             <enclosure url="https://assets-global.website-files.com/63c7ac359aace754812ca46a/64b5033ea296921df4c7a516_using-granular-electricity.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Consumption vs Production carbon intensity: Why emissions should be calculated with consumption data (Blog - Electricity Maps)]]></title>
-            <link>https://www.electricitymaps.com/blog/consumption-carbon-intensity</link>
-            <guid>https://www.electricitymaps.com/blog/consumption-carbon-intensity</guid>
-            <pubDate>Sat, 19 Aug 2023 14:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="div-block-2"><a href="/blog/consumption-carbon-intensity" class="card-link w-inline-block"><img src="https://assets-global.website-files.com/63c7ac359aace754812ca46a/643e8bf548f7e76b1fc1aa8e_Screenshot%202023-04-18%20104435.png" loading="lazy" alt="" sizes="(max-width: 479px) 71vw, (max-width: 991px) 39vw, (max-width: 1439px) 26vw, 340px" srcset="https://assets-global.website-files.com/63c7ac359aace754812ca46a/643e8bf548f7e76b1fc1aa8e_Screenshot%202023-04-18%20104435-p-500.png 500w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/643e8bf548f7e76b1fc1aa8e_Screenshot%202023-04-18%20104435-p-800.png 800w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/643e8bf548f7e76b1fc1aa8e_Screenshot%202023-04-18%20104435-p-1080.png 1080w, https://assets-global.website-files.com/63c7ac359aace754812ca46a/643e8bf548f7e76b1fc1aa8e_Screenshot%202023-04-18%20104435.png 1096w" class="image-11"></a><div class="div-block-3"><div class="text-small date">April 17, 2023</div><div class="text-small dash">-</div><div class="text-small date">10 min</div></div><a href="/blog/consumption-carbon-intensity" class="link-block-5 w-inline-block"><h2 class="heading-20 header-link">Consumption vs Production carbon intensity: Why emissions should be calculated with consumption data</h2></a><div class="text-small blog-summary">Carbon emissions data can be calculated with a consumption-based or a production-based approach. This blog post highlights the differences between the two approaches and outlines why to use consumption carbon intensity</div><a href="/blog/consumption-carbon-intensity" class="link-4 text-small">Read more</a></div>]]></content:encoded>
-            <enclosure url="https://assets-global.website-files.com/63c7ac359aace754812ca46a/643e8bf548f7e76b1fc1aa8e_Screenshot%202023-04-18%20104435.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
