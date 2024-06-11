@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-06-11T05:38:40.289Z</updated>
+    <updated>2024-06-11T17:39:01.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dernière ligne droite avant les stages de seconde]]></title>
+        <id>https://www.gouvernement.fr/actualite/derniere-ligne-droite-avant-les-stages-de-seconde</id>
+        <link href="https://www.gouvernement.fr/actualite/derniere-ligne-droite-avant-les-stages-de-seconde"/>
+        <updated>2024-06-11T17:38:53.154Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9946f173-34e3-4160-98a3-a48c2749e07b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/derniere-ligne-droite-avant-les-stages-de-seconde" class="fr-card__link" target="_self">
+                            Dernière ligne droite avant les stages de seconde 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 11/06/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a57ca17218ef7597c5428b1cc8ee01e428bc38cb.jpg" alt="Une jeune fille vue de dos, portant un sac à dos, entre dans une société." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parcoursup : début de la phase complémentaire]]></title>
+        <id>https://www.gouvernement.fr/actualite/parcoursup-debut-de-la-phase-complementaire</id>
+        <link href="https://www.gouvernement.fr/actualite/parcoursup-debut-de-la-phase-complementaire"/>
+        <updated>2024-06-11T17:38:53.155Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d43e4e07-fa32-4b21-ada0-7d389b3500c7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/parcoursup-debut-de-la-phase-complementaire" class="fr-card__link" target="_self">
+                            Parcoursup : début de la phase complémentaire 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 11/06/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/97308b1b8c46516ec394cb450e404168f73ee7ac.jpg" alt="Une jeune fille" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dissolution de l'Assemblée nationale]]></title>
         <id>https://www.gouvernement.fr/actualite/dissolution-de-lassemblee-nationale</id>
@@ -160,31 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 03/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4919cfb84dd19fd67834da72f4701eb93e110485.jpg" alt="Un gros plan sur un professionnel de santé qui s'apprête à écouter le coeur d'une patiente." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devenir étudiant après Parcoursup]]></title>
-        <id>https://www.gouvernement.fr/actualite/devenir-etudiant-apres-parcoursup</id>
-        <link href="https://www.gouvernement.fr/actualite/devenir-etudiant-apres-parcoursup"/>
-        <updated>2024-06-11T05:38:31.857Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d0e0ab76-9f84-4566-8339-2d5e2fa0969d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/devenir-etudiant-apres-parcoursup" class="fr-card__link" target="_self">
-                            Devenir étudiant après Parcoursup 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 31/05/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/2f4cf7fcd2cf15d4fd5ba00e2aef78d78cc9d097.jpg" alt="Deux étudiants dessinés et les textes « Je deviens étudiant » puis « Mes démarches Crous et mes autres démarches »." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'info.gouv du 31 mai : « Pass Sport », « Rendez-vous aux jardins » et programmes des candidats aux européennes]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-31-mai-pass-sport-rendez-vous-aux-jardins-et-professions-de-foi</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-31-mai-pass-sport-rendez-vous-aux-jardins-et-professions-de-foi"/>
-        <updated>2024-06-11T05:38:31.860Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cecd4352-d4eb-428d-929b-21669f63e965"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-31-mai-pass-sport-rendez-vous-aux-jardins-et-professions-de-foi" class="fr-card__link" target="_self">
-                            L'info.gouv du 31 mai : « Pass Sport », « Rendez-vous aux jardins » et programmes des candidats aux européennes 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 31/05/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/73bbedaeb7d2fdf4980c0ed2bcc17495d00e2457.jpg" alt="Une jeune fille dans un stade." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
