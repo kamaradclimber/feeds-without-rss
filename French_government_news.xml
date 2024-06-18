@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-06-18T05:38:48.716Z</updated>
+    <updated>2024-06-18T17:39:07.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Élections législatives : mode d'emploi pour votre premier vote]]></title>
+        <id>https://www.gouvernement.fr/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote</id>
+        <link href="https://www.gouvernement.fr/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote"/>
+        <updated>2024-06-18T17:38:58.811Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="66c5e6cd-3b1e-4983-a53f-12afdae7b70f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote" class="fr-card__link" target="_self">
+                            Élections législatives : mode d'emploi pour votre premier vote 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 18/06/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a2f8c76c53cc44628dec0158715fee2bb5b58be2.jpg" alt="Un votant dans un isoloir" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bac 2024 : la philosophie ouvre le bal des épreuves écrites]]></title>
+        <id>https://www.gouvernement.fr/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites</id>
+        <link href="https://www.gouvernement.fr/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites"/>
+        <updated>2024-06-18T17:38:58.812Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed9accc9-fcf5-4bec-b80b-f1753e473af6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites" class="fr-card__link" target="_self">
+                            Bac 2024 : la philosophie ouvre le bal des épreuves écrites 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 18/06/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/1b3c78d4764eaa7c1dcd5ca35b5b5b58be9c6b64.jpg" alt="Plusieurs élèves dans une salle de cours sont concentrés sur leur copie." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S’inspirer du vivant pour mieux soigner demain]]></title>
         <id>https://www.gouvernement.fr/actualite/sinspirer-du-vivant-pour-mieux-soigner-demain</id>
@@ -160,31 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 10/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/1a4a85152895c3e37edbdf02feea37af36d12daf.jpg" alt="Emmanuel Macron pendant son adresse aux Français, avec les drapeaux français et européen." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La française Nina Métayer sacrée  « Meilleure cheffe pâtissière du monde en 2024 »]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-francaise-nina-metayer-sacree-meilleure-cheffe-patissiere-du-monde-en-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/la-francaise-nina-metayer-sacree-meilleure-cheffe-patissiere-du-monde-en-2024"/>
-        <updated>2024-06-18T05:38:40.532Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5a90b55e-a84b-4f0c-9947-816203073ac3"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-francaise-nina-metayer-sacree-meilleure-cheffe-patissiere-du-monde-en-2024" class="fr-card__link" target="_self">
-                            La française Nina Métayer sacrée  « Meilleure cheffe pâtissière du monde en 2024 » 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Culture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 07/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/c33e4b7df636e01b17b9fc55442e43ced6879996.jpg" alt="Nina Métayer" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 7 juin : anneaux olympiques, fraudes, JOP]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-7-juin-anneaux-olympiques-jop-accessibles-fraudes-aux-moyens-de-paiement</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-7-juin-anneaux-olympiques-jop-accessibles-fraudes-aux-moyens-de-paiement"/>
-        <updated>2024-06-18T05:38:40.533Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a614ccd0-81d6-48db-87cf-53e010304346"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-7-juin-anneaux-olympiques-jop-accessibles-fraudes-aux-moyens-de-paiement" class="fr-card__link" target="_self">
-                            L’info.gouv du 7 juin : anneaux olympiques, fraudes, JOP 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 07/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/fabbd018d94379a6228852d16681440739d72ff6.jpg" alt="Une vue de la tour Eiffel ornée des anneaux olympiques, avec « 7 juin, l'infogouv du jour » écrit en vert." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
