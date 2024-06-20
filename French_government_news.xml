@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-06-20T05:38:32.520Z</updated>
+    <updated>2024-06-20T17:39:14.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 20 juin : vote accessible et rentrée étudiante]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante"/>
+        <updated>2024-06-20T17:39:06.829Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8de2dee5-010f-4238-8f04-71cd0497ab04"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante" class="fr-card__link" target="_self">
+                            L’info.gouv du 20 juin : vote accessible et rentrée étudiante 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 20/06/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4440b9737750a87c4826be32e05890119a14a70b.jpg" alt="Quatre isoloirs. L'un d'eux est occupé par une personne en fauteuil roulant." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pourquoi élit-on 577 députés ?]]></title>
         <id>https://www.gouvernement.fr/actualite/pourquoi-elit-on-577-deputes</id>
@@ -33,9 +46,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Élections législatives : mode d'emploi pour votre premier vote]]></title>
-        <id>https://www.gouvernement.fr/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote</id>
-        <link href="https://www.gouvernement.fr/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote"/>
-        <updated>2024-06-20T05:38:23.694Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.808Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="66c5e6cd-3b1e-4983-a53f-12afdae7b70f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote" class="fr-card__link" target="_self">
                             Élections législatives : mode d'emploi pour votre premier vote 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -46,9 +59,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Bac 2024 : la philosophie ouvre le bal des épreuves écrites]]></title>
-        <id>https://www.gouvernement.fr/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites</id>
-        <link href="https://www.gouvernement.fr/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites"/>
-        <updated>2024-06-20T05:38:23.696Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.809Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed9accc9-fcf5-4bec-b80b-f1753e473af6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites" class="fr-card__link" target="_self">
                             Bac 2024 : la philosophie ouvre le bal des épreuves écrites 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -59,9 +72,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[S’inspirer du vivant pour mieux soigner demain]]></title>
-        <id>https://www.gouvernement.fr/actualite/sinspirer-du-vivant-pour-mieux-soigner-demain</id>
-        <link href="https://www.gouvernement.fr/actualite/sinspirer-du-vivant-pour-mieux-soigner-demain"/>
-        <updated>2024-06-20T05:38:23.697Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.810Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8201c5b-25d1-417e-9efc-ce30fb48858a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/sinspirer-du-vivant-pour-mieux-soigner-demain" class="fr-card__link" target="_self">
                             S’inspirer du vivant pour mieux soigner demain 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -72,9 +85,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[JO Paris 2024 : le plan de transport pour la cérémonie d’ouverture]]></title>
-        <id>https://www.gouvernement.fr/actualite/jop-2024-le-plan-de-transport-pour-la-ceremonie-douverture</id>
-        <link href="https://www.gouvernement.fr/actualite/jop-2024-le-plan-de-transport-pour-la-ceremonie-douverture"/>
-        <updated>2024-06-20T05:38:23.701Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.811Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2d3ccf7c-4f0f-4734-9d9c-f4dcd4dde10b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jop-2024-le-plan-de-transport-pour-la-ceremonie-douverture" class="fr-card__link" target="_self">
                             JO Paris 2024 : le plan de transport pour la cérémonie d’ouverture 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -85,9 +98,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 10 au 16 juin 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-10-au-16-juin-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-10-au-16-juin-2024"/>
-        <updated>2024-06-20T05:38:23.703Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.812Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="661fef9e-0c02-4a70-a18f-d23ee8caa2e0"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-10-au-16-juin-2024" class="fr-card__link" target="_self">
                             Les 4 actus de la semaine du 10 au 16 juin 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -98,9 +111,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Innover contre les violences sexuelles et sexistes dans l’Armée]]></title>
-        <id>https://www.gouvernement.fr/actualite/innover-contre-les-violences-sexuelles-et-sexistes-dans-larmee</id>
-        <link href="https://www.gouvernement.fr/actualite/innover-contre-les-violences-sexuelles-et-sexistes-dans-larmee"/>
-        <updated>2024-06-20T05:38:23.706Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.819Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ef89cda2-d429-4671-9a93-c6b8e5d659c1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/innover-contre-les-violences-sexuelles-et-sexistes-dans-larmee" class="fr-card__link" target="_self">
                             Innover contre les violences sexuelles et sexistes dans l’Armée 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -111,9 +124,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Comment établir une procuration de vote ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/comment-etablir-une-procuration-de-vote</id>
-        <link href="https://www.gouvernement.fr/actualite/comment-etablir-une-procuration-de-vote"/>
-        <updated>2024-06-20T05:38:23.707Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.819Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1108f4f2-104b-45a2-8d0d-b1c3af85ce12"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/comment-etablir-une-procuration-de-vote" class="fr-card__link" target="_self">
                             Comment établir une procuration de vote ? 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -124,9 +137,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Êtes-vous bien inscrit sur les listes électorales ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/etes-vous-bien-inscrit-sur-les-listes-electorales</id>
-        <link href="https://www.gouvernement.fr/actualite/etes-vous-bien-inscrit-sur-les-listes-electorales"/>
-        <updated>2024-06-20T05:38:23.709Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.820Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17fad828-5c9e-4dfd-86a9-fdb8e291a16d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/etes-vous-bien-inscrit-sur-les-listes-electorales" class="fr-card__link" target="_self">
                             Êtes-vous bien inscrit sur les listes électorales ? 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -137,9 +150,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Pour voter, n’oubliez pas vos papiers d’identité]]></title>
-        <id>https://www.gouvernement.fr/actualite/pour-voter-noubliez-pas-vos-papiers-didentite</id>
-        <link href="https://www.gouvernement.fr/actualite/pour-voter-noubliez-pas-vos-papiers-didentite"/>
-        <updated>2024-06-20T05:38:23.711Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.821Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c1f54763-8b2b-434f-8bf4-6a2de030f793"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/pour-voter-noubliez-pas-vos-papiers-didentite" class="fr-card__link" target="_self">
                             Pour voter, n’oubliez pas vos papiers d’identité 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -150,9 +163,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Législatives 2024 : les dates à avoir en tête]]></title>
-        <id>https://www.gouvernement.fr/actualite/elections-legislatives-2024-les-dates-a-avoir-en-tete</id>
-        <link href="https://www.gouvernement.fr/actualite/elections-legislatives-2024-les-dates-a-avoir-en-tete"/>
-        <updated>2024-06-20T05:38:23.712Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.822Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="496af57d-c886-424b-bc76-5fe6e4d4b245"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/elections-legislatives-2024-les-dates-a-avoir-en-tete" class="fr-card__link" target="_self">
                             Législatives 2024 : les dates à avoir en tête 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -163,9 +176,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 12 juin : baccalauréat, défilé du 14 juillet et feux de forêt]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-juin-baccalaureat-defile-du-14-juillet-et-feux-de-foret</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-12-juin-baccalaureat-defile-du-14-juillet-et-feux-de-foret"/>
-        <updated>2024-06-20T05:38:23.713Z</updated>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-20T17:39:06.824Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e187ca4a-6e59-40d2-b9b4-1d6eccce5cb8"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-12-juin-baccalaureat-defile-du-14-juillet-et-feux-de-foret" class="fr-card__link" target="_self">
                             L’info.gouv du 12 juin : baccalauréat, défilé du 14 juillet et feux de forêt 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -173,18 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 12/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/10c734100ac46b449783537fe607a19c3ad4a599.gif" alt="Un paysage de colline avec des pompiers pouvant intervenir." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dernière ligne droite avant les stages de seconde]]></title>
-        <id>https://www.gouvernement.fr/actualite/derniere-ligne-droite-avant-les-stages-de-seconde</id>
-        <link href="https://www.gouvernement.fr/actualite/derniere-ligne-droite-avant-les-stages-de-seconde"/>
-        <updated>2024-06-20T05:38:23.715Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9946f173-34e3-4160-98a3-a48c2749e07b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/derniere-ligne-droite-avant-les-stages-de-seconde" class="fr-card__link" target="_self">
-                            Dernière ligne droite avant les stages de seconde 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 11/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a57ca17218ef7597c5428b1cc8ee01e428bc38cb.jpg" alt="Une jeune fille vue de dos, portant un sac à dos, entre dans une société." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
