@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 05:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 17:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L’info.gouv du 25 juin : plan chaleur, législatives, Mon Master, péages (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-25-juin</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-25-juin</guid>
+            <pubDate>Tue, 25 Jun 2024 17:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4b091582-f9a4-47ca-b3ca-fbf349e9c3c4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-25-juin" class="fr-card__link" target="_self">
+                            L’info.gouv du 25 juin : plan chaleur, législatives, Mon Master, péages 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 25/06/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/10a0bf044ca490696ed6d5b8d0580c0c03b59b50.jpg" alt="La place Massena à Nice un jour de soleil, avec la mention : 25 juin, l'info.gouv du jour" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Ce qui change au 1er juillet 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-juillet-2024</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 13/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/6a8431e5aee83b2da83fbc4ab6fa8415a03346a1.jpg" alt="Un visuel dans les tons de bleu disant : " absent="" les="" 30="" juin="" et="" 7="" juillet="" ?="" n'attendez="" pas="" pour="" faire="" votre="" procuration="" sur="" maprocuration.gouv.fr"."="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Êtes-vous bien inscrit sur les listes électorales ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/etes-vous-bien-inscrit-sur-les-listes-electorales</link>
-            <guid>https://www.gouvernement.fr/actualite/etes-vous-bien-inscrit-sur-les-listes-electorales</guid>
-            <pubDate>Tue, 25 Jun 2024 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17fad828-5c9e-4dfd-86a9-fdb8e291a16d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/etes-vous-bien-inscrit-sur-les-listes-electorales" class="fr-card__link" target="_self">
-                            Êtes-vous bien inscrit sur les listes électorales ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 12/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/e2c0e7675b07c01c63d8a5a767aaa52b887aa0c5.jpg" alt="Des cartes électorales sur une table." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
