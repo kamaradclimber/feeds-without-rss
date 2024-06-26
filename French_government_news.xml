@@ -2,189 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-06-25T17:38:29.978Z</updated>
+    <updated>2024-06-26T05:38:34.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
     <entry>
-        <title type="html"><![CDATA[L’info.gouv du 25 juin : plan chaleur, législatives, Mon Master, péages]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-25-juin</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-25-juin"/>
-        <updated>2024-06-25T17:38:22.196Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4b091582-f9a4-47ca-b3ca-fbf349e9c3c4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-25-juin" class="fr-card__link" target="_self">
-                            L’info.gouv du 25 juin : plan chaleur, législatives, Mon Master, péages 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 25/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/10a0bf044ca490696ed6d5b8d0580c0c03b59b50.jpg" alt="La place Massena à Nice un jour de soleil, avec la mention : 25 juin, l'info.gouv du jour" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.601Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ce qui change au 1er juillet 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-juillet-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-juillet-2024"/>
-        <updated>2024-06-25T05:38:55.328Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a3d07756-54a8-47d2-bb14-d6512e119615"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-qui-change-au-1er-juillet-2024" class="fr-card__link" target="_self">
-                            Ce qui change au 1er juillet 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 24/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a23100ba11dea9aba9f859da0942f2fb2a840f0a.jpg" alt="Ce qui change lundi 1 juillet, inscrit en bleu sur une feuille quadrillée." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.601Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La grande fête populaire des Jeux de Paris 2024 est lancée !]]></title>
-        <id>https://www.gouvernement.fr/actualite/mi-parcours-du-relais-de-la-flamme-la-grande-fete-populaire-des-jeux-de-paris-2024-est-lancee</id>
-        <link href="https://www.gouvernement.fr/actualite/mi-parcours-du-relais-de-la-flamme-la-grande-fete-populaire-des-jeux-de-paris-2024-est-lancee"/>
-        <updated>2024-06-25T05:38:55.329Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="33616398-3c1a-441a-b392-6ab076b00dfe"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/mi-parcours-du-relais-de-la-flamme-la-grande-fete-populaire-des-jeux-de-paris-2024-est-lancee" class="fr-card__link" target="_self">
-                            La grande fête populaire des Jeux de Paris 2024 est lancée ! 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 21/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/968511a1174ca138387f2e0e3c00d29917996e0b.jpg" alt="Une porteuse de flamme olympique dans le décor de la grotte de Lacaux." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.602Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 17 au 23 juin 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-17-au-23-juin-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-17-au-23-juin-2024"/>
-        <updated>2024-06-25T05:38:55.329Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="758c05a2-f8b6-4ebc-b350-cb40e6ff678d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-17-au-23-juin-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 17 au 23 juin 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 21/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/33cb8a1fab27ab515bb5eb9171cd9dab6107ccce.jpg" alt="Des étudiants passent un examen." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.603Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’info.gouv du 20 juin : vote accessible et rentrée étudiante]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante"/>
-        <updated>2024-06-25T05:38:55.331Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8de2dee5-010f-4238-8f04-71cd0497ab04"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante" class="fr-card__link" target="_self">
-                            L’info.gouv du 20 juin : vote accessible et rentrée étudiante 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 20/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4440b9737750a87c4826be32e05890119a14a70b.jpg" alt="Quatre isoloirs. L'un d'eux est occupé par une personne en fauteuil roulant." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.603Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pourquoi élit-on 577 députés ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/pourquoi-elit-on-577-deputes</id>
-        <link href="https://www.gouvernement.fr/actualite/pourquoi-elit-on-577-deputes"/>
-        <updated>2024-06-25T05:38:55.332Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b80b1959-c9b1-40f5-8266-e7cd895a63c5"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/pourquoi-elit-on-577-deputes" class="fr-card__link" target="_self">
-                            Pourquoi élit-on 577 députés ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 19/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/76c5bceb951aad0e1a97f87dc2df1a29023da2ee.png" alt="Un visuel montrant l'Assemblée nationale dessinée en bleu." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.604Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’info.gouv du 19 juin : législatives, accès aux soins, poids lourds et antibiotiques]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-19-juin-elections-legislatives-acces-aux-soins-et-poids-lourds</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-19-juin-elections-legislatives-acces-aux-soins-et-poids-lourds"/>
-        <updated>2024-06-25T05:38:55.334Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cb1ee13b-95ca-43a9-add8-fdee9438d0d7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-19-juin-elections-legislatives-acces-aux-soins-et-poids-lourds" class="fr-card__link" target="_self">
-                            L’info.gouv du 19 juin : législatives, accès aux soins, poids lourds et antibiotiques 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 19/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b9bf37ddd048cb3546369386e542f1870c0b78e4.jpg" alt="Prise de tension" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.604Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Élections législatives : mode d'emploi pour votre premier vote]]></title>
-        <id>https://www.gouvernement.fr/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote</id>
-        <link href="https://www.gouvernement.fr/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote"/>
-        <updated>2024-06-25T05:38:55.336Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="66c5e6cd-3b1e-4983-a53f-12afdae7b70f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote" class="fr-card__link" target="_self">
-                            Élections législatives : mode d'emploi pour votre premier vote 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 18/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a2f8c76c53cc44628dec0158715fee2bb5b58be2.jpg" alt="Un votant dans un isoloir" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.605Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bac 2024 : la philosophie ouvre le bal des épreuves écrites]]></title>
-        <id>https://www.gouvernement.fr/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites</id>
-        <link href="https://www.gouvernement.fr/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites"/>
-        <updated>2024-06-25T05:38:55.339Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ed9accc9-fcf5-4bec-b80b-f1753e473af6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/bac-2024-la-philosophie-ouvre-le-bal-des-epreuves-ecrites" class="fr-card__link" target="_self">
-                            Bac 2024 : la philosophie ouvre le bal des épreuves écrites 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 18/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/1b3c78d4764eaa7c1dcd5ca35b5b5b58be9c6b64.jpg" alt="Plusieurs élèves dans une salle de cours sont concentrés sur leur copie." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.606Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[S’inspirer du vivant pour mieux soigner demain]]></title>
-        <id>https://www.gouvernement.fr/actualite/sinspirer-du-vivant-pour-mieux-soigner-demain</id>
-        <link href="https://www.gouvernement.fr/actualite/sinspirer-du-vivant-pour-mieux-soigner-demain"/>
-        <updated>2024-06-25T05:38:55.340Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8201c5b-25d1-417e-9efc-ce30fb48858a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/sinspirer-du-vivant-pour-mieux-soigner-demain" class="fr-card__link" target="_self">
-                            S’inspirer du vivant pour mieux soigner demain 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 17/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/71024d6d4e6d609b30f115a3df90def852506c45.jpg" alt="Le biomimétisme expliqué par l'exemple de l'avion et de la seringue." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.607Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JO Paris 2024 : le plan de transport pour la cérémonie d’ouverture]]></title>
-        <id>https://www.gouvernement.fr/actualite/jop-2024-le-plan-de-transport-pour-la-ceremonie-douverture</id>
-        <link href="https://www.gouvernement.fr/actualite/jop-2024-le-plan-de-transport-pour-la-ceremonie-douverture"/>
-        <updated>2024-06-25T05:38:55.342Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2d3ccf7c-4f0f-4734-9d9c-f4dcd4dde10b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jop-2024-le-plan-de-transport-pour-la-ceremonie-douverture" class="fr-card__link" target="_self">
-                            JO Paris 2024 : le plan de transport pour la cérémonie d’ouverture 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 14/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/757f82e9127c6e4733c3a11df75f0da2d201f486.jpg" alt="Visuel montrant la cérémonie d'ouverture sur la Seine, avec le Grand Palais et la tour Eiffel." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.608Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 10 au 16 juin 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-10-au-16-juin-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-10-au-16-juin-2024"/>
-        <updated>2024-06-25T05:38:55.344Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="661fef9e-0c02-4a70-a18f-d23ee8caa2e0"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-10-au-16-juin-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 10 au 16 juin 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 14/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/e3cd9c042276da68a331eea6e1eeef49b157029e.jpg" alt="L'Assemblée nationale" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.609Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Innover contre les violences sexuelles et sexistes dans l’Armée]]></title>
-        <id>https://www.gouvernement.fr/actualite/innover-contre-les-violences-sexuelles-et-sexistes-dans-larmee</id>
-        <link href="https://www.gouvernement.fr/actualite/innover-contre-les-violences-sexuelles-et-sexistes-dans-larmee"/>
-        <updated>2024-06-25T05:38:55.345Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ef89cda2-d429-4671-9a93-c6b8e5d659c1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/innover-contre-les-violences-sexuelles-et-sexistes-dans-larmee" class="fr-card__link" target="_self">
-                            Innover contre les violences sexuelles et sexistes dans l’Armée 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Défense
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 13/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/1bde8d95767242b0133860592269e7e8503129a2.jpg" alt="Une militaire tend la main en faisant le signe stop." data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.610Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment établir une procuration de vote ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/comment-etablir-une-procuration-de-vote</id>
-        <link href="https://www.gouvernement.fr/actualite/comment-etablir-une-procuration-de-vote"/>
-        <updated>2024-06-25T05:38:55.346Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1108f4f2-104b-45a2-8d0d-b1c3af85ce12"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/comment-etablir-une-procuration-de-vote" class="fr-card__link" target="_self">
-                            Comment établir une procuration de vote ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 13/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/6a8431e5aee83b2da83fbc4ab6fa8415a03346a1.jpg" alt="Un visuel dans les tons de bleu disant : " absent="" les="" 30="" juin="" et="" 7="" juillet="" ?="" n'attendez="" pas="" pour="" faire="" votre="" procuration="" sur="" maprocuration.gouv.fr"."="" data-fr-js-ratio="true"></div></div>]]></content>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-06-26T05:38:26.611Z</updated>
     </entry>
 </feed>
