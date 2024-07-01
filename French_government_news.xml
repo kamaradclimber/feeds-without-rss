@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-07-01T05:39:10.784Z</updated>
+    <updated>2024-07-01T17:38:29.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Qui fait les lois ?]]></title>
+        <id>https://www.gouvernement.fr/actualite/qui-fait-les-lois</id>
+        <link href="https://www.gouvernement.fr/actualite/qui-fait-les-lois"/>
+        <updated>2024-07-01T17:38:22.088Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="59a20c90-f292-412e-9959-50894b55f7d2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/qui-fait-les-lois" class="fr-card__link" target="_self">
+                            Qui fait les lois ? 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 01/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4fa402358e373d5946522a286f0362447e6d7ee9.png" alt="Un dessin d'un recueil de lois." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 1er juillet : brevet, fortes chaleurs et diphtérie]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie"/>
+        <updated>2024-07-01T17:38:22.089Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="34f6631d-8c43-4e2f-8767-344afa922dee"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie" class="fr-card__link" target="_self">
+                            L’info.gouv du 1er juillet : brevet, fortes chaleurs et diphtérie 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 01/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/8d48221e9ee7d4a6ea2d8b3a5fe18aa0829071c6.png" alt="" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Législatives 2024 : les résultats du premier tour]]></title>
+        <id>https://www.gouvernement.fr/actualite/legislatives-2024-les-resultats-du-premier-tour</id>
+        <link href="https://www.gouvernement.fr/actualite/legislatives-2024-les-resultats-du-premier-tour"/>
+        <updated>2024-07-01T17:38:22.090Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="174d9ba4-7e36-4f82-9806-cb9bcbe56877"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/legislatives-2024-les-resultats-du-premier-tour" class="fr-card__link" target="_self">
+                            Législatives 2024 : les résultats du premier tour 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 01/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4f368fc922236c1278dec3e45c68d1407e47ce51.jpg" alt="Des cartes électorales posées sur une table." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 28 juin : Vacances olympiques, surveillance sanitaire, rentrée scolaire 2024]]></title>
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-28-juin-vacances-olympiques-surveillance-sanitaire-rentree-scolaire-2024</id>
@@ -81,7 +120,7 @@
                              Citoyenneté
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 26/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4bfc7d1b51e7902058eaa54dc177c5a74135091b.png" alt="" data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4bfc7d1b51e7902058eaa54dc177c5a74135091b.png" alt="Un vote dans une urne." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 25 juin : plan chaleur, législatives, Mon Master, péages]]></title>
@@ -147,44 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 20/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4440b9737750a87c4826be32e05890119a14a70b.jpg" alt="Quatre isoloirs. L'un d'eux est occupé par une personne en fauteuil roulant." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pourquoi élit-on 577 députés ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/pourquoi-elit-on-577-deputes</id>
-        <link href="https://www.gouvernement.fr/actualite/pourquoi-elit-on-577-deputes"/>
-        <updated>2024-06-30T17:38:37.407Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b80b1959-c9b1-40f5-8266-e7cd895a63c5"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/pourquoi-elit-on-577-deputes" class="fr-card__link" target="_self">
-                            Pourquoi élit-on 577 députés ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 19/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/76c5bceb951aad0e1a97f87dc2df1a29023da2ee.png" alt="Un visuel montrant l'Assemblée nationale dessinée en bleu." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 19 juin : législatives, accès aux soins, poids lourds et antibiotiques]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-19-juin-elections-legislatives-acces-aux-soins-et-poids-lourds</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-19-juin-elections-legislatives-acces-aux-soins-et-poids-lourds"/>
-        <updated>2024-06-30T17:38:37.409Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cb1ee13b-95ca-43a9-add8-fdee9438d0d7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-19-juin-elections-legislatives-acces-aux-soins-et-poids-lourds" class="fr-card__link" target="_self">
-                            L’info.gouv du 19 juin : législatives, accès aux soins, poids lourds et antibiotiques 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 19/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b9bf37ddd048cb3546369386e542f1870c0b78e4.jpg" alt="Prise de tension" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Élections législatives : mode d'emploi pour votre premier vote]]></title>
-        <id>https://www.gouvernement.fr/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote</id>
-        <link href="https://www.gouvernement.fr/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote"/>
-        <updated>2024-06-30T17:38:37.415Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="66c5e6cd-3b1e-4983-a53f-12afdae7b70f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/elections-legislatives-2024-mode-demploi-pour-votre-premier-vote" class="fr-card__link" target="_self">
-                            Élections législatives : mode d'emploi pour votre premier vote 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 18/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a2f8c76c53cc44628dec0158715fee2bb5b58be2.jpg" alt="Un votant dans un isoloir" data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
