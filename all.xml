@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 05:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 17:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L'info.gouv du 2 juillet : rage, diplomatie, peste porcine (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-2-juillet-rage-diplomatie-peste-porcine-et-sportifs-de-haut-niveau</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-2-juillet-rage-diplomatie-peste-porcine-et-sportifs-de-haut-niveau</guid>
+            <pubDate>Tue, 02 Jul 2024 17:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5b5377e8-f15b-4d4d-b6b7-e2e9ed54f24f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-2-juillet-rage-diplomatie-peste-porcine-et-sportifs-de-haut-niveau" class="fr-card__link" target="_self">
+                            L'info.gouv du 2 juillet : rage, diplomatie, peste porcine 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 02/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/3f22615d3b0b38d1fbeed3fbc18cc287edac3e57.jpg" alt="Un chien couché sur le sol, les mots « 2 juillet » et « L'info.gouv du jour » inscrits en vert sur la photo." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Qui fait les lois ? (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/qui-fait-les-lois</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 21/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/33cb8a1fab27ab515bb5eb9171cd9dab6107ccce.jpg" alt="Des étudiants passent un examen." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[L’info.gouv du 20 juin : vote accessible et rentrée étudiante (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante</guid>
-            <pubDate>Sun, 30 Jun 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8de2dee5-010f-4238-8f04-71cd0497ab04"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-20-juin-vote-en-situation-de-handicap-et-rentree-etudiante" class="fr-card__link" target="_self">
-                            L’info.gouv du 20 juin : vote accessible et rentrée étudiante 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 20/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4440b9737750a87c4826be32e05890119a14a70b.jpg" alt="Quatre isoloirs. L'un d'eux est occupé par une personne en fauteuil roulant." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
