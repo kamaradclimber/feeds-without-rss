@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 05:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 17:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L’info.gouv du 3 juillet : sac plastique et législatives (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-3-juillet-journee-sans-sac-plastique-et-legislatives-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-3-juillet-journee-sans-sac-plastique-et-legislatives-2024</guid>
+            <pubDate>Wed, 03 Jul 2024 17:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bc044739-2c9c-46f9-8dae-8fd704c012eb"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-3-juillet-journee-sans-sac-plastique-et-legislatives-2024" class="fr-card__link" target="_self">
+                            L’info.gouv du 3 juillet : sac plastique et législatives 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 03/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/1e406d9d11f1bdd20422f31620964b8338cfdb7e.jpg" alt="Une tortue de mer avec un sac plastique dans la bouche. 3 juillet et l'info.gouv du jour inscrits en lettres vertes." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L'info.gouv du 2 juillet : rage, diplomatie, peste porcine (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-2-juillet-rage-diplomatie-peste-porcine-et-sportifs-de-haut-niveau</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 21/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/968511a1174ca138387f2e0e3c00d29917996e0b.jpg" alt="Une porteuse de flamme olympique dans le décor de la grotte de Lacaux." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les 4 actus de la semaine du 17 au 23 juin 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-17-au-23-juin-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-17-au-23-juin-2024</guid>
-            <pubDate>Sun, 30 Jun 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="758c05a2-f8b6-4ebc-b350-cb40e6ff678d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-17-au-23-juin-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 17 au 23 juin 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 21/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/33cb8a1fab27ab515bb5eb9171cd9dab6107ccce.jpg" alt="Des étudiants passent un examen." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
