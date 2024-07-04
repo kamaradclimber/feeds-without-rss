@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-07-04T05:39:46.852Z</updated>
+    <updated>2024-07-04T17:38:49.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 4 juillet : internet et enseignement supérieur]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-4-juillet-internet-en-france-et-rayonnement-des-universites</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-4-juillet-internet-en-france-et-rayonnement-des-universites"/>
+        <updated>2024-07-04T17:38:40.981Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b053d267-135e-4f6d-8b91-259d437ab37a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-4-juillet-internet-en-france-et-rayonnement-des-universites" class="fr-card__link" target="_self">
+                            L’info.gouv du 4 juillet : internet et enseignement supérieur 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 04/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/9e35e9eb31106d6b36e1c303ca25a8163f68aa10.png" alt="L'info.gouv du jour du 4 juillet 2024" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 3 juillet : sac plastique et législatives]]></title>
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-3-juillet-journee-sans-sac-plastique-et-legislatives-2024</id>
@@ -173,18 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 24/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a23100ba11dea9aba9f859da0942f2fb2a840f0a.jpg" alt="Ce qui change lundi 1 juillet, inscrit en bleu sur une feuille quadrillée." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La grande fête populaire des Jeux de Paris 2024 est lancée !]]></title>
-        <id>https://www.gouvernement.fr/actualite/mi-parcours-du-relais-de-la-flamme-la-grande-fete-populaire-des-jeux-de-paris-2024-est-lancee</id>
-        <link href="https://www.gouvernement.fr/actualite/mi-parcours-du-relais-de-la-flamme-la-grande-fete-populaire-des-jeux-de-paris-2024-est-lancee"/>
-        <updated>2024-06-30T17:38:37.403Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="33616398-3c1a-441a-b392-6ab076b00dfe"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/mi-parcours-du-relais-de-la-flamme-la-grande-fete-populaire-des-jeux-de-paris-2024-est-lancee" class="fr-card__link" target="_self">
-                            La grande fête populaire des Jeux de Paris 2024 est lancée ! 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 21/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/968511a1174ca138387f2e0e3c00d29917996e0b.jpg" alt="Une porteuse de flamme olympique dans le décor de la grotte de Lacaux." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
