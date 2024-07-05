@@ -4,9 +4,35 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 05:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 17:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L’info.gouv du 5 juillet : élections législatives, FranceConnect et agents chimiques (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-5-juillet-elections-legislatives-franceconnect-et-agents-chimiques</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-5-juillet-elections-legislatives-franceconnect-et-agents-chimiques</guid>
+            <pubDate>Fri, 05 Jul 2024 17:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="752c8b3f-f660-49ad-9489-b5bbb6628f5d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-5-juillet-elections-legislatives-franceconnect-et-agents-chimiques" class="fr-card__link" target="_self">
+                            L’info.gouv du 5 juillet : élections législatives, FranceConnect et agents chimiques 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 05/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/f2a73e70e39d9e9944a21b5dcabe0bd6ef0c788e.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Les 4 actus de la semaine du 1 au 7 juillet 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-1-au-7-juillet-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-1-au-7-juillet-2024</guid>
+            <pubDate>Fri, 05 Jul 2024 17:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b4743e2d-72ff-4a52-96c5-c4dfadb2f191"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-1-au-7-juillet-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 1 au 7 juillet 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 05/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/7a54080a7c3bb58c4b820480f6ae6fc6c23c4642.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L’info.gouv du 4 juillet : internet et enseignement supérieur (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-4-juillet-internet-en-france-et-rayonnement-des-universites</link>
@@ -162,32 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 26/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4bfc7d1b51e7902058eaa54dc177c5a74135091b.png" alt="Un vote dans une urne." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[L’info.gouv du 25 juin : plan chaleur, législatives, Mon Master, péages (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-25-juin</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-25-juin</guid>
-            <pubDate>Sun, 30 Jun 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4b091582-f9a4-47ca-b3ca-fbf349e9c3c4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-25-juin" class="fr-card__link" target="_self">
-                            L’info.gouv du 25 juin : plan chaleur, législatives, Mon Master, péages 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 25/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/10a0bf044ca490696ed6d5b8d0580c0c03b59b50.jpg" alt="La place Massena à Nice un jour de soleil, avec la mention : 25 juin, l'info.gouv du jour" data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ce qui change au 1er juillet 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-juillet-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-juillet-2024</guid>
-            <pubDate>Sun, 30 Jun 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a3d07756-54a8-47d2-bb14-d6512e119615"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-qui-change-au-1er-juillet-2024" class="fr-card__link" target="_self">
-                            Ce qui change au 1er juillet 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 24/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a23100ba11dea9aba9f859da0942f2fb2a840f0a.jpg" alt="Ce qui change lundi 1 juillet, inscrit en bleu sur une feuille quadrillée." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
