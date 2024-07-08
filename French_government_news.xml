@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-07-08T05:40:16.473Z</updated>
+    <updated>2024-07-08T17:38:29.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 8 juillet : résultats du baccalauréat, défilé du 14 juillet et « Origin'Info »]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-8-juillet-resultats-du-baccalaureat-defile-du-14-juillet-et-origininfo</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-8-juillet-resultats-du-baccalaureat-defile-du-14-juillet-et-origininfo"/>
+        <updated>2024-07-08T17:38:22.760Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="00a138ee-7391-4772-9011-a967b6ee8e2b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-8-juillet-resultats-du-baccalaureat-defile-du-14-juillet-et-origininfo" class="fr-card__link" target="_self">
+                            L’info.gouv du 8 juillet : résultats du baccalauréat, défilé du 14 juillet et « Origin'Info » 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 08/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b694e6779ace9c1c7751086be982109ed0b15177.png" alt="Des jeunes lisent les affiches des résultats du baccalauréat." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Législatives 2024 : les résultats du second tour]]></title>
+        <id>https://www.gouvernement.fr/actualite/legislatives-2024-les-resultats-du-second-tour</id>
+        <link href="https://www.gouvernement.fr/actualite/legislatives-2024-les-resultats-du-second-tour"/>
+        <updated>2024-07-08T17:38:22.763Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ff3fe7b4-ff20-4ed3-9fa2-2cf2a973467c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/legislatives-2024-les-resultats-du-second-tour" class="fr-card__link" target="_self">
+                            Législatives 2024 : les résultats du second tour 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 08/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b9c42962ac9422eac40d04c07abb5d198ff84032.jpg" alt="Des cartes d'électeurs." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 5 juillet : élections législatives, FranceConnect et agents chimiques]]></title>
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-5-juillet-elections-legislatives-franceconnect-et-agents-chimiques</id>
@@ -46,9 +72,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 3 juillet : sac plastique et législatives]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.605Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-3-juillet-journee-sans-sac-plastique-et-legislatives-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-3-juillet-journee-sans-sac-plastique-et-legislatives-2024"/>
+        <updated>2024-07-08T17:38:22.765Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bc044739-2c9c-46f9-8dae-8fd704c012eb"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-3-juillet-journee-sans-sac-plastique-et-legislatives-2024" class="fr-card__link" target="_self">
                             L’info.gouv du 3 juillet : sac plastique et législatives 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -59,9 +85,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L'info.gouv du 2 juillet : rage, diplomatie, peste porcine]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.605Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-2-juillet-rage-diplomatie-peste-porcine-et-sportifs-de-haut-niveau</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-2-juillet-rage-diplomatie-peste-porcine-et-sportifs-de-haut-niveau"/>
+        <updated>2024-07-08T17:38:22.767Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5b5377e8-f15b-4d4d-b6b7-e2e9ed54f24f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-2-juillet-rage-diplomatie-peste-porcine-et-sportifs-de-haut-niveau" class="fr-card__link" target="_self">
                             L'info.gouv du 2 juillet : rage, diplomatie, peste porcine 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -72,9 +98,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Qui fait les lois ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.606Z</updated>
+        <id>https://www.gouvernement.fr/actualite/qui-fait-les-lois</id>
+        <link href="https://www.gouvernement.fr/actualite/qui-fait-les-lois"/>
+        <updated>2024-07-08T17:38:22.768Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="59a20c90-f292-412e-9959-50894b55f7d2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/qui-fait-les-lois" class="fr-card__link" target="_self">
                             Qui fait les lois ? 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -85,9 +111,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 1er juillet : brevet, fortes chaleurs et diphtérie]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.608Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie"/>
+        <updated>2024-07-08T17:38:22.769Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="34f6631d-8c43-4e2f-8767-344afa922dee"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie" class="fr-card__link" target="_self">
                             L’info.gouv du 1er juillet : brevet, fortes chaleurs et diphtérie 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -98,9 +124,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Législatives 2024 : les résultats du premier tour]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.621Z</updated>
+        <id>https://www.gouvernement.fr/actualite/legislatives-2024-les-resultats-du-premier-tour</id>
+        <link href="https://www.gouvernement.fr/actualite/legislatives-2024-les-resultats-du-premier-tour"/>
+        <updated>2024-07-08T17:38:22.770Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="174d9ba4-7e36-4f82-9806-cb9bcbe56877"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/legislatives-2024-les-resultats-du-premier-tour" class="fr-card__link" target="_self">
                             Législatives 2024 : les résultats du premier tour 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -111,9 +137,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 28 juin : Vacances olympiques, surveillance sanitaire, rentrée scolaire 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.621Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-28-juin-vacances-olympiques-surveillance-sanitaire-rentree-scolaire-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-28-juin-vacances-olympiques-surveillance-sanitaire-rentree-scolaire-2024"/>
+        <updated>2024-07-08T17:38:22.772Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="20d89002-7535-4a4d-ba07-adb130d7b93c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-28-juin-vacances-olympiques-surveillance-sanitaire-rentree-scolaire-2024" class="fr-card__link" target="_self">
                             L’info.gouv du 28 juin : Vacances olympiques, surveillance sanitaire, rentrée scolaire 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -124,9 +150,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 24 au 30 juin 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.621Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-24-au-30-juin-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-24-au-30-juin-2024"/>
+        <updated>2024-07-08T17:38:22.773Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bb20d8a2-f2c8-4d5b-98e8-a89363a4e763"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-24-au-30-juin-2024" class="fr-card__link" target="_self">
                             Les 4 actus de la semaine du 24 au 30 juin 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -137,9 +163,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 27 juin : gaz à effet de serre, impôts, sécurité routière, éco-délégués]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.621Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-27-juin-gaz-a-effet-de-serre-impots-securite-routiere-eco-delegues</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-27-juin-gaz-a-effet-de-serre-impots-securite-routiere-eco-delegues"/>
+        <updated>2024-07-08T17:38:22.775Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="857be5fd-346e-451e-9a62-acc7b0017e34"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-27-juin-gaz-a-effet-de-serre-impots-securite-routiere-eco-delegues" class="fr-card__link" target="_self">
                             L’info.gouv du 27 juin : gaz à effet de serre, impôts, sécurité routière, éco-délégués 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -150,9 +176,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Dans 30 jours débuteront les Jeux olympiques de Paris 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.621Z</updated>
+        <id>https://www.gouvernement.fr/actualite/dans-30-jours-debuteront-les-jeux-olympiques-de-paris-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/dans-30-jours-debuteront-les-jeux-olympiques-de-paris-2024"/>
+        <updated>2024-07-08T17:38:22.777Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4b3973e9-21f7-4038-a9db-a9abbfcfd280"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/dans-30-jours-debuteront-les-jeux-olympiques-de-paris-2024" class="fr-card__link" target="_self">
                             Dans 30 jours débuteront les Jeux olympiques de Paris 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -160,31 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 26/06/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a8ddaddd7bc1e6d2b65fe8a149bc8a108df77c3e.jpg" alt="Le décompte et la flamme olympique, au pied de la Tour Eiffel" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 26 juin : soldes d'été, Mon espace santé, jeunes diplômés paramédicaux]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.621Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="80f017bf-a9b1-4d86-a107-132c846b8858"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-26-juin-soldes-dete-mon-espace-sante-jeunes-diplomes-paramedicaux" class="fr-card__link" target="_self">
-                            L’info.gouv du 26 juin : soldes d'été, Mon espace santé, jeunes diplômés paramédicaux 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/dc55a2f13a1af86feec531d8614c3769fc9c154e.jpg" alt="Une silhouette de femme passe devant une vitrine de magasin en soldes." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pourquoi voter ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-07-08T05:40:08.621Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="73b0995c-875a-463e-9781-2689b06bd217"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/pourquoi-voter" class="fr-card__link" target="_self">
-                            Pourquoi voter ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/06/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4bfc7d1b51e7902058eaa54dc177c5a74135091b.png" alt="Un vote dans une urne." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
