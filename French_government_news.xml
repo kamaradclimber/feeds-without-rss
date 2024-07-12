@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-07-12T05:38:27.610Z</updated>
+    <updated>2024-07-12T17:38:36.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 12 juillet : FranceConnect+, Parcoursup et santé mondiale]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-juillet-franceconnect-parcoursup-et-sante-mondiale</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-12-juillet-franceconnect-parcoursup-et-sante-mondiale"/>
+        <updated>2024-07-12T17:38:28.122Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6a432bcc-ca1c-4cec-a84d-17934583373f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-12-juillet-franceconnect-parcoursup-et-sante-mondiale" class="fr-card__link" target="_self">
+                            L’info.gouv du 12 juillet : FranceConnect+, Parcoursup et santé mondiale 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 12/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/f11db5d18cf05d268c5302c7fc71a1bc7e17f60b.png" alt="Une jeune fille regarde son ordinateur." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Les 4 actus de la semaine du 8 au 14 juillet 2024]]></title>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-8-au-14-juillet-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-8-au-14-juillet-2024"/>
+        <updated>2024-07-12T17:38:28.123Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5f62ee00-b484-4160-ad9f-f14c91c79c18"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-8-au-14-juillet-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 8 au 14 juillet 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 12/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/7dfbe8bfc9fd9989c34079636db94b9695078886.jpg" alt="Des lycéennes lisent les résultats affichés du baccalauréat." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Retour sur : 80e anniversaire de la Libération]]></title>
         <id>https://www.gouvernement.fr/actualite/retour-sur-80e-anniversaire-de-la-liberation</id>
@@ -16,7 +42,7 @@
                              Défense
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 11/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/772e777868f6a6db9863af78e15672971885aa41.png" alt="La libération de la France." data-fr-js-ratio="true"></div></div>]]></content>
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/dce77951beb1b22ae451f6c35456692656ceac69.png" alt="Un char salué par la population à la Libération de la France." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[À quelques semaines du début des Jeux de Paris 2024, cet été sera placé sous le signe de l’olympisme et du paralympisme]]></title>
@@ -160,31 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 02/07/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/3f22615d3b0b38d1fbeed3fbc18cc287edac3e57.jpg" alt="Un chien couché sur le sol, les mots « 2 juillet » et « L'info.gouv du jour » inscrits en vert sur la photo." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qui fait les lois ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/qui-fait-les-lois</id>
-        <link href="https://www.gouvernement.fr/actualite/qui-fait-les-lois"/>
-        <updated>2024-07-12T05:38:20.126Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="59a20c90-f292-412e-9959-50894b55f7d2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/qui-fait-les-lois" class="fr-card__link" target="_self">
-                            Qui fait les lois ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 01/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4fa402358e373d5946522a286f0362447e6d7ee9.png" alt="Un dessin d'un recueil de lois." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 1er juillet : brevet, fortes chaleurs et diphtérie]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie"/>
-        <updated>2024-07-12T05:38:20.127Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="34f6631d-8c43-4e2f-8767-344afa922dee"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-1er-juillet-brevet-fortes-chaleurs-et-diphterie" class="fr-card__link" target="_self">
-                            L’info.gouv du 1er juillet : brevet, fortes chaleurs et diphtérie 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 01/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/8d48221e9ee7d4a6ea2d8b3a5fe18aa0829071c6.png" alt="" data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
