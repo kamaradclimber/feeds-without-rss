@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-07-17T05:39:11.892Z</updated>
+    <updated>2024-07-17T17:38:58.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Qu'est-ce qu'un gouvernement d’affaires courantes ?]]></title>
+        <id>https://www.gouvernement.fr/actualite/quest-ce-quun-gouvernement-daffaires-courantes</id>
+        <link href="https://www.gouvernement.fr/actualite/quest-ce-quun-gouvernement-daffaires-courantes"/>
+        <updated>2024-07-17T17:38:50.090Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5d370437-227a-4260-b5cb-8940b757a5df"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/quest-ce-quun-gouvernement-daffaires-courantes" class="fr-card__link" target="_self">
+                            Qu'est-ce qu'un gouvernement d’affaires courantes ? 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Institutions
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 17/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/9d77719ccdb6775700c2e4fcd4ba5be26cd1529d.jpg" alt="L'Hôtel de Matignon" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 17 juillet : Tour de France, forêt et Olympiades en langue française]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise"/>
+        <updated>2024-07-17T17:38:50.090Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ffc7e51c-aeb4-4919-aa71-1ba91151e758"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise" class="fr-card__link" target="_self">
+                            L’info.gouv du 17 juillet : Tour de France, forêt et Olympiades en langue française 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 17/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/63c606beaf2e132932f41b8c2472f46f81fae3a1.jpg" alt="La Tour Eiffel avec les anneaux olympiques." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Démission de Gabriel Attal]]></title>
+        <id>https://www.gouvernement.fr/actualite/demission-de-gabriel-attal</id>
+        <link href="https://www.gouvernement.fr/actualite/demission-de-gabriel-attal"/>
+        <updated>2024-07-17T17:38:50.091Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3cb551fd-e89f-4cb9-9ae6-d5c78d4b7aad"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/demission-de-gabriel-attal" class="fr-card__link" target="_self">
+                            Démission de Gabriel Attal 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Institutions
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 16/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/dcb0fe7e82a848ba4e86df9ed764f2056f4b311a.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jeux paralympiques 2024 : « Après les Jeux, c’est toujours les Jeux »]]></title>
         <id>https://www.gouvernement.fr/actualite/jeux-paralympiques-2024-apres-les-jeux-cest-toujours-les-jeux</id>
@@ -147,44 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 09/07/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4b49f3e969f284f9c9f55dd8ebf459f051cf677f.jpg" alt="Une femme lit son écran de portable" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vol inaugural d'Ariane 6 : le compte à rebours est lancé]]></title>
-        <id>https://www.gouvernement.fr/actualite/vol-inaugural-dariane-6-le-compte-a-rebours-est-lance</id>
-        <link href="https://www.gouvernement.fr/actualite/vol-inaugural-dariane-6-le-compte-a-rebours-est-lance"/>
-        <updated>2024-07-17T05:39:04.214Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="069d4d27-c677-4ea1-9783-8d1233091f7e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/vol-inaugural-dariane-6-le-compte-a-rebours-est-lance" class="fr-card__link" target="_self">
-                            Vol inaugural d'Ariane 6 : le compte à rebours est lancé 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 09/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/1723a0e612213ba395bbc3458398abed655a36a8.jpg" alt="Ariane 6" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Législatives 2024 : les résultats du second tour]]></title>
-        <id>https://www.gouvernement.fr/actualite/legislatives-2024-les-resultats-du-second-tour</id>
-        <link href="https://www.gouvernement.fr/actualite/legislatives-2024-les-resultats-du-second-tour"/>
-        <updated>2024-07-17T05:39:04.216Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ff3fe7b4-ff20-4ed3-9fa2-2cf2a973467c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/legislatives-2024-les-resultats-du-second-tour" class="fr-card__link" target="_self">
-                            Législatives 2024 : les résultats du second tour 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 08/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b9c42962ac9422eac40d04c07abb5d198ff84032.jpg" alt="Des cartes d'électeurs." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 5 juillet : élections législatives, FranceConnect et agents chimiques]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-5-juillet-elections-legislatives-franceconnect-et-agents-chimiques</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-5-juillet-elections-legislatives-franceconnect-et-agents-chimiques"/>
-        <updated>2024-07-17T05:39:04.216Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="752c8b3f-f660-49ad-9489-b5bbb6628f5d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-5-juillet-elections-legislatives-franceconnect-et-agents-chimiques" class="fr-card__link" target="_self">
-                            L’info.gouv du 5 juillet : élections législatives, FranceConnect et agents chimiques 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 05/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/f2a73e70e39d9e9944a21b5dcabe0bd6ef0c788e.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
