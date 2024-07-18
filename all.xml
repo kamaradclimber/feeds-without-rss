@@ -4,190 +4,428 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 05:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 17:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L’info.gouv du 18 juillet : village olympique, Assemblée nationale et prix Irène Joliot-Curie (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-juillet</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-juillet</guid>
+            <pubDate>Thu, 18 Jul 2024 17:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d0763ce6-3842-43c7-8abe-28d78b996c04">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-18-juillet" class="fr-card__link" target="_self">L’info.gouv du 18 juillet : village olympique, Assemblée nationale et prix Irène Joliot-Curie</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Citoyenneté
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié 18/07/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/11/cc48fbc7425734ea356e3fc93be568831cd83a96.jpg" alt="L'Assemblée nationale" data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Qu'est-ce qu'un gouvernement d’affaires courantes ? (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/quest-ce-quun-gouvernement-daffaires-courantes</link>
             <guid>https://www.gouvernement.fr/actualite/quest-ce-quun-gouvernement-daffaires-courantes</guid>
             <pubDate>Wed, 17 Jul 2024 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5d370437-227a-4260-b5cb-8940b757a5df"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/quest-ce-quun-gouvernement-daffaires-courantes" class="fr-card__link" target="_self">
-                            Qu'est-ce qu'un gouvernement d’affaires courantes ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5d370437-227a-4260-b5cb-8940b757a5df">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/quest-ce-quun-gouvernement-daffaires-courantes" class="fr-card__link" target="_self">Qu'est-ce qu'un gouvernement d’affaires courantes ?</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Institutions
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 17/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/9d77719ccdb6775700c2e4fcd4ba5be26cd1529d.jpg" alt="L'Hôtel de Matignon" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/11/9d77719ccdb6775700c2e4fcd4ba5be26cd1529d.jpg" alt="L'Hôtel de Matignon" data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 17 juillet : Tour de France, forêt et Olympiades en langue française (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise</link>
             <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise</guid>
             <pubDate>Wed, 17 Jul 2024 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ffc7e51c-aeb4-4919-aa71-1ba91151e758"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise" class="fr-card__link" target="_self">
-                            L’info.gouv du 17 juillet : Tour de France, forêt et Olympiades en langue française 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ffc7e51c-aeb4-4919-aa71-1ba91151e758">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise" class="fr-card__link" target="_self">L’info.gouv du 17 juillet : Tour de France, forêt et Olympiades en langue française</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 17/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/63c606beaf2e132932f41b8c2472f46f81fae3a1.jpg" alt="La Tour Eiffel avec les anneaux olympiques." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/11/63c606beaf2e132932f41b8c2472f46f81fae3a1.jpg" alt="La Tour Eiffel avec les anneaux olympiques." data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Démission de Gabriel Attal (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/demission-de-gabriel-attal</link>
             <guid>https://www.gouvernement.fr/actualite/demission-de-gabriel-attal</guid>
             <pubDate>Wed, 17 Jul 2024 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3cb551fd-e89f-4cb9-9ae6-d5c78d4b7aad"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/demission-de-gabriel-attal" class="fr-card__link" target="_self">
-                            Démission de Gabriel Attal 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3cb551fd-e89f-4cb9-9ae6-d5c78d4b7aad">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/demission-de-gabriel-attal" class="fr-card__link" target="_self">Démission de Gabriel Attal</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Institutions
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 16/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/dcb0fe7e82a848ba4e86df9ed764f2056f4b311a.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/11/dcb0fe7e82a848ba4e86df9ed764f2056f4b311a.jpg" alt="" data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Jeux paralympiques 2024 : « Après les Jeux, c’est toujours les Jeux » (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/jeux-paralympiques-2024-apres-les-jeux-cest-toujours-les-jeux</link>
             <guid>https://www.gouvernement.fr/actualite/jeux-paralympiques-2024-apres-les-jeux-cest-toujours-les-jeux</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1f1ab214-e519-4126-b6d6-629f3d00e675"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jeux-paralympiques-2024-apres-les-jeux-cest-toujours-les-jeux" class="fr-card__link" target="_self">
-                            Jeux paralympiques 2024 : « Après les Jeux, c’est toujours les Jeux » 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1f1ab214-e519-4126-b6d6-629f3d00e675">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/jeux-paralympiques-2024-apres-les-jeux-cest-toujours-les-jeux" class="fr-card__link" target="_self">Jeux paralympiques 2024 : « Après les Jeux, c’est toujours les Jeux »</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 16/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/82ec1138fb0b01f63d8220a2a1964970a95229dc.jpg" alt="Un para nageur" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/11/82ec1138fb0b01f63d8220a2a1964970a95229dc.jpg" alt="Un para nageur" data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Dans 10 jours débuteront les Jeux olympiques de Paris 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/dans-10-jours-debuteront-les-jeux-olympiques-de-paris-2024</link>
             <guid>https://www.gouvernement.fr/actualite/dans-10-jours-debuteront-les-jeux-olympiques-de-paris-2024</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="28280e67-d92a-4512-b29b-8f092bbd53e7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/dans-10-jours-debuteront-les-jeux-olympiques-de-paris-2024" class="fr-card__link" target="_self">
-                            Dans 10 jours débuteront les Jeux olympiques de Paris 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="28280e67-d92a-4512-b29b-8f092bbd53e7">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/dans-10-jours-debuteront-les-jeux-olympiques-de-paris-2024" class="fr-card__link" target="_self">Dans 10 jours débuteront les Jeux olympiques de Paris 2024</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 16/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/6a045b661cc6342e2d0a66c29aa8b9e8b96035ca.jpg" alt="Des promeneurs photographient les anneaux olympiques" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/11/6a045b661cc6342e2d0a66c29aa8b9e8b96035ca.jpg" alt="Des promeneurs photographient les anneaux olympiques" data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[« L’Audace nouvelle » : une oeuvre d’art alliant neurosciences et intelligence artificielle (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/laudace-nouvelle-une-oeuvre-dart-alliant-neurosciences-et-intelligence-artificielle</link>
             <guid>https://www.gouvernement.fr/actualite/laudace-nouvelle-une-oeuvre-dart-alliant-neurosciences-et-intelligence-artificielle</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="446a7204-e639-4a56-a866-0fba9c4e8e20"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/laudace-nouvelle-une-oeuvre-dart-alliant-neurosciences-et-intelligence-artificielle" class="fr-card__link" target="_self">
-                            « L’Audace nouvelle » : une oeuvre d’art alliant neurosciences et intelligence artificielle 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="446a7204-e639-4a56-a866-0fba9c4e8e20">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/laudace-nouvelle-une-oeuvre-dart-alliant-neurosciences-et-intelligence-artificielle" class="fr-card__link" target="_self">« L’Audace nouvelle » : une oeuvre d’art alliant neurosciences et intelligence artificielle</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              International
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 15/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/a59c6ab71168decd2d4452e74508c15c8a948355.jpg" alt="Le collectif d'artiste français « Obvious »" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/10/a59c6ab71168decd2d4452e74508c15c8a948355.jpg" alt="Le collectif d'artiste français « Obvious »" data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 15 juillet : défilé, printemps de la ruralité et inclusion (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-15-juillet-defile-printemps-de-la-ruralite-et-handicap</link>
             <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-15-juillet-defile-printemps-de-la-ruralite-et-handicap</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17c25b78-e5c0-4244-8710-574042602e25"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-15-juillet-defile-printemps-de-la-ruralite-et-handicap" class="fr-card__link" target="_self">
-                            L’info.gouv du 15 juillet : défilé, printemps de la ruralité et inclusion 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="17c25b78-e5c0-4244-8710-574042602e25">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-15-juillet-defile-printemps-de-la-ruralite-et-handicap" class="fr-card__link" target="_self">L’info.gouv du 15 juillet : défilé, printemps de la ruralité et inclusion</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 15/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/9bfb847445e98525b0f731e95b633b3e2b208c2d.jpg" alt="La patrouille de France survolant l'avenue Foch le 14 juillet 2024." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/10/9bfb847445e98525b0f731e95b633b3e2b208c2d.jpg" alt="La patrouille de France survolant l'avenue Foch le 14 juillet 2024." data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 12 juillet : FranceConnect+, Parcoursup et santé mondiale (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-juillet-franceconnect-parcoursup-et-sante-mondiale</link>
             <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-juillet-franceconnect-parcoursup-et-sante-mondiale</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6a432bcc-ca1c-4cec-a84d-17934583373f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-12-juillet-franceconnect-parcoursup-et-sante-mondiale" class="fr-card__link" target="_self">
-                            L’info.gouv du 12 juillet : FranceConnect+, Parcoursup et santé mondiale 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6a432bcc-ca1c-4cec-a84d-17934583373f">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-12-juillet-franceconnect-parcoursup-et-sante-mondiale" class="fr-card__link" target="_self">L’info.gouv du 12 juillet : FranceConnect+, Parcoursup et santé mondiale</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 12/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/f11db5d18cf05d268c5302c7fc71a1bc7e17f60b.png" alt="Une jeune fille regarde son ordinateur." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/10/f11db5d18cf05d268c5302c7fc71a1bc7e17f60b.png" alt="Une jeune fille regarde son ordinateur." data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 8 au 14 juillet 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-8-au-14-juillet-2024</link>
             <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-8-au-14-juillet-2024</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5f62ee00-b484-4160-ad9f-f14c91c79c18"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-8-au-14-juillet-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 8 au 14 juillet 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5f62ee00-b484-4160-ad9f-f14c91c79c18">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-8-au-14-juillet-2024" class="fr-card__link" target="_self">Les 4 actus de la semaine du 8 au 14 juillet 2024</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 12/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/7dfbe8bfc9fd9989c34079636db94b9695078886.jpg" alt="Des lycéennes lisent les résultats affichés du baccalauréat." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/10/7dfbe8bfc9fd9989c34079636db94b9695078886.jpg" alt="Des lycéennes lisent les résultats affichés du baccalauréat." data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Retour sur : 80e anniversaire de la Libération (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/retour-sur-80e-anniversaire-de-la-liberation</link>
             <guid>https://www.gouvernement.fr/actualite/retour-sur-80e-anniversaire-de-la-liberation</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="526637b0-9b96-41e5-beb0-555adabd93e3"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/retour-sur-80e-anniversaire-de-la-liberation" class="fr-card__link" target="_self">
-                            Retour sur : 80e anniversaire de la Libération 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="526637b0-9b96-41e5-beb0-555adabd93e3">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/retour-sur-80e-anniversaire-de-la-liberation" class="fr-card__link" target="_self">Retour sur : 80e anniversaire de la Libération</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Défense
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 11/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/dce77951beb1b22ae451f6c35456692656ceac69.png" alt="Un char salué par la population à la Libération de la France." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/10/dce77951beb1b22ae451f6c35456692656ceac69.png" alt="Un char salué par la population à la Libération de la France." data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[À quelques semaines du début des Jeux de Paris 2024, cet été sera placé sous le signe de l’olympisme et du paralympisme (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/a-quelques-semaines-du-debut-des-jeux-de-paris-2024-cet-ete-sera-place-sous-le-signe-de-lolympisme-et-du-paralympisme</link>
             <guid>https://www.gouvernement.fr/actualite/a-quelques-semaines-du-debut-des-jeux-de-paris-2024-cet-ete-sera-place-sous-le-signe-de-lolympisme-et-du-paralympisme</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cb65119f-2fea-42d7-a951-14795d07b0da"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/a-quelques-semaines-du-debut-des-jeux-de-paris-2024-cet-ete-sera-place-sous-le-signe-de-lolympisme-et-du-paralympisme" class="fr-card__link" target="_self">
-                            À quelques semaines du début des Jeux de Paris 2024, cet été sera placé sous le signe de l’olympisme et du paralympisme 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cb65119f-2fea-42d7-a951-14795d07b0da">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/a-quelques-semaines-du-debut-des-jeux-de-paris-2024-cet-ete-sera-place-sous-le-signe-de-lolympisme-et-du-paralympisme" class="fr-card__link" target="_self">À quelques semaines du début des Jeux de Paris 2024, cet été sera placé sous le signe de l’olympisme et du paralympisme</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 10/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/350eb46c8a8ef0605f2d96b6974f77d564f3faa3.png" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/10/350eb46c8a8ef0605f2d96b6974f77d564f3faa3.png" alt="" data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 10 juillet : aide publique, gazole non routier et Ariane 6 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-10-juillet</link>
             <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-10-juillet</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5be1ebbe-3a27-4dbb-902c-ba8449029726"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-10-juillet" class="fr-card__link" target="_self">
-                            L’info.gouv du 10 juillet : aide publique, gazole non routier et Ariane 6 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5be1ebbe-3a27-4dbb-902c-ba8449029726">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-10-juillet" class="fr-card__link" target="_self">L’info.gouv du 10 juillet : aide publique, gazole non routier et Ariane 6</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 10/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/d12817a4c5a3df50b475b84a66b342a3c98e0523.png" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/10/d12817a4c5a3df50b475b84a66b342a3c98e0523.png" alt="" data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 8 juillet : défilé du 14 juillet, « Origin'Info » et résultats du baccalauréat 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-8-juillet-defile-du-14-juillet-origininfo-et-resultats-du-baccalaureat-2024</link>
             <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-8-juillet-defile-du-14-juillet-origininfo-et-resultats-du-baccalaureat-2024</guid>
             <pubDate>Tue, 16 Jul 2024 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="00a138ee-7391-4772-9011-a967b6ee8e2b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-8-juillet-defile-du-14-juillet-origininfo-et-resultats-du-baccalaureat-2024" class="fr-card__link" target="_self">
-                            L’info.gouv du 8 juillet : défilé du 14 juillet, « Origin'Info » et résultats du baccalauréat 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="00a138ee-7391-4772-9011-a967b6ee8e2b">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-8-juillet-defile-du-14-juillet-origininfo-et-resultats-du-baccalaureat-2024" class="fr-card__link" target="_self">L’info.gouv du 8 juillet : défilé du 14 juillet, « Origin'Info » et résultats du baccalauréat 2024</a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
                              Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
                             Publié 09/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/b694e6779ace9c1c7751086be982109ed0b15177.png" alt="Des jeunes lisent les affiches des résultats du baccalauréat." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[L’info.gouv du 9 juillet : chèque énergie, applications contre les violences faites aux femmes et résultats du brevet 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-9-juillet-cheque-energie-applications-contre-les-violences-faites-aux-femmes-et-resultats-du-brevet-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-9-juillet-cheque-energie-applications-contre-les-violences-faites-aux-femmes-et-resultats-du-brevet-2024</guid>
-            <pubDate>Wed, 17 Jul 2024 05:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e1cf5a59-bd54-4aed-b83e-36992eaf7999"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-9-juillet-cheque-energie-applications-contre-les-violences-faites-aux-femmes-et-resultats-du-brevet-2024" class="fr-card__link" target="_self">
-                            L’info.gouv du 9 juillet : chèque énergie, applications contre les violences faites aux femmes et résultats du brevet 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 09/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/4b49f3e969f284f9c9f55dd8ebf459f051cf677f.jpg" alt="Une femme lit son écran de portable" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="fr-card__img">
+                <img class="fr-responsive-img" src="/upload/media/content/0001/10/b694e6779ace9c1c7751086be982109ed0b15177.png" alt="Des jeunes lisent les affiches des résultats du baccalauréat." data-fr-js-ratio="true">
+            </div>
+                   
+        </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
