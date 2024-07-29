@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-07-29T05:39:34.028Z</updated>
+    <updated>2024-07-29T17:39:21.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Paris 2024 : le compteur des médailles françaises]]></title>
+        <id>https://www.gouvernement.fr/actualite/paris-2024-le-compteur-des-medailles-francaises</id>
+        <link href="https://www.gouvernement.fr/actualite/paris-2024-le-compteur-des-medailles-francaises"/>
+        <updated>2024-07-29T17:39:14.368Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7f43914a-fe8b-4dc9-bf82-18ec2a9dc7b1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/paris-2024-le-compteur-des-medailles-francaises" class="fr-card__link" target="_self">
+                            Paris 2024 : le compteur des médailles françaises 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 29/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/09916615f0cf4ba6cf32940f5a644385ee24b45e.jpg" alt="La championne olympique Pauline Ferrand-Prévot sur son VTT, avec une foule de spectateurs agitant des drapeaux tricolores." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canicule et vague de chaleur : l'État mobilisé]]></title>
+        <id>https://www.gouvernement.fr/actualite/canicule-treize-departements-en-vigilance-orange</id>
+        <link href="https://www.gouvernement.fr/actualite/canicule-treize-departements-en-vigilance-orange"/>
+        <updated>2024-07-29T17:39:14.368Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9ac63373-f411-4572-b1a5-b8437ddcb6c0"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/canicule-treize-departements-en-vigilance-orange" class="fr-card__link" target="_self">
+                            Canicule et vague de chaleur : l'État mobilisé 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 29/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/21725eb16ec255a5bf3fab5b00aa5d3a8b0d25e9.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retour sur : l'intelligence artificielle en 2024]]></title>
+        <id>https://www.gouvernement.fr/actualite/retour-sur-lintelligence-artificielle-en-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/retour-sur-lintelligence-artificielle-en-2024"/>
+        <updated>2024-07-29T17:39:14.368Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8c430eb-b118-44a0-ad93-77f88b524e42"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/retour-sur-lintelligence-artificielle-en-2024" class="fr-card__link" target="_self">
+                            Retour sur : l'intelligence artificielle en 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 29/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/3401087284a3ccfed8fe4860440ee8d1f17390e9.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 26 juillet : ouverture des JO, dispositif Ambition emploi et 14e édition du volet i-Nov]]></title>
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-26-juillet-ouverture-des-jo-dispositif-ambition-emploi-et-14e-edition-du-volet-i-nov</id>
@@ -147,44 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 19/07/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/5259fe767b3a0744a3cce9cd8474839f06538344.jpg" alt="Un para cycliste." data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 18 juillet : village olympique, Assemblée nationale et prix Irène Joliot-Curie]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-juillet</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-18-juillet"/>
-        <updated>2024-07-27T05:38:19.456Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d0763ce6-3842-43c7-8abe-28d78b996c04"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-18-juillet" class="fr-card__link" target="_self">
-                            L’info.gouv du 18 juillet : village olympique, Assemblée nationale et prix Irène Joliot-Curie 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 18/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/cc48fbc7425734ea356e3fc93be568831cd83a96.jpg" alt="L'Assemblée nationale" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qu'est-ce qu'un gouvernement d’affaires courantes ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/quest-ce-quun-gouvernement-daffaires-courantes</id>
-        <link href="https://www.gouvernement.fr/actualite/quest-ce-quun-gouvernement-daffaires-courantes"/>
-        <updated>2024-07-27T05:38:19.457Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5d370437-227a-4260-b5cb-8940b757a5df"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/quest-ce-quun-gouvernement-daffaires-courantes" class="fr-card__link" target="_self">
-                            Qu'est-ce qu'un gouvernement d’affaires courantes ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Institutions
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 17/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/9d77719ccdb6775700c2e4fcd4ba5be26cd1529d.jpg" alt="L'Hôtel de Matignon" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 17 juillet : Tour de France, forêt et Olympiades en langue française]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise"/>
-        <updated>2024-07-27T05:38:19.459Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ffc7e51c-aeb4-4919-aa71-1ba91151e758"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-17-juillet-tours-de-france-foret-et-olympiades-en-langue-francaise" class="fr-card__link" target="_self">
-                            L’info.gouv du 17 juillet : Tour de France, forêt et Olympiades en langue française 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 17/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/63c606beaf2e132932f41b8c2472f46f81fae3a1.jpg" alt="La Tour Eiffel avec les anneaux olympiques." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
