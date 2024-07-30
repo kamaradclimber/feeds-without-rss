@@ -4,190 +4,99 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 05:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 17:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Paris 2024 : le compteur des médailles françaises (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/paris-2024-le-compteur-des-medailles-francaises</link>
-            <guid>https://www.gouvernement.fr/actualite/paris-2024-le-compteur-des-medailles-francaises</guid>
-            <pubDate>Mon, 29 Jul 2024 17:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7f43914a-fe8b-4dc9-bf82-18ec2a9dc7b1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/paris-2024-le-compteur-des-medailles-francaises" class="fr-card__link" target="_self">
-                            Paris 2024 : le compteur des médailles françaises 
+            <title><![CDATA[L’info.gouv du jour : chaleur, Pride House,  Nouvelle-Calédonie (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="43813728-cf7d-4ae3-bed4-1bf8a40e57ec"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-30-juillet-chaleur-au-travail-pride-house-nouvelle-caledonie" class="fr-card__link" target="_self">
+                            L’info.gouv du jour : chaleur, Pride House,  Nouvelle-Calédonie 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
+                             Citoyenneté
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 29/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/09916615f0cf4ba6cf32940f5a644385ee24b45e.jpg" alt="La championne olympique Pauline Ferrand-Prévot sur son VTT, avec une foule de spectateurs agitant des drapeaux tricolores." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+                            Publié 30/07/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/cc001d3c3c9d525df0128a3a69083f45b19b951a.png" alt="Un travailleur tient une pelle en ombre chinoise sur un chantier. L'info.gouv du jour et la date 30 juillet inscrits en vert." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Paris 2024 : le compteur des médailles françaises (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canicule et vague de chaleur : l'État mobilisé (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/canicule-treize-departements-en-vigilance-orange</link>
-            <guid>https://www.gouvernement.fr/actualite/canicule-treize-departements-en-vigilance-orange</guid>
-            <pubDate>Mon, 29 Jul 2024 17:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9ac63373-f411-4572-b1a5-b8437ddcb6c0"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/canicule-treize-departements-en-vigilance-orange" class="fr-card__link" target="_self">
-                            Canicule et vague de chaleur : l'État mobilisé 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 29/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/21725eb16ec255a5bf3fab5b00aa5d3a8b0d25e9.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Retour sur : l'intelligence artificielle en 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/retour-sur-lintelligence-artificielle-en-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/retour-sur-lintelligence-artificielle-en-2024</guid>
-            <pubDate>Mon, 29 Jul 2024 17:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c8c430eb-b118-44a0-ad93-77f88b524e42"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/retour-sur-lintelligence-artificielle-en-2024" class="fr-card__link" target="_self">
-                            Retour sur : l'intelligence artificielle en 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 29/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/3401087284a3ccfed8fe4860440ee8d1f17390e9.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 26 juillet : ouverture des JO, dispositif Ambition emploi et 14e édition du volet i-Nov (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-26-juillet-ouverture-des-jo-dispositif-ambition-emploi-et-14e-edition-du-volet-i-nov</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-26-juillet-ouverture-des-jo-dispositif-ambition-emploi-et-14e-edition-du-volet-i-nov</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c0bf4766-9df5-44fe-9841-dd25a0bb1bba"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-26-juillet-ouverture-des-jo-dispositif-ambition-emploi-et-14e-edition-du-volet-i-nov" class="fr-card__link" target="_self">
-                            L’info.gouv du 26 juillet : ouverture des JO, dispositif Ambition emploi et 14e édition du volet i-Nov 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/354de1855bbd20395e95b0cdffcbddb3b5990750.png" alt="La Tour Eiffel vue depuis le Trocadéro." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Agora : l'activité physique, source de bien-être (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/agora-lactivite-physique-source-de-bien-etre</link>
-            <guid>https://www.gouvernement.fr/actualite/agora-lactivite-physique-source-de-bien-etre</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9e111b59-0d0e-472a-92a4-57bd4130c9ec"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/agora-lactivite-physique-source-de-bien-etre" class="fr-card__link" target="_self">
-                            Agora : l'activité physique, source de bien-être 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/114b8a94b1f38a5bdec06137ae40929dc0661449.jpg" alt="Les participants de la table ronde Agora." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[France-Visas : le système de demande de visa numérique déployé (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/france-visas-le-systeme-de-demande-de-visa-numerique-deploye</link>
-            <guid>https://www.gouvernement.fr/actualite/france-visas-le-systeme-de-demande-de-visa-numerique-deploye</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7d1fffce-3c89-4a2a-b95b-e40a1d1f619d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/france-visas-le-systeme-de-demande-de-visa-numerique-deploye" class="fr-card__link" target="_self">
-                            France-Visas : le système de demande de visa numérique déployé 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Aménagement du territoire
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 25/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7bd5350c6182c6b25baf9b03794ecbe032630617.jpg" alt="Tarmac avec une ombre d'avion." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L'État au cœur de la réussite des athlètes français pour les Jeux olympiques et paralympiques de Paris 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/letat-au-coeur-de-la-reussite-des-athletes-francais-pour-les-jeux-olympiques-et-paralympiques-de-paris-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/letat-au-coeur-de-la-reussite-des-athletes-francais-pour-les-jeux-olympiques-et-paralympiques-de-paris-2024</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c4112e43-9351-469b-b0e7-4c2142849f20"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/letat-au-coeur-de-la-reussite-des-athletes-francais-pour-les-jeux-olympiques-et-paralympiques-de-paris-2024" class="fr-card__link" target="_self">
-                            L'État au cœur de la réussite des athlètes français pour les Jeux olympiques et paralympiques de Paris 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 24/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/e09d72a7325c49b04f54016d636456089aee6d06.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 24 juillet : série télé, athlètes et baignade (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-24-juillet-athletes-baignade-et-serie-tele</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-24-juillet-athletes-baignade-et-serie-tele</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d9202a00-93ee-4ab0-bc3c-9ad059eb2dda"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-24-juillet-athletes-baignade-et-serie-tele" class="fr-card__link" target="_self">
-                            L’info.gouv du 24 juillet : série télé, athlètes et baignade 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 24/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/4940d787c75b54754a55cfe6dd5eab482dc002fd.png" alt="Un athlète en train de faire du saut à la perche." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ce qui change au 1er août 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-aout-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-aout-2024</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4a97b0a2-0748-4113-9e78-99cb779eb664"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-qui-change-au-1er-aout-2024" class="fr-card__link" target="_self">
-                            Ce qui change au 1er août 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 23/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/48907c54f42697e4f0d7117f472c3f7dfee75ae2.png" alt="Une page de cahier avec la mention Ce qui change au 1er août 2024." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 23 juillet : sécurité routière, sécurisation des Jeux et Grande exposition du fabriqué en France. (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-23-juillet</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-23-juillet</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="873bcb79-1b50-4bb9-9fd5-76bdda070e6a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-23-juillet" class="fr-card__link" target="_self">
-                            L’info.gouv du 23 juillet : sécurité routière, sécurisation des Jeux et Grande exposition du fabriqué en France. 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 23/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/8c2342a260d3c413bd210e4c1ce065a6f3104849.jpg" alt="Un hélicoptère." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 22 juillet : flamme olympique, Jeux de Paris 2024 et formalités administratives (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-22-juillet-demarches-administratives-flamme-olympique-et-jeux-de-paris-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-22-juillet-demarches-administratives-flamme-olympique-et-jeux-de-paris-2024</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d5b44ebd-7ddd-4989-9c17-db4e2372d3fd"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-22-juillet-demarches-administratives-flamme-olympique-et-jeux-de-paris-2024" class="fr-card__link" target="_self">
-                            L’info.gouv du 22 juillet : flamme olympique, Jeux de Paris 2024 et formalités administratives 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 22/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/fe1195531cff5992c3f615e83c684a10f659cf7c.jpg" alt="La mascotte des JOP 2024." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Retour sur : la préparation des Jeux Olympiques et Paralympiques en 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/retour-sur-la-preparation-des-jeux-olympiques-et-paralympiques-en-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/retour-sur-la-preparation-des-jeux-olympiques-et-paralympiques-en-2024</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e2683958-6fd2-437a-be4f-a8a64326f1b9"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/retour-sur-la-preparation-des-jeux-olympiques-et-paralympiques-en-2024" class="fr-card__link" target="_self">
-                            Retour sur : la préparation des Jeux Olympiques et Paralympiques en 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 22/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/519ea1ab267ba98e5fe1dcd38758b5120cd7190d.png" alt="" data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L’info.gouv du 19 juillet : Centres de préparation aux Jeux et contrôle parental (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-19-juillet-centres-de-preparation-aux-jeux-et-controle-parental</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-19-juillet-centres-de-preparation-aux-jeux-et-controle-parental</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ab1264c7-d328-4a69-9a27-b3f923bfbfc7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-19-juillet-centres-de-preparation-aux-jeux-et-controle-parental" class="fr-card__link" target="_self">
-                            L’info.gouv du 19 juillet : Centres de préparation aux Jeux et contrôle parental 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 19/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/3c459adb8ead606d74bebdc268403b9172957e37.jpg" alt="Deux enfants jouent sur une tablette." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les 4 actus de la semaine du 15 au 21 juillet 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-15-au-21-juillet-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-15-au-21-juillet-2024</guid>
-            <pubDate>Sat, 27 Jul 2024 05:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d2a89311-683e-462b-b858-ea2ae00c1d7f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-15-au-21-juillet-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 15 au 21 juillet 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 19/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/5259fe767b3a0744a3cce9cd8474839f06538344.jpg" alt="Un para cycliste." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
+            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
+            <pubDate>Tue, 30 Jul 2024 17:38:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
