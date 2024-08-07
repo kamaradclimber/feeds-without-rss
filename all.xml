@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 05:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 17:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Faire face aux cybermenaces (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/faire-face-aux-cybermenaces</link>
+            <guid>https://www.gouvernement.fr/actualite/faire-face-aux-cybermenaces</guid>
+            <pubDate>Wed, 07 Aug 2024 17:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="651d87e5-f3d4-43ba-95f1-988732a0ea7a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/faire-face-aux-cybermenaces" class="fr-card__link" target="_self">
+                            Faire face aux cybermenaces 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sécurité
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 07/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/10/dda08a85f2b9d7a5268259033d7ad166c1728d55.jpg" alt="Un gros plan sur un clavier d'ordinateur portable utilisé par une personne." data-fr-js-ratio="true"></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[MaPrimeRénov’ en forte hausse en 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/maprimerenov-en-forte-hausse-en-2024</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 26/07/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/354de1855bbd20395e95b0cdffcbddb3b5990750.png" alt="La Tour Eiffel vue depuis le Trocadéro." data-fr-js-ratio="true"></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Agora : l'activité physique, source de bien-être (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/agora-lactivite-physique-source-de-bien-etre</link>
-            <guid>https://www.gouvernement.fr/actualite/agora-lactivite-physique-source-de-bien-etre</guid>
-            <pubDate>Fri, 02 Aug 2024 17:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9e111b59-0d0e-472a-92a4-57bd4130c9ec"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/agora-lactivite-physique-source-de-bien-etre" class="fr-card__link" target="_self">
-                            Agora : l'activité physique, source de bien-être 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/114b8a94b1f38a5bdec06137ae40929dc0661449.jpg" alt="Les participants de la table ronde Agora." data-fr-js-ratio="true"></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
