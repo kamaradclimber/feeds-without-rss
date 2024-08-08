@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-08-08T05:39:38.069Z</updated>
+    <updated>2024-08-08T17:39:04.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’État mobilisé contre la fièvre catarrhale ovine]]></title>
+        <id>https://www.gouvernement.fr/actualite/letat-mobilise-contre-la-fievre-catarrhale-ovine</id>
+        <link href="https://www.gouvernement.fr/actualite/letat-mobilise-contre-la-fievre-catarrhale-ovine"/>
+        <updated>2024-08-08T17:38:56.138Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="cee08ed9-c531-439e-8a2b-cf86246ccc77"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/letat-mobilise-contre-la-fievre-catarrhale-ovine" class="fr-card__link" target="_self">
+                            L’État mobilisé contre la fièvre catarrhale ovine 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Agriculture
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 08/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/d3bd933d1ada31fe4db26118d633de76af69f004.jpg" alt="Des moutons dans une prairie." data-fr-js-ratio="true"></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faire face aux cybermenaces]]></title>
         <id>https://www.gouvernement.fr/actualite/faire-face-aux-cybermenaces</id>
@@ -173,18 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié 29/07/2024
                         </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/3401087284a3ccfed8fe4860440ee8d1f17390e9.jpg" alt="" data-fr-js-ratio="true"></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 26 juillet : ouverture des JO, dispositif Ambition emploi et 14e édition du volet i-Nov]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-26-juillet-ouverture-des-jo-dispositif-ambition-emploi-et-14e-edition-du-volet-i-nov</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-26-juillet-ouverture-des-jo-dispositif-ambition-emploi-et-14e-edition-du-volet-i-nov"/>
-        <updated>2024-08-02T17:38:28.970Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c0bf4766-9df5-44fe-9841-dd25a0bb1bba"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-26-juillet-ouverture-des-jo-dispositif-ambition-emploi-et-14e-edition-du-volet-i-nov" class="fr-card__link" target="_self">
-                            L’info.gouv du 26 juillet : ouverture des JO, dispositif Ambition emploi et 14e édition du volet i-Nov 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié 26/07/2024
-                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/354de1855bbd20395e95b0cdffcbddb3b5990750.png" alt="La Tour Eiffel vue depuis le Trocadéro." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
