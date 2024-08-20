@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-08-19T17:38:41.512Z</updated>
+    <updated>2024-08-20T05:39:20.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 19 août : épidémie Mpox, rentrée étudiante]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.821Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-19-aout-epidemie-mpox-rentree-etudiante</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-19-aout-epidemie-mpox-rentree-etudiante"/>
+        <updated>2024-08-20T05:39:13.100Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a67ce8b7-5dc5-4aea-b341-0d965dc209f1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-19-aout-epidemie-mpox-rentree-etudiante" class="fr-card__link" target="_self">
                             L’info.gouv du 19 août : épidémie Mpox, rentrée étudiante 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -20,9 +20,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Retour sur : les mesures pour le logement en 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.823Z</updated>
+        <id>https://www.gouvernement.fr/actualite/retour-sur-les-mesures-pour-le-logement-en-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/retour-sur-les-mesures-pour-le-logement-en-2024"/>
+        <updated>2024-08-20T05:39:13.100Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b843701d-9fb1-4edb-a6d8-4c6358935318"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/retour-sur-les-mesures-pour-le-logement-en-2024" class="fr-card__link" target="_self">
                             Retour sur : les mesures pour le logement en 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
@@ -33,74 +33,158 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Le pass Sport pour dynamiser sa rentrée]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.824Z</updated>
+        <id>https://www.gouvernement.fr/actualite/le-pass-sport-pour-dynamiser-sa-rentree</id>
+        <link href="https://www.gouvernement.fr/actualite/le-pass-sport-pour-dynamiser-sa-rentree"/>
+        <updated>2024-08-20T05:39:13.104Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d7847a63-0294-4cce-9f91-5ddbbe1b55f1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/le-pass-sport-pour-dynamiser-sa-rentree" class="fr-card__link" target="_self">
+                            Le pass Sport pour dynamiser sa rentrée 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 16/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/9e4dc398dabdc699b37a7d1eef28cb043ef7b525.jpg" alt="Trois enfants sont en position de départ sur une piste de course." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du jour : rentrée sportive, universités, élèves aux JO]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.825Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-16-aout-rentree-sportive-classement-de-shanghai-eleves-aux-jop</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-16-aout-rentree-sportive-classement-de-shanghai-eleves-aux-jop"/>
+        <updated>2024-08-20T05:39:13.104Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="824becc1-cdf5-4a1e-9213-a0af334863ba"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-16-aout-rentree-sportive-classement-de-shanghai-eleves-aux-jop" class="fr-card__link" target="_self">
+                            L’info.gouv du jour : rentrée sportive, universités, élèves aux JO 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 16/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/819c9497478e04005c3f3b2f01399f2403114318.jpg" alt="Quatre jeunes gens jouent au football." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Comment se protéger du soleil ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.826Z</updated>
+        <id>https://www.gouvernement.fr/actualite/comment-se-proteger-du-soleil</id>
+        <link href="https://www.gouvernement.fr/actualite/comment-se-proteger-du-soleil"/>
+        <updated>2024-08-20T05:39:13.105Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="90d7e59b-083d-4eb3-b668-77184e2e1aaf"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/comment-se-proteger-du-soleil" class="fr-card__link" target="_self">
+                            Comment se protéger du soleil ? 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 14/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/312f0f9434db64c5dff97ab6933221a903bcbb28.jpg" alt="Un couple est assis sous un parasol face à la mer." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du jour : JOP 2024 et réflexes en cas d'inondation]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.828Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-14-aout-billetterie-des-jeux-paralympiques-indemnisation-jop-reflexes-en-cas-dinondation</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-14-aout-billetterie-des-jeux-paralympiques-indemnisation-jop-reflexes-en-cas-dinondation"/>
+        <updated>2024-08-20T05:39:13.105Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="af054237-1ac0-452e-b537-ff9eeac527f4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-14-aout-billetterie-des-jeux-paralympiques-indemnisation-jop-reflexes-en-cas-dinondation" class="fr-card__link" target="_self">
+                            L’info.gouv du jour : JOP 2024 et réflexes en cas d'inondation 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 14/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/ff75e042dc354a52cb6de73f7d6f3965879060bf.jpg" alt="Un téléphone portable montrant l'application pour acheter des billets pour les Jeux olympiques et paralympiques." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Comment prévenir les accidents de baignade ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.829Z</updated>
+        <id>https://www.gouvernement.fr/actualite/comment-prevenir-les-accidents-de-baignade</id>
+        <link href="https://www.gouvernement.fr/actualite/comment-prevenir-les-accidents-de-baignade"/>
+        <updated>2024-08-20T05:39:13.107Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="52c5d987-7f6e-421c-b745-7f3a3960756f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/comment-prevenir-les-accidents-de-baignade" class="fr-card__link" target="_self">
+                            Comment prévenir les accidents de baignade ? 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 13/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/f3c9c4f2fc965e6c0ea54eee358dc3019f460d4d.jpg" alt="Un enfant en short de bain s'avance vers la mer." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du jour : violences sexuelles, sécurité routière]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.830Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-13-aout-violences-sexuelles-securite-routiere-nouvelle-caledonie-cerealiers</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-13-aout-violences-sexuelles-securite-routiere-nouvelle-caledonie-cerealiers"/>
+        <updated>2024-08-20T05:39:13.113Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="36ad35d6-cf3f-438a-a0ce-dc127ad07860"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-13-aout-violences-sexuelles-securite-routiere-nouvelle-caledonie-cerealiers" class="fr-card__link" target="_self">
+                            L’info.gouv du jour : violences sexuelles, sécurité routière 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 13/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/f893c00961a4708ed6f5520d357f15229d6c8c52.png" alt="Une silhouette de femme dans une foule." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Retour sur : « Choose France », terre d’investissements]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.831Z</updated>
+        <id>https://www.gouvernement.fr/actualite/retour-sur-choose-france-en-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/retour-sur-choose-france-en-2024"/>
+        <updated>2024-08-20T05:39:13.113Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e2fa2e9a-20ed-4cf3-8e27-e06444ebd11b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/retour-sur-choose-france-en-2024" class="fr-card__link" target="_self">
+                            Retour sur : « Choose France », terre d’investissements 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Économie
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 12/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/bedfe689828cdca930050df666d3c69db05681cb.png" alt="Un gros plan dans une usine moderne. Les mots " rétrospective"="" et="" "choose="" france"="" écrits="" en="" jaune."="" data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[L'info.gouv du jour : médaillés, égalité, coopération]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.832Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-aout-medailles-egalite-cooperation-internationale</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-12-aout-medailles-egalite-cooperation-internationale"/>
+        <updated>2024-08-20T05:39:13.114Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="3eed7680-9c6a-4e74-a5d7-34d93f0129b9"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-12-aout-medailles-egalite-cooperation-internationale" class="fr-card__link" target="_self">
+                            L'info.gouv du jour : médaillés, égalité, coopération 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 12/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/3864fa98860ccbf5a1d88041e988b24ad4eaf212.jpg" alt="Des supporteurs agitent des drapeaux français." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nouvelle vague de chaleur en France]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.833Z</updated>
+        <id>https://www.gouvernement.fr/actualite/nouvelle-vague-de-chaleur-en-france</id>
+        <link href="https://www.gouvernement.fr/actualite/nouvelle-vague-de-chaleur-en-france"/>
+        <updated>2024-08-20T05:39:13.115Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e6b640c5-65c4-4303-acdf-178f2a2c6889"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/nouvelle-vague-de-chaleur-en-france" class="fr-card__link" target="_self">
+                            Nouvelle vague de chaleur en France 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 12/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/97af6ccf73a5b218eba8c35b63e34525c4d840a2.jpg" alt="Une femme portant un chapeau et des lunettes de soleil masque le soleil avec sa main." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Comment prévenir les feux de forêts ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.834Z</updated>
+        <id>https://www.gouvernement.fr/actualite/comment-prevenir-les-feux-de-forets</id>
+        <link href="https://www.gouvernement.fr/actualite/comment-prevenir-les-feux-de-forets"/>
+        <updated>2024-08-20T05:39:13.117Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="481a94bd-51d4-4d49-a3c6-744e61c26af7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/comment-prevenir-les-feux-de-forets" class="fr-card__link" target="_self">
+                            Comment prévenir les feux de forêts ? 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sécurité
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 09/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7e668b7edf6a4590124c639d235ec91ce5aa0b88.jpg" alt="Un véhicule sur une route de forêt. Au premier plan, un panneau avec la mention « Attention au feu »." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 5 au 11 août 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.836Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-5-au-11-aout-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-5-au-11-aout-2024"/>
+        <updated>2024-08-20T05:39:13.118Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="114effc3-33fa-4e86-bb8f-0a381aad3811"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-5-au-11-aout-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 5 au 11 août 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 09/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/47104fe162404701f720977c300613cfd6f06498.jpg" alt="Des médiallés olympiques Français." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bientôt la cérémonie de clôture des Jeux olympiques]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-08-19T17:38:33.838Z</updated>
+        <id>https://www.gouvernement.fr/actualite/paris-2024-rendez-vous-dimanche-11-aout-pour-la-ceremonie-de-cloture</id>
+        <link href="https://www.gouvernement.fr/actualite/paris-2024-rendez-vous-dimanche-11-aout-pour-la-ceremonie-de-cloture"/>
+        <updated>2024-08-20T05:39:13.120Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="399ad919-94b1-47fc-bd1a-2c0d556dd73f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/paris-2024-rendez-vous-dimanche-11-aout-pour-la-ceremonie-de-cloture" class="fr-card__link" target="_self">
+                            Bientôt la cérémonie de clôture des Jeux olympiques 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié 09/08/2024
+                        </p></div></div></div><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/8983c5a9b80256358ce3b0b02a16f0110e3625f1.jpg" alt="Des supporteurs enthousiastes tenant des drapeaux français." data-fr-js-ratio="true"></div></div>]]></content>
     </entry>
 </feed>
