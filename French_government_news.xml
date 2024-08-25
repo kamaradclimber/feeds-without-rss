@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-08-25T05:40:22.311Z</updated>
+    <updated>2024-08-25T17:40:07.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Place au relais de la flamme paralympique !]]></title>
+        <id>https://www.gouvernement.fr/actualite/place-au-relais-de-la-flamme-paralympique</id>
+        <link href="https://www.gouvernement.fr/actualite/place-au-relais-de-la-flamme-paralympique"/>
+        <updated>2024-08-25T17:40:00.035Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="7f972e36-24a7-4b9e-869e-1eda653c26f4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/place-au-relais-de-la-flamme-paralympique" class="fr-card__link" target="_self">
+                            Place au relais de la flamme paralympique ! 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 25/08/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/fde7ededfa538b15396e5d585e6899878fd5cc73.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jeux paralympiques : douze flammes vont sillonner la France]]></title>
         <id>https://www.gouvernement.fr/actualite/jeux-paralympiques-douze-flammes-vont-sillonner-la-france</id>
@@ -173,18 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 14/08/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/ff75e042dc354a52cb6de73f7d6f3965879060bf.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment prévenir les accidents de baignade ?]]></title>
-        <id>https://www.gouvernement.fr/actualite/comment-prevenir-les-accidents-de-baignade</id>
-        <link href="https://www.gouvernement.fr/actualite/comment-prevenir-les-accidents-de-baignade"/>
-        <updated>2024-08-23T05:39:34.003Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="52c5d987-7f6e-421c-b745-7f3a3960756f"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/comment-prevenir-les-accidents-de-baignade" class="fr-card__link" target="_self">
-                            Comment prévenir les accidents de baignade ? 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 13/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/f3c9c4f2fc965e6c0ea54eee358dc3019f460d4d.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
     </entry>
 </feed>
