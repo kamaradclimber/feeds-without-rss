@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 05:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 17:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rentrée scolaire 2024 : « L’École change la vie ! » (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/rentree-scolaire-2024-lecole-change-la-vie</link>
+            <guid>https://www.gouvernement.fr/actualite/rentree-scolaire-2024-lecole-change-la-vie</guid>
+            <pubDate>Tue, 27 Aug 2024 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b7a9fe61-c9d8-4c3d-965d-7e13a1577e88"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/rentree-scolaire-2024-lecole-change-la-vie" class="fr-card__link" target="_self">
+                            Rentrée scolaire 2024 : « L’École change la vie ! » 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 27/08/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/ab2c78b55508d9e46b5f6cd84331f34886f93621.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L’info.gouv du 26 août : libération de Paris et bien-être animal (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-26-aout-liberation-de-paris-et-animaux-abandonnes</link>
@@ -31,7 +44,7 @@
                              Citoyenneté
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 26/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/10bd78378b9723e58c5f08efa2d90c11560307e7.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/1d15c856981bfe9294511a861902ede05dc594c6.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Place au relais de la flamme paralympique ! (Toute l'actualité | Gouvernement.fr)]]></title>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 16/08/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/ce811d9a74d12a89f96be845e5845544bc94b251.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[L’info.gouv du jour : rentrée sportive, universités, élèves aux JO (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-16-aout-rentree-sportive-classement-de-shanghai-eleves-aux-jop</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-16-aout-rentree-sportive-classement-de-shanghai-eleves-aux-jop</guid>
-            <pubDate>Mon, 26 Aug 2024 17:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="824becc1-cdf5-4a1e-9213-a0af334863ba"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-16-aout-rentree-sportive-classement-de-shanghai-eleves-aux-jop" class="fr-card__link" target="_self">
-                            L’info.gouv du jour : rentrée sportive, universités, élèves aux JO 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 16/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/819c9497478e04005c3f3b2f01399f2403114318.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
