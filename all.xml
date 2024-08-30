@@ -4,9 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 05:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 17:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L’info.gouv du 30 août : sécurité routière et école accessible (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-30-aout-securite-routiere-et-ecole-accessible</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-30-aout-securite-routiere-et-ecole-accessible</guid>
+            <pubDate>Fri, 30 Aug 2024 17:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="00457959-bb9d-467a-bbb7-46add1029193"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-30-aout-securite-routiere-et-ecole-accessible" class="fr-card__link" target="_self">
+                            L’info.gouv du 30 août : sécurité routière et école accessible 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 30/08/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/e86801b5c5909301b32f40eec54582f2230dc07b.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Les 4 actus de la semaine du 26 août au 1er septembre 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-26-aout-au-1-septembre-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-26-aout-au-1-septembre-2024</guid>
+            <pubDate>Fri, 30 Aug 2024 17:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9050017a-8f5f-451d-b359-e42da66fc2d9"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-26-aout-au-1-septembre-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 26 août au 1er septembre 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 30/08/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/74af04afe4a09abcc69767831e6363d1a479e7cb.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kevin Piette, porteur d'un exosquelette et de la flamme olympique (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme</link>
+            <guid>https://www.gouvernement.fr/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme</guid>
+            <pubDate>Fri, 30 Aug 2024 17:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="252f1844-430a-4e9b-a40d-9aa9d3b4e0b1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme" class="fr-card__link" target="_self">
+                            Kevin Piette, porteur d'un exosquelette et de la flamme olympique 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 30/08/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/daeded01e2e0cddaf4f94a574733527095263ab8.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Paris 2024 : le compteur des médailles françaises est ouvert (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/paris-2024-le-compteur-est-ouvert-pour-lequipe-de-france</link>
@@ -149,45 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 22/08/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/262e04ca16a8269eeca015098a00992f66ef1f7e.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[La sécurité pendant les Jeux paralympiques (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/la-securite-pendant-les-jeux-paralympiques</link>
-            <guid>https://www.gouvernement.fr/actualite/la-securite-pendant-les-jeux-paralympiques</guid>
-            <pubDate>Wed, 28 Aug 2024 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="9b6d661e-220c-494e-b40a-5ad252ea324e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-securite-pendant-les-jeux-paralympiques" class="fr-card__link" target="_self">
-                            La sécurité pendant les Jeux paralympiques 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 21/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/2a430f19815cb35ef08be3f0fa65c49f87d90615.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mpox : point de situation sur l’épidémie (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/variole-du-singe-point-de-situation-sur-lepidemie-de-mpox</link>
-            <guid>https://www.gouvernement.fr/actualite/variole-du-singe-point-de-situation-sur-lepidemie-de-mpox</guid>
-            <pubDate>Wed, 28 Aug 2024 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c63b7741-af50-4a66-98e8-eb67bda09ba7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/variole-du-singe-point-de-situation-sur-lepidemie-de-mpox" class="fr-card__link" target="_self">
-                            Mpox : point de situation sur l’épidémie 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 21/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/1661185d490cae309e8c492584e380773865ebef.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les dates clés de la rentrée scolaire 2024-2025 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-dates-cles-de-la-rentree-scolaire-2024-2025</link>
-            <guid>https://www.gouvernement.fr/actualite/les-dates-cles-de-la-rentree-scolaire-2024-2025</guid>
-            <pubDate>Wed, 28 Aug 2024 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8371a6fc-20d2-4695-bb98-d8445398d420"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-dates-cles-de-la-rentree-scolaire-2024-2025" class="fr-card__link" target="_self">
-                            Les dates clés de la rentrée scolaire 2024-2025 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 21/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/1401653d96d526ec7a63f35f4f213e80d3e8f871.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
