@@ -4,9 +4,35 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 05:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 17:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Harcèlement : aider les adultes à comprendre la réalité (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/une-campagne-nationale-pour-sensibiliser-a-la-lutte-contre-le-harcelement-a-lecole</link>
+            <guid>https://www.gouvernement.fr/actualite/une-campagne-nationale-pour-sensibiliser-a-la-lutte-contre-le-harcelement-a-lecole</guid>
+            <pubDate>Mon, 02 Sep 2024 17:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="97afeb5e-efca-4ea4-aa69-a9d9a4828a29"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/une-campagne-nationale-pour-sensibiliser-a-la-lutte-contre-le-harcelement-a-lecole" class="fr-card__link" target="_self">
+                            Harcèlement : aider les adultes à comprendre la réalité 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 02/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/631f96da9ffd8c306fe6014fdf04cf180ebe23cc.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[L’info.gouv du 2 septembre : rentrée scolaire, économie touristique et maladies animales (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-2-septembre-rentree-scolaire-economie-touristique-et-maladies-animales</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-2-septembre-rentree-scolaire-economie-touristique-et-maladies-animales</guid>
+            <pubDate>Mon, 02 Sep 2024 17:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="30ff40e2-4ebc-4b4a-a1ec-293f36491c9b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-2-septembre-rentree-scolaire-economie-touristique-et-maladies-animales" class="fr-card__link" target="_self">
+                            L’info.gouv du 2 septembre : rentrée scolaire, économie touristique et maladies animales 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 02/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/f0d937454a1d673ffb22da7652793956b588cab4.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L’info.gouv du 30 août : sécurité routière et école accessible (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-30-aout-securite-routiere-et-ecole-accessible</link>
@@ -47,12 +73,12 @@
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/daeded01e2e0cddaf4f94a574733527095263ab8.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Paris 2024 : le compteur des médailles françaises est ouvert (Toute l'actualité | Gouvernement.fr)]]></title>
+            <title><![CDATA[Paris 2024 : le compteur des médailles françaises (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/paris-2024-le-compteur-est-ouvert-pour-lequipe-de-france</link>
             <guid>https://www.gouvernement.fr/actualite/paris-2024-le-compteur-est-ouvert-pour-lequipe-de-france</guid>
             <pubDate>Thu, 29 Aug 2024 17:39:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a9cab984-afe3-4537-869d-c2b71fa65056"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/paris-2024-le-compteur-est-ouvert-pour-lequipe-de-france" class="fr-card__link" target="_self">
-                            Paris 2024 : le compteur des médailles françaises est ouvert 
+                            Paris 2024 : le compteur des médailles françaises 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Sport
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
@@ -162,32 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 23/08/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/567f7c9d76e1cdc7b8c5dee13528b3cc00973407.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les 4 actus de la semaine du 19 au 25 août 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-19-au-25-aout-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-19-au-25-aout-2024</guid>
-            <pubDate>Wed, 28 Aug 2024 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8f9a051c-8281-433d-a4ed-9e3a8ba4f17e"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-19-au-25-aout-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 19 au 25 août 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 23/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/1c07d50f14c6ab390906634db2ca8f93394316a9.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[L’info.gouv du 22 août : influenza aviaire, accessibilité et punaises de lit (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-22-aout</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-22-aout</guid>
-            <pubDate>Wed, 28 Aug 2024 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="88a221c7-cc65-4457-a6f0-aca06c82f509"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-22-aout" class="fr-card__link" target="_self">
-                            L’info.gouv du 22 août : influenza aviaire, accessibilité et punaises de lit 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 22/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/262e04ca16a8269eeca015098a00992f66ef1f7e.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
