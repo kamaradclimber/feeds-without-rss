@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-09-09T05:41:10.453Z</updated>
+    <updated>2024-09-09T17:40:44.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[La cérémonie de clôture des Jeux paralympiques de Paris 2024]]></title>
+        <id>https://www.gouvernement.fr/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024"/>
+        <updated>2024-09-09T17:40:37.231Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b56b4abe-f0da-44ee-bdea-5884d8bbe063"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024" class="fr-card__link" target="_self">
+                            La cérémonie de clôture des Jeux paralympiques de Paris 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 09/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7a280deaab8b638127da4fd3bedaafb793c21fd0.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paris 2024 : bientôt la cérémonie des Jeux paralympiques]]></title>
         <id>https://www.gouvernement.fr/actualite/paris-2024-la-ceremonie-des-jeux-paralympiques-au-stade-de-france</id>
@@ -173,18 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 30/08/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/74af04afe4a09abcc69767831e6363d1a479e7cb.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kevin Piette, porteur d'un exosquelette et de la flamme olympique]]></title>
-        <id>https://www.gouvernement.fr/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme</id>
-        <link href="https://www.gouvernement.fr/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme"/>
-        <updated>2024-09-08T17:40:44.611Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="252f1844-430a-4e9b-a40d-9aa9d3b4e0b1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme" class="fr-card__link" target="_self">
-                            Kevin Piette, porteur d'un exosquelette et de la flamme olympique 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 30/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/daeded01e2e0cddaf4f94a574733527095263ab8.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
     </entry>
 </feed>

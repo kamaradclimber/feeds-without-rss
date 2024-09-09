@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 05:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 17:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[La cérémonie de clôture des Jeux paralympiques de Paris 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024</guid>
+            <pubDate>Mon, 09 Sep 2024 17:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b56b4abe-f0da-44ee-bdea-5884d8bbe063"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024" class="fr-card__link" target="_self">
+                            La cérémonie de clôture des Jeux paralympiques de Paris 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 09/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7a280deaab8b638127da4fd3bedaafb793c21fd0.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Paris 2024 : bientôt la cérémonie des Jeux paralympiques (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/paris-2024-la-ceremonie-des-jeux-paralympiques-au-stade-de-france</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 30/08/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/74af04afe4a09abcc69767831e6363d1a479e7cb.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Piette, porteur d'un exosquelette et de la flamme olympique (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme</link>
-            <guid>https://www.gouvernement.fr/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme</guid>
-            <pubDate>Sun, 08 Sep 2024 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="252f1844-430a-4e9b-a40d-9aa9d3b4e0b1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/kevin-piette-porteur-dun-exosquelette-porteur-de-la-flamme" class="fr-card__link" target="_self">
-                            Kevin Piette, porteur d'un exosquelette et de la flamme olympique 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 30/08/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/daeded01e2e0cddaf4f94a574733527095263ab8.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
