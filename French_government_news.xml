@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-09-12T05:40:55.629Z</updated>
+    <updated>2024-09-12T17:40:06.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 12 septembre : fête de la science, emploi seniors, direction des services de greffe judiciaires]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires"/>
+        <updated>2024-09-12T17:39:58.370Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fd21a5aa-a6dd-4504-9d07-543a26acfe69"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires" class="fr-card__link" target="_self">
+                            L’info.gouv du 12 septembre : fête de la science, emploi seniors, direction des services de greffe judiciaires 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 12/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/c4d32869dd85103527dc729fbe557b91b7e32b47.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 11 septembre : « Mon bilan prévention », « Info-Tri » et ventes au déballage]]></title>
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-11-septembre-mon-bilan-prevention-info-tri-et-ventes-au-deballage</id>
@@ -173,18 +186,5 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 03/09/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/1cb1864c0452fb07a5a1078f28c85dd343d8e969.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harcèlement : aider les adultes à comprendre la réalité]]></title>
-        <id>https://www.gouvernement.fr/actualite/une-campagne-nationale-pour-sensibiliser-a-la-lutte-contre-le-harcelement-a-lecole</id>
-        <link href="https://www.gouvernement.fr/actualite/une-campagne-nationale-pour-sensibiliser-a-la-lutte-contre-le-harcelement-a-lecole"/>
-        <updated>2024-09-12T05:40:47.654Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="97afeb5e-efca-4ea4-aa69-a9d9a4828a29"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/une-campagne-nationale-pour-sensibiliser-a-la-lutte-contre-le-harcelement-a-lecole" class="fr-card__link" target="_self">
-                            Harcèlement : aider les adultes à comprendre la réalité 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 02/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/631f96da9ffd8c306fe6014fdf04cf180ebe23cc.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
     </entry>
 </feed>
