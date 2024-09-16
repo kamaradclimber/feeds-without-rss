@@ -4,92 +4,190 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Sep 2024 17:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 05:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[Les 4 actus de la semaine du 9 au 15 septembre 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-9-au-15-septembre-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-9-au-15-septembre-2024</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1a8919f1-6bd5-4343-b022-9a8de36bedda"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-9-au-15-septembre-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 9 au 15 septembre 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 13/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/b6b50adec28baa08fe4710a0714b5aa6ffc59a33.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[L’info.gouv du 13 septembre : vaccination contre le HPV et recrutement par l'armée de Terre (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-13-septembre-vaccination-contre-le-hpv-et-armee-de-terre</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-13-septembre-vaccination-contre-le-hpv-et-armee-de-terre</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="989b8411-3bf2-4582-aee1-cca48c0b783c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-13-septembre-vaccination-contre-le-hpv-et-armee-de-terre" class="fr-card__link" target="_self">
+                            L’info.gouv du 13 septembre : vaccination contre le HPV et recrutement par l'armée de Terre 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 13/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/8e77b3bed8715321c83aa60dbf287620c7f5d8cc.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[Un concours pour « booster » l'excellence de l’innovation à la française (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise</link>
+            <guid>https://www.gouvernement.fr/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2274a683-c372-4b50-a5e3-29ac5b3d52e4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise" class="fr-card__link" target="_self">
+                            Un concours pour « booster » l'excellence de l’innovation à la française 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Recherche &amp; Innovation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 13/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7d37b378c6e367c4f63301dbea0909a8f1f02bae.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[Harcèlement à l'école : de victime à championne du monde de force (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/harcelement-a-lecole-de-victime-a-championne-du-monde-de-force</link>
+            <guid>https://www.gouvernement.fr/actualite/harcelement-a-lecole-de-victime-a-championne-du-monde-de-force</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d1d0e1a9-6d2f-46f9-a7e6-4fd7d39a73c7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/harcelement-a-lecole-de-victime-a-championne-du-monde-de-force" class="fr-card__link" target="_self">
+                            Harcèlement à l'école : de victime à championne du monde de force 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 13/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7947b4f08f3acb836e745d4c3e57727147db9c92.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[L’info.gouv du 12 septembre : fête de la science, emploi seniors, direction des services de greffe judiciaires (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fd21a5aa-a6dd-4504-9d07-543a26acfe69"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires" class="fr-card__link" target="_self">
+                            L’info.gouv du 12 septembre : fête de la science, emploi seniors, direction des services de greffe judiciaires 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 12/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/c4d32869dd85103527dc729fbe557b91b7e32b47.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[L’info.gouv du 11 septembre : « Mon bilan prévention », « Info-Tri » et ventes au déballage (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-11-septembre-mon-bilan-prevention-info-tri-et-ventes-au-deballage</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-11-septembre-mon-bilan-prevention-info-tri-et-ventes-au-deballage</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2fb6bffd-b9b5-4e96-9667-74ad5beb3835"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-11-septembre-mon-bilan-prevention-info-tri-et-ventes-au-deballage" class="fr-card__link" target="_self">
+                            L’info.gouv du 11 septembre : « Mon bilan prévention », « Info-Tri » et ventes au déballage 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 11/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/07c58f2934d377d61b089481ec06efd628b8c571.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[WorldSkills Lyon 2024 : les savoir-faire en compétition (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/worldskills-lyon-2024-les-savoir-faire-en-competition</link>
+            <guid>https://www.gouvernement.fr/actualite/worldskills-lyon-2024-les-savoir-faire-en-competition</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="da831a36-2fc8-4e10-b555-44fd56e9b89a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/worldskills-lyon-2024-les-savoir-faire-en-competition" class="fr-card__link" target="_self">
+                            WorldSkills Lyon 2024 : les savoir-faire en compétition 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 10/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/2c761e12377c215be848bf1d7790a1b226469971.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[L’info.gouv du 10 septembre : calendrier du brevet et du bac, santé mentale et prévention suicide (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-10-septembre-calendrier-du-brevet-et-du-bac-sante-mentale-et-prevention-suicide</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-10-septembre-calendrier-du-brevet-et-du-bac-sante-mentale-et-prevention-suicide</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ea851b11-e951-44b0-b22b-0784e85b63a6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-10-septembre-calendrier-du-brevet-et-du-bac-sante-mentale-et-prevention-suicide" class="fr-card__link" target="_self">
+                            L’info.gouv du 10 septembre : calendrier du brevet et du bac, santé mentale et prévention suicide 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 10/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/79eaea9831bdd7c8c1b315d12ee0fef9f25edecb.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[La cérémonie de clôture des Jeux paralympiques de Paris 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b56b4abe-f0da-44ee-bdea-5884d8bbe063"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-ceremonie-de-cloture-des-jeux-paralympiques-de-paris-2024" class="fr-card__link" target="_self">
+                            La cérémonie de clôture des Jeux paralympiques de Paris 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 09/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/f804ed9d4cfff93442ec0aa4103c96bd83a7b0a6.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[Paris 2024 : bientôt la cérémonie des Jeux paralympiques (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/paris-2024-la-ceremonie-des-jeux-paralympiques-au-stade-de-france</link>
+            <guid>https://www.gouvernement.fr/actualite/paris-2024-la-ceremonie-des-jeux-paralympiques-au-stade-de-france</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ea711aea-7558-4103-b8a2-a0ed01af9e31"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/paris-2024-la-ceremonie-des-jeux-paralympiques-au-stade-de-france" class="fr-card__link" target="_self">
+                            Paris 2024 : bientôt la cérémonie des Jeux paralympiques 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Sport
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 06/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/fb38a8447d8f77abd96ddec99c4a43e6981285bb.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[Les 4 actus de la semaine du 2 au 8 septembre 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-2-au-8-septembre-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-2-au-8-septembre-2024</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="897f9a4b-db2c-41ec-9b5e-bd50a801bede"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-2-au-8-septembre-2024" class="fr-card__link" target="_self">
+                            Les 4 actus de la semaine du 2 au 8 septembre 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Institutions
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 06/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/3f07b3e4e686fa6ab2402e299af48954cd892773.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[L’info.gouv du 6 septembre : Goncourt des détenus et virus mpox (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-6-septembre-goncourt-des-detenus-et-virus-mpox</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-6-septembre-goncourt-des-detenus-et-virus-mpox</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="138d4166-f479-405a-8841-13462c002958"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-6-septembre-goncourt-des-detenus-et-virus-mpox" class="fr-card__link" target="_self">
+                            L’info.gouv du 6 septembre : Goncourt des détenus et virus mpox 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Culture
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 06/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/cea6a05382510382d9e95922ab68f48f66eecea1.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[Passation de pouvoir entre Gabriel Attal et Michel Barnier (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/passation-de-pouvoir-entre-gabriel-attal-et-michel-barnier</link>
+            <guid>https://www.gouvernement.fr/actualite/passation-de-pouvoir-entre-gabriel-attal-et-michel-barnier</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f3474e6c-434e-4dd5-b72d-afa585caefac"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/passation-de-pouvoir-entre-gabriel-attal-et-michel-barnier" class="fr-card__link" target="_self">
+                            Passation de pouvoir entre Gabriel Attal et Michel Barnier 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Institutions
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 05/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/d097d5ec035d72dfc5e5c190348ea39864148f23.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
-            <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 15 Sep 2024 17:38:51 GMT</pubDate>
+            <title><![CDATA[Michel Barnier nommé Premier ministre (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/michel-barnier-nomme-premier-ministre</link>
+            <guid>https://www.gouvernement.fr/actualite/michel-barnier-nomme-premier-ministre</guid>
+            <pubDate>Mon, 16 Sep 2024 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a64b1c3f-6715-47d0-a7dc-caae80253b9d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/michel-barnier-nomme-premier-ministre" class="fr-card__link" target="_self">
+                            Michel Barnier nommé Premier ministre 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Institutions
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 05/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/8f8313306b89c0f18623e442736218ef7c00d7e7.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Our road to impact (Blog - Electricity Maps)]]></title>
