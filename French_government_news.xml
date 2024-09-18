@@ -2,91 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-09-18T05:41:47.067Z</updated>
+    <updated>2024-09-18T17:39:51.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 18 septembre : « FORESTT » et développement durable]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-18T17:39:44.195Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d487c374-33fe-4287-9741-8768fac8280a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-18-septembre-forestt-et-developpement-durable" class="fr-card__link" target="_self">
+                            L’info.gouv du 18 septembre : « FORESTT » et développement durable 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Environnement
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 18/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/1f7a08506c0a4aa537e30800db9eb6d9e98f0a01.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JEP 2024 : les préfectures ouvrent leurs portes et honorent les femmes de la Résistance]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-18T17:39:44.195Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="66b217a9-1056-4403-8268-e749acdec945"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jep-2024-les-prefectures-ouvrent-leurs-portes-et-rendent-hommage-aux-femmes-de-la-resistance-a-travers-une-exposition" class="fr-card__link" target="_self">
+                            JEP 2024 : les préfectures ouvrent leurs portes et honorent les femmes de la Résistance 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Culture
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 18/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/fc8640907ab657d6377e3a233eb232a847023e40.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Les Journées européennes du patrimoine 2024]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.365Z</updated>
+        <updated>2024-09-18T17:39:44.202Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 17 septembre : bronchiolite, « WorldSkills  » et transformation numérique des TPE PME]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.365Z</updated>
+        <updated>2024-09-18T17:39:44.203Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 16 septembre : magistrat en service extraordinaire et menace informationnelle sur les JOP]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.365Z</updated>
+        <updated>2024-09-18T17:39:44.203Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 9 au 15 septembre 2024]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.366Z</updated>
+        <updated>2024-09-18T17:39:44.203Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 13 septembre : vaccination contre le HPV et recrutement par l'armée de Terre]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.367Z</updated>
+        <updated>2024-09-18T17:39:44.205Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Harcèlement à l'école : de victime à championne du monde de force]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.368Z</updated>
+        <updated>2024-09-18T17:39:44.205Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 12 septembre : fête de la science, emploi seniors, direction des services de greffe judiciaires]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.373Z</updated>
+        <updated>2024-09-18T17:39:44.206Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 11 septembre : « Mon bilan prévention », « Info-Tri » et ventes au déballage]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.376Z</updated>
+        <updated>2024-09-18T17:39:44.211Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[WorldSkills Lyon 2024 : les savoir-faire en compétition]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.377Z</updated>
+        <updated>2024-09-18T17:39:44.216Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 10 septembre : calendrier du brevet et du bac, santé mentale et prévention suicide]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.390Z</updated>
+        <updated>2024-09-18T17:39:44.216Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[La cérémonie de clôture des Jeux paralympiques de Paris 2024]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.391Z</updated>
+        <updated>2024-09-18T17:39:44.216Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Paris 2024 : bientôt la cérémonie des Jeux paralympiques]]></title>
         <id>https://www.gouvernement.fr/toute-l-actualite</id>
         <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.392Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 2 au 8 septembre 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.392Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 6 septembre : Goncourt des détenus et virus mpox]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-09-18T05:41:39.392Z</updated>
+        <updated>2024-09-18T17:39:44.216Z</updated>
     </entry>
 </feed>
