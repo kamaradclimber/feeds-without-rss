@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 17:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 05:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[La composition du gouvernement de Michel Barnier (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/la-composition-du-gouvernement-de-michel-barnier</link>
+            <guid>https://www.gouvernement.fr/actualite/la-composition-du-gouvernement-de-michel-barnier</guid>
+            <pubDate>Sun, 22 Sep 2024 05:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4ac9fa74-2b3f-4650-a862-67483355d550"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-composition-du-gouvernement-de-michel-barnier" class="fr-card__link" target="_self">
+                            La composition du gouvernement de Michel Barnier 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Institutions
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 21/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/b7d8855e1e576ee94140229ac5c97951bf292575.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Les 4 actus de la semaine du 16 au 22 septembre 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-septembre-2024</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 13/09/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7947b4f08f3acb836e745d4c3e57727147db9c92.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[L’info.gouv du 12 septembre : fête de la science, emploi seniors, direction des services de greffe judiciaires (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires</guid>
-            <pubDate>Fri, 20 Sep 2024 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fd21a5aa-a6dd-4504-9d07-543a26acfe69"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-12-septembre-fete-de-la-science-emploi-seniors-direction-des-services-de-greffe-judiciaires" class="fr-card__link" target="_self">
-                            L’info.gouv du 12 septembre : fête de la science, emploi seniors, direction des services de greffe judiciaires 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Citoyenneté
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 12/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/c4d32869dd85103527dc729fbe557b91b7e32b47.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How to save costs and emissions with a flexible electricity load? (Blog - Electricity Maps)]]></title>
