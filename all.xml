@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 05:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 17:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Calculez votre empreinte carbone (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/calculez-votre-empreinte-carbone</link>
+            <guid>https://www.gouvernement.fr/actualite/calculez-votre-empreinte-carbone</guid>
+            <pubDate>Mon, 23 Sep 2024 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c3901aac-5651-4e26-a129-b64eab07f1f7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/calculez-votre-empreinte-carbone" class="fr-card__link" target="_self">
+                            Calculez votre empreinte carbone 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Environnement
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 23/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/03/3650e1f2958b80382c4dac04db15145fdc231af4.jpeg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[La composition du gouvernement de Michel Barnier (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/la-composition-du-gouvernement-de-michel-barnier</link>
@@ -44,7 +57,7 @@
                              Recherche &amp; Innovation
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 20/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/a510f8818114f087192a9f92d97b9373408dbf95.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/2ea543aa0469387bc83a2d56fec227ee852ee565.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[France 2030 : l'artisanat éco-responsable au cœur de l'innovation (Toute l'actualité | Gouvernement.fr)]]></title>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 13/09/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/8e77b3bed8715321c83aa60dbf287620c7f5d8cc.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Harcèlement à l'école : de victime à championne du monde de force (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/harcelement-a-lecole-de-victime-a-championne-du-monde-de-force</link>
-            <guid>https://www.gouvernement.fr/actualite/harcelement-a-lecole-de-victime-a-championne-du-monde-de-force</guid>
-            <pubDate>Fri, 20 Sep 2024 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d1d0e1a9-6d2f-46f9-a7e6-4fd7d39a73c7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/harcelement-a-lecole-de-victime-a-championne-du-monde-de-force" class="fr-card__link" target="_self">
-                            Harcèlement à l'école : de victime à championne du monde de force 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Éducation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 13/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7947b4f08f3acb836e745d4c3e57727147db9c92.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How to save costs and emissions with a flexible electricity load? (Blog - Electricity Maps)]]></title>
