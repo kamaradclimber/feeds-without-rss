@@ -2,189 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-09-23T17:40:43.558Z</updated>
+    <updated>2024-09-24T05:42:02.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
     <entry>
         <title type="html"><![CDATA[Calculez votre empreinte carbone]]></title>
-        <id>https://www.gouvernement.fr/actualite/calculez-votre-empreinte-carbone</id>
-        <link href="https://www.gouvernement.fr/actualite/calculez-votre-empreinte-carbone"/>
-        <updated>2024-09-23T17:40:35.934Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c3901aac-5651-4e26-a129-b64eab07f1f7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/calculez-votre-empreinte-carbone" class="fr-card__link" target="_self">
-                            Calculez votre empreinte carbone 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Environnement
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 23/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/03/3650e1f2958b80382c4dac04db15145fdc231af4.jpeg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.341Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[La composition du gouvernement de Michel Barnier]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-composition-du-gouvernement-de-michel-barnier</id>
-        <link href="https://www.gouvernement.fr/actualite/la-composition-du-gouvernement-de-michel-barnier"/>
-        <updated>2024-09-22T05:40:27.785Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4ac9fa74-2b3f-4650-a862-67483355d550"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-composition-du-gouvernement-de-michel-barnier" class="fr-card__link" target="_self">
-                            La composition du gouvernement de Michel Barnier 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Institutions
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 21/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/b7d8855e1e576ee94140229ac5c97951bf292575.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.342Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 16 au 22 septembre 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-septembre-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-septembre-2024"/>
-        <updated>2024-09-20T17:39:54.107Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="823c80e6-bfd5-4d96-82e1-ce7a11b7bd0b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-16-au-22-septembre-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 16 au 22 septembre 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 20/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/395e1049199c6ba2e4442d66bf28bde182dd49e7.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.342Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[France 2030 : Whispeak fait de votre voix une clé sécurisée]]></title>
-        <id>https://www.gouvernement.fr/actualite/france-2030-whispeak-fait-de-votre-voix-une-cle-securisee</id>
-        <link href="https://www.gouvernement.fr/actualite/france-2030-whispeak-fait-de-votre-voix-une-cle-securisee"/>
-        <updated>2024-09-20T17:39:54.109Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="baa3bec7-9139-413a-b8e7-104168dfe886"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/france-2030-whispeak-fait-de-votre-voix-une-cle-securisee" class="fr-card__link" target="_self">
-                            France 2030 : Whispeak fait de votre voix une clé sécurisée 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 20/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/2ea543aa0469387bc83a2d56fec227ee852ee565.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.343Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[France 2030 : l'artisanat éco-responsable au cœur de l'innovation]]></title>
-        <id>https://www.gouvernement.fr/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation</id>
-        <link href="https://www.gouvernement.fr/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation"/>
-        <updated>2024-09-20T17:39:54.111Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e09a7060-587a-495d-8ace-1d3256fd47ed"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation" class="fr-card__link" target="_self">
-                            France 2030 : l'artisanat éco-responsable au cœur de l'innovation 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 20/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/0ecf2694c805d95afc89774cc8788bfe1ae9edc4.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.343Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Un concours pour « booster » l'excellence de l’innovation à la française]]></title>
-        <id>https://www.gouvernement.fr/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise</id>
-        <link href="https://www.gouvernement.fr/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise"/>
-        <updated>2024-09-20T17:39:54.115Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2274a683-c372-4b50-a5e3-29ac5b3d52e4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise" class="fr-card__link" target="_self">
-                            Un concours pour « booster » l'excellence de l’innovation à la française 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 19/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7d37b378c6e367c4f63301dbea0909a8f1f02bae.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.343Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le château de Chambord promeut l'audace à la française]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-chateau-de-chambord-promeut-laudace-a-la-francaise</id>
-        <link href="https://www.gouvernement.fr/actualite/le-chateau-de-chambord-promeut-laudace-a-la-francaise"/>
-        <updated>2024-09-20T17:39:54.116Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1f3c31b0-82cd-4aa3-aa1b-6e635b72fcb6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/le-chateau-de-chambord-promeut-laudace-a-la-francaise" class="fr-card__link" target="_self">
-                            Le château de Chambord promeut l'audace à la française 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             International
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 19/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/580e5b34e406bef0993090e0b8119562f55bf340.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.344Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 18 septembre : « FORESTT » et développement durable]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-septembre-forestt-et-developpement-durable</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-18-septembre-forestt-et-developpement-durable"/>
-        <updated>2024-09-20T17:39:54.117Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d487c374-33fe-4287-9741-8768fac8280a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-18-septembre-forestt-et-developpement-durable" class="fr-card__link" target="_self">
-                            L’info.gouv du 18 septembre : « FORESTT » et développement durable 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Environnement
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 18/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/1f7a08506c0a4aa537e30800db9eb6d9e98f0a01.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.345Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[JEP 2024 : les préfectures ouvrent leurs portes et honorent les femmes de la Résistance]]></title>
-        <id>https://www.gouvernement.fr/actualite/jep-2024-les-prefectures-ouvrent-leurs-portes-et-rendent-hommage-aux-femmes-de-la-resistance-a-travers-une-exposition</id>
-        <link href="https://www.gouvernement.fr/actualite/jep-2024-les-prefectures-ouvrent-leurs-portes-et-rendent-hommage-aux-femmes-de-la-resistance-a-travers-une-exposition"/>
-        <updated>2024-09-20T17:39:54.120Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="66b217a9-1056-4403-8268-e749acdec945"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/jep-2024-les-prefectures-ouvrent-leurs-portes-et-rendent-hommage-aux-femmes-de-la-resistance-a-travers-une-exposition" class="fr-card__link" target="_self">
-                            JEP 2024 : les préfectures ouvrent leurs portes et honorent les femmes de la Résistance 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Culture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 18/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/fc8640907ab657d6377e3a233eb232a847023e40.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.346Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les Journées européennes du patrimoine 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-journees-europeennes-du-patrimoine-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-journees-europeennes-du-patrimoine-2024"/>
-        <updated>2024-09-20T17:39:54.122Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6d9f4e1b-eed0-47ff-a16f-999ffe6e43b7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-journees-europeennes-du-patrimoine-2024" class="fr-card__link" target="_self">
-                            Les Journées européennes du patrimoine 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Culture
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 17/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/b307498698758611baf3d3d92281e0f84b600940.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.347Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 17 septembre : bronchiolite, « WorldSkills  » et transformation numérique des TPE PME]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-17-septembre-bronchiolite-worldskills-et-transformation-numerique-des-tpe-pme</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-17-septembre-bronchiolite-worldskills-et-transformation-numerique-des-tpe-pme"/>
-        <updated>2024-09-20T17:39:54.123Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="8df87978-d793-4911-9088-6455a71fba27"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-17-septembre-bronchiolite-worldskills-et-transformation-numerique-des-tpe-pme" class="fr-card__link" target="_self">
-                            L’info.gouv du 17 septembre : bronchiolite, « WorldSkills  » et transformation numérique des TPE PME 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 17/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/63a0f944ecb98f10767c80458435528718001be4.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.347Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 16 septembre : magistrat en service extraordinaire et menace informationnelle sur les JOP]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-16-septembre-magistrat-en-service-extraordinaire-et-menace-informationnelle-sur-les-jop</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-16-septembre-magistrat-en-service-extraordinaire-et-menace-informationnelle-sur-les-jop"/>
-        <updated>2024-09-20T17:39:54.126Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="13271dbe-2e1f-4b48-811a-c3131552c9a4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-16-septembre-magistrat-en-service-extraordinaire-et-menace-informationnelle-sur-les-jop" class="fr-card__link" target="_self">
-                            L’info.gouv du 16 septembre : magistrat en service extraordinaire et menace informationnelle sur les JOP 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Justice
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 16/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7ccf6cdbdec20f52b1afb867c970e5ae254899cf.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.348Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 9 au 15 septembre 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-9-au-15-septembre-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-9-au-15-septembre-2024"/>
-        <updated>2024-09-20T17:39:54.128Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1a8919f1-6bd5-4343-b022-9a8de36bedda"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-9-au-15-septembre-2024" class="fr-card__link" target="_self">
-                            Les 4 actus de la semaine du 9 au 15 septembre 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Sport
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 13/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/b6b50adec28baa08fe4710a0714b5aa6ffc59a33.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.350Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 13 septembre : vaccination contre le HPV et recrutement par l'armée de Terre]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-13-septembre-vaccination-contre-le-hpv-et-armee-de-terre</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-13-septembre-vaccination-contre-le-hpv-et-armee-de-terre"/>
-        <updated>2024-09-20T17:39:54.129Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="989b8411-3bf2-4582-aee1-cca48c0b783c"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-13-septembre-vaccination-contre-le-hpv-et-armee-de-terre" class="fr-card__link" target="_self">
-                            L’info.gouv du 13 septembre : vaccination contre le HPV et recrutement par l'armée de Terre 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Santé
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 13/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/8e77b3bed8715321c83aa60dbf287620c7f5d8cc.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-09-24T05:41:55.351Z</updated>
     </entry>
 </feed>
