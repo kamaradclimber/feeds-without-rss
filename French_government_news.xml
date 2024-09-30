@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-09-30T05:42:15.445Z</updated>
+    <updated>2024-09-30T17:40:53.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 30 septembre : sexisme et Semaine bleue]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-30-septembre-sexisme-et-semaine-bleue</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-30-septembre-sexisme-et-semaine-bleue"/>
+        <updated>2024-09-30T17:40:45.393Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1b2764de-0821-490b-8665-1984e6ce31d9"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-30-septembre-sexisme-et-semaine-bleue" class="fr-card__link">
+                            L’info.gouv du 30 septembre : sexisme et Semaine bleue 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 30/09/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/96dbf4544222632b5fb4c051948619419e86277d.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IVG, la conquête d'un droit]]></title>
         <id>https://www.gouvernement.fr/actualite/ivg-la-conquete-dun-droit</id>
         <link href="https://www.gouvernement.fr/actualite/ivg-la-conquete-dun-droit"/>
         <updated>2024-09-27T17:40:43.650Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a7654281-af45-41dc-889d-b55c098060cf"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ivg-la-conquete-dun-droit" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a7654281-af45-41dc-889d-b55c098060cf"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ivg-la-conquete-dun-droit" class="fr-card__link">
                             IVG, la conquête d'un droit 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Santé
@@ -23,7 +36,7 @@
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-27-septembre-peage-en-flux-libre-et-contrats-doctoraux-handicap</id>
         <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-27-septembre-peage-en-flux-libre-et-contrats-doctoraux-handicap"/>
         <updated>2024-09-27T17:40:43.651Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="db37c89b-4374-4a6f-8f7b-85c1324db418"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-27-septembre-peage-en-flux-libre-et-contrats-doctoraux-handicap" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="db37c89b-4374-4a6f-8f7b-85c1324db418"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-27-septembre-peage-en-flux-libre-et-contrats-doctoraux-handicap" class="fr-card__link">
                             L’info.gouv du 27 septembre : péage en flux libre et contrats doctoraux handicap 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Handicap
@@ -36,7 +49,7 @@
         <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-23-au-29-septembre-2024</id>
         <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-23-au-29-septembre-2024"/>
         <updated>2024-09-27T17:40:43.658Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d029b249-73d7-4d1c-8bff-d762ce2ecc64"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-23-au-29-septembre-2024" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d029b249-73d7-4d1c-8bff-d762ce2ecc64"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-23-au-29-septembre-2024" class="fr-card__link">
                             Les 4 actus de la semaine du 23 au 29 septembre 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Institutions
@@ -49,7 +62,7 @@
         <id>https://www.gouvernement.fr/actualite/estimez-vos-aides-pour-renover-votre-logement-avec-mes-aides-reno</id>
         <link href="https://www.gouvernement.fr/actualite/estimez-vos-aides-pour-renover-votre-logement-avec-mes-aides-reno"/>
         <updated>2024-09-26T17:42:26.041Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f2ee31ad-71de-479d-b5ad-0f023cb9eb5a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/estimez-vos-aides-pour-renover-votre-logement-avec-mes-aides-reno" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f2ee31ad-71de-479d-b5ad-0f023cb9eb5a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/estimez-vos-aides-pour-renover-votre-logement-avec-mes-aides-reno" class="fr-card__link">
                             Estimez vos aides pour rénover votre logement avec « Mes Aides Réno » 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Environnement
@@ -62,7 +75,7 @@
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-26-septembre-contraception-identite-numerique-et-fete-de-la-science</id>
         <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-26-septembre-contraception-identite-numerique-et-fete-de-la-science"/>
         <updated>2024-09-26T17:42:26.044Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ead57e8a-9eb2-4b17-b9a5-b83656a703a8"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-26-septembre-contraception-identite-numerique-et-fete-de-la-science" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ead57e8a-9eb2-4b17-b9a5-b83656a703a8"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-26-septembre-contraception-identite-numerique-et-fete-de-la-science" class="fr-card__link">
                             L’info.gouv du 26 septembre : contraception, identité numérique et Fête de la science 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Santé
@@ -75,7 +88,7 @@
         <id>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-octobre-2024</id>
         <link href="https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-octobre-2024"/>
         <updated>2024-09-25T17:41:05.921Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="aac6e9a5-450c-47c1-aacd-610f3a0aeda4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-qui-change-au-1er-octobre-2024" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="aac6e9a5-450c-47c1-aacd-610f3a0aeda4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-qui-change-au-1er-octobre-2024" class="fr-card__link">
                             Ce qui change au 1er octobre 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Économie
@@ -88,7 +101,7 @@
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-24-septembre-developpement-durable-et-aidants</id>
         <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-24-septembre-developpement-durable-et-aidants"/>
         <updated>2024-09-24T17:41:42.181Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="99c072d9-424f-4e99-b93b-ee4f4a89e87d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-24-septembre-developpement-durable-et-aidants" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="99c072d9-424f-4e99-b93b-ee4f4a89e87d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-24-septembre-developpement-durable-et-aidants" class="fr-card__link">
                             L’info.gouv du 24 septembre : aidants et développement durable 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Environnement
@@ -101,7 +114,7 @@
         <id>https://www.gouvernement.fr/actualite/calculez-votre-empreinte-carbone</id>
         <link href="https://www.gouvernement.fr/actualite/calculez-votre-empreinte-carbone"/>
         <updated>2024-09-24T17:41:42.187Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c3901aac-5651-4e26-a129-b64eab07f1f7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/calculez-votre-empreinte-carbone" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c3901aac-5651-4e26-a129-b64eab07f1f7"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/calculez-votre-empreinte-carbone" class="fr-card__link">
                             Calculez votre empreinte carbone 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Environnement
@@ -114,7 +127,7 @@
         <id>https://www.gouvernement.fr/actualite/la-composition-du-gouvernement-de-michel-barnier</id>
         <link href="https://www.gouvernement.fr/actualite/la-composition-du-gouvernement-de-michel-barnier"/>
         <updated>2024-09-24T17:41:42.188Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4ac9fa74-2b3f-4650-a862-67483355d550"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-composition-du-gouvernement-de-michel-barnier" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="4ac9fa74-2b3f-4650-a862-67483355d550"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/la-composition-du-gouvernement-de-michel-barnier" class="fr-card__link">
                             La composition du gouvernement de Michel Barnier 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Institutions
@@ -127,7 +140,7 @@
         <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-septembre-2024</id>
         <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-16-au-22-septembre-2024"/>
         <updated>2024-09-24T17:41:42.189Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="823c80e6-bfd5-4d96-82e1-ce7a11b7bd0b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-16-au-22-septembre-2024" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="823c80e6-bfd5-4d96-82e1-ce7a11b7bd0b"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-16-au-22-septembre-2024" class="fr-card__link">
                             Les 4 actus de la semaine du 16 au 22 septembre 2024 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Santé
@@ -140,7 +153,7 @@
         <id>https://www.gouvernement.fr/actualite/france-2030-whispeak-fait-de-votre-voix-une-cle-securisee</id>
         <link href="https://www.gouvernement.fr/actualite/france-2030-whispeak-fait-de-votre-voix-une-cle-securisee"/>
         <updated>2024-09-24T17:41:42.190Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="baa3bec7-9139-413a-b8e7-104168dfe886"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/france-2030-whispeak-fait-de-votre-voix-une-cle-securisee" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="baa3bec7-9139-413a-b8e7-104168dfe886"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/france-2030-whispeak-fait-de-votre-voix-une-cle-securisee" class="fr-card__link">
                             France 2030 : Whispeak fait de votre voix une clé sécurisée 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Recherche &amp; Innovation
@@ -153,7 +166,7 @@
         <id>https://www.gouvernement.fr/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation</id>
         <link href="https://www.gouvernement.fr/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation"/>
         <updated>2024-09-24T17:41:42.191Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e09a7060-587a-495d-8ace-1d3256fd47ed"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e09a7060-587a-495d-8ace-1d3256fd47ed"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation" class="fr-card__link">
                             France 2030 : l'artisanat éco-responsable au cœur de l'innovation 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Recherche &amp; Innovation
@@ -166,25 +179,12 @@
         <id>https://www.gouvernement.fr/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise</id>
         <link href="https://www.gouvernement.fr/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise"/>
         <updated>2024-09-25T17:41:05.931Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2274a683-c372-4b50-a5e3-29ac5b3d52e4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise" class="fr-card__link" target="_self">
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2274a683-c372-4b50-a5e3-29ac5b3d52e4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise" class="fr-card__link">
                             Un concours pour « booster » l'excellence de l’innovation à la française 
                         </a></h4><div class="fr-card__start"><p class="fr-card__detail">
                              Recherche &amp; Innovation
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 19/09/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7d37b378c6e367c4f63301dbea0909a8f1f02bae.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le château de Chambord promeut l'audace à la française]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-chateau-de-chambord-promeut-laudace-a-la-francaise</id>
-        <link href="https://www.gouvernement.fr/actualite/le-chateau-de-chambord-promeut-laudace-a-la-francaise"/>
-        <updated>2024-09-25T17:41:05.933Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1f3c31b0-82cd-4aa3-aa1b-6e635b72fcb6"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/le-chateau-de-chambord-promeut-laudace-a-la-francaise" class="fr-card__link" target="_self">
-                            Le château de Chambord promeut l'audace à la française 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             International
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 19/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/580e5b34e406bef0993090e0b8119562f55bf340.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content>
     </entry>
 </feed>
