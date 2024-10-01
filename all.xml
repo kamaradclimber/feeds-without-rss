@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 05:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 17:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L’info.gouv du 1er octobre : enseignant & conseiller pénitentiaire (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-octobre-enseignants-conseiller-penitentiaire-et-taxes-foncieres-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-octobre-enseignants-conseiller-penitentiaire-et-taxes-foncieres-2024</guid>
+            <pubDate>Tue, 01 Oct 2024 17:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1aaa6358-a933-425f-bfd0-943521380925"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-1er-octobre-enseignants-conseiller-penitentiaire-et-taxes-foncieres-2024" class="fr-card__link">
+                            L’info.gouv du 1er octobre : enseignant &amp; conseiller pénitentiaire 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Éducation
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 01/10/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/8e0fcbc4cd608319e2caf413f1874e4175d5c6d2.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L’info.gouv du 30 septembre : sexisme et Semaine bleue (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-30-septembre-sexisme-et-semaine-bleue</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 20/09/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/0ecf2694c805d95afc89774cc8788bfe1ae9edc4.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Un concours pour « booster » l'excellence de l’innovation à la française (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise</link>
-            <guid>https://www.gouvernement.fr/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise</guid>
-            <pubDate>Wed, 25 Sep 2024 17:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2274a683-c372-4b50-a5e3-29ac5b3d52e4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/un-concours-pour-booster-lexcellence-de-linnovation-a-la-francaise" class="fr-card__link">
-                            Un concours pour « booster » l'excellence de l’innovation à la française 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 19/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/7d37b378c6e367c4f63301dbea0909a8f1f02bae.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How to save costs and emissions with a flexible electricity load? (Blog - Electricity Maps)]]></title>
