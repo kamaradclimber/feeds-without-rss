@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 17:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 05:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ce qu'il faut retenir de la déclaration de politique générale de Michel Barnier (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/ce-quil-faut-retenir-de-la-declaration-de-politique-generale-de-michel-barnier</link>
+            <guid>https://www.gouvernement.fr/actualite/ce-quil-faut-retenir-de-la-declaration-de-politique-generale-de-michel-barnier</guid>
+            <pubDate>Wed, 02 Oct 2024 05:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e3ad5a12-f1fc-49e3-8889-04a2ce65e8bf"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-quil-faut-retenir-de-la-declaration-de-politique-generale-de-michel-barnier" class="fr-card__link">
+                            Ce qu'il faut retenir de la déclaration de politique générale de Michel Barnier 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Institutions
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 01/10/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/14d13d6d9be3b3157a8bc5f1dce109ffc2c7192f.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L’info.gouv du 1er octobre : enseignant & conseiller pénitentiaire (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-1er-octobre-enseignants-conseiller-penitentiaire-et-taxes-foncieres-2024</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 20/09/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/2ea543aa0469387bc83a2d56fec227ee852ee565.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[France 2030 : l'artisanat éco-responsable au cœur de l'innovation (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation</link>
-            <guid>https://www.gouvernement.fr/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation</guid>
-            <pubDate>Tue, 24 Sep 2024 17:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e09a7060-587a-495d-8ace-1d3256fd47ed"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/france-2030-lartisanat-eco-responsable-au-coeur-de-linnovation" class="fr-card__link">
-                            France 2030 : l'artisanat éco-responsable au cœur de l'innovation 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 20/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/0ecf2694c805d95afc89774cc8788bfe1ae9edc4.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How to save costs and emissions with a flexible electricity load? (Blog - Electricity Maps)]]></title>
