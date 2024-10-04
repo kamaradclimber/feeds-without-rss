@@ -4,9 +4,35 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 05:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 17:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Une journée avec une bénévole de la SPA (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/une-journee-avec-une-benevole-de-la-spa</link>
+            <guid>https://www.gouvernement.fr/actualite/une-journee-avec-une-benevole-de-la-spa</guid>
+            <pubDate>Fri, 04 Oct 2024 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="286b7389-fa53-4afd-8cf8-96e4520a35f3"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/une-journee-avec-une-benevole-de-la-spa" class="fr-card__link">
+                            Une journée avec une bénévole de la SPA 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Citoyenneté
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 04/10/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/61fd4f5af53188ff4b80683784b1dbc147ff86e3.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Les 4 actus de la semaine du 30 septembre au 6 octobre 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-30-septembre-au-6-octobre-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-30-septembre-au-6-octobre-2024</guid>
+            <pubDate>Fri, 04 Oct 2024 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="58f3f9c1-63b9-4cac-b519-d6cb44b897f2"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/les-4-actus-de-la-semaine-du-30-septembre-au-6-octobre-2024" class="fr-card__link">
+                            Les 4 actus de la semaine du 30 septembre au 6 octobre 2024 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Institutions
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 04/10/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/8706583b0023cc20af45ae973c28e429798ff85b.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L’info.gouv du 3 octobre : « Expo Innov’Climat », violences sexistes et taxe foncière (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-3-octobre-expo-innovclimat-violences-sexistes-et-taxe-fonciere</link>
@@ -162,32 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 26/09/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/0656b00e6337ef7d7aad1533638d599b69177556.png" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ce qui change au 1er octobre 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-octobre-2024</link>
-            <guid>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-octobre-2024</guid>
-            <pubDate>Wed, 25 Sep 2024 17:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="aac6e9a5-450c-47c1-aacd-610f3a0aeda4"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/ce-qui-change-au-1er-octobre-2024" class="fr-card__link">
-                            Ce qui change au 1er octobre 2024 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Économie
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 25/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/29a34004aa52b64b9e6a685d902ad034beacd6da.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[L’info.gouv du 24 septembre : aidants et développement durable (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-24-septembre-developpement-durable-et-aidants</link>
-            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-24-septembre-developpement-durable-et-aidants</guid>
-            <pubDate>Tue, 24 Sep 2024 17:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="99c072d9-424f-4e99-b93b-ee4f4a89e87d"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/linfo-gouv-du-24-septembre-developpement-durable-et-aidants" class="fr-card__link">
-                            L’info.gouv du 24 septembre : aidants et développement durable 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Environnement
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 24/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/0a95e7232aab50944ca0f723d80f6d0217b9b8b5.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How to save costs and emissions with a flexible electricity load? (Blog - Electricity Maps)]]></title>
