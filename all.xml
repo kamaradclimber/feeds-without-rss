@@ -4,9 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 05:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 17:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Santé mentale : deux semaines pour s’informer (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/sante-mentale-deux-semaines-pour-sinformer</link>
+            <guid>https://www.gouvernement.fr/actualite/sante-mentale-deux-semaines-pour-sinformer</guid>
+            <pubDate>Tue, 08 Oct 2024 17:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c787d352-4813-4c46-9f43-311d3fc3a9a1"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/sante-mentale-deux-semaines-pour-sinformer" class="fr-card__link">
+                            Santé mentale : deux semaines pour s’informer 
+                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
+                             Santé
+                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
+                            Publié le 08/10/2024
+                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/6f71d54fbcf9fb43b219c3c3b32daf6fca437af1.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L’info.gouv du 7 octobre : « French Tech Tremplin », bilan Parcoursup et Semaines de l’évolution professionnelle (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-7-octobre-french-tech-tremplin-bilan-parcoursup-et-semaines-de-levolution-professionnelle</link>
@@ -175,19 +188,6 @@
                         </p></div><div class="fr-card__end"><p class="fr-card__detail">
                             Publié le 27/09/2024
                         </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/718199390ba06cdbf0949ee40542c70faa385fb8.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Estimez vos aides pour rénover votre logement avec « Mes Aides Réno » (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/estimez-vos-aides-pour-renover-votre-logement-avec-mes-aides-reno</link>
-            <guid>https://www.gouvernement.fr/actualite/estimez-vos-aides-pour-renover-votre-logement-avec-mes-aides-reno</guid>
-            <pubDate>Tue, 08 Oct 2024 05:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f2ee31ad-71de-479d-b5ad-0f023cb9eb5a"><div class="fr-card__body"><div class="fr-card__content"><h4 class="fr-card__title fr-text-title--blue-france"><a href="/actualite/estimez-vos-aides-pour-renover-votre-logement-avec-mes-aides-reno" class="fr-card__link">
-                            Estimez vos aides pour rénover votre logement avec « Mes Aides Réno » 
-                        </a></h4><div class="fr-card__start"><p class="fr-card__detail">
-                             Environnement
-                        </p></div><div class="fr-card__end"><p class="fr-card__detail">
-                            Publié le 26/09/2024
-                        </p></div></div></div><div class="fr-card__header"><div class="fr-card__img"><img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/11/54a2c6c3d8946796b60e16ca8cb090292280f30f.jpg" alt="" data-fr-js-ratio="true"></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How to save costs and emissions with a flexible electricity load? (Blog - Electricity Maps)]]></title>
