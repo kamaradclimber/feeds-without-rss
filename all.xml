@@ -4,9 +4,75 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 05:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 17:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L’info.gouv du 18 octobre : intempéries et Martinique (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-octobre-intemperies-et-martinique</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-octobre-intemperies-et-martinique</guid>
+            <pubDate>Fri, 18 Oct 2024 17:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="70871c11-77e0-4640-b5e0-a2f8c5ec6cbc">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-18-octobre-intemperies-et-martinique" class="fr-card__link">
+                            L’info.gouv du 18 octobre : intempéries et Martinique 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sécurité
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 18/10/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/659d36defd324389b5c0d7b64b8dd71b4a4bab0f.png" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Les 4 actus de la semaine du 14 au 20 octobre 2024 (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-14-au-20-octobre-2024</link>
+            <guid>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-14-au-20-octobre-2024</guid>
+            <pubDate>Fri, 18 Oct 2024 17:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="92871c04-95d0-48cc-a164-b14690707337">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/les-4-actus-de-la-semaine-du-14-au-20-octobre-2024" class="fr-card__link">
+                            Les 4 actus de la semaine du 14 au 20 octobre 2024 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Défense
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 18/10/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/87440cb922137bd18049e7279872d8e3c0e4adb9.jpg" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Comment la France est-elle devenue un pays laïc ? (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/comment-la-france-est-elle-devenue-un-pays-laic</link>
@@ -34,7 +100,7 @@
             </div>
                             <div class="fr-card__header">
                     <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/d577db9611e2be0f15825a5033c916875795ba71.gif" alt="" data-fr-js-ratio="true">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/8ec94452c564a2eccb158ed4e54703f512b9d492.jpg" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
@@ -398,72 +464,6 @@
                             <div class="fr-card__header">
                     <div class="fr-card__img">
                         <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/5fa7f084bbcbdf2aec9ebeb2dde9e83045cf60d3.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Santé mentale sur les réseaux sociaux : quels sont les risques de l’autodiagnostic ? (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/sante-mentale-sur-les-reseaux-sociaux-quels-sont-les-risques-de-lautodiagnostic</link>
-            <guid>https://www.gouvernement.fr/actualite/sante-mentale-sur-les-reseaux-sociaux-quels-sont-les-risques-de-lautodiagnostic</guid>
-            <pubDate>Thu, 17 Oct 2024 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a46dddda-9f19-47dc-9438-2b732a83f922">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/sante-mentale-sur-les-reseaux-sociaux-quels-sont-les-risques-de-lautodiagnostic" class="fr-card__link">
-                            Santé mentale sur les réseaux sociaux : quels sont les risques de l’autodiagnostic ? 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Santé
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 10/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/8cbdd3a231e22b6b21dc7dfb25b87b682cc55494.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les dates clés du projet de loi de finances pour 2025 (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-dates-cles-du-projet-de-loi-de-finances-pour-2025</link>
-            <guid>https://www.gouvernement.fr/actualite/les-dates-cles-du-projet-de-loi-de-finances-pour-2025</guid>
-            <pubDate>Thu, 17 Oct 2024 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="13ed3f8f-6099-4249-bba9-4d8f1cb583ce">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-dates-cles-du-projet-de-loi-de-finances-pour-2025" class="fr-card__link">
-                            Les dates clés du projet de loi de finances pour 2025 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Institutions
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 09/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/f7d37d19de4fa885beed05c3d3a2e7ccf8bb118b.jpg" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
