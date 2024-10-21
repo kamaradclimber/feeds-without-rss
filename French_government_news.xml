@@ -2,9 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-10-21T05:42:35.201Z</updated>
+    <updated>2024-10-21T17:41:12.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 21 octobre : ménopause, mois sans tabac et bas-carbone]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-21-octobre-menopause-mois-sans-tabac-et-bas-carbone</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-21-octobre-menopause-mois-sans-tabac-et-bas-carbone"/>
+        <updated>2024-10-21T17:41:05.519Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fa2d04ce-53df-45fe-8bcd-0fd61508c04d">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-21-octobre-menopause-mois-sans-tabac-et-bas-carbone" class="fr-card__link">
+                            L’info.gouv du 21 octobre : ménopause, mois sans tabac et bas-carbone 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 21/10/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/6d41fc2a65b657139321cd1e5b51f986d29d9f8d.png" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 18 octobre : intempéries et Martinique]]></title>
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-octobre-intemperies-et-martinique</id>
@@ -429,39 +462,6 @@
                             <div class="fr-card__header">
                     <div class="fr-card__img">
                         <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/a262b1fa58209326c62d1cd610a062b607ef33a8.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 10 octobre : inondations, services d’urgence et classement des universités]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-10-octobre-inondations-services-durgence-et-classement-des-universites</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-10-octobre-inondations-services-durgence-et-classement-des-universites"/>
-        <updated>2024-10-17T17:40:54.747Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="930e6419-0afa-4e5e-88b6-6f96c0b5cf59">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-10-octobre-inondations-services-durgence-et-classement-des-universites" class="fr-card__link">
-                            L’info.gouv du 10 octobre : inondations, services d’urgence et classement des universités 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sécurité
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 10/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/5fa7f084bbcbdf2aec9ebeb2dde9e83045cf60d3.png" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
