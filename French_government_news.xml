@@ -2,9 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-10-24T05:42:03.840Z</updated>
+    <updated>2024-10-24T17:41:07.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cancer du sein : laisser la maladie derrière soi]]></title>
+        <id>https://www.gouvernement.fr/actualite/cancer-du-sein-la-reconstruction-mammaire-pour-laisser-la-maladie-derriere-soi</id>
+        <link href="https://www.gouvernement.fr/actualite/cancer-du-sein-la-reconstruction-mammaire-pour-laisser-la-maladie-derriere-soi"/>
+        <updated>2024-10-24T17:40:59.546Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="a744d21b-2a77-4727-aec9-00dacb88ec73">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/cancer-du-sein-la-reconstruction-mammaire-pour-laisser-la-maladie-derriere-soi" class="fr-card__link">
+                            Cancer du sein : laisser la maladie derrière soi 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 24/10/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/411c33d0f8d12491c48994f80972f79b9a34fd2e.jpg" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 24 octobre : écogestes, Cop16 et apprentissage]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-24-octobre-ecogestes-cop16-et-apprentissage</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-24-octobre-ecogestes-cop16-et-apprentissage"/>
+        <updated>2024-10-24T17:40:59.556Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ad7c4b0c-c31f-4842-b8c0-4d573139a735">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-24-octobre-ecogestes-cop16-et-apprentissage" class="fr-card__link">
+                            L’info.gouv du 24 octobre : écogestes, Cop16 et apprentissage 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 24/10/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/f32ca8e219344eedf97c94c6abb00af5168f0bec.png" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Les enjeux de l’IA à l’université]]></title>
         <id>https://www.gouvernement.fr/actualite/les-enjeux-de-lia-a-luniversite</id>
@@ -396,72 +462,6 @@
                             <div class="fr-card__header">
                     <div class="fr-card__img">
                         <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/a3c126fd4f992b18017a3e6d456c50eef4f31bc6.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 15 octobre : grippe, taxe foncière et qualité de l'air]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-15-octobre</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-15-octobre"/>
-        <updated>2024-10-24T05:41:56.793Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fa8681b9-25c5-4210-bc24-30d026fa848f">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-15-octobre" class="fr-card__link">
-                            L’info.gouv du 15 octobre : grippe, taxe foncière et qualité de l'air 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Santé
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 15/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/51a5af337c246140b610d10f3c6f63aa98307237.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Cité du Vin à Bordeaux promeut l’audace à la française]]></title>
-        <id>https://www.gouvernement.fr/actualite/la-cite-du-vin-a-bordeaux-promeut-laudace-a-la-francaise</id>
-        <link href="https://www.gouvernement.fr/actualite/la-cite-du-vin-a-bordeaux-promeut-laudace-a-la-francaise"/>
-        <updated>2024-10-24T05:41:56.795Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6dcca1f9-8907-4f33-bcfc-a6526ffb49ac">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/la-cite-du-vin-a-bordeaux-promeut-laudace-a-la-francaise" class="fr-card__link">
-                            La Cité du Vin à Bordeaux promeut l’audace à la française 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             International
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 15/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/8fe1cd64292d2d2456b8e856ecd9461c20ba60c7.jpg" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
