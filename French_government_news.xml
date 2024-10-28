@@ -2,9 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-10-28T05:43:02.149Z</updated>
+    <updated>2024-10-28T17:42:25.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Un plan de lutte contre l’absentéisme dans la fonction publique]]></title>
+        <id>https://www.gouvernement.fr/actualite/un-plan-de-lutte-contre-labsenteisme-dans-la-fonction-publique</id>
+        <link href="https://www.gouvernement.fr/actualite/un-plan-de-lutte-contre-labsenteisme-dans-la-fonction-publique"/>
+        <updated>2024-10-28T17:42:17.454Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="01ac23cb-3a4f-45f6-855e-ce0bf90583ef">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/un-plan-de-lutte-contre-labsenteisme-dans-la-fonction-publique" class="fr-card__link">
+                            Un plan de lutte contre l’absentéisme dans la fonction publique 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Institutions
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 28/10/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/0e52f93e025c52a340b750cc9913ea25f0a424df.jpg" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INTEGRAL-E : découvrez le premier avion électrique français]]></title>
+        <id>https://www.gouvernement.fr/actualite/integral-e-decouvrez-le-premier-avion-electrique-francais</id>
+        <link href="https://www.gouvernement.fr/actualite/integral-e-decouvrez-le-premier-avion-electrique-francais"/>
+        <updated>2024-10-28T17:42:17.456Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="443833d8-bad5-46ec-86b2-80bed395e459">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/integral-e-decouvrez-le-premier-avion-electrique-francais" class="fr-card__link">
+                            INTEGRAL-E : découvrez le premier avion électrique français 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Transport
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 28/10/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/c1490ab14d621b5fcf1cf2e24d9852921d3f7000.jpg" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancers du sein : quelles avancées dans les traitements ?]]></title>
+        <id>https://www.gouvernement.fr/actualite/cancers-du-sein-quelles-avancees-dans-les-traitements</id>
+        <link href="https://www.gouvernement.fr/actualite/cancers-du-sein-quelles-avancees-dans-les-traitements"/>
+        <updated>2024-10-28T17:42:17.456Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="32dcb845-82c1-4d3a-9243-e7c15f312cf9">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/cancers-du-sein-quelles-avancees-dans-les-traitements" class="fr-card__link">
+                            Cancers du sein : quelles avancées dans les traitements ? 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Santé
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 28/10/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/b0e8c96c398dc98390572d00588f97107e651461.jpg" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 21 au 27 octobre 2024]]></title>
         <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-21-au-27-octobre-2024</id>
@@ -73,9 +172,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 24 octobre : écogestes, Cop16 et apprentissage]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.076Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-24-octobre-ecogestes-cop16-et-apprentissage</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-24-octobre-ecogestes-cop16-et-apprentissage"/>
+        <updated>2024-10-28T17:42:17.462Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ad7c4b0c-c31f-4842-b8c0-4d573139a735">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -106,9 +205,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Les enjeux de l’IA à l’université]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.077Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-enjeux-de-lia-a-luniversite</id>
+        <link href="https://www.gouvernement.fr/actualite/les-enjeux-de-lia-a-luniversite"/>
+        <updated>2024-10-28T17:42:17.466Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d204748e-6c0a-495f-9cff-aabeaf72cd36">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -139,9 +238,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Ce qui change au 1er novembre 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.082Z</updated>
+        <id>https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-novembre-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/ce-qui-change-au-1er-novembre-2024"/>
+        <updated>2024-10-28T17:42:17.467Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="61baaf23-5d65-4b8a-a3e4-e1309914f0c9">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -171,16 +270,16 @@
         </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qu’est-ce qu’une Maison France services ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.082Z</updated>
+        <title type="html"><![CDATA[Qu’est-ce qu’une maison France services ?]]></title>
+        <id>https://www.gouvernement.fr/actualite/quest-ce-quune-maison-france-services</id>
+        <link href="https://www.gouvernement.fr/actualite/quest-ce-quune-maison-france-services"/>
+        <updated>2024-10-28T17:42:17.468Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e519a339-fe69-4bcb-ac09-343a08c43bb0">
             <div class="fr-card__body">
                 <div class="fr-card__content">
                     <h4 class="fr-card__title fr-text-title--blue-france">
                         <a href="/actualite/quest-ce-quune-maison-france-services" class="fr-card__link">
-                            Qu’est-ce qu’une Maison France services ? 
+                            Qu’est-ce qu’une maison France services ? 
                         </a>
                     </h4>
                     <div class="fr-card__start">
@@ -205,9 +304,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 22 octobre : fabriqué en France et violences sexistes et sexuelles]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.082Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-22-octobre-fabrique-en-france-et-violences-sexistes-et-sexuelles</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-22-octobre-fabrique-en-france-et-violences-sexistes-et-sexuelles"/>
+        <updated>2024-10-28T17:42:17.470Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c2bb9a2e-47da-473b-bf18-4f3aeb3e5e30">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -238,9 +337,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 21 octobre : ménopause, mois sans tabac et bas-carbone]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.086Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-21-octobre-menopause-mois-sans-tabac-et-bas-carbone</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-21-octobre-menopause-mois-sans-tabac-et-bas-carbone"/>
+        <updated>2024-10-28T17:42:17.471Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fa2d04ce-53df-45fe-8bcd-0fd61508c04d">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -271,9 +370,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 18 octobre : intempéries et Martinique]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.087Z</updated>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-octobre-intemperies-et-martinique</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-18-octobre-intemperies-et-martinique"/>
+        <updated>2024-10-28T17:42:17.473Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="70871c11-77e0-4640-b5e0-a2f8c5ec6cbc">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -304,9 +403,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 14 au 20 octobre 2024]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.088Z</updated>
+        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-14-au-20-octobre-2024</id>
+        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-14-au-20-octobre-2024"/>
+        <updated>2024-10-28T17:42:17.475Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="92871c04-95d0-48cc-a164-b14690707337">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -337,9 +436,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Comment la France est-elle devenue un pays laïc ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.090Z</updated>
+        <id>https://www.gouvernement.fr/actualite/comment-la-france-est-elle-devenue-un-pays-laic</id>
+        <link href="https://www.gouvernement.fr/actualite/comment-la-france-est-elle-devenue-un-pays-laic"/>
+        <updated>2024-10-28T17:42:17.476Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b1bfd9a9-f492-49d9-98ae-bb712846dac9">
             <div class="fr-card__body">
                 <div class="fr-card__content">
@@ -363,105 +462,6 @@
                             <div class="fr-card__header">
                     <div class="fr-card__img">
                         <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/8ec94452c564a2eccb158ed4e54703f512b9d492.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quelles compétences pour l’agriculture du futur ?]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.092Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c301a77e-a73c-46f4-863c-9e259630ad9b">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/quelles-competences-pour-lagriculture-du-futur" class="fr-card__link">
-                            Quelles compétences pour l’agriculture du futur ? 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Agriculture
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 17/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/1d2958a75e4a491b987ead88dedfa41509d33562.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 17 octobre : gaspillage alimentaire, lissage brésilien et bientraitance]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.096Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="626af5df-5691-40ca-93ce-27b16aab44a5">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-17-octobre" class="fr-card__link">
-                            L’info.gouv du 17 octobre : gaspillage alimentaire, lissage brésilien et bientraitance 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Agriculture
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 17/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/b91378d7c7339b875346b67105750efb1d770a39.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’info.gouv du 16 octobre : plainte en ligne, accident du travail et Mon master]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-10-28T05:42:54.098Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b57532ff-3b11-4d5a-a489-32b9ce0866ba">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-16-octobre-plainte-en-ligne-accident-du-travail-et-mon-master" class="fr-card__link">
-                            L’info.gouv du 16 octobre : plainte en ligne, accident du travail et Mon master 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Justice
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 16/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/4e96cdf1a406f6ba92ec08994bc8a21a1164c094.png" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
