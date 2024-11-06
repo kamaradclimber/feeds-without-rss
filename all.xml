@@ -4,9 +4,42 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 05:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 17:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[L’info.gouv du 6 novembre : métiers du sport, guides contre la maltraitance et Reconstruction (Toute l'actualité | Gouvernement.fr)]]></title>
+            <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-6-novembre-metiers-du-sport-maltraitance-et-reconstruction</link>
+            <guid>https://www.gouvernement.fr/actualite/linfo-gouv-du-6-novembre-metiers-du-sport-maltraitance-et-reconstruction</guid>
+            <pubDate>Wed, 06 Nov 2024 17:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="fc5cee79-bd7c-491c-a4bd-c781eb9c100e">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-6-novembre-metiers-du-sport-maltraitance-et-reconstruction" class="fr-card__link">
+                            L’info.gouv du 6 novembre : métiers du sport, guides contre la maltraitance et Reconstruction 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sport
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 06/11/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/012e7764e03c52064ba7320880cf597f307ff24f.png" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[L’info.gouv du 5 novembre : séminaire gouvernemental, stratégie bas-carbone et logement (Toute l'actualité | Gouvernement.fr)]]></title>
             <link>https://www.gouvernement.fr/actualite/linfo-gouv-du-5-novembre-seminaire-gouvernemental-strategie-bas-carbone-et-logement</link>
@@ -431,39 +464,6 @@
                             <div class="fr-card__header">
                     <div class="fr-card__img">
                         <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/f32ca8e219344eedf97c94c6abb00af5168f0bec.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Les enjeux de l’IA à l’université (Toute l'actualité | Gouvernement.fr)]]></title>
-            <link>https://www.gouvernement.fr/actualite/les-enjeux-de-lia-a-luniversite</link>
-            <guid>https://www.gouvernement.fr/actualite/les-enjeux-de-lia-a-luniversite</guid>
-            <pubDate>Mon, 04 Nov 2024 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="d204748e-6c0a-495f-9cff-aabeaf72cd36">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-enjeux-de-lia-a-luniversite" class="fr-card__link">
-                            Les enjeux de l’IA à l’université 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 23/10/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/de4529bd1edd748bd02609983810c0a607979e1f.jpg" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
