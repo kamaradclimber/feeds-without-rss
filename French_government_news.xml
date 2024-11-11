@@ -2,9 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-11-11T05:42:12.716Z</updated>
+    <updated>2024-11-11T17:39:47.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tout savoir sur les célébrations du 11 novembre]]></title>
+        <id>https://www.gouvernement.fr/actualite/hommage-symboles-tout-savoir-sur-les-celebrations-du-11-novembre</id>
+        <link href="https://www.gouvernement.fr/actualite/hommage-symboles-tout-savoir-sur-les-celebrations-du-11-novembre"/>
+        <updated>2024-11-11T17:39:39.186Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0375515f-9bf9-4159-978a-26aeb4f073fe">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/hommage-symboles-tout-savoir-sur-les-celebrations-du-11-novembre" class="fr-card__link">
+                            Tout savoir sur les célébrations du 11 novembre 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Défense
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 11/11/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/04/7b438960692e4edbd8c3f185936bcc1c79fd8f97.jpeg" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Les 4 actus de la semaine du 4 au 10 novembre 2024]]></title>
         <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-novembre-2024</id>
@@ -429,39 +462,6 @@
                             <div class="fr-card__header">
                     <div class="fr-card__img">
                         <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/2a8e0b41923a8e6ea6fc5bf751ab6ffad62f254e.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« Tu sers à rien » : une série de podcasts sur le harcèlement à l’école]]></title>
-        <id>https://www.gouvernement.fr/actualite/tu-sers-a-rien-une-serie-de-podcasts-sur-le-harcelement-a-lecole</id>
-        <link href="https://www.gouvernement.fr/actualite/tu-sers-a-rien-une-serie-de-podcasts-sur-le-harcelement-a-lecole"/>
-        <updated>2024-11-10T17:38:23.539Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="317c4fc2-bdb7-4164-bec3-c83a8956dc01">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/tu-sers-a-rien-une-serie-de-podcasts-sur-le-harcelement-a-lecole" class="fr-card__link">
-                            « Tu sers à rien » : une série de podcasts sur le harcèlement à l’école 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 04/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/8a1cd0ff3d23d068d95c7900fc65ac15db9a1448.jpg" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
