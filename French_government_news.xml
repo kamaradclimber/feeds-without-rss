@@ -2,9 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-11-14T05:42:26.714Z</updated>
+    <updated>2024-11-14T17:42:23.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Le tennis de table, activité sport santé]]></title>
+        <id>https://www.gouvernement.fr/actualite/le-tennis-de-table-activite-sport-sante-par-excellence</id>
+        <link href="https://www.gouvernement.fr/actualite/le-tennis-de-table-activite-sport-sante-par-excellence"/>
+        <updated>2024-11-14T17:42:15.621Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1cc3d4b8-bb3f-406e-bed4-6ee23d79fec2">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/le-tennis-de-table-activite-sport-sante-par-excellence" class="fr-card__link">
+                            Le tennis de table, activité sport santé 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Sport
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 14/11/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/e2daa5b69a46797af1be549c0480fbe8eebc8d39.png" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 14 novembre : réduction des déchets, orientation et emploi à Bercy]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-14-novembre-reduction-des-dechets-orientation-et-emploi-a-bercy</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-14-novembre-reduction-des-dechets-orientation-et-emploi-a-bercy"/>
+        <updated>2024-11-14T17:42:15.621Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bcaf35e2-5994-4232-a3e5-cc8a28cc4cf2">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-14-novembre-reduction-des-dechets-orientation-et-emploi-a-bercy" class="fr-card__link">
+                            L’info.gouv du 14 novembre : réduction des déchets, orientation et emploi à Bercy 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Environnement
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 14/11/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/fe6591f4d5e9284512ef29d19d017b80284b0eec.png" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 13 novembre : classement de Shanghai, greffe judiciaire et prévention de la dénutrition]]></title>
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-13-novembre-classement-de-shanghai-greffe-judiciaire-et-denutrition</id>
@@ -396,72 +462,6 @@
                             <div class="fr-card__header">
                     <div class="fr-card__img">
                         <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/9460f943e553597e923e70899db57c276d1cea16.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agora : lutte contre le harcèlement à l’école]]></title>
-        <id>https://www.gouvernement.fr/actualite/agora-lutte-contre-le-harcelement-a-lecole</id>
-        <link href="https://www.gouvernement.fr/actualite/agora-lutte-contre-le-harcelement-a-lecole"/>
-        <updated>2024-11-10T17:38:23.524Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0f0ba8ac-12f9-4965-b6b3-6da2dff6e95f">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/agora-lutte-contre-le-harcelement-a-lecole" class="fr-card__link">
-                            Agora : lutte contre le harcèlement à l’école 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 08/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/c7b0e71bdc66e22978355aa33c1eb6b0b1a07070.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commémoration de l'installation de l'Assemblée consultative provisoire]]></title>
-        <id>https://www.gouvernement.fr/actualite/commemoration-de-linstallation-de-lassemblee-consultative-provisoire</id>
-        <link href="https://www.gouvernement.fr/actualite/commemoration-de-linstallation-de-lassemblee-consultative-provisoire"/>
-        <updated>2024-11-14T05:42:18.653Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b33bdbfe-dbe2-4e9e-9f87-bb8805a84b7b">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/commemoration-de-linstallation-de-lassemblee-consultative-provisoire" class="fr-card__link">
-                            Commémoration de l'installation de l'Assemblée consultative provisoire 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Institutions
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 07/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/7f263983e65033f2f574f36009d376398af56481.jpg" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
