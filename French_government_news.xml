@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-11-13T17:41:37.898Z</updated>
+    <updated>2024-11-14T05:42:26.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
     <entry>
@@ -436,9 +436,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Commémoration de l'installation de l'Assemblée consultative provisoire]]></title>
-        <id>https://www.gouvernement.fr/toute-l-actualite</id>
-        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
-        <updated>2024-11-13T17:41:30.714Z</updated>
+        <id>https://www.gouvernement.fr/actualite/commemoration-de-linstallation-de-lassemblee-consultative-provisoire</id>
+        <link href="https://www.gouvernement.fr/actualite/commemoration-de-linstallation-de-lassemblee-consultative-provisoire"/>
+        <updated>2024-11-14T05:42:18.653Z</updated>
         <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b33bdbfe-dbe2-4e9e-9f87-bb8805a84b7b">
             <div class="fr-card__body">
                 <div class="fr-card__content">
