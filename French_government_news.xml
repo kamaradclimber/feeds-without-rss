@@ -2,469 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-11-17T17:41:15.845Z</updated>
+    <updated>2024-11-18T05:43:06.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 11 au 17 novembre 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-11-au-17-novembre-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-11-au-17-novembre-2024"/>
-        <updated>2024-11-15T17:41:33.345Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="10fd22a0-ea58-43e5-a655-3238ff921648">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-11-au-17-novembre-2024" class="fr-card__link">
-                            Les 4 actus de la semaine du 11 au 17 novembre 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Défense
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 15/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/ca7eb433ef4a4b5d2b016c12adafd4dfdf1cd689.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.269Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’info.gouv du 15 novembre : 25 ans du Pacs et biodiversité]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-15-novembre-25-ans-du-pacs-et-biodiversite</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-15-novembre-25-ans-du-pacs-et-biodiversite"/>
-        <updated>2024-11-15T17:41:33.346Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="84f071f7-532c-4003-bfd5-7fda3542ae18">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-15-novembre-25-ans-du-pacs-et-biodiversite" class="fr-card__link">
-                            L’info.gouv du 15 novembre : 25 ans du Pacs et biodiversité 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 15/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/2349a1374dcfdcad2658826c1a921e380444b77f.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.269Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le tennis de table, activité sport santé]]></title>
-        <id>https://www.gouvernement.fr/actualite/le-tennis-de-table-activite-sport-sante-par-excellence</id>
-        <link href="https://www.gouvernement.fr/actualite/le-tennis-de-table-activite-sport-sante-par-excellence"/>
-        <updated>2024-11-14T17:42:15.621Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="1cc3d4b8-bb3f-406e-bed4-6ee23d79fec2">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/le-tennis-de-table-activite-sport-sante-par-excellence" class="fr-card__link">
-                            Le tennis de table, activité sport santé 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Sport
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 14/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/e2daa5b69a46797af1be549c0480fbe8eebc8d39.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.269Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’info.gouv du 14 novembre : réduction des déchets, orientation et emploi à Bercy]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-14-novembre-reduction-des-dechets-orientation-et-emploi-a-bercy</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-14-novembre-reduction-des-dechets-orientation-et-emploi-a-bercy"/>
-        <updated>2024-11-14T17:42:15.621Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="bcaf35e2-5994-4232-a3e5-cc8a28cc4cf2">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-14-novembre-reduction-des-dechets-orientation-et-emploi-a-bercy" class="fr-card__link">
-                            L’info.gouv du 14 novembre : réduction des déchets, orientation et emploi à Bercy 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Environnement
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 14/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/fe6591f4d5e9284512ef29d19d017b80284b0eec.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.275Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’info.gouv du 13 novembre : classement de Shanghai, greffe judiciaire et prévention de la dénutrition]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-13-novembre-classement-de-shanghai-greffe-judiciaire-et-denutrition</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-13-novembre-classement-de-shanghai-greffe-judiciaire-et-denutrition"/>
-        <updated>2024-11-13T17:41:30.739Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="b5229cff-abdb-4f9c-8cc0-943a9cdfe646">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-13-novembre-classement-de-shanghai-greffe-judiciaire-et-denutrition" class="fr-card__link">
-                            L’info.gouv du 13 novembre : classement de Shanghai, greffe judiciaire et prévention de la dénutrition 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 13/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/12d294284f3e0bef150c6bc6445d570c30e22c71.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.275Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[« DuoDay » 2024 : une journée pour dépasser les préjugés sur le handicap]]></title>
-        <id>https://www.gouvernement.fr/actualite/duoday-2024-une-journee-pour-depasser-les-prejuges-sur-le-handicap</id>
-        <link href="https://www.gouvernement.fr/actualite/duoday-2024-une-journee-pour-depasser-les-prejuges-sur-le-handicap"/>
-        <updated>2024-11-13T17:41:30.739Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="5c24bc65-d371-4a88-842e-108c2bfb2ec2">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/duoday-2024-une-journee-pour-depasser-les-prejuges-sur-le-handicap" class="fr-card__link">
-                            « DuoDay » 2024 : une journée pour dépasser les préjugés sur le handicap 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Handicap
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 13/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/282d61bd2ac9680a6e207fb568c0b1d640b6037c.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.276Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’info.gouv du 12 novembre : réforme de l'école, devenir enseignant, criminalité organisée]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-12-novembre-reforme-de-lecole-concours-pour-devenir-professeur-lutte-contre-la-criminalite-organisee</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-12-novembre-reforme-de-lecole-concours-pour-devenir-professeur-lutte-contre-la-criminalite-organisee"/>
-        <updated>2024-11-12T17:40:40.076Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="e1af5dd1-1928-4b1d-a977-98b4125e720b">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-12-novembre-reforme-de-lecole-concours-pour-devenir-professeur-lutte-contre-la-criminalite-organisee" class="fr-card__link">
-                            L’info.gouv du 12 novembre : réforme de l'école, devenir enseignant, criminalité organisée 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 12/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/e92fecae2d9274aa477207728c1f58525b380d09.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.277Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[France 2030 : une expérience 3D immersive pour explorer l'innovation française]]></title>
-        <id>https://www.gouvernement.fr/actualite/france-2030-une-experience-3d-immersive-pour-explorer-linnovation-francaise</id>
-        <link href="https://www.gouvernement.fr/actualite/france-2030-une-experience-3d-immersive-pour-explorer-linnovation-francaise"/>
-        <updated>2024-11-12T17:40:40.078Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="2d3a23a0-a913-4179-aa19-d11665f4260d">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/france-2030-une-experience-3d-immersive-pour-explorer-linnovation-francaise" class="fr-card__link">
-                            France 2030 : une expérience 3D immersive pour explorer l'innovation française 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Recherche &amp; Innovation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 12/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/cf1449c27b0be7c43df5e879f14eb8cc2f03d8bd.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.278Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podcast « Tu sers à rien » : humiliation & trahison (Épisode 2)]]></title>
-        <id>https://www.gouvernement.fr/actualite/podcast-tu-sers-a-rien-humiliation-trahison-episode-2</id>
-        <link href="https://www.gouvernement.fr/actualite/podcast-tu-sers-a-rien-humiliation-trahison-episode-2"/>
-        <updated>2024-11-12T17:40:40.082Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="426e5912-3116-4150-88ca-5efc3e27a95e">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/podcast-tu-sers-a-rien-humiliation-trahison-episode-2" class="fr-card__link">
-                            Podcast « Tu sers à rien » : humiliation &amp; trahison (Épisode 2) 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 12/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/3587be4c8aad7eef0b533379e875f7f1a0e5d336.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.281Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tout savoir sur les célébrations du 11 novembre]]></title>
-        <id>https://www.gouvernement.fr/actualite/hommage-symboles-tout-savoir-sur-les-celebrations-du-11-novembre</id>
-        <link href="https://www.gouvernement.fr/actualite/hommage-symboles-tout-savoir-sur-les-celebrations-du-11-novembre"/>
-        <updated>2024-11-11T17:39:39.186Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="0375515f-9bf9-4159-978a-26aeb4f073fe">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/hommage-symboles-tout-savoir-sur-les-celebrations-du-11-novembre" class="fr-card__link">
-                            Tout savoir sur les célébrations du 11 novembre 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Défense
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 11/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/04/7b438960692e4edbd8c3f185936bcc1c79fd8f97.jpeg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.281Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 4 au 10 novembre 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-novembre-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-novembre-2024"/>
-        <updated>2024-11-10T17:38:23.519Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f99ecb21-23d9-43fe-893a-d643e8c18856">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-4-au-10-novembre-2024" class="fr-card__link">
-                            Les 4 actus de la semaine du 4 au 10 novembre 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 08/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/30374e302dd1b1004ff572ffa1ca5a8e754dad86.jpg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.283Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’info.gouv du 8 novembre : réindustrialisation, sobriété matérielle, transition écologique]]></title>
-        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-8-novembre-reindustrialisation-sobriete-materielle-transition-ecologique</id>
-        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-8-novembre-reindustrialisation-sobriete-materielle-transition-ecologique"/>
-        <updated>2024-11-10T17:38:23.522Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="ff67d080-0d2f-4792-92bd-fd1914752348">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/linfo-gouv-du-8-novembre-reindustrialisation-sobriete-materielle-transition-ecologique" class="fr-card__link">
-                            L’info.gouv du 8 novembre : réindustrialisation, sobriété matérielle, transition écologique 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Économie
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 08/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/b56af338bd998c4db35b84626d2a45998aebdb4f.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.284Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podcast « 13,9 % » : handballeurs professionnels (Épisode 1)]]></title>
-        <id>https://www.gouvernement.fr/actualite/podcast-13-9-handballeurs-professionnels-episode-1</id>
-        <link href="https://www.gouvernement.fr/actualite/podcast-13-9-handballeurs-professionnels-episode-1"/>
-        <updated>2024-11-10T17:38:23.522Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="c7c4b89c-1c9b-476e-8ff0-d7b029de00b3">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/podcast-13-9-handballeurs-professionnels-episode-1" class="fr-card__link">
-                            Podcast « 13,9 % » : handballeurs professionnels (Épisode 1) 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 08/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/1b811fd7f62efd8c39ded402144b5eaf93eff04c.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.285Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[« 13,9 % » : la série de podcasts pour ouvrir les yeux sur les inégalités femmes-hommes au travail]]></title>
-        <id>https://www.gouvernement.fr/actualite/13-9-la-serie-de-podcasts-pour-ouvrir-les-yeux-sur-les-inegalites-femmes-hommes-au-travail</id>
-        <link href="https://www.gouvernement.fr/actualite/13-9-la-serie-de-podcasts-pour-ouvrir-les-yeux-sur-les-inegalites-femmes-hommes-au-travail"/>
-        <updated>2024-11-10T17:38:23.524Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="403e3d96-d9bd-429c-ab2e-2950a71c9962">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/13-9-la-serie-de-podcasts-pour-ouvrir-les-yeux-sur-les-inegalites-femmes-hommes-au-travail" class="fr-card__link">
-                            « 13,9 % » : la série de podcasts pour ouvrir les yeux sur les inégalités femmes-hommes au travail 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Citoyenneté
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 08/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/9fa82f93b2932cc8ac355bd9d60a1fffe4fff925.png" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://www.gouvernement.fr/toute-l-actualite</id>
+        <link href="https://www.gouvernement.fr/toute-l-actualite"/>
+        <updated>2024-11-18T05:42:59.286Z</updated>
     </entry>
 </feed>
