@@ -2,9 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gouvernement.fr/toute-l-actualite</id>
     <title>Toute l'actualité | Gouvernement.fr</title>
-    <updated>2024-11-19T05:42:34.142Z</updated>
+    <updated>2024-11-19T17:42:11.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.info.gouv.fr/build/favicon.1c258718.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L’info.gouv du 19 novembre : salon des maires, assises de la mer, Restos du cœur]]></title>
+        <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-19-novembre-salon-des-maires-assises-de-la-mer-restos-du-coeur</id>
+        <link href="https://www.gouvernement.fr/actualite/linfo-gouv-du-19-novembre-salon-des-maires-assises-de-la-mer-restos-du-coeur"/>
+        <updated>2024-11-19T17:42:03.708Z</updated>
+        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="6d5ad1a0-dadf-4c65-a67e-16b3b10e7dbc">
+            <div class="fr-card__body">
+                <div class="fr-card__content">
+                    <h4 class="fr-card__title fr-text-title--blue-france">
+                        <a href="/actualite/linfo-gouv-du-19-novembre-salon-des-maires-assises-de-la-mer-restos-du-coeur" class="fr-card__link">
+                            L’info.gouv du 19 novembre : salon des maires, assises de la mer, Restos du cœur 
+                        </a>
+                    </h4>
+                    <div class="fr-card__start">
+                        <p class="fr-card__detail">
+                             Économie
+                        </p>
+                    </div>
+                    <div class="fr-card__end">
+                        <p class="fr-card__detail">
+                            Publié le 19/11/2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+                            <div class="fr-card__header">
+                    <div class="fr-card__img">
+                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/8615f0a494a9f9dffc2c5ec7ee15df6216f6d0a5.png" alt="" data-fr-js-ratio="true">
+                    </div>
+                </div>
+                      
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’info.gouv du 18 novembre : tranquillité scolaire, industrie et emploi des personnes handicapées]]></title>
         <id>https://www.gouvernement.fr/actualite/linfo-gouv-du-18-novembre-tranquillite-scolaire-industrie-et-emploi-des-personnes-handicapees</id>
@@ -429,39 +462,6 @@
                             <div class="fr-card__header">
                     <div class="fr-card__img">
                         <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/04/7b438960692e4edbd8c3f185936bcc1c79fd8f97.jpeg" alt="" data-fr-js-ratio="true">
-                    </div>
-                </div>
-                      
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les 4 actus de la semaine du 4 au 10 novembre 2024]]></title>
-        <id>https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-novembre-2024</id>
-        <link href="https://www.gouvernement.fr/actualite/les-4-actus-de-la-semaine-du-4-au-10-novembre-2024"/>
-        <updated>2024-11-18T17:42:02.154Z</updated>
-        <content type="html"><![CDATA[<div class="fr-card fr-enlarge-link fr-card--horizontal fr-card--sm" id="f99ecb21-23d9-43fe-893a-d643e8c18856">
-            <div class="fr-card__body">
-                <div class="fr-card__content">
-                    <h4 class="fr-card__title fr-text-title--blue-france">
-                        <a href="/actualite/les-4-actus-de-la-semaine-du-4-au-10-novembre-2024" class="fr-card__link">
-                            Les 4 actus de la semaine du 4 au 10 novembre 2024 
-                        </a>
-                    </h4>
-                    <div class="fr-card__start">
-                        <p class="fr-card__detail">
-                             Éducation
-                        </p>
-                    </div>
-                    <div class="fr-card__end">
-                        <p class="fr-card__detail">
-                            Publié le 08/11/2024
-                        </p>
-                    </div>
-                </div>
-            </div>
-                            <div class="fr-card__header">
-                    <div class="fr-card__img">
-                        <img class="fr-responsive-img" src="https://www.info.gouv.fr/upload/media/content/0001/12/30374e302dd1b1004ff572ffa1ca5a8e754dad86.jpg" alt="" data-fr-js-ratio="true">
                     </div>
                 </div>
                       
