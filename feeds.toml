@@ -12,11 +12,3 @@ entrySelector = "div.date > div.w-dyn-item"
 titleSelector = "h2.heading-20"
 linkSelector = "a.text-small"
 imageSelector = "img.image-11"
-
-[sunology]
-url = "https://sunology.eu/"
-title = "Sunology"
-entrySelector = "a.tw-home-article"
-linkSelector = "*"
-titleSelector = "h4.tw-home-article-card-title"
-imageSelector = "img.tw-object-cover"
