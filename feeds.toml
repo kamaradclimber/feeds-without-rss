@@ -12,3 +12,10 @@ entrySelector = "div.date > div.w-dyn-item"
 titleSelector = "h2.heading-20"
 linkSelector = "a.text-small"
 imageSelector = "img.image-11"
+
+[luisant]
+url = "https://www.luisant.fr/decouvrir-bouger/culture-et-loisirs/saison-culturelle"
+title = "Luisant - Saison culturelle"
+entrySelector = "td.mdl-data-table__cell--non-numeric:nth-child(1) > ul > li"
+linkSelector = "a"
+titleSelector = "a"
