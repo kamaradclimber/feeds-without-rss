@@ -16,7 +16,7 @@ imageSelector = "img.image-11"
 [luisant]
 url = "https://www.luisant.fr/decouvrir-bouger/culture-et-loisirs/saison-culturelle"
 title = "Luisant - Saison culturelle"
-entrySelector = "td.mdl-data-table__cell--non-numeric:nth-child(1) > ul > li"
+entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
 linkSelector = "a"
 titleSelector = "a"
 
