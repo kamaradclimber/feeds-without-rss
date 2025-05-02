@@ -19,3 +19,11 @@ title = "Luisant - Saison culturelle"
 entrySelector = "td.mdl-data-table__cell--non-numeric:nth-child(1) > ul > li"
 linkSelector = "a"
 titleSelector = "a"
+
+[jancovici]
+title = "Posts LinkedIn Jean-Marc Jancovici"
+# MAGIC_COMMENT1: following line should be generated automatically
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_a-loccasion-de-la-sortie-du-monde-sans-fin-activity-7323955807820079104-YBce", "https://fr.linkedin.com/posts/jean-marc-jancovici_donald-trump-est-le-plus-r%C3%A9volutionnaire-activity-7323658169354752001-Q4Md", "https://fr.linkedin.com/posts/jean-marc-jancovici_l%C3%A9quivalent-en-plus-gros-anglais-du-haut-activity-7323384763086422017-dFut"]
+entrySelector="article.relative"
+titleSelector = "a.leading-open"
+linkSelector = "*"
