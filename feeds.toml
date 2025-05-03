@@ -1,29 +1,29 @@
+
 [French_government_news]
-title = "Toute l'actualité | Gouvernement.fr"
-url = "https://www.gouvernement.fr/toute-l-actualite"
 entrySelector = "div.tile"
-titleSelector = "a.fr-card__link"
 linkSelector = "a.fr-card__link"
+title = "Toute l'actualité | Gouvernement.fr"
+titleSelector = "a.fr-card__link"
+url = "https://www.gouvernement.fr/toute-l-actualite"
 
 [electricity_map]
-title = "Blog - Electricity Maps"
-url = "https://www.electricitymaps.com/blog"
 entrySelector = "div.date > div.w-dyn-item"
-titleSelector = "h2.heading-20"
-linkSelector = "a.text-small"
 imageSelector = "img.image-11"
-
-[luisant]
-url = "https://www.luisant.fr/decouvrir-bouger/culture-et-loisirs/saison-culturelle"
-title = "Luisant - Saison culturelle"
-entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
-linkSelector = "a"
-titleSelector = "a"
+linkSelector = "a.text-small"
+title = "Blog - Electricity Maps"
+titleSelector = "h2.heading-20"
+url = "https://www.electricitymaps.com/blog"
 
 [jancovici]
-title = "Posts LinkedIn Jean-Marc Jancovici"
-# MAGIC_COMMENT1: following line should be generated automatically
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_a-loccasion-de-la-sortie-du-monde-sans-fin-activity-7323955807820079104-YBce", "https://fr.linkedin.com/posts/jean-marc-jancovici_donald-trump-est-le-plus-r%C3%A9volutionnaire-activity-7323658169354752001-Q4Md", "https://fr.linkedin.com/posts/jean-marc-jancovici_l%C3%A9quivalent-en-plus-gros-anglais-du-haut-activity-7323384763086422017-dFut"]
-entrySelector="article.relative"
-titleSelector = "a.leading-open"
+entrySelector = "article.relative"
 linkSelector = "*"
+title = "Posts LinkedIn Jean-Marc Jancovici"
+titleSelector = "a.leading-open"
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_pour-le-moment-la-noaa-national-oceanic-activity-7321134243240161280-WHqq","https://fr.linkedin.com/posts/jean-marc-jancovici_nous-connaissons-tous-enfin-presque-activity-7321218662714036224-JQsd","https://fr.linkedin.com/posts/jean-marc-jancovici_vous-en-avez-toutes-et-tous-fait-lexp%C3%A9rience-activity-7321551912619687937-_NHP","https://fr.linkedin.com/posts/jean-marc-jancovici_a-table-cette-phrase-est-peut-%C3%AAtre-une-activity-7322550130165886976-EodE","https://fr.linkedin.com/posts/jean-marc-jancovici_si-vous-avez-%C3%A9cout%C3%A9-la-radio-ouvert-un-journal-activity-7322923851594579968-Oly-"]
+
+[luisant]
+entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
+linkSelector = "a"
+title = "Luisant - Saison culturelle"
+titleSelector = "a"
+url = "https://www.luisant.fr/decouvrir-bouger/culture-et-loisirs/saison-culturelle"
