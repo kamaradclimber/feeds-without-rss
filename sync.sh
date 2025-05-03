@@ -2,7 +2,8 @@
 
 set -ex
 
-git pull origin main
+git fetch origin main
+git reset --hard origin/main
 
 ruby update_feeds.rb
 git add feeds.toml
