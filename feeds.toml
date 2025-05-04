@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_pour-le-moment-la-noaa-national-oceanic-activity-7321134243240161280-WHqq","https://fr.linkedin.com/posts/jean-marc-jancovici_nous-connaissons-tous-enfin-presque-activity-7321218662714036224-JQsd","https://fr.linkedin.com/posts/jean-marc-jancovici_vous-en-avez-toutes-et-tous-fait-lexp%C3%A9rience-activity-7321551912619687937-_NHP","https://fr.linkedin.com/posts/jean-marc-jancovici_a-table-cette-phrase-est-peut-%C3%AAtre-une-activity-7322550130165886976-EodE","https://fr.linkedin.com/posts/jean-marc-jancovici_si-vous-avez-%C3%A9cout%C3%A9-la-radio-ouvert-un-journal-activity-7322923851594579968-Oly-"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_nous-connaissons-tous-enfin-presque-activity-7321218662714036224-JQsd","https://fr.linkedin.com/posts/jean-marc-jancovici_vous-en-avez-toutes-et-tous-fait-lexp%C3%A9rience-activity-7321551912619687937-_NHP","https://fr.linkedin.com/posts/jean-marc-jancovici_a-table-cette-phrase-est-peut-%C3%AAtre-une-activity-7322550130165886976-EodE","https://fr.linkedin.com/posts/jean-marc-jancovici_si-vous-avez-%C3%A9cout%C3%A9-la-radio-ouvert-un-journal-activity-7322923851594579968-Oly-","https://fr.linkedin.com/posts/jean-marc-jancovici_les-7-8-juin-de-lan-de-gr%C3%A2ce-2025-aura-activity-7323060707124572160-ACIX"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
