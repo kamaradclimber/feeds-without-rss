@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_si-vous-avez-%C3%A9cout%C3%A9-la-radio-ouvert-un-journal-activity-7322923851594579968-Oly-","https://fr.linkedin.com/posts/jean-marc-jancovici_les-7-8-juin-de-lan-de-gr%C3%A2ce-2025-aura-activity-7323060707124572160-ACIX","https://fr.linkedin.com/posts/jean-marc-jancovici_l%C3%A9quivalent-en-plus-gros-anglais-du-haut-activity-7323384763086422017-dFut","https://fr.linkedin.com/posts/jean-marc-jancovici_donald-trump-est-le-plus-r%C3%A9volutionnaire-activity-7323658169354752001-Q4Md","https://fr.linkedin.com/posts/jean-marc-jancovici_a-loccasion-de-la-sortie-du-monde-sans-fin-activity-7323955807820079104-YBce"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_notre-syst%C3%A8me-%C3%A9lectrique-est-en-train-de-activity-7324734616085422080-Kjix","https://fr.linkedin.com/posts/jean-marc-jancovici_les-7-8-juin-de-lan-de-gr%C3%A2ce-2025-aura-activity-7323060707124572160-ACIX","https://fr.linkedin.com/posts/jean-marc-jancovici_l%C3%A9quivalent-en-plus-gros-anglais-du-haut-activity-7323384763086422017-dFut","https://fr.linkedin.com/posts/jean-marc-jancovici_donald-trump-est-le-plus-r%C3%A9volutionnaire-activity-7323658169354752001-Q4Md","https://fr.linkedin.com/posts/jean-marc-jancovici_a-loccasion-de-la-sortie-du-monde-sans-fin-activity-7323955807820079104-YBce"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
