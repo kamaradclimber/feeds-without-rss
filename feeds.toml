@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_il-ny-a-pas-que-notre-premier-ministre-qui-activity-7325157033358385154-_v8w","https://fr.linkedin.com/posts/jean-marc-jancovici_notre-syst%C3%A8me-%C3%A9lectrique-est-en-train-de-activity-7324734616085422080-Kjix","https://fr.linkedin.com/posts/jean-marc-jancovici_l%C3%A9quivalent-en-plus-gros-anglais-du-haut-activity-7323384763086422017-dFut","https://fr.linkedin.com/posts/jean-marc-jancovici_donald-trump-est-le-plus-r%C3%A9volutionnaire-activity-7323658169354752001-Q4Md","https://fr.linkedin.com/posts/jean-marc-jancovici_a-loccasion-de-la-sortie-du-monde-sans-fin-activity-7323955807820079104-YBce"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_si-lon-vous-pose-la-question-o%C3%B9-faut-il-activity-7326286242076110849-Wxzs","https://fr.linkedin.com/posts/pascal-canfin_plus-de-flexibilit%C3%A9s-pour-les-constructeurs-activity-7326197396198100992-tzvp","https://www.linkedin.com/posts/carbon4finance_breaking-news-esma-european-commission-activity-7325898780199854080-cvdq","https://fr.linkedin.com/posts/jean-marc-jancovici_les-ours-blancs-qui-meurent-de-faim-les-activity-7325612089408909313-ULYU","https://fr.linkedin.com/posts/jean-marc-jancovici_il-ny-a-pas-que-notre-premier-ministre-qui-activity-7325157033358385154-_v8w"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
