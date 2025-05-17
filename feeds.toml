@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_lessentiel-de-la-chimie-dite-de-base-consiste-activity-7326905993957679104-s5IK","https://fr.linkedin.com/posts/jean-marc-jancovici_si-lon-vous-pose-la-question-o%C3%B9-faut-il-activity-7326286242076110849-Wxzs","https://fr.linkedin.com/posts/pascal-canfin_plus-de-flexibilit%C3%A9s-pour-les-constructeurs-activity-7326197396198100992-tzvp","https://www.linkedin.com/posts/carbon4finance_breaking-news-esma-european-commission-activity-7325898780199854080-cvdq","https://fr.linkedin.com/posts/jean-marc-jancovici_les-ours-blancs-qui-meurent-de-faim-les-activity-7325612089408909313-ULYU"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_le-9-mai-c%C3%A9tait-la-f%C3%AAte-de-leurope-nous-activity-7327613470558810113-HIaT","https://fr.linkedin.com/posts/jean-marc-jancovici_noaa-to-stop-tracking-cost-of-climate-crisis-fueled-activity-7327443840292777984-0Wir","https://fr.linkedin.com/posts/jean-marc-jancovici_lessentiel-de-la-chimie-dite-de-base-consiste-activity-7326905993957679104-s5IK","https://fr.linkedin.com/posts/pascal-canfin_plus-de-flexibilit%C3%A9s-pour-les-constructeurs-activity-7326197396198100992-tzvp","https://www.linkedin.com/posts/carbon4finance_breaking-news-esma-european-commission-activity-7325898780199854080-cvdq"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
