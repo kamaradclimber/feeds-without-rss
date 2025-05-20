@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_mardi-dernier-le-chef-de-letat-a-offici%C3%A9-activity-7329810954794237952-tVUZ","https://fr.linkedin.com/posts/jean-marc-jancovici_jean-marc-jancovici-lurgence-climatique-activity-7329126312470589440-_pKW","https://fr.linkedin.com/posts/jean-marc-jancovici_mardi-dernier-a-d%C3%A9marr%C3%A9-la-deuxi%C3%A8me-campagne-activity-7328728229626707968-gCRU"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_jm-jancovici-trouver-une-voie-compatible-activity-7330157451649978369-9tcA","https://fr.linkedin.com/pulse/l%C3%A9tat-pourrait-il-%C3%AAtre-coh%C3%A9rent-avec-siouplait-jean-marc-jancovici","https://fr.linkedin.com/posts/jean-marc-jancovici_mardi-dernier-le-chef-de-letat-a-offici%C3%A9-activity-7329810954794237952-tVUZ","https://fr.linkedin.com/posts/jean-marc-jancovici_jean-marc-jancovici-lurgence-climatique-activity-7329126312470589440-_pKW","https://fr.linkedin.com/posts/jean-marc-jancovici_mardi-dernier-a-d%C3%A9marr%C3%A9-la-deuxi%C3%A8me-campagne-activity-7328728229626707968-gCRU"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
