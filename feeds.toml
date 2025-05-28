@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_pourquoi-lavion-est-il-moins-cher-que-le-activity-7331742876311175168-b_xb","https://fr.linkedin.com/posts/jean-marc-jancovici_si-lon-en-croit-cet-article-des-echos-chaque-activity-7331343257798389760-fvk4","https://fr.linkedin.com/posts/jean-marc-jancovici_puzzling-biodiversity-activity-7330651722547163139-G2me","https://fr.linkedin.com/posts/jean-marc-jancovici_linfluenceur-vous-le-pr%C3%A9f%C3%A9rez-cuit-%C3%A0-l%C3%A9touff%C3%A9e-activity-7330985694317719552-1nJ9","https://fr.linkedin.com/posts/jean-marc-jancovici_cest-une-des-quadratures-du-cercle-de-la-activity-7330489615654547456-WCXY"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_dhabitude-cest-plut%C3%B4t-en-%C3%A9t%C3%A9-que-lon-activity-7332329448676990976-G1kZ","https://fr.linkedin.com/posts/jean-marc-jancovici_pourquoi-lavion-est-il-moins-cher-que-le-activity-7331742876311175168-b_xb","https://fr.linkedin.com/posts/jean-marc-jancovici_si-lon-en-croit-cet-article-des-echos-chaque-activity-7331343257798389760-fvk4","https://fr.linkedin.com/posts/jean-marc-jancovici_puzzling-biodiversity-activity-7330651722547163139-G2me","https://fr.linkedin.com/posts/jean-marc-jancovici_linfluenceur-vous-le-pr%C3%A9f%C3%A9rez-cuit-%C3%A0-l%C3%A9touff%C3%A9e-activity-7330985694317719552-1nJ9"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
