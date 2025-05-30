@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_lassembl%C3%A9e-senflamme-autour-de-la-question-activity-7333115881079681024-KKO5","https://fr.linkedin.com/posts/jean-marc-jancovici_dhabitude-cest-plut%C3%B4t-en-%C3%A9t%C3%A9-que-lon-activity-7332329448676990976-G1kZ","https://fr.linkedin.com/posts/jean-marc-jancovici_sa-production-a-%C3%A9t%C3%A9-multipli%C3%A9e-par-5-dans-activity-7332760334673321986-e4jC","https://fr.linkedin.com/posts/jean-marc-jancovici_pourquoi-lavion-est-il-moins-cher-que-le-activity-7331742876311175168-b_xb","https://fr.linkedin.com/posts/jean-marc-jancovici_si-lon-en-croit-cet-article-des-echos-chaque-activity-7331343257798389760-fvk4"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_depuis-le-covid-il-est-beaucoup-question-activity-7333517168333996033-gIFr","https://fr.linkedin.com/posts/jean-marc-jancovici_lassembl%C3%A9e-senflamme-autour-de-la-question-activity-7333115881079681024-KKO5","https://fr.linkedin.com/posts/jean-marc-jancovici_dhabitude-cest-plut%C3%B4t-en-%C3%A9t%C3%A9-que-lon-activity-7332329448676990976-G1kZ","https://fr.linkedin.com/posts/jean-marc-jancovici_sa-production-a-%C3%A9t%C3%A9-multipli%C3%A9e-par-5-dans-activity-7332760334673321986-e4jC","https://fr.linkedin.com/posts/jean-marc-jancovici_pourquoi-lavion-est-il-moins-cher-que-le-activity-7331742876311175168-b_xb"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
