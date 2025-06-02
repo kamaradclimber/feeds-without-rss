@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jun 2025 17:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 05:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,7 +83,7 @@
             <title><![CDATA[Jean-Marc Jancovici (Posts LinkedIn Jean-Marc Jancovici)]]></title>
             <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
             <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 01 Jun 2025 17:36:34 GMT</pubDate>
+            <pubDate>Mon, 02 Jun 2025 05:41:08 GMT</pubDate>
             <content:encoded><![CDATA[<!---->
       
 <!---->        
@@ -176,7 +176,7 @@
     
     
 
-      6&nbsp;h.
+      18&nbsp;h.
   
 <!---->                  </time>
 <!---->              </span>
@@ -340,14 +340,14 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
       <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
             
-      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_social-actions-reactions" target="_self" data-tracking-control-name="public_post_social-actions-reactions" data-tracking-will-navigate="" class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="688&nbsp;réactions" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="688" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_social-actions-reactions" target="_self" data-tracking-control-name="public_post_social-actions-reactions" data-tracking-will-navigate="" class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="1 056&nbsp;réactions" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="1056" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
         
                     <img alt="" data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671" height="16px" width="16px">
                     <img alt="" data-reaction-type="INTEREST" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu" height="16px" width="16px">
                     <img alt="" data-reaction-type="PRAISE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2tzoeodxy0zug4455msr0oq0v" height="16px" width="16px">
 
               <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
-                    688
+                    1 056
               </span>
             
       </a>
@@ -362,9 +362,9 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 <!----><!---->            
       <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_social-actions-comments" target="_self" data-tracking-control-name="public_post_social-actions-comments" data-tracking-will-navigate="" class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis
                 before:middot
-                my-1" data-separate-ctas="false" data-test-id="social-actions__comments" data-id="social-actions__comments" data-num-comments="59" data-singular="%numComments% commentaire" data-plural="%numComments% commentaires">
+                my-1" data-separate-ctas="false" data-test-id="social-actions__comments" data-id="social-actions__comments" data-num-comments="89" data-singular="%numComments% commentaire" data-plural="%numComments% commentaires">
         
-                59&nbsp;commentaires
+                89&nbsp;commentaires
             
       </a>
   
@@ -501,22 +501,22 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://fr.linkedin.com/in/patrice-durand-959b8642?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://re.linkedin.com/in/romain-dambreville?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Patrice Durand, visuel">
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQF9unVKLhOeRg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1691924305453?e=2147483647&amp;v=beta&amp;t=UiX46whSPruu-FVuslykmNX-bGXE8floaPxyAsVoCp4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Romain DAMBREVILLE, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/patrice-durand-959b8642?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Patrice Durand
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://re.linkedin.com/in/romain-dambreville?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Romain DAMBREVILLE
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Ancien Directeur de la FNEDT</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Transition écologique | Dirigeant ESS, Formateur et Chercheur</p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -553,7 +553,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
     
     
 
-      6&nbsp;h.
+      18&nbsp;h.
   
         </span>
 
@@ -603,7 +603,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334899263111409666)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334906419189559296)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -626,7 +626,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Vu du polder, la mesure de la biodiversite est un sujet.</p>
+         comment__text babybear:mt-0.5" dir="ltr">Complètement d'accord sur le constat, mais toujours en questionnement sur la conclusion : est-ce que tout mesurer en euros est la seule solution? Qu'est-ce qui se passe s'il y a des choses qu'on ne sait pas mesurer ? Ou qu'on mesure mal ? Est-ce qu'agir à la racine : protéger par principe de précaution, ou par principe éthique, n'est pas une meilleure voie à défendre ? J'ai très envie de suivre l'option mesurable, ça fait du travail pour les BE et c'est intellectuellement interessant, mais est-ce le chemin le plus le plus efficace ?</p>
 <!---->  </div>
 
             
@@ -660,10 +660,10 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
                 </a>
                 <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
-                  2&nbsp;réactions
+                  3&nbsp;réactions
                 </a>
               <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                3&nbsp;réactions
+                4&nbsp;réactions
               </span>
         </div>
       
@@ -690,22 +690,22 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://fr.linkedin.com/in/eynard-de-cr%C3%A9cy-a7802b8?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/britta-reichert-a696ab17?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Eynard de Crécy, visuel">
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D5603AQHXOLTfoW93XQ/profile-displayphoto-shrink_400_400/B56ZPedsU8GsAo-/0/1734604146680?e=2147483647&amp;v=beta&amp;t=u4CKuzYvyg-s42uFdH7pEbTK1uxZSRH0qHsMBFebVO0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Britta Reichert, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/eynard-de-cr%C3%A9cy-a7802b8?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Eynard de Crécy
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/britta-reichert-a696ab17?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Britta Reichert
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">ingénierie d'affaires grands comptes</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Traductrice Allemand↔Français🇫🇷 🇩🇪</p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -742,7 +742,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
     
     
 
-      6&nbsp;h.
+      18&nbsp;h.
   
         </span>
 
@@ -792,7 +792,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334900846834425857)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334895613949444097)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -815,7 +815,196 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Instructif</p>
+         comment__text babybear:mt-0.5" dir="ltr">Rien à ajouter 👌</p>
+<!---->  </div>
+
+            
+<!---->      
+<!---->          </div>
+          
+        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
+
+              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
+                
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      J’aime
+    </span>
+  </div>
+
+              </a>
+
+                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
+                  
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      Réagir
+    </span>
+  </div>
+
+                </a>
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
+                  1&nbsp;réaction
+                </a>
+              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
+                2&nbsp;réactions
+              </span>
+        </div>
+      
+        </div>
+      </section>
+  
+  
+            
+
+    
+    
+    
+    
+    
+    
+
+<!---->
+    
+
+    
+    
+    
+    
+
+      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
+        <div>
+          <a href="https://fr.linkedin.com/in/sylvie-lehmann-327030189?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQH4HY230Bdz4w/profile-displayphoto-shrink_400_400/B4EZaQo3xIHoAg-/0/1746183355957?e=2147483647&amp;v=beta&amp;t=ysMBwlhS6wf9P7OOM7qsczbVJtBpuHz5OiF1ODZEgbU" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Sylvie LEHMANN, visuel">
+      
+          </a>
+        </div>
+        <div class="w-full min-w-0">
+          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
+            <div class="comment__header flex flex-col">
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/sylvie-lehmann-327030189?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Sylvie LEHMANN
+                  </a>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Chef d'entreprise chez SARL MaxSIM</p>
+              
+        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      8&nbsp;h.
+  
+        </span>
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
+                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7335046823503413248)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Signaler ce commentaire
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+      
+            </div>
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+         comment__text babybear:mt-0.5" dir="ltr">J'ai entendu que certains pays (trop peu certainement !) mesuraient le niveau de bonheur de la population . L'apport de la nature y est surement pour quelque chose . Dans nos pays occidentaux, c'est l'argent qui prime trop souvent confondu avec le bonheur ! C'est désolant .</p>
 <!---->  </div>
 
             
@@ -876,22 +1065,23 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://fr.linkedin.com/in/laurent-izoret-a4a5b532a?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/jean-duverger-668166120?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="laurent izoret, visuel">
+          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Jean Duverger, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/laurent-izoret-a4a5b532a?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    laurent izoret
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/jean-duverger-668166120?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Jean Duverger
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline"></p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Conseiller Municipal et Métropolitain
+ " Génération Écologie " à St Etienne </p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -928,7 +1118,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
     
     
 
-      4&nbsp;h.
+      14&nbsp;h.
   
         </span>
 
@@ -978,7 +1168,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334933596446576640)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334957719008743424)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -1001,7 +1191,8 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Un contenu inspirant !</p>
+         comment__text babybear:mt-0.5" dir="ltr">Prendre en compte les externalités négatives ! 
+Voilà qu'elle est bonne l'idée ! </p>
 <!---->  </div>
 
             
@@ -1062,22 +1253,23 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://fr.linkedin.com/in/louis-sybille-375b91b6?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/beno%C3%AEt-ferres-12055228?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQH4lVfjH2U7ng/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1626348025119?e=2147483647&amp;v=beta&amp;t=mRnQ53zzwwdUX7U2rAVdwoZyt-FjZcGdiuqww7_aQlA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Louis Sybille, visuel">
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQE43O-a5gBg1A/profile-displayphoto-shrink_400_400/B4EZRLdjckGwAs-/0/1736432826551?e=2147483647&amp;v=beta&amp;t=uC5pj_XzzHFQTjN8nvqZjA_82i1vogfZd66wyj9kU1s" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Benoît FERRES, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/louis-sybille-375b91b6?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Louis Sybille
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/beno%C3%AEt-ferres-12055228?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Benoît FERRES
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">CEO</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">♦ Entrepreneur engagé de la déconsommation énergétique 
+♦ White Economy Conférencier ♦ Board Member ♦ Startup Mentor</p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -1114,7 +1306,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
     
     
 
-      5&nbsp;h.
+      15&nbsp;h.
   
         </span>
 
@@ -1164,7 +1356,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334913986934530049)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334944335546736640)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -1187,7 +1379,386 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Infos utiles, Jean-Marcus</p>
+         comment__text babybear:mt-0.5" dir="ltr">On peut donner un coût à l’externalité
+négative pour espérer que les agents economiques s’en occupent.
+Cette logique imposée par les USA lors du protocole de Kyoto pour le C02, si elle a produit beaucoup de littérature académique, n’a pas produit grand chose concrètement depuis, sauf de nouveaux marchés financiers (pas certains que c’était le but recherché)
+On peut imposer à ceux qui gagnent de l’argent grâce à ces externalités d’utiliser une partie de leurs gains pour combattre cette externalité, on donne cette fois une valeur au fait d’éviter (plutôt que de pénaliser par les prix le fait de faire)
+C’est le modèle des White Certificats ou des Energy Efficiency Obligations, qui exploitent à travers le mondes.
+On oblige les distributeurs d’énergie à «&nbsp;réparer&nbsp;» une partie de ce que leurs gains engendrent en leur assignant des objectifs d’économies d’énergie ou de C02.
+Ils sont ainsi contraints donner une valeur aux actions qui réduisent, en l’occurrence  ici, les économies d’énergie , mais cela existe aussi avec les phytos.
+Des modèles massifs à l’échelle mondiale (non sans difficultés opérationnelles dues au coté massif) qui mériteraient d’être plus regardés (au bout de 20 ans il y a du retour d’expérience) pour s’en inspirer.</p>
+<!---->  </div>
+
+            
+<!---->      
+<!---->          </div>
+          
+        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
+
+              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
+                
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      J’aime
+    </span>
+  </div>
+
+              </a>
+
+                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
+                  
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      Réagir
+    </span>
+  </div>
+
+                </a>
+<!---->              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
+                1&nbsp;réaction
+              </span>
+        </div>
+      
+        </div>
+      </section>
+  
+  
+            
+
+    
+    
+    
+    
+    
+    
+
+<!---->
+    
+
+    
+    
+    
+    
+
+      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
+        <div>
+          <a href="https://fr.linkedin.com/in/jean-luc-lambert-7b972071?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E03AQHXMyhAiu70XQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516442608822?e=2147483647&amp;v=beta&amp;t=DfVAS950lgAZwgX-ga3bFHAHZIrVKeWuhDGSBL10uEg" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Jean-Luc LAMBERT, visuel">
+      
+          </a>
+        </div>
+        <div class="w-full min-w-0">
+          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
+            <div class="comment__header flex flex-col">
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/jean-luc-lambert-7b972071?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Jean-Luc LAMBERT
+                  </a>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Consultant chez Indépendant</p>
+              
+        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      16&nbsp;h.
+  
+        </span>
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
+                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334925644050423808)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Signaler ce commentaire
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+      
+            </div>
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+         comment__text babybear:mt-0.5" dir="ltr">Ne pourrait-on pas rempli nature qui fait un peu surnaturel par écosystème de la planète plus scientifique ?</p>
+<!---->  </div>
+
+            
+<!---->      
+<!---->          </div>
+          
+        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
+
+              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
+                
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      J’aime
+    </span>
+  </div>
+
+              </a>
+
+                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
+                  
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      Réagir
+    </span>
+  </div>
+
+                </a>
+<!---->              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
+                1&nbsp;réaction
+              </span>
+        </div>
+      
+        </div>
+      </section>
+  
+  
+            
+
+    
+    
+    
+    
+    
+    
+
+<!---->
+    
+
+    
+    
+    
+    
+
+      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
+        <div>
+          <a href="https://fr.linkedin.com/in/franck-maistre-ceo-hupla-rse?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D03AQH2-Q6iamacsw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1625305528570?e=2147483647&amp;v=beta&amp;t=LuEhV5C0hFdH90Uwhqr-e8GWU3xrJ9xAkLIIDDOPT_4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Franck MAISTRE, visuel">
+      
+          </a>
+        </div>
+        <div class="w-full min-w-0">
+          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
+            <div class="comment__header flex flex-col">
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/franck-maistre-ceo-hupla-rse?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Franck MAISTRE
+                  </a>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Engagé pour l'Humain et la Planète. CEO Hupla RSE. +1,5° ambassadeur du vivant Inclusion Impact positif chaque action compte</p>
+              
+        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      10&nbsp;h.
+  
+        </span>
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
+                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7335020434221916160)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Signaler ce commentaire
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+      
+            </div>
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+         comment__text babybear:mt-0.5" dir="ltr">Si nous voulons accélérer la prise de conscience de l'importance du vivant dans l'ensemble des écosystème y compris celui de la finance cela nécessite d'intégrer dans les composantes du PIB cette dimension. Et même chose dans la comptabilité des entreprises. La finance a le don de créer des produit financiers sans lien avec l'économie réelle, elle peut tout à fait être créative pour en Inventer qui valorisent le vivant. Tant qu'il n'y aura pas de bénéfices financiers à choisir le vivant le fameux business as usal risque d'être privilégié.</p>
 <!---->  </div>
 
             
@@ -1300,7 +1871,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
     
     
 
-      6&nbsp;h.
+      18&nbsp;h.
   
         </span>
 
@@ -1434,22 +2005,22 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://lu.linkedin.com/in/ir%C3%A8ne-thanos-19529b47?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/helenepotakian?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4D03AQEQinrmSf0jSw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712485301757?e=2147483647&amp;v=beta&amp;t=QLaedCLO8nRQtWnub5FinIxmc4_t4uN6ayI2ex7GbjI" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Irène Thanos, visuel">
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4D03AQEDqR9r_Yl5Jw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713436127843?e=2147483647&amp;v=beta&amp;t=k84-9vVioM4OYcPVon2-3MEJ33k--8QAqmF0yQFMgCo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Hélène P., visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://lu.linkedin.com/in/ir%C3%A8ne-thanos-19529b47?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Irène Thanos
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/helenepotakian?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Hélène P.
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Gérante</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">🎇EMC I Gestion de projets I Développement produit</p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -1486,7 +2057,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
     
     
 
-      4&nbsp;h.
+      16&nbsp;h.
   
         </span>
 
@@ -1536,7 +2107,7 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334926242585931776)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334923113358315520)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -1559,11 +2130,12 @@ Pourtant, à long terme c'est la bonne stratégie (de changer). Sachons entendre
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">“Question, alors : pourquoi est-ce que le monde financier ne prend pas mieux en compte la dépendance des nos activités aux monde vivant, sans lequel nos activités économiques disparaissent ?&nbsp;“
-Parce que leurs investisseurs réclament du rendement, dans un monde où l’inflation rogne les revenus et neutralise à rendement négatif les investissements, donc le monde financier favorise tout placement qui apporte un rendement annuel supérieur à l’inflation, ce qui exclue tout investissement dans la protection de la nature.
-C’est pourquoi la haute finance se dirige vers la commercialisation d’un produit qui doit éventuellement devenir la propriété de l’investisseur, en dépossédant progressivement les populations résidentes, d’où le lancement du plan de tokenisation/numérisation des réserves naturelles mondiales, aidé et documenté par certains écologistes stars financés par les Nations Unies.
-Protéger voudra dire en final en laisser la propriété privée à l’élite financière, qui se l’échangera en qualité d’asset, et en gouvernera l’usage et les droits.
-</p>
+         comment__text babybear:mt-0.5" dir="ltr">L'impact de la civilisation humaine sur les autres espèces en place est en effet considérable. En réalité, nous avons commencé à nous en préoccuper lorsque cela a commencé à nous impacter nous même et donc nous raisonnons en terme de coûts.
+En réalité, nous n'aurions pas tous ces problèmes si le caractère de l'empathie était plus élevé chez l'Humain.
+L'éducation à l'empathie, à la coopération et l'éducation à l'environnement doivent, il me semble, être massivement déployées (renouvellement de générations).
+La notion de co-évolution des espèces en place sur la Terre doit également être approfondie et enseignée. (cf, entre autres, l'ouvrage de Nathalie Cabrol, Inséparables : les destins croisés de la Terre et de la Vie).
+Il va être également nécessaire de réguler le développement de l'IA et des robots : nous vivons sur une planète, donc un Être vivant d'une taille différente. Cet Être ne déploie aucune partie inorganique. Si nous développons trop de "masse" ou parties inorganiques, arrivé à une certaine limite il y aura rétroaction du vivant (en réalité, cela a déjà commencé).
+Il est nécessaire d'être mesuré et de trouver un juste équilibre. </p>
 <!---->  </div>
 
             
@@ -1596,11 +2168,8 @@ Protéger voudra dire en final en laisser la propriété privée à l’élite f
   </div>
 
                 </a>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
-                  1&nbsp;réaction
-                </a>
-              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                2&nbsp;réactions
+<!---->              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
+                1&nbsp;réaction
               </span>
         </div>
       
@@ -1627,22 +2196,24 @@ Protéger voudra dire en final en laisser la propriété privée à l’élite f
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://www.linkedin.com/in/benoit-lopez-362a89?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/frederic-defferrard?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E03AQEIAk1Dlxf2og/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1612283650101?e=2147483647&amp;v=beta&amp;t=N99E4NfT_eBkgiaNMo5T6w1ett3JCh5SprGNDAf8jNk" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Benoit Lopez, visuel">
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E03AQFQ9Ze7V7B6SA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1518380042321?e=2147483647&amp;v=beta&amp;t=HC-XelrsV1LGmMiBNsRM0dGQLfAOj3TiCrHMZzwxyF4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Frédéric Defferrard, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://www.linkedin.com/in/benoit-lopez-362a89?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Benoit Lopez
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/frederic-defferrard?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Frédéric Defferrard
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Software Product Development and Management leader with 25 years of high performance in multiple industries</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">La fusion est une nouvelle chaudière pour toujours la même centrale thermique à vapeur et le tritium est très rare.
+La plus grande puissance capitaliste est une dictature communiste.
+L'anarchie n'est pas l'anomie.</p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -1679,7 +2250,7 @@ Protéger voudra dire en final en laisser la propriété privée à l’élite f
     
     
 
-      5&nbsp;h.
+      18&nbsp;h.
   
         </span>
 
@@ -1729,7 +2300,7 @@ Protéger voudra dire en final en laisser la propriété privée à l’élite f
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334909835018174465)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334893552360943617)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -1752,8 +2323,7 @@ Protéger voudra dire en final en laisser la propriété privée à l’élite f
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">As you've been showing us for years, Jean-Marc, natural resources are never truly free. The consequences are now clearly visible, and we must keep that in mind — not only in how we consume and live, but especially when choosing our political leaders. 
-Thank you for your insight and clarity all these years !!</p>
+         comment__text babybear:mt-0.5" dir="ltr">Coincidence... je suis en train de lire "Le ministère du futur" ou des ecoterroristes (des vrais pas des marchants de soupes) trouvent des arguments efficaces pour décarboner...</p>
 <!---->  </div>
 
             
@@ -1798,591 +2368,6 @@ Thank you for your insight and clarity all these years !!</p>
       </section>
   
   
-            
-
-    
-    
-    
-    
-    
-    
-
-<!---->
-    
-
-    
-    
-    
-    
-
-      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
-        <div>
-          <a href="https://fr.linkedin.com/in/prospection-btob-trouvervosclients?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
-            
-      <img class="inline-block relative
-          rounded-[50%]
-          w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQFVjBfyrX2t_w/profile-displayphoto-shrink_400_400/B4EZbi55NxHIAg-/0/1747563549917?e=2147483647&amp;v=beta&amp;t=tIo-FcfFuPcGFCGtxYs6DRq75sJyoNCh1evcliOAX_A" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Cédric SIMON, visuel">
-      
-          </a>
-        </div>
-        <div class="w-full min-w-0">
-          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
-            <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/prospection-btob-trouvervosclients?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Cédric SIMON
-                  </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Prospection commerciale•Business Sales consultant  &amp; Organisation Commerciale • Créateur de Réseaux de Revendeurs Mobilier &amp; Environnements de Travail | Appels à Froid  | CEO - BusinessOn-Licence Expert Angoulême</p>
-              
-        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      3&nbsp;h.
-  
-        </span>
-
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
-        
-
-    
-
-    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
-          
-            <button class="ellipsis-menu__trigger
-                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
-                !py-[6px] !px-1 flex items-center rounded-[50%]
-                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
-                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
-            </button>
-          
-
-        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
-          
-              
-
-                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
-                  
-
-    
-    
-
-    
-
-    
-
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334943493905113089)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
-<!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
-                      Signaler ce commentaire
-                    
-    </a>
-
-<!---->  
-                </li>
-<!---->          
-        </ul>
-
-<!---->    </div>
-  
-
-      </div>
-  
-      
-            </div>
-            
-  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
-    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr"><a class="link" href="https://fr.linkedin.com/in/jean-marc-jancovici?trk=public_post_comment-text" target="_self" data-tracking-control-name="public_post_comment-text" data-tracking-will-navigate="">Jean-Marc Jancovici</a> Un banquier central qui parle des coccinelles et des nénuphars comme d’actifs stratégiques ?
-On se dit qu’on vit une époque formidable… ou qu’on a enfin compris que l’économie sans écosystème, c’est juste une machine à vent.
-
-Le pire, c’est pas qu’on ne sache pas.
-C’est qu’on sache très bien, mais qu’on préfère continuer à compter les dividendes plutôt que les dégâts.
-
-Merci pour ce rappel salutaire. Il serait peut-être temps de faire rentrer les grenouilles dans les bilans comptables.</p>
-<!---->  </div>
-
-            
-<!---->      
-<!---->          </div>
-          
-        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
-
-              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
-                
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      J’aime
-    </span>
-  </div>
-
-              </a>
-
-                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
-                  
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      Réagir
-    </span>
-  </div>
-
-                </a>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
-                  1&nbsp;réaction
-                </a>
-              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                2&nbsp;réactions
-              </span>
-        </div>
-      
-        </div>
-      </section>
-  
-  
-            
-
-    
-    
-    
-    
-    
-    
-
-<!---->
-    
-
-    
-    
-    
-    
-
-      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
-        <div>
-          <a href="https://fr.linkedin.com/in/th%C3%A9o-izquierdo-b2b9b9154?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
-            
-      <img class="inline-block relative
-          rounded-[50%]
-          w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQGa9n5a1jntfg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1552240662746?e=2147483647&amp;v=beta&amp;t=6mvaTq-ENyQCG_jYwoxH4vp0kylEZN2IWVYCxrIx4Y0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Théo Izquierdo, visuel">
-      
-          </a>
-        </div>
-        <div class="w-full min-w-0">
-          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
-            <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/th%C3%A9o-izquierdo-b2b9b9154?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Théo Izquierdo
-                  </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Des villes-jardins pour se nourrir en 2050?</p>
-              
-        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      6&nbsp;h.
-  
-        </span>
-
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
-        
-
-    
-
-    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
-          
-            <button class="ellipsis-menu__trigger
-                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
-                !py-[6px] !px-1 flex items-center rounded-[50%]
-                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
-                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
-            </button>
-          
-
-        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
-          
-              
-
-                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
-                  
-
-    
-    
-
-    
-
-    
-
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334903369754447873)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
-<!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
-                      Signaler ce commentaire
-                    
-    </a>
-
-<!---->  
-                </li>
-<!---->          
-        </ul>
-
-<!---->    </div>
-  
-
-      </div>
-  
-      
-            </div>
-            
-  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
-    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Si vous voulez une métrique, je peux vous proposer "l'unité de temps de travail humain/animal"?
-
-Quand c'est des robots on aime savoir qu'ils peuvent produire X produit/heure, qu'on aime à comparer au travail des humains, notamment pour que certains se plaignent des charges salariales (sans se douter que c'est ce qui finance l'hopital)
-
-Quand ce sont des abeilles qui pollennisent des centaines de plantes chaque jour pour se nourrir et faire vivre sa colonie, pas besoin de salaire, pas besoin non plus de drones ou de pesticides.
-
-Quand ce sont des ruminants qui crottent dans une jachère, c'est à la fois des kilo/m² d'herbe tondus sans besoin de salaire, ni drones, ni pesticides
-
-Quand ce sont des sangliers, des chevreuils qui retournent un sol pour se nourrir, ce sont des m² aérer, décompacté et même des graines semer sans besoin... vous avez compris la logique.
-
-Dans tous ça, la seule constante c'est le besoin de contrôler le travail, en tuant la faune, on n'a fait que récuperer ce travail à notre charge: plus de rendements oui mais à quel prix?
-
-Voila ce que j'ai tenté de vous expliqué la dernière fois Mr.<a class="link" href="https://fr.linkedin.com/in/jean-marc-jancovici?trk=public_post_comment-text" target="_self" data-tracking-control-name="public_post_comment-text" data-tracking-will-navigate="">Jancovici</a> et cela découle d'un oubli de la logistique dans les grandes stratégies scientifique.</p>
-<!---->  </div>
-
-            
-<!---->      
-<!---->          </div>
-          
-        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
-
-              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
-                
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      J’aime
-    </span>
-  </div>
-
-              </a>
-
-                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
-                  
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      Réagir
-    </span>
-  </div>
-
-                </a>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
-                  1&nbsp;réaction
-                </a>
-              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                2&nbsp;réactions
-              </span>
-        </div>
-      
-        </div>
-      </section>
-  
-  
-            
-
-    
-    
-    
-    
-    
-    
-
-<!---->
-    
-
-    
-    
-    
-    
-
-      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
-        <div>
-          <a href="https://fr.linkedin.com/in/britta-reichert-a696ab17?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
-            
-      <img class="inline-block relative
-          rounded-[50%]
-          w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/D5603AQHXOLTfoW93XQ/profile-displayphoto-shrink_400_400/B56ZPedsU8GsAo-/0/1734604146680?e=2147483647&amp;v=beta&amp;t=u4CKuzYvyg-s42uFdH7pEbTK1uxZSRH0qHsMBFebVO0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Britta Reichert, visuel">
-      
-          </a>
-        </div>
-        <div class="w-full min-w-0">
-          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
-            <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/britta-reichert-a696ab17?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Britta Reichert
-                  </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Traductrice Allemand↔Français🇫🇷 🇩🇪</p>
-              
-        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      6&nbsp;h.
-  
-        </span>
-
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
-        
-
-    
-
-    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
-          
-            <button class="ellipsis-menu__trigger
-                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
-                !py-[6px] !px-1 flex items-center rounded-[50%]
-                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
-                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
-            </button>
-          
-
-        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
-          
-              
-
-                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
-                  
-
-    
-    
-
-    
-
-    
-
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334891802950340609,7334895613949444097)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
-<!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
-                      Signaler ce commentaire
-                    
-    </a>
-
-<!---->  
-                </li>
-<!---->          
-        </ul>
-
-<!---->    </div>
-  
-
-      </div>
-  
-      
-            </div>
-            
-  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
-    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Rien à ajouter 👌</p>
-<!---->  </div>
-
-            
-<!---->      
-<!---->          </div>
-          
-        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
-
-              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
-                
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      J’aime
-    </span>
-  </div>
-
-              </a>
-
-                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
-                  
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      Réagir
-    </span>
-  </div>
-
-                </a>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
-                  1&nbsp;réaction
-                </a>
-              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                2&nbsp;réactions
-              </span>
-        </div>
-      
-        </div>
-      </section>
-  
-  
               <a class="block text-sm text-color-text-low-emphasis font-bold mb-2" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8&amp;trk=public_post_see-more-comments" data-test-id="main-feed-activity-card-with-comments__see-more-comments" data-tracking-control-name="public_post_see-more-comments" data-tracking-will-navigate="">
                 Voir plus de commentaires
               </a>
@@ -2407,7 +2392,7 @@ Voila ce que j'ai tenté de vous expliqué la dernière fois Mr.<a class="link" 
             <title><![CDATA[Jean-Marc Jancovici (Posts LinkedIn Jean-Marc Jancovici)]]></title>
             <link>https://kamaradclimber.github.io/feeds-without-rss/all.xml</link>
             <guid>https://kamaradclimber.github.io/feeds-without-rss/all.xml</guid>
-            <pubDate>Sun, 01 Jun 2025 17:36:34 GMT</pubDate>
+            <pubDate>Mon, 02 Jun 2025 05:41:09 GMT</pubDate>
             <content:encoded><![CDATA[<!---->
       
 <!---->        
@@ -2664,14 +2649,14 @@ Ce genre d'épisode reste marginal au regard de l'ensemble des impacts du récha
 
       <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
             
-      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_social-actions-reactions" target="_self" data-tracking-control-name="public_post_social-actions-reactions" data-tracking-will-navigate="" class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="1 701&nbsp;réactions" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="1701" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_social-actions-reactions" target="_self" data-tracking-control-name="public_post_social-actions-reactions" data-tracking-will-navigate="" class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="1 904&nbsp;réactions" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="1904" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
         
                     <img alt="" data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671" height="16px" width="16px">
                     <img alt="" data-reaction-type="INTEREST" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu" height="16px" width="16px">
                     <img alt="" data-reaction-type="APPRECIATION" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyfai5zw4nrqhyyhl0p7so58v" height="16px" width="16px">
 
               <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
-                    1 701
+                    1 904
               </span>
             
       </a>
@@ -2686,9 +2671,9 @@ Ce genre d'épisode reste marginal au regard de l'ensemble des impacts du récha
 <!----><!---->            
       <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_social-actions-comments" target="_self" data-tracking-control-name="public_post_social-actions-comments" data-tracking-will-navigate="" class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis
                 before:middot
-                my-1" data-separate-ctas="false" data-test-id="social-actions__comments" data-id="social-actions__comments" data-num-comments="239" data-singular="%numComments% commentaire" data-plural="%numComments% commentaires">
+                my-1" data-separate-ctas="false" data-test-id="social-actions__comments" data-id="social-actions__comments" data-num-comments="256" data-singular="%numComments% commentaire" data-plural="%numComments% commentaires">
         
-                239&nbsp;commentaires
+                256&nbsp;commentaires
             
       </a>
   
@@ -2984,10 +2969,10 @@ Ce genre d'épisode reste marginal au regard de l'ensemble des impacts du récha
 
                 </a>
                 <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
-                  5&nbsp;réactions
+                  6&nbsp;réactions
                 </a>
               <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                6&nbsp;réactions
+                7&nbsp;réactions
               </span>
         </div>
       
@@ -3173,10 +3158,10 @@ Ce genre d'épisode reste marginal au regard de l'ensemble des impacts du récha
 
                 </a>
                 <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
-                  10&nbsp;réactions
+                  13&nbsp;réactions
                 </a>
               <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                11&nbsp;réactions
+                14&nbsp;réactions
               </span>
         </div>
       
@@ -3203,23 +3188,22 @@ Ce genre d'épisode reste marginal au regard de l'ensemble des impacts du récha
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://fr.linkedin.com/in/olivier-tapis-b4234a84?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/ludovic-ciliotta?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQHYpOLcavfccA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1620547657457?e=2147483647&amp;v=beta&amp;t=NnS6zbAro0mTpgWUM7M08EdhNuSXGqEKkcAnlvQ1NrA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Olivier Tapis, visuel">
+          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ludovic CILIOTTA, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/olivier-tapis-b4234a84?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Olivier Tapis
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/ludovic-ciliotta?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Ludovic CILIOTTA
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">319ppm Co2
-Conducteur routier</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Chef du service régional des systèmes d'information pour l'île de France</p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -3306,7 +3290,7 @@ Conducteur routier</p>
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334589880947130368)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334508970994262016)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -3329,8 +3313,15 @@ Conducteur routier</p>
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Quid des spores libérées lors de ces fontes puis ces brassages d’agrégats et de permafrost ? 
-2e effet kisscool à prévoir dans la région ?</p>
+         comment__text babybear:mt-0.5" dir="ltr">On s’inquiète de l’effondrement des parois rocheuses. Symbole d’un monde qui se fissure. Mais qui se demande quelle force il a fallu pour faire naître ces montagnes ? Des pressions titanesques, une lenteur géologique… bien plus puissantes que leur chute.
+
+Oui, le monde change. Rapidement. Mais avec 8,5 milliards de consommateurs, le changement prend une autre dimension. L’homme de Néandertal, lui, a survécu à une glaciation et à un réchauffement. Pourquoi ? Parce qu’il était peu nombreux, mobile, adaptable.
+
+Nous sommes l’inverse : sédentaires, dépendants, interconnectés. Le vrai défi n’est pas seulement climatique. Il est humain : saurons-nous encore nous adapter ?
+
+La montagne tombe, mais elle nous rappelle une chose : la force n’est pas dans la rigidité, elle est dans l’agilité.
+
+#ChangementClimatique #Résilience #Adaptabilité #Réflexion #Société #Transition #Humanité</p>
 <!---->  </div>
 
             
@@ -3363,8 +3354,11 @@ Conducteur routier</p>
   </div>
 
                 </a>
-<!---->              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                1&nbsp;réaction
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
+                  11&nbsp;réactions
+                </a>
+              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
+                12&nbsp;réactions
               </span>
         </div>
       
@@ -3391,22 +3385,22 @@ Conducteur routier</p>
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://fr.linkedin.com/in/stephane-dogniaux-256131179?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/marc-baudou-bb2006107?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Stephane DOGNIAUX, visuel">
+          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Marc BAUDOU, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/stephane-dogniaux-256131179?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Stephane DOGNIAUX
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/marc-baudou-bb2006107?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Marc BAUDOU
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Information Technology Consultant / Aerospace Industry</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline"></p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -3443,7 +3437,7 @@ Conducteur routier</p>
     
     
 
-      10&nbsp;h.
+      1&nbsp;j.
   
         </span>
 
@@ -3493,7 +3487,7 @@ Conducteur routier</p>
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334842288348573696)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334578003802288128)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -3516,7 +3510,7 @@ Conducteur routier</p>
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">👀</p>
+         comment__text babybear:mt-0.5" dir="ltr">Infos utiles, Jean-Marc</p>
 <!---->  </div>
 
             
@@ -3577,20 +3571,20 @@ Conducteur routier</p>
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://be.linkedin.com/in/stephanie-vanhamme-b18305220?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/axel-nader-0b37834b?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E03AQEN43BoIOMDtw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1631375238086?e=2147483647&amp;v=beta&amp;t=k5gGGkfw-c5pV9L3IJEISeNmu534nwoKdAUpDOovdUo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Stephanie Vanhamme, visuel">
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E03AQFo5EAI0zWZDQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1648521423410?e=2147483647&amp;v=beta&amp;t=QaaOxmQ64QDgMQdSjgcaw9eHLWLTRbu-iN2eCl20-q8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Axel Nader, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://be.linkedin.com/in/stephanie-vanhamme-b18305220?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Stephanie Vanhamme
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/axel-nader-0b37834b?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Axel Nader
                   </a>
                   <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">--</p>
               
@@ -3629,7 +3623,7 @@ Conducteur routier</p>
     
     
 
-      22&nbsp;h.
+      1&nbsp;j.
   
         </span>
 
@@ -3679,7 +3673,7 @@ Conducteur routier</p>
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334653258705104896)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334536754198151168)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -3702,7 +3696,7 @@ Conducteur routier</p>
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Merci pour cette clarté ☺️</p>
+         comment__text babybear:mt-0.5" dir="ltr">Et bientôt le glacier Thwaites…  </p>
 <!---->  </div>
 
             
@@ -3737,6 +3731,388 @@ Conducteur routier</p>
                 </a>
 <!---->              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
                 1&nbsp;réaction
+              </span>
+        </div>
+      
+        </div>
+      </section>
+  
+  
+            
+
+    
+    
+    
+    
+    
+    
+
+<!---->
+    
+
+    
+    
+    
+    
+
+      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
+        <div>
+          <a href="https://fr.linkedin.com/in/daniel-godet-2b47848?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E03AQFVwIhF3rDmWA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517732601791?e=2147483647&amp;v=beta&amp;t=Rtcwc_sPQ5O7gyuITG7bIvMn6J6hNpV66Ta-XgVYZ7I" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Daniel Godet, visuel">
+      
+          </a>
+        </div>
+        <div class="w-full min-w-0">
+          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
+            <div class="comment__header flex flex-col">
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/daniel-godet-2b47848?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Daniel Godet
+                  </a>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Former Group Program Director at BNP Paribas</p>
+              
+        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1&nbsp;j.
+  
+        </span>
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
+                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334704424403034112)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Signaler ce commentaire
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+      
+            </div>
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+         comment__text babybear:mt-0.5" dir="ltr">En 1789, les villageois inscrivaient la progression des glaces dans leurs cahiers de doléances adressés au roy : la fin du "petit âge glaciaire" donnait lieu en effet à l'expansion maximale des glaciers depuis un petit millénaire.
+Depuis, il fait progressivement plus chaud, et on retrouve des conditions d'enneigement et de surfaces de glaciers plus proches de celles du moyen-âge ou de l'époque romaine.
+Après le flux, le reflux, avec des épisodes spectaculaires  !</p>
+<!---->  </div>
+
+            
+<!---->      
+<!---->          </div>
+          
+        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
+
+              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
+                
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      J’aime
+    </span>
+  </div>
+
+              </a>
+
+                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
+                  
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      Réagir
+    </span>
+  </div>
+
+                </a>
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
+                  1&nbsp;réaction
+                </a>
+              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
+                2&nbsp;réactions
+              </span>
+        </div>
+      
+        </div>
+      </section>
+  
+  
+            
+
+    
+    
+    
+    
+    
+    
+
+<!---->
+    
+
+    
+    
+    
+    
+
+      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
+        <div>
+          <a href="https://be.linkedin.com/in/luc-michel-44440469?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQF1aI4AIi3VmA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517422624312?e=2147483647&amp;v=beta&amp;t=-lD_oQOZi0H-qP8YxoGT4UBIv7N3BOMitDoXNAZCdIA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Luc Michel, visuel">
+      
+          </a>
+        </div>
+        <div class="w-full min-w-0">
+          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
+            <div class="comment__header flex flex-col">
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://be.linkedin.com/in/luc-michel-44440469?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Luc Michel
+                  </a>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Professor Emeritus of Surgery at Université catholique de Louvain</p>
+              
+        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1&nbsp;j.
+  
+        </span>
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
+                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334627006560559105)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Signaler ce commentaire
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+      
+            </div>
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+         comment__text babybear:mt-0.5" dir="ltr">Bientôt des réfugiés climatiques suisses?
+Quelle inversion de tendance.
+Merci pour les explications lumineuses, ainsi que pour le rappel que rien n’est jamais acquis définitivement.</p>
+<!---->  </div>
+
+            
+<!---->      
+<!---->          </div>
+          
+        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
+
+              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
+                
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      J’aime
+    </span>
+  </div>
+
+              </a>
+
+                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
+                  
+  <div class="flex flex-row items-center ">
+    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="action-btn__button-text inline-block align-baseline">
+      Réagir
+    </span>
+  </div>
+
+                </a>
+                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
+                  2&nbsp;réactions
+                </a>
+              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
+                3&nbsp;réactions
               </span>
         </div>
       
@@ -3952,22 +4328,22 @@ Conducteur routier</p>
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://fr.linkedin.com/in/fernand-maillet-517650116?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://be.linkedin.com/in/stephanie-vanhamme-b18305220?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Fernand Maillet, visuel">
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E03AQEN43BoIOMDtw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1631375238086?e=2147483647&amp;v=beta&amp;t=k5gGGkfw-c5pV9L3IJEISeNmu534nwoKdAUpDOovdUo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Stephanie Vanhamme, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/fernand-maillet-517650116?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Fernand Maillet
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://be.linkedin.com/in/stephanie-vanhamme-b18305220?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Stephanie Vanhamme
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Essayiste</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">--</p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -4054,7 +4430,7 @@ Conducteur routier</p>
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334515324412719104)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334653258705104896)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -4077,7 +4453,7 @@ Conducteur routier</p>
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">La question demeure : que faut-il faire ? En premier lieu investir massivement dans la prévention des risques ... et de leur maîtrise pour éviter le "sauve qui peut" ...</p>
+         comment__text babybear:mt-0.5" dir="ltr">Merci pour cette clarté ☺️</p>
 <!---->  </div>
 
             
@@ -4138,22 +4514,22 @@ Conducteur routier</p>
 
       <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
         <div>
-          <a href="https://ch.linkedin.com/in/florian-boeckle-66b14595?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
+          <a href="https://fr.linkedin.com/in/gil-tart-ampion-722410260?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
             
       <img class="inline-block relative
           rounded-[50%]
           w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQHa6SyR9zZUJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727893412526?e=2147483647&amp;v=beta&amp;t=3dLejNH3WceknGYzoJ4PsVZwfALiFNv5Z_4r9sVqGD4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Florian Boeckle, visuel">
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQEimdaX8KjblQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1672679606866?e=2147483647&amp;v=beta&amp;t=W7BGyviPyuBMtXm3hCPlNHD5yKjki2n-JesdzIlkeEc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Gil Tart-Ampion, visuel">
       
           </a>
         </div>
         <div class="w-full min-w-0">
           <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
             <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://ch.linkedin.com/in/florian-boeckle-66b14595?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Florian Boeckle
+                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/gil-tart-ampion-722410260?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
+                    Gil Tart-Ampion
                   </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Ingénieur en mécanique R&amp;D</p>
+                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Retraité chez ITG Groupe</p>
               
         <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
           
@@ -4240,7 +4616,7 @@ Conducteur routier</p>
 
     
 
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334580498020646914)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334644226057494531)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
                       <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
@@ -4263,8 +4639,10 @@ Conducteur routier</p>
             
   <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Pour spectaculaire et dramatique qu'il soit, les géologues se gardent bien aujourd'hui de tirer un lien de cause à effets entre le réchauffement climatique et cet éboulement. Il est certainement trop tôt pour tirer des conclusions. 
-Quoiqu'il en soit, et sans aucune intention de nier le réchauffement climatique, ce genre d'éboulements a toujours existé... voir les catastrophes de Derborence dans les années 1714 et 1749</p>
+         comment__text babybear:mt-0.5" dir="ltr">La fin de l ère glacière suit son cours.
+Combien de fontes de glaciers et combien d ecroulements de montagnes depuis le pic glaciaire d' il y a juste 20 000 ans ?
+Attendons la prochaine glaciation, cela ira t il mieux sur la planète ?
+D ici là,combien de séismes, combien d éruptions volcaniques, combien de météorites ?</p>
 <!---->  </div>
 
             
@@ -4298,382 +4676,10 @@ Quoiqu'il en soit, et sans aucune intention de nier le réchauffement climatique
 
                 </a>
                 <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reactions" class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1" data-tracking-control-name="public_post_comment_reactions" data-tracking-will-navigate="">
-                  2&nbsp;réactions
+                  1&nbsp;réaction
                 </a>
               <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                3&nbsp;réactions
-              </span>
-        </div>
-      
-        </div>
-      </section>
-  
-  
-            
-
-    
-    
-    
-    
-    
-    
-
-<!---->
-    
-
-    
-    
-    
-    
-
-      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
-        <div>
-          <a href="https://fr.linkedin.com/in/ren%C3%A9-simon-554ba624a?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
-            
-      <img class="inline-block relative
-          rounded-[50%]
-          w-4 h-4
-          bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="René Simon, visuel">
-      
-          </a>
-        </div>
-        <div class="w-full min-w-0">
-          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
-            <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/ren%C3%A9-simon-554ba624a?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    René Simon
-                  </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline"></p>
-              
-        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      2&nbsp;h.
-  
-        </span>
-
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
-        
-
-    
-
-    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
-          
-            <button class="ellipsis-menu__trigger
-                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
-                !py-[6px] !px-1 flex items-center rounded-[50%]
-                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
-                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
-            </button>
-          
-
-        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
-          
-              
-
-                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
-                  
-
-    
-    
-
-    
-
-    
-
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334951224250699776)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
-<!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
-                      Signaler ce commentaire
-                    
-    </a>
-
-<!---->  
-                </li>
-<!---->          
-        </ul>
-
-<!---->    </div>
-  
-
-      </div>
-  
-      
-            </div>
-            
-  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
-    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">Infos utiles, Jean-Marc</p>
-<!---->  </div>
-
-            
-<!---->      
-<!---->          </div>
-          
-        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
-
-              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
-                
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      J’aime
-    </span>
-  </div>
-
-              </a>
-
-                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
-                  
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      Réagir
-    </span>
-  </div>
-
-                </a>
-<!---->              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                1&nbsp;réaction
-              </span>
-        </div>
-      
-        </div>
-      </section>
-  
-  
-            
-
-    
-    
-    
-    
-    
-    
-
-<!---->
-    
-
-    
-    
-    
-    
-
-      <section class="comment flex grow-1 items-stretch leading-[16px] comment-with-action my-1.5">
-        <div>
-          <a href="https://fr.linkedin.com/in/xavier-jouard?trk=public_post_comment_actor-image" data-tracking-control-name="public_post_comment_actor-image" data-tracking-will-navigate="">
-            
-      <img class="inline-block relative
-          rounded-[50%]
-          w-4 h-4
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D03AQE8Dm-ktPnYBQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1601659580281?e=2147483647&amp;v=beta&amp;t=ICyo9ocCYn9YX_2MT3E4DIUhqR9XslkSZ28cLIdDWUo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Xavier JOUARD, visuel">
-      
-          </a>
-        </div>
-        <div class="w-full min-w-0">
-          <div class="comment__body ml-0.5 mb-1 pt-1 pr-1.5 pb-1 pl-1.5 rounded-[8px] rounded-tl-none relative">
-            <div class="comment__header flex flex-col">
-                  <a class="text-sm link-styled no-underline leading-open comment__author truncate pr-6" href="https://fr.linkedin.com/in/xavier-jouard?trk=public_post_comment_actor-name" data-tracking-control-name="public_post_comment_actor-name" data-tracking-will-navigate="">
-                    Xavier JOUARD
-                  </a>
-                  <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] mb-0.5 truncate comment__author-headline">Ingénieur projet R&amp;D / Designer / Eco-sensible I 4.2tCO2 - 2023</p>
-              
-        <span class="text-xs text-color-text-low-emphasis comment__duration-since absolute right-6 top-1 inline-block">
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      1&nbsp;j.
-  
-        </span>
-
-          
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5 babybear:!-top-0.5" data-test-id="comment__ellipsis-menu" data-feed-action="show-comment-dropdown">
-        
-
-    
-
-    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
-          
-            <button class="ellipsis-menu__trigger
-                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
-                !py-[6px] !px-1 flex items-center rounded-[50%]
-                ellipsis-menu__trigger--small !w-4 !h-4 !min-h-4 justify-center
-                 babybear:rotate-90 mamabear:!h-4 mamabear:!min-h-[32px] papabear:!h-4 papabear:!min-h-[32px]" aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_comment_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c26vw8uiog92lvrqov98hvbxr"></icon>
-            </button>
-          
-
-        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
-          
-              
-
-                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
-                  
-
-    
-    
-
-    
-
-    
-
-    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7334503265910333440,7334520741457014784)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
-<!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
-                      Signaler ce commentaire
-                    
-    </a>
-
-<!---->  
-                </li>
-<!---->          
-        </ul>
-
-<!---->    </div>
-  
-
-      </div>
-  
-      
-            </div>
-            
-  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
-    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
-         comment__text babybear:mt-0.5" dir="ltr">On ne pourra pas dire qu'on n'est pas prévenu (depuis des dizaines d'années). Quel est le plan d'anticipation des autres villages à risques ?</p>
-<!---->  </div>
-
-            
-<!---->      
-<!---->          </div>
-          
-        <div class="comment__actions flex flex-row flex-wrap items-center ml-2" aria-label="Commandes des commentaires">
-
-              <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_like" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer" data-tracking-control-name="public_post_comment_like" data-tracking-will-navigate="">
-                
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      J’aime
-    </span>
-  </div>
-
-              </a>
-
-                <span class="before:middot font-sans text-s text-color-text-low-emphasis"></span>
-                <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fjean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO&amp;trk=public_post_comment_reply" class="comment__action inline-block font-sans text-xs text-color-text-low-emphasis cursor-pointer comment__reply" data-feed-action="replyToComment" data-feed-control="reply" data-feed-action-category="EXPAND" data-feed-action-type="expandReplyBox" data-tracking-control-name="public_post_comment_reply" data-tracking-will-navigate="">
-                  
-  <div class="flex flex-row items-center ">
-    <icon class="action-btn__icon w-2 mr-0.5" data-svg-class-name="action-btn__icon--svg" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
-    </icon>
-    <span class="action-btn__button-text inline-block align-baseline">
-      Réagir
-    </span>
-  </div>
-
-                </a>
-<!---->              <span class="comment__reactions-count font-sans text-xs text-color-text-low-emphasis border-l-1 border-solid border-color-border-low-emphasis pl-1 mx-1 hidden">
-                1&nbsp;réaction
+                2&nbsp;réactions
               </span>
         </div>
       
