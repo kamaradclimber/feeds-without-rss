@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8","https://fr.linkedin.com/posts/jean-marc-jancovici_il-y-a-quelques-jours-le-petit-village-de-activity-7334503265910333440-uhvO"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_le-textile-comme-le-reste-de-nos-produits-activity-7335311071160815616-a5F_","https://fr.linkedin.com/posts/jean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
