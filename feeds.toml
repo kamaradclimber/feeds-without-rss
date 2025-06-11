@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://www.linkedin.com/posts/carbon4finance_carbon4-finance-brings-major-innovations-activity-7336014061429493760-5lVO","https://fr.linkedin.com/posts/cl%C3%A9ment-ory-consultant-senior-energie-climat_apr%C3%A8s-un-mois-de-mai-plus-calme-on-est-reparti-activity-7335919216090402817-thhP","https://fr.linkedin.com/posts/jean-marc-jancovici_la-d%C3%A9carbonation-de-l%C3%A9conomie-va-%C3%AAtre-un-activity-7335758533440729089-iuUV","https://fr.linkedin.com/posts/jean-marc-jancovici_le-textile-comme-le-reste-de-nos-produits-activity-7335311071160815616-a5F_","https://fr.linkedin.com/posts/jean-marc-jancovici_qui-a-dit-la-nature-fournit-des-services-activity-7334891802950340609-BF_8"]
+url = ["https://fr.linkedin.com/posts/gildas-mevel-712a332a_nature-related-issues-in-agribusiness-value-activity-7336405654607159296-GC8C","https://www.linkedin.com/posts/carbon4finance_carbon4-finance-brings-major-innovations-activity-7336014061429493760-5lVO","https://fr.linkedin.com/posts/cl%C3%A9ment-ory-consultant-senior-energie-climat_apr%C3%A8s-un-mois-de-mai-plus-calme-on-est-reparti-activity-7335919216090402817-thhP","https://fr.linkedin.com/posts/jean-marc-jancovici_nous-savions-depuis-longtemps-d%C3%A9j%C3%A0-que-le-activity-7336274133443379200-ATyA","https://fr.linkedin.com/posts/jean-marc-jancovici_la-d%C3%A9carbonation-de-l%C3%A9conomie-va-%C3%AAtre-un-activity-7335758533440729089-iuUV"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
