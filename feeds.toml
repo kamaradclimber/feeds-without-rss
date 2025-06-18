@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_vous-%C3%AAtes-plut%C3%B4t-ia-ou-plut%C3%B4t-gilets-jaunes-activity-7339933669920268288--AOs","https://fr.linkedin.com/posts/jean-marc-jancovici_quand-on-%C3%A9voque-les-morts-dus-au-r%C3%A9chauffement-activity-7339171097818374144-xxIH","https://fr.linkedin.com/posts/jean-marc-jancovici_a-force-de-dire-du-mal-de-lia-il-%C3%A9tait-activity-7339234887549280256-yhEw","https://fr.linkedin.com/posts/jean-marc-jancovici_cest-la-premi%C3%A8re-interview-conjointe-de-activity-7338906541581914112-3-rN","https://fr.linkedin.com/posts/jean-marc-jancovici_voil%C3%A0-un-r%C3%A9sultat-de-recherche-dont-nous-activity-7338278061081088000-FjOw"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_une-table-2-chaises-2-micros-une-assiette-activity-7340279733793792000-2gKF","https://fr.linkedin.com/posts/jean-marc-jancovici_vous-%C3%AAtes-plut%C3%B4t-ia-ou-plut%C3%B4t-gilets-jaunes-activity-7339933669920268288--AOs","https://fr.linkedin.com/posts/jean-marc-jancovici_quand-on-%C3%A9voque-les-morts-dus-au-r%C3%A9chauffement-activity-7339171097818374144-xxIH","https://fr.linkedin.com/posts/jean-marc-jancovici_a-force-de-dire-du-mal-de-lia-il-%C3%A9tait-activity-7339234887549280256-yhEw","https://fr.linkedin.com/posts/jean-marc-jancovici_cest-la-premi%C3%A8re-interview-conjointe-de-activity-7338906541581914112-3-rN"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
