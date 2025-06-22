@@ -19,7 +19,7 @@ entrySelector = "article.relative"
 linkSelector = "*"
 title = "Posts LinkedIn Jean-Marc Jancovici"
 titleSelector = "a.leading-open"
-url = ["https://fr.linkedin.com/posts/huguesferreboeuf_deux-chiffres-r%C3%A9sument-le-d%C3%A9calage-de-plus-activity-7339699991994613760-ViFk","https://fr.linkedin.com/posts/jean-marc-jancovici_une-table-2-chaises-2-micros-une-assiette-activity-7340279733793792000-2gKF","https://fr.linkedin.com/posts/jean-marc-jancovici_vous-%C3%AAtes-plut%C3%B4t-ia-ou-plut%C3%B4t-gilets-jaunes-activity-7339933669920268288--AOs","https://fr.linkedin.com/posts/jean-marc-jancovici_quand-on-%C3%A9voque-les-morts-dus-au-r%C3%A9chauffement-activity-7339171097818374144-xxIH","https://fr.linkedin.com/posts/jean-marc-jancovici_a-force-de-dire-du-mal-de-lia-il-%C3%A9tait-activity-7339234887549280256-yhEw"]
+url = ["https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL","https://fr.linkedin.com/posts/jean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv","https://fr.linkedin.com/posts/huguesferreboeuf_deux-chiffres-r%C3%A9sument-le-d%C3%A9calage-de-plus-activity-7339699991994613760-ViFk","https://fr.linkedin.com/posts/jean-marc-jancovici_ils-repr%C3%A9sentent-%C3%A0-peu-pr%C3%A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ","https://fr.linkedin.com/posts/thomas-fatome_d%C3%A9carboner-les-industries-de-sant%C3%A9-table-activity-7341147959465504768-SD6r"]
 
 [luisant]
 entrySelector = "td.mdl-data-table__cell--non-numeric > ul > li"
