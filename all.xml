@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kamaradclimber.github.io/feeds-without-rss/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-10T17:38:29.520Z</updated>
+    <updated>2025-10-11T05:37:33.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Jean-Marc Jancovici (Posts LinkedIn Jean-Marc Jancovici)]]></title>
         <id>https://kamaradclimber.github.io/feeds-without-rss/all.xml</id>
         <link href="https://kamaradclimber.github.io/feeds-without-rss/all.xml"/>
-        <updated>2025-10-10T17:38:13.829Z</updated>
+        <updated>2025-10-11T05:37:24.624Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -40,7 +40,10 @@
     <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
           <a href="https://fr.linkedin.com/in/jean-marc-jancovici?trk=public_post_feed-actor-image" class="relative" data-tracking-control-name="public_post_feed-actor-image" data-tracking-will-navigate="">
             
-      <img class="inline-block relative rounded-[50%] w-6 h-6 lazy-loaded" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Jean-Marc Jancovici" aria-busy="false" src="https://media.licdn.com/dms/image/v2/C4D03AQEUVgCmKN3cqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621956072532?e=2147483647&amp;v=beta&amp;t=rTemr7k9d7aiXgyzh8e6bUNIHveavgG2GfvNIhiKtfE">
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D03AQEUVgCmKN3cqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621956072532?e=2147483647&amp;v=beta&amp;t=rTemr7k9d7aiXgyzh8e6bUNIHveavgG2GfvNIhiKtfE" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Jean-Marc Jancovici">
       
 <!---->          </a>
       <div class="flex flex-col self-start min-w-0
@@ -53,16 +56,7 @@
             
 
     
-    <icon class="inline-flex align-middle text-color-logo-brand ml-0.5 !inline-block !ml-0 relative top-[3px] lazy-loaded" data-svg-class-name="w-2 h-2" aria-hidden="true" aria-busy="false"><svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" viewBox="0 0 40 40" focusable="false" class="w-2 h-2 lazy-loaded" aria-busy="false">
-    <g>
-        <path style="fill: var(--color-logo-brand);" d="M37,2.4v29.1C37,32.9,35.9,34,34.5,34H10l-7,6V2.4C3,1.1,4.2,0,5.6,0h29C35.9,0,37,1.1,37,2.4z"></path>
-        <g>
-        <path style="fill: var(--color-background-container)" d="M8,13h5v16H8V13z"></path>
-        <path style="fill: var(--color-background-container)" d="M16,13h4.8v2.4c0.6-1.3,2.5-2.6,4.9-2.6c4.7,0,6.3,2.1,6.3,7.2V29h-5v-8c0-2.7-0.5-4.1-2.5-4.1c-2.6,0-3.5,2-3.5,4.1V29h-5V13z"></path>
-        <circle style="fill: var(--color-background-container)" cx="10.5" cy="7.5" r="3.05"></circle>
-        </g>
-    </g>
-</svg></icon>
+    <icon class="inline-flex align-middle text-color-logo-brand ml-0.5 !inline-block !ml-0 relative top-[3px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/z5y0jxkijchnrd5zqq6ft8kd" data-svg-class-name="w-2 h-2"></icon>
     <span class="sr-only">Jean-Marc Jancovici est un Influencer</span>
   
 <!---->        </div>
@@ -147,9 +141,7 @@
                 !py-[6px] !px-1 flex items-center rounded-[50%]
                 
                 " aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
-</svg></icon>
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
             </button>
           
 
@@ -169,10 +161,8 @@
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7341895192410566657" data-semaphore-tracking-prefix="public_post_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce post
                     
     </a>
@@ -201,7 +191,7 @@ Pour le programme généralement le plus regardé d'une chaine de télévision, 
 
 Le principe est de partir d'une question posée par le public qui concerne le climat, et de convier une personne du monde académique (avec quelques exceptions) à fournir une réponse.
 
-Il y aura une deuxième innovation ce soir, avec le lancement de la "météo de l'eau", qui va nous renseigner non pas sur ce qui se passe au-dessus de nos têtes, mais plutôt sous nos pieds : <a class="link" href="https://lnkd.in/engYmKub?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/engYmKub</a>
+Il y aura une deuxième innovation ce soir, avec le lancement de la "météo de l'eau", qui va nous renseigner non pas sur ce qui se passe au-dessus de nos têtes, mais plutôt sous nos pieds : <a class="link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FengYmKub&amp;urlhash=mzFu&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/engYmKub</a>
 
 Il y sera question de nappes phréatiques (avec des cartes comme celle reproduite ici) ou de cours d'eau, des compartiments beaucoup moins réactifs que l'atmosphère, mais qui concernent un élément essentiel à la vie.
 
@@ -363,9 +353,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_copy" class="social-share__item social-share-item" data-share-service="copy" role="menuitem">
-      <icon class="social-share__item-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" focusable="false" class="lazy-loaded" aria-busy="false">
-<path d="M11.32 13.85C10.27 13.85 9.21 13.45 8.41 12.66L7.87 12.12C7.48 11.73 7.48 11.1 7.87 10.71C8.26 10.32 8.89 10.32 9.28 10.71L9.81 11.25C10.64 12.07 11.98 12.07 12.81 11.25L17.13 6.97003C17.68 6.42003 17.99 5.69003 17.99 4.91003C17.99 4.13003 17.69 3.40003 17.13 2.85003C16.02 1.75003 14.21 1.75003 13.1 2.85003L11.48 4.46003C11.09 4.85003 10.46 4.85003 10.07 4.46003C9.68 4.07003 9.68 3.44003 10.07 3.05003L11.69 1.44003C13.57 -0.439971 16.65 -0.439971 18.54 1.44003C19.47 2.37003 19.99 3.60003 19.99 4.92003C19.99 6.24003 19.48 7.48003 18.54 8.40003L14.22 12.68C13.42 13.48 12.37 13.87 11.31 13.87L11.32 13.85ZM8.3 18.6L9.92 16.99C10.31 16.6 10.31 15.97 9.92 15.58C9.53 15.19 8.9 15.19 8.51 15.58L6.89 17.19C5.78 18.3 3.97 18.3 2.86 17.19C2.31 16.64 2 15.91 2 15.13C2 14.35 2.3 13.62 2.86 13.07L7.18 8.79003C8.01 7.97003 9.35 7.97003 10.18 8.79003L10.71 9.32003C11.1 9.71003 11.73 9.71003 12.12 9.32003C12.51 8.93003 12.51 8.30003 12.12 7.91003L11.58 7.37003C9.98 5.78003 7.37 5.78003 5.76 7.37003L1.45 11.63C0.52 12.56 0 13.79 0 15.11C0 16.43 0.51 17.67 1.45 18.59C2.39 19.53 3.63 19.99 4.87 19.99C6.11 19.99 7.35 19.52 8.3 18.58V18.6Z" fill="currentColor" fill-opacity="0.75"></path>
-</svg></icon>
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
       <span class="social-share__item-text pl-1">Copier</span>
     </button>
   </li>
@@ -374,9 +362,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin" role="menuitem">
-      <icon class="social-share__item-icon lazy-loaded" data-svg-class-name="text-color-text" aria-hidden="true" aria-busy="false"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" focusable="false" class="text-color-text lazy-loaded" aria-busy="false">
-<path d="M18.5 0H1.5C0.7 0 0 0.7 0 1.5V18.5C0 19.3 0.7 20 1.5 20H18.5C19.3 20 20 19.3 20 18.5V1.5C20 0.7 19.3 0 18.5 0ZM6 17H3V8H6V17ZM4.5 6.2C3.5 6.2 2.7 5.4 2.7 4.4C2.7 3.4 3.5 2.6 4.5 2.6C5.5 2.6 6.3 3.4 6.3 4.4C6.3 5.5 5.5 6.2 4.5 6.2ZM17 17H14V12.3C14 10.9 13.4 10.4 12.6 10.4C11.8 10.4 11 11.1 11 12.4V17H8V8H10.9V9.3C11.3 8.7 12.2 7.9 13.6 7.9C15.1 7.9 17 8.8 17 11.6V17Z" fill="currentColor" fill-opacity="0.75"></path>
-</svg></icon>
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
       <span class="social-share__item-text pl-1">LinkedIn</span>
     </button>
   </li>
@@ -384,9 +370,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook" role="menuitem">
-      <icon class="social-share__item-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" focusable="false" class="lazy-loaded" aria-busy="false">
-<path d="M20 10.0553C20 15.0729 16.3418 19.2358 11.5642 19.9899V13.0015H13.8931L14.3328 10.1156H11.5642V8.24535C11.5642 7.45098 11.954 6.68678 13.1934 6.68678H14.4528V4.22323C14.4528 4.22323 13.3133 4.03218 12.2139 4.03218C9.93503 4.03218 8.43578 5.41981 8.43578 7.92358V10.1257H5.89705V13.0116H8.43578V20C3.65817 19.2459 0 15.083 0 10.0654C0.009995 4.50478 4.48776 0 10.005 0C15.5222 0 20 4.50478 20 10.0553Z" fill="currentColor" fill-opacity="0.75"></path>
-</svg></icon>
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
       <span class="social-share__item-text pl-1">Facebook</span>
     </button>
   </li>
@@ -394,9 +378,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter" role="menuitem">
-      <icon class="social-share__item-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" role="none" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.9 10.47L21.35 2h-1.76l-6.46 7.35L7.96 2H2l7.81 11.12L2 22h1.76l6.83-7.77L16.04 22H22l-8.1-11.53zm-2.42 2.75l-.79-1.11L4.4 3.3h2.71l5.08 7.11.79 1.11 6.6 9.24h-2.71l-5.39-7.54z"></path>
-</svg></icon>
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2pdd1nk5ocycpv963y85l3bt4"></icon>
       <span class="social-share__item-text pl-1">X</span>
     </button>
   </li>
@@ -540,10 +522,8 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341900346908131328)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -732,10 +712,8 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341915573376720898)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -926,10 +904,8 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7345830556359700482)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -1115,10 +1091,8 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7342560398841200641)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -1306,10 +1280,8 @@ Dans tous les cas, c'est de nature à jeter le doute... 🤔</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341948530103640064)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -1498,10 +1470,8 @@ Dans tous les cas, c'est de nature à jeter le doute... 🤔</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7344423651200409600)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -1691,10 +1661,8 @@ Parce qu'ici à Douarnenez c'est une invasion...</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341924441376907266)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -1880,10 +1848,8 @@ Parce qu'ici à Douarnenez c'est une invasion...</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341932464044490752)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -2069,10 +2035,8 @@ Parce qu'ici à Douarnenez c'est une invasion...</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7343806653097566208)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -2258,10 +2222,8 @@ Parce qu'ici à Douarnenez c'est une invasion...</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341902971581964288)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
-  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
-</svg></icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
                       Signaler ce commentaire
                     
     </a>
@@ -2320,9 +2282,7 @@ Le maïs semé aux endroits où les derniers orages ne sont pas passés comme ch
               
           <button class="modal__dismiss btn-tertiary h-[40px] w-[40px] p-0 rounded-full indent-0
               dialog-modal__dismiss shrink-0 !text-color-icon-on-dark absolute top-[4px] left-[4px] z-1" aria-label="Ignorer" data-tracking-control-name="public_post_dismiss">
-            <icon class="modal__dismiss-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg width="24px" height="24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="artdeco-icon lazy-loaded" focusable="false" aria-busy="false">
-  <path d="M20,5.32L13.32,12,20,18.68,18.66,20,12,13.33,5.34,20,4,18.68,10.68,12,4,5.32,5.32,4,12,10.69,18.68,4Z" fill="currentColor"></path>
-</svg></icon>
+            <icon class="modal__dismiss-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/gs508lg3t2o81tq7pmcgn6m2"></icon>
           </button>
         
             <div class="modal__main w-full">
@@ -2349,9 +2309,7 @@ Le maïs semé aux endroits où les derniers orages ne sont pas passés comme ch
                 Plus de contenu précédent
               </div>
               <button data-tracking-control-name="public_post_slide-list-tracking_slide_list_prev_button" class="slide-list__nav-button rounded-xl px-1.5 py-1 btn-overlay cursor-pointer disabled:hidden" aria-label="Diapositive précédente" data-direction="prev" disabled="">
-                <icon class="slide-list__nav-icon flex items-center justify-center pointer-events-none w-2 h-3 rtl:-scale-x-100 rtl:translate-x-[7px] lazy-loaded" aria-hidden="true" aria-busy="false"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="rtl-flip lazy-loaded" id="chevron-left-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor" focusable="false" aria-busy="false">
-  <path d="M11 1L6.39 8 11 15H8.61L4 8l4.61-7z"></path>
-</svg></icon>
+                <icon class="slide-list__nav-icon flex items-center justify-center pointer-events-none w-2 h-3 rtl:-scale-x-100 rtl:translate-x-[7px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c4cba545dp8erex8bfiynf35e"></icon>
               </button>
             </div>
           </div>
@@ -2362,7 +2320,8 @@ Le maïs semé aux endroits où les derniers orages ne sont pas passés comme ch
                 <li class="slide-list__item mr-2 rtl:ml-2
                     relative w-[100vw] shrink-0
                     ">
-<!---->                  <img class="main-image block max-w-[100vw] max-h-[100vh] m-auto" alt="Image" data-image-viewer-action="main-image" aria-busy="true" src="https://media.licdn.com/dms/image/v2/D4E2CAQE7YYNw89usmw/comment-image-shrink_8192_480/B4EZeOt1qAHsAI-/0/1750446072837?e=2147483647&amp;v=beta&amp;t=uJmix30OCcyiI7fZe0fJNQsrQzgMJOYmgI71DmQ7sHc">
+<!---->                  <img class="main-image block max-w-[100vw] max-h-[100vh] m-auto
+                      " alt="Image" data-image-viewer-action="main-image" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E2CAQE7YYNw89usmw/comment-image-shrink_8192_480/B4EZeOt1qAHsAI-/0/1750446072837?e=2147483647&amp;v=beta&amp;t=uJmix30OCcyiI7fZe0fJNQsrQzgMJOYmgI71DmQ7sHc">
                 </li>
             
               </ul>
@@ -2374,9 +2333,7 @@ Le maïs semé aux endroits où les derniers orages ne sont pas passés comme ch
                 Plus de contenu suivant
               </div>
               <button data-tracking-control-name="public_post_slide-list-tracking_slide_list_next_button" class="slide-list__nav-button rounded-xl px-1.5 py-1 btn-overlay cursor-pointer disabled:hidden" aria-label="Diapositive suivante" data-direction="next">
-                <icon class="slide-list__nav-icon flex items-center justify-center pointer-events-none w-2 h-3 rtl:-scale-x-100 rtl:translate-x-[7px] lazy-loaded" aria-hidden="true" aria-busy="false"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="rtl-flip lazy-loaded" id="chevron-right-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor" focusable="false" aria-busy="false">
-  <path d="M5 15l4.61-7L5 1h2.39L12 8l-4.61 7z"></path>
-</svg></icon>
+                <icon class="slide-list__nav-icon flex items-center justify-center pointer-events-none w-2 h-3 rtl:-scale-x-100 rtl:translate-x-[7px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/attd0x4zpqud1mtgka71gdtdk"></icon>
               </button>
             </div>
           </div>
@@ -2457,7 +2414,7 @@ Le maïs semé aux endroits où les derniers orages ne sont pas passés comme ch
         <title type="html"><![CDATA[Jean-Marc Jancovici (Posts LinkedIn Jean-Marc Jancovici)]]></title>
         <id>https://kamaradclimber.github.io/feeds-without-rss/all.xml</id>
         <link href="https://kamaradclimber.github.io/feeds-without-rss/all.xml"/>
-        <updated>2025-10-10T17:38:14.595Z</updated>
+        <updated>2025-10-11T05:37:25.399Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -2640,7 +2597,7 @@ Le maïs semé aux endroits où les derniers orages ne sont pas passés comme ch
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
         " dir="ltr" data-test-id="main-feed-activity-card__commentary">La vague de chaleur qui va s'intensifier jusqu'à la fin de la semaine dans notre pays va nous rappeler que l'année "pas normale" a été l'année dernière où, un peu par miracle, la France a été assez arrosée, et n'a pas connu de canicule abominable.
 
-Mais chassez le naturel... et nous y revoici. La nouvelle que vient de publier Le Monde est hélas en ligne avec l'actualité. En effet, l'objectif le plus ambitieux de l'Accord de Paris, à savoir limiter le réchauffement à 1,5 °C, est désormais hors de portée : <a class="link" href="https://lnkd.in/dskHdKRB?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/dskHdKRB</a>
+Mais chassez le naturel... et nous y revoici. La nouvelle que vient de publier Le Monde est hélas en ligne avec l'actualité. En effet, l'objectif le plus ambitieux de l'Accord de Paris, à savoir limiter le réchauffement à 1,5 °C, est désormais hors de portée : <a class="link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskHdKRB&amp;urlhash=Q3Kp&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/dskHdKRB</a>
 
 La raison ? Le CO2 est un oxyde. Sur terre, les oxydes sont des molécules très stables. L'eau, par exemple, est un oxyde (d'hydrogène), et cela fait 4 milliards d'années qu'elle est présente sous forme d'eau.
 
@@ -4874,7 +4831,7 @@ Coach et consultant</p>
         <title type="html"><![CDATA[Hugues Ferreboeuf (Posts LinkedIn Jean-Marc Jancovici)]]></title>
         <id>https://kamaradclimber.github.io/feeds-without-rss/all.xml</id>
         <link href="https://kamaradclimber.github.io/feeds-without-rss/all.xml"/>
-        <updated>2025-10-10T17:38:15.465Z</updated>
+        <updated>2025-10-11T05:37:26.154Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -5047,7 +5004,7 @@ Coach et consultant</p>
     <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
         " dir="ltr" data-test-id="main-feed-activity-card__commentary">Deux chiffres résument le décalage de plus en plus dangereux entre les moyens que nous consacrons d'une part à la numérisation du monde et d'autre part à la préservation de ce même monde: 
 - les pays développés ont péniblement accepté lors de la COP 29 d'augmenter leur contribution annuelle au financement de l'action climatique des pays en développement de 100 milliards de dollars à 300 milliards de dollars d'ci 2035. Si les engagements sont tenus cela représente un montant d'environ 750 milliards de dollars de 2025 à 2030.
-- le montant prévisionnel des investissements dans l'IA et pour l'IA (venant à 98% des pays développés) sur la même période 2025-2030 est estimé à 5200 milliards de dollars par McKinsey avec une fourchette basse de 3900 milliards et une fourchette haute de 7900 milliards (<a class="link" href="https://lnkd.in/efsZevjF?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/efsZevjF</a>).
+- le montant prévisionnel des investissements dans l'IA et pour l'IA (venant à 98% des pays développés) sur la même période 2025-2030 est estimé à 5200 milliards de dollars par McKinsey avec une fourchette basse de 3900 milliards et une fourchette haute de 7900 milliards (<a class="link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FefsZevjF&amp;urlhash=DAEf&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/efsZevjF</a>).
 
 En d'autres termes il semble 7 fois (voire 10 fois)  plus important de construire des cathédrales numériques plutôt que de préserver nos chances d'avoir une planète habitable.</p>
 <!---->  </div>
@@ -6546,7 +6503,7 @@ Se préserver un avenir vivable n’est pas une priorité 🤢</p>
         <title type="html"><![CDATA[Ludovic ARGA (Posts LinkedIn Jean-Marc Jancovici)]]></title>
         <id>https://kamaradclimber.github.io/feeds-without-rss/all.xml</id>
         <link href="https://kamaradclimber.github.io/feeds-without-rss/all.xml"/>
-        <updated>2025-10-10T17:38:15.502Z</updated>
+        <updated>2025-10-11T05:37:26.159Z</updated>
         <content type="html"><![CDATA[<div class="flex items-center font-sans" data-test-id="feed-reshare-content__entity-lockup">
           <a href="https://fr.linkedin.com/in/ludovicarga?trk=public_post_reshare_feed-actor-image" target="_self" class="relative" data-tracking-control-name="public_post_reshare_feed-actor-image" data-tracking-will-navigate="">
             
@@ -6676,7 +6633,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
         <title type="html"><![CDATA[Jean-Marc Jancovici (Posts LinkedIn Jean-Marc Jancovici)]]></title>
         <id>https://kamaradclimber.github.io/feeds-without-rss/all.xml</id>
         <link href="https://kamaradclimber.github.io/feeds-without-rss/all.xml"/>
-        <updated>2025-10-10T17:38:16.285Z</updated>
+        <updated>2025-10-11T05:37:27.069Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -6708,10 +6665,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
     <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
           <a href="https://fr.linkedin.com/in/jean-marc-jancovici?trk=public_post_feed-actor-image" class="relative" data-tracking-control-name="public_post_feed-actor-image" data-tracking-will-navigate="">
             
-      <img class="inline-block relative
-          rounded-[50%]
-          w-6 h-6
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D03AQEUVgCmKN3cqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621956072532?e=2147483647&amp;v=beta&amp;t=rTemr7k9d7aiXgyzh8e6bUNIHveavgG2GfvNIhiKtfE" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Jean-Marc Jancovici">
+      <img class="inline-block relative rounded-[50%] w-6 h-6 lazy-loaded" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Jean-Marc Jancovici" aria-busy="false" src="https://media.licdn.com/dms/image/v2/C4D03AQEUVgCmKN3cqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621956072532?e=2147483647&amp;v=beta&amp;t=rTemr7k9d7aiXgyzh8e6bUNIHveavgG2GfvNIhiKtfE">
       
 <!---->          </a>
       <div class="flex flex-col self-start min-w-0
@@ -6724,7 +6678,16 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
             
 
     
-    <icon class="inline-flex align-middle text-color-logo-brand ml-0.5 !inline-block !ml-0 relative top-[3px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/z5y0jxkijchnrd5zqq6ft8kd" data-svg-class-name="w-2 h-2"></icon>
+    <icon class="inline-flex align-middle text-color-logo-brand ml-0.5 !inline-block !ml-0 relative top-[3px] lazy-loaded" data-svg-class-name="w-2 h-2" aria-hidden="true" aria-busy="false"><svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" viewBox="0 0 40 40" focusable="false" class="w-2 h-2 lazy-loaded" aria-busy="false">
+    <g>
+        <path style="fill: var(--color-logo-brand);" d="M37,2.4v29.1C37,32.9,35.9,34,34.5,34H10l-7,6V2.4C3,1.1,4.2,0,5.6,0h29C35.9,0,37,1.1,37,2.4z"></path>
+        <g>
+        <path style="fill: var(--color-background-container)" d="M8,13h5v16H8V13z"></path>
+        <path style="fill: var(--color-background-container)" d="M16,13h4.8v2.4c0.6-1.3,2.5-2.6,4.9-2.6c4.7,0,6.3,2.1,6.3,7.2V29h-5v-8c0-2.7-0.5-4.1-2.5-4.1c-2.6,0-3.5,2-3.5,4.1V29h-5V13z"></path>
+        <circle style="fill: var(--color-background-container)" cx="10.5" cy="7.5" r="3.05"></circle>
+        </g>
+    </g>
+</svg></icon>
     <span class="sr-only">Jean-Marc Jancovici est un Influencer</span>
   
 <!---->        </div>
@@ -6809,7 +6772,9 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
                 !py-[6px] !px-1 flex items-center rounded-[50%]
                 
                 " aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></icon>
             </button>
           
 
@@ -6829,8 +6794,10 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7341102432074014724" data-semaphore-tracking-prefix="public_post_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce post
                     
     </a>
@@ -6871,9 +6838,9 @@ Pour pousser les industriels à faire mieux, une idée a été avancée hier : q
 
 Rappelons que si le système de soins émet des gaz à effet de serre, c'est qu'il dépend de combustibles fossiles épuisables. Le décarboner n'est pas qu'une lubie d'écolo voulant casser les pieds de tout le monde : c'est surtout le gage d'une pérennité dans un monde qui, tôt ou tard, va devoir faire avec de moins en moins de fossiles.
 
-Le rapport : <a class="link" href="https://t.ly/sMRow?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://t.ly/sMRow</a>
+Le rapport : <a class="link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ft%2Ely%2FsMRow&amp;urlhash=xlyW&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://t.ly/sMRow</a>
 
-Le replay de la vidéo de présentation : <a class="link" href="https://t.ly/dntpH?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://t.ly/dntpH</a> (avec une table ronde rassemblant <a class="link" href="https://fr.linkedin.com/in/thomas-fatome?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Thomas Fatôme</a>, DG de la CNAM, <a class="link" href="https://fr.linkedin.com/in/laurence-comte-arassus-b26715?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Laurence Comte-Arassus</a>, Présidente du SNITEM, <a class="link" href="https://fr.linkedin.com/in/thomas-courbe-898783196?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Thomas Courbe</a>, Directeur Général des Entreprises à Bercy, <a class="link" href="https://fr.linkedin.com/in/laurence-peyraut-b6029932?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Laurence Peyraut</a>, DG du LEEM).</p>
+Le replay de la vidéo de présentation : <a class="link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ft%2Ely%2FdntpH&amp;urlhash=H2HS&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://t.ly/dntpH</a> (avec une table ronde rassemblant <a class="link" href="https://fr.linkedin.com/in/thomas-fatome?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Thomas Fatôme</a>, DG de la CNAM, <a class="link" href="https://fr.linkedin.com/in/laurence-comte-arassus-b26715?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Laurence Comte-Arassus</a>, Présidente du SNITEM, <a class="link" href="https://fr.linkedin.com/in/thomas-courbe-898783196?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Thomas Courbe</a>, Directeur Général des Entreprises à Bercy, <a class="link" href="https://fr.linkedin.com/in/laurence-peyraut-b6029932?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Laurence Peyraut</a>, DG du LEEM).</p>
 <!---->  </div>
 
 
@@ -7031,7 +6998,9 @@ Le replay de la vidéo de présentation : <a class="link" href="https://t.ly/dnt
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_copy" class="social-share__item social-share-item" data-share-service="copy" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <icon class="social-share__item-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" focusable="false" class="lazy-loaded" aria-busy="false">
+<path d="M11.32 13.85C10.27 13.85 9.21 13.45 8.41 12.66L7.87 12.12C7.48 11.73 7.48 11.1 7.87 10.71C8.26 10.32 8.89 10.32 9.28 10.71L9.81 11.25C10.64 12.07 11.98 12.07 12.81 11.25L17.13 6.97003C17.68 6.42003 17.99 5.69003 17.99 4.91003C17.99 4.13003 17.69 3.40003 17.13 2.85003C16.02 1.75003 14.21 1.75003 13.1 2.85003L11.48 4.46003C11.09 4.85003 10.46 4.85003 10.07 4.46003C9.68 4.07003 9.68 3.44003 10.07 3.05003L11.69 1.44003C13.57 -0.439971 16.65 -0.439971 18.54 1.44003C19.47 2.37003 19.99 3.60003 19.99 4.92003C19.99 6.24003 19.48 7.48003 18.54 8.40003L14.22 12.68C13.42 13.48 12.37 13.87 11.31 13.87L11.32 13.85ZM8.3 18.6L9.92 16.99C10.31 16.6 10.31 15.97 9.92 15.58C9.53 15.19 8.9 15.19 8.51 15.58L6.89 17.19C5.78 18.3 3.97 18.3 2.86 17.19C2.31 16.64 2 15.91 2 15.13C2 14.35 2.3 13.62 2.86 13.07L7.18 8.79003C8.01 7.97003 9.35 7.97003 10.18 8.79003L10.71 9.32003C11.1 9.71003 11.73 9.71003 12.12 9.32003C12.51 8.93003 12.51 8.30003 12.12 7.91003L11.58 7.37003C9.98 5.78003 7.37 5.78003 5.76 7.37003L1.45 11.63C0.52 12.56 0 13.79 0 15.11C0 16.43 0.51 17.67 1.45 18.59C2.39 19.53 3.63 19.99 4.87 19.99C6.11 19.99 7.35 19.52 8.3 18.58V18.6Z" fill="currentColor" fill-opacity="0.75"></path>
+</svg></icon>
       <span class="social-share__item-text pl-1">Copier</span>
     </button>
   </li>
@@ -7040,7 +7009,9 @@ Le replay de la vidéo de présentation : <a class="link" href="https://t.ly/dnt
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <icon class="social-share__item-icon lazy-loaded" data-svg-class-name="text-color-text" aria-hidden="true" aria-busy="false"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" focusable="false" class="text-color-text lazy-loaded" aria-busy="false">
+<path d="M18.5 0H1.5C0.7 0 0 0.7 0 1.5V18.5C0 19.3 0.7 20 1.5 20H18.5C19.3 20 20 19.3 20 18.5V1.5C20 0.7 19.3 0 18.5 0ZM6 17H3V8H6V17ZM4.5 6.2C3.5 6.2 2.7 5.4 2.7 4.4C2.7 3.4 3.5 2.6 4.5 2.6C5.5 2.6 6.3 3.4 6.3 4.4C6.3 5.5 5.5 6.2 4.5 6.2ZM17 17H14V12.3C14 10.9 13.4 10.4 12.6 10.4C11.8 10.4 11 11.1 11 12.4V17H8V8H10.9V9.3C11.3 8.7 12.2 7.9 13.6 7.9C15.1 7.9 17 8.8 17 11.6V17Z" fill="currentColor" fill-opacity="0.75"></path>
+</svg></icon>
       <span class="social-share__item-text pl-1">LinkedIn</span>
     </button>
   </li>
@@ -7048,7 +7019,9 @@ Le replay de la vidéo de présentation : <a class="link" href="https://t.ly/dnt
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <icon class="social-share__item-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" focusable="false" class="lazy-loaded" aria-busy="false">
+<path d="M20 10.0553C20 15.0729 16.3418 19.2358 11.5642 19.9899V13.0015H13.8931L14.3328 10.1156H11.5642V8.24535C11.5642 7.45098 11.954 6.68678 13.1934 6.68678H14.4528V4.22323C14.4528 4.22323 13.3133 4.03218 12.2139 4.03218C9.93503 4.03218 8.43578 5.41981 8.43578 7.92358V10.1257H5.89705V13.0116H8.43578V20C3.65817 19.2459 0 15.083 0 10.0654C0.009995 4.50478 4.48776 0 10.005 0C15.5222 0 20 4.50478 20 10.0553Z" fill="currentColor" fill-opacity="0.75"></path>
+</svg></icon>
       <span class="social-share__item-text pl-1">Facebook</span>
     </button>
   </li>
@@ -7056,7 +7029,9 @@ Le replay de la vidéo de présentation : <a class="link" href="https://t.ly/dnt
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2pdd1nk5ocycpv963y85l3bt4"></icon>
+      <icon class="social-share__item-icon lazy-loaded" aria-hidden="true" aria-busy="false"><svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" role="none" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.9 10.47L21.35 2h-1.76l-6.46 7.35L7.96 2H2l7.81 11.12L2 22h1.76l6.83-7.77L16.04 22H22l-8.1-11.53zm-2.42 2.75l-.79-1.11L4.4 3.3h2.71l5.08 7.11.79 1.11 6.6 9.24h-2.71l-5.39-7.54z"></path>
+</svg></icon>
       <span class="social-share__item-text pl-1">X</span>
     </button>
   </li>
@@ -7200,8 +7175,10 @@ Le replay de la vidéo de présentation : <a class="link" href="https://t.ly/dnt
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7341421685595672578)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -7390,8 +7367,10 @@ Le replay de la vidéo de présentation : <a class="link" href="https://t.ly/dnt
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7341110041455783936)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -7584,8 +7563,10 @@ Bref de grosses marges de progrès.</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7350847678089437185)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -7773,8 +7754,10 @@ Finalement, l’euthanasie, c’est écologique !</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7341733902387933184)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -7960,8 +7943,10 @@ Finalement, l’euthanasie, c’est écologique !</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7341106158666993666)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -8153,8 +8138,10 @@ Nantes Université -  LEMNA</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7341104853512777728)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -8343,8 +8330,10 @@ Nantes Université -  LEMNA</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7346942327506034688)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -8530,8 +8519,10 @@ Nantes Université -  LEMNA</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7341123834642616321)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -8731,8 +8722,10 @@ Au fait, que faut-il prendre pour soigner l'asthme ?</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7341136428837330944)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -8918,8 +8911,10 @@ Au fait, que faut-il prendre pour soigner l'asthme ?</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_ils-repr%25C3%25A9sentent-%25C3%25A0-peu-pr%25C3%25A8s-25-de-lempreinte-activity-7341102432074014724-o_PQ&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341102432074014724,7341106972013846530)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -9009,7 +9004,7 @@ Il y aussi un levier, que j'ai peut-être manqué dans les synthèses, sur la r�
         <title type="html"><![CDATA[Thomas Fatôme (Posts LinkedIn Jean-Marc Jancovici)]]></title>
         <id>https://kamaradclimber.github.io/feeds-without-rss/all.xml</id>
         <link href="https://kamaradclimber.github.io/feeds-without-rss/all.xml"/>
-        <updated>2025-10-10T17:38:17.147Z</updated>
+        <updated>2025-10-11T05:37:27.949Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -9201,8 +9196,8 @@ Il y aussi un levier, que j'ai peut-être manqué dans les synthèses, sur la r�
 ➡️ J’ai eu le plaisir de participer à l’événement organisé par l’équipe santé du <a class="link" href="https://fr.linkedin.com/company/the-shift-project?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">The Shift Project</a>, avec le soutien de la <a class="link" href="https://fr.linkedin.com/company/cnam-caisse-nationale-assurance-maladie?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Caisse nationale de l’Assurance Maladie</a> et du Haut Conseil pour l’avenir de l’Assurance Maladie, à l’occasion de la présentation de deux rapports :
 
  📘 « Décarbonons les industries du médicament » 
-👉 <a class="link" href="https://lnkd.in/eJKbBFi8?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/eJKbBFi8</a> 
- 📘 « Décarbonons les dispositifs médicaux » 👉&nbsp;<a class="link" href="https://lnkd.in/egq4K6as?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/egq4K6as</a> 
+👉 <a class="link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeJKbBFi8&amp;urlhash=fNFg&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/eJKbBFi8</a> 
+ 📘 « Décarbonons les dispositifs médicaux » 👉&nbsp;<a class="link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fegq4K6as&amp;urlhash=QZBp&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/egq4K6as</a> 
 
 🎤 J’ai pu prendre part à la table-ronde : « Prioriser pour décarboner : quelle stratégie industrielle pour réduire de 80 % les émissions des médicaments et des dispositifs médicaux à l’horizon 2050 ? », aux côtés de <a class="link" href="https://fr.linkedin.com/in/laurence-comte-arassus-b26715?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Laurence Comte-Arassus</a>, <a class="link" href="https://fr.linkedin.com/in/thomas-courbe-898783196?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Thomas Courbe</a> et <a class="link" href="https://fr.linkedin.com/in/laurence-peyraut-b6029932?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Laurence Peyraut</a>, sous la modération du Dr. <a class="link" href="https://be.linkedin.com/in/david-grimaldi-a9b92a47?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">David Grimaldi</a>.
 
@@ -9216,7 +9211,7 @@ Il y aussi un levier, que j'ai peut-être manqué dans les synthèses, sur la r�
 🙏 Merci au Shift Project pour son invitation et pour la qualité de ses travaux, essentiels pour éclairer l’action publique comme celle des acteurs de santé.
 
 📺 Pour (re)voir les échanges :&nbsp;replay disponible ici 👇 
-<a class="link" href="https://lnkd.in/eVT3_H4D?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/eVT3_H4D</a>
+<a class="link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FeVT3_H4D&amp;urlhash=01hE&amp;trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">https://lnkd.in/eVT3_H4D</a>
 
 <a class="link" href="https://fr.linkedin.com/in/jean-marc-jancovici?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Jean-Marc Jancovici</a> <a class="link" href="https://fr.linkedin.com/in/claire-traon-638a53122?trk=public_post-text" target="_self" data-tracking-control-name="public_post-text" data-tracking-will-navigate="">Claire Traon</a></p>
 <!---->  </div>
@@ -10244,251 +10239,5 @@ Les rapports sont disponibles online <a class="link" href="https://theshiftproje
     <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
         <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Ffr%2Elinkedin%2Ecom%2Fposts%2Fthomas-fatome_d%25C3%25A9carboner-les-industries-de-sant%25C3%25A9-table-activity-7341147959465504768-SD6r&amp;trk=public_post_feed-cta-banner-cta" target="" aria-label="Identifiez-vous pour afficher ou ajouter un commentaire" data-tracking-control-name="public_post_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">Identifiez-vous</a> pour afficher ou ajouter un commentaire
     </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lancement de la saison culturelle (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/97-septembre-2025/1913-lancement-de-la-saison-culturelle</id>
-        <link href="https://www.luisant.fr/agenda-evenements/97-septembre-2025/1913-lancement-de-la-saison-culturelle"/>
-        <updated>2025-10-10T05:39:15.129Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 20 septembre :</strong> <a href="/agenda-evenements/97-septembre-2025/1913-lancement-de-la-saison-culturelle" target="_blank" rel="noopener">Lancement de la saison&nbsp;culturelle</a>
-<h1 style="text-align: center;">OCTOBRE 2025</h1>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salon de la BD et de l’illustration jeunesse « Les Bulles en Balade » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/98-octobre-2025/2023-salon-de-la-bande-dessinee-et-de-l-illustration-jeunesse-2</id>
-        <link href="https://www.luisant.fr/agenda-evenements/98-octobre-2025/2023-salon-de-la-bande-dessinee-et-de-l-illustration-jeunesse-2"/>
-        <updated>2025-10-10T05:39:15.129Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 4 et dimanche 5 octobre :</strong> <a href="/agenda-evenements/98-octobre-2025/2023-salon-de-la-bande-dessinee-et-de-l-illustration-jeunesse-2" target="_blank" rel="noopener noreferrer">Salon de la BD et de l’illustration jeunesse&nbsp;«&nbsp;Les Bulles en Balade&nbsp;<strong>»</strong></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match d'Impro (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/98-octobre-2025/2249-match-dimpro</id>
-        <link href="https://www.luisant.fr/agenda-evenements/98-octobre-2025/2249-match-dimpro"/>
-        <updated>2025-10-10T05:39:15.130Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 11 octobre :</strong> <a href="/agenda-evenements/98-octobre-2025/2249-match-dimpro" target="_blank" rel="noopener">Match d'Impro</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electro Reggae Dub Christmas (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/99-novembre-2025/2252-reggae-christmas</id>
-        <link href="https://www.luisant.fr/agenda-evenements/99-novembre-2025/2252-reggae-christmas"/>
-        <updated>2025-10-10T05:39:15.131Z</updated>
-        <content type="html"><![CDATA[<strong>Vendredi 7 et samedi 8 novembre : </strong><a href="/agenda-evenements/99-novembre-2025/2252-reggae-christmas" target="_blank" rel="noopener">Electro Reggae Dub Christmas</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Festival « Le Légendaire » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/99-novembre-2025/2254-festival-le-legendaire-2</id>
-        <link href="https://www.luisant.fr/agenda-evenements/99-novembre-2025/2254-festival-le-legendaire-2"/>
-        <updated>2025-10-10T05:39:15.132Z</updated>
-        <content type="html"><![CDATA[<strong>Mercredi 12 novembre : </strong><a href="/agenda-evenements/99-novembre-2025/2254-festival-le-legendaire-2" target="_blank" rel="noopener">Festival « Le Légendaire »</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temps fort « Les Rencontres du Légendaire » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/99-novembre-2025/2255-les-rencontres-du-legendaire-2</id>
-        <link href="https://www.luisant.fr/agenda-evenements/99-novembre-2025/2255-les-rencontres-du-legendaire-2"/>
-        <updated>2025-10-10T05:39:15.133Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 15 et dimanche 16 novembre : </strong><a href="/agenda-evenements/99-novembre-2025/2255-les-rencontres-du-legendaire-2" target="_blank" rel="noopener">Temps fort « Les Rencontres du Légendaire »</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tremplin du Festival « Top in Humour » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/99-novembre-2025/1919-top-in-humour</id>
-        <link href="https://www.luisant.fr/agenda-evenements/99-novembre-2025/1919-top-in-humour"/>
-        <updated>2025-10-10T05:39:15.138Z</updated>
-        <content type="html"><![CDATA[<strong>Vendredi 28 novembre :</strong> <a href="/agenda-evenements/99-novembre-2025/1919-top-in-humour" target="_blank" rel="noopener">Tremplin du Festival <strong>«&nbsp;</strong>Top in Humour&nbsp;<strong>»</strong></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« Les Rencontres du violoncelle » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/99-novembre-2025/2256-les-rencontres-du-violoncelle</id>
-        <link href="https://www.luisant.fr/agenda-evenements/99-novembre-2025/2256-les-rencontres-du-violoncelle"/>
-        <updated>2025-10-10T05:39:15.139Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 29 novembre :</strong> <a href="/agenda-evenements/99-novembre-2025/2256-les-rencontres-du-violoncelle" target="_blank" rel="noopener"><strong>«&nbsp;</strong>Les Rencontres du violoncelle <strong>»</strong></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Téléthon (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/100-decembre-2025/2257-le-telethon-2</id>
-        <link href="https://www.luisant.fr/agenda-evenements/100-decembre-2025/2257-le-telethon-2"/>
-        <updated>2025-10-10T05:39:15.141Z</updated>
-        <content type="html"><![CDATA[<strong>Les 5, 6 et 7 décembre : </strong><a href="/agenda-evenements/100-decembre-2025/2257-le-telethon-2" target="_blank" rel="noopener">Téléthon</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marché de Noël (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/100-decembre-2025/2258-marche-de-noel</id>
-        <link href="https://www.luisant.fr/agenda-evenements/100-decembre-2025/2258-marche-de-noel"/>
-        <updated>2025-10-10T05:39:15.142Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 13 et dimanche 14 décembre :</strong> <a href="/agenda-evenements/100-decembre-2025/2258-marche-de-noel" target="_blank" rel="noopener">Marché de Noël</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lecture interactive (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/100-decembre-2025/2259-lecture-participative</id>
-        <link href="https://www.luisant.fr/agenda-evenements/100-decembre-2025/2259-lecture-participative"/>
-        <updated>2025-10-10T05:39:15.143Z</updated>
-        <content type="html"><![CDATA[<strong>Mercredi 17 décembre :</strong> <a href="/agenda-evenements/100-decembre-2025/2259-lecture-participative" target="_blank" rel="noopener">Lecture interactive</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concert d’hiver des Ensembles de l’École Municipale de Musique (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/100-decembre-2025/2260-concert-dhiver-des-ensembles-de-lecole-municipale-de-musique</id>
-        <link href="https://www.luisant.fr/agenda-evenements/100-decembre-2025/2260-concert-dhiver-des-ensembles-de-lecole-municipale-de-musique"/>
-        <updated>2025-10-10T05:39:15.145Z</updated>
-        <content type="html"><![CDATA[<strong>Mercredi 17 décembre :</strong> <a href="/agenda-evenements/100-decembre-2025/2260-concert-dhiver-des-ensembles-de-lecole-municipale-de-musique" target="_blank" rel="noopener">Concert d’hiver des Ensembles de l’École Municipale de Musique</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concert dessiné « Versant, Vivant » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/101-janvier-2026/2291-concert-dessine-versant-vivant</id>
-        <link href="https://www.luisant.fr/agenda-evenements/101-janvier-2026/2291-concert-dessine-versant-vivant"/>
-        <updated>2025-10-10T05:39:15.149Z</updated>
-        <content type="html"><![CDATA[<strong>Jeudi 15 janvier : </strong><a href="/agenda-evenements/101-janvier-2026/2291-concert-dessine-versant-vivant" target="_blank" rel="noopener">Concert dessiné « Versant, Vivant »</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stage de danse tournoyante avec la Cie Gamart (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/101-janvier-2026/2281-stage-de-danse-tournoyante</id>
-        <link href="https://www.luisant.fr/agenda-evenements/101-janvier-2026/2281-stage-de-danse-tournoyante"/>
-        <updated>2025-10-10T05:39:15.149Z</updated>
-        <content type="html"><![CDATA[<strong>Vendredi 23 janvier : </strong><a href="/agenda-evenements/101-janvier-2026/2281-stage-de-danse-tournoyante" target="_blank" rel="noopener">Stage de danse tournoyante avec la Cie Gamart</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« Androgyne » de la Cie Gamart (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/101-janvier-2026/2282-spectacle-de-danse-androgyne</id>
-        <link href="https://www.luisant.fr/agenda-evenements/101-janvier-2026/2282-spectacle-de-danse-androgyne"/>
-        <updated>2025-10-10T05:39:15.150Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 24 janvier : </strong><a href="/agenda-evenements/101-janvier-2026/2282-spectacle-de-danse-androgyne" target="_blank" rel="noopener">« Androgyne » de la Cie Gamart</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stage de musique d’improvisation avec P-M Bonafos (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/101-janvier-2026/2283-stage-de-musique-dimprovisation-avec-p-m-bonafos</id>
-        <link href="https://www.luisant.fr/agenda-evenements/101-janvier-2026/2283-stage-de-musique-dimprovisation-avec-p-m-bonafos"/>
-        <updated>2025-10-10T05:39:15.152Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 31 janvier : </strong><a href="/agenda-evenements/101-janvier-2026/2283-stage-de-musique-dimprovisation-avec-p-m-bonafos" target="_blank" rel="noopener">Stage de musique d’improvisation avec P-M Bonafos</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concert de l’Orchestre Symphonique de Chartres (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/101-janvier-2026/2261-concert-de-l-orchestre-symphonique-de-chartres-2</id>
-        <link href="https://www.luisant.fr/agenda-evenements/101-janvier-2026/2261-concert-de-l-orchestre-symphonique-de-chartres-2"/>
-        <updated>2025-10-10T05:39:15.153Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 31 janvier :</strong> <a href="/agenda-evenements/101-janvier-2026/2261-concert-de-l-orchestre-symphonique-de-chartres-2" target="_blank" rel="noopener">Concert de l’Orchestre Symphonique de Chartres</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concert Récréasax (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/102-fevrier-2026/2262-concert-recreasax</id>
-        <link href="https://www.luisant.fr/agenda-evenements/102-fevrier-2026/2262-concert-recreasax"/>
-        <updated>2025-10-10T05:39:15.155Z</updated>
-        <content type="html"><![CDATA[<strong>Dimanche 1<sup>er</sup> février : </strong><a href="/agenda-evenements/102-fevrier-2026/2262-concert-recreasax" target="_blank" rel="noopener">Concert Récréasax</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Festival « L'Paille à Sonique » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/102-fevrier-2026/2329-festival-lpaille-a-sonique</id>
-        <link href="https://www.luisant.fr/agenda-evenements/102-fevrier-2026/2329-festival-lpaille-a-sonique"/>
-        <updated>2025-10-10T05:39:15.158Z</updated>
-        <content type="html"><![CDATA[<strong>Vendredi 6 et samedi 7 février : </strong><a href="/agenda-evenements/102-fevrier-2026/2329-festival-lpaille-a-sonique" target="_blank" rel="noopener">Festival «&nbsp;L'Paille à Sonique&nbsp;»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposition de Sculpture de la Prunellerie des Arts (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/102-fevrier-2026/2264-exposition-de-sculpture-de-la-prunellerie-des-arts-3</id>
-        <link href="https://www.luisant.fr/agenda-evenements/102-fevrier-2026/2264-exposition-de-sculpture-de-la-prunellerie-des-arts-3"/>
-        <updated>2025-10-10T05:39:15.158Z</updated>
-        <content type="html"><![CDATA[<strong>Du jeudi 12 au dimanche 22 février : </strong><a href="/agenda-evenements/102-fevrier-2026/2264-exposition-de-sculpture-de-la-prunellerie-des-arts-3" target="_blank" rel="noopener">Exposition de Sculpture de la Prunellerie des Arts</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week-end du Jeu de société « Jeux m’éclate » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/103-mars-2026/2265-week-end-du-jeu-de-societe-6</id>
-        <link href="https://www.luisant.fr/agenda-evenements/103-mars-2026/2265-week-end-du-jeu-de-societe-6"/>
-        <updated>2025-10-10T05:39:15.159Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 6 et dimanche 7 mars : </strong><a href="/agenda-evenements/103-mars-2026/2265-week-end-du-jeu-de-societe-6" target="_blank" rel="noopener">Week-end du Jeu de société&nbsp;«&nbsp;Jeux m’éclate&nbsp;»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sérénade « Famille et Amis » de l’École Municipale de Musique (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/103-mars-2026/2266-concert-des-amis-par-l-ecole-municipale-de-musique-3</id>
-        <link href="https://www.luisant.fr/agenda-evenements/103-mars-2026/2266-concert-des-amis-par-l-ecole-municipale-de-musique-3"/>
-        <updated>2025-10-10T05:39:15.161Z</updated>
-        <content type="html"><![CDATA[<strong>Mercredi 11 mars : </strong><a href="/agenda-evenements/103-mars-2026/2266-concert-des-amis-par-l-ecole-municipale-de-musique-3" target="_blank" rel="noopener">Sérénade « Famille et Amis » de l’École Municipale de Musique</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Festival « Jazz de Mars », ciné-concert Nanouk l’esquimau (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/103-mars-2026/2284-festival-jazz-de-mars</id>
-        <link href="https://www.luisant.fr/agenda-evenements/103-mars-2026/2284-festival-jazz-de-mars"/>
-        <updated>2025-10-10T05:39:15.163Z</updated>
-        <content type="html"><![CDATA[<strong>Vendredi 13 mars :</strong> <a href="/agenda-evenements/103-mars-2026/2284-festival-jazz-de-mars" target="_blank" rel="noopener">Festival « Jazz de Mars », ciné-concert <em>Nanouk l’esquimau</em></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Festival « Jazz de Mars », concert du groupe Uptight (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/103-mars-2026/2285-festival-jazz-de-mars-2</id>
-        <link href="https://www.luisant.fr/agenda-evenements/103-mars-2026/2285-festival-jazz-de-mars-2"/>
-        <updated>2025-10-10T05:39:15.164Z</updated>
-        <content type="html"><![CDATA[<strong>Vendredi 27 mars : </strong><a href="/agenda-evenements/103-mars-2026/2285-festival-jazz-de-mars-2" target="_blank" rel="noopener">Festival « Jazz de Mars », concert du groupe Uptight</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/104-avril-2026/2286-les-rencontres-de-la-guitare</id>
-        <link href="https://www.luisant.fr/agenda-evenements/104-avril-2026/2286-les-rencontres-de-la-guitare"/>
-        <updated>2025-10-10T05:39:15.166Z</updated>
-        <content type="html"><![CDATA[<strong>Jeudi 2 avril : <a href="/agenda-evenements/104-avril-2026/2286-les-rencontres-de-la-guitare" target="_blank" rel="noopener">« </a></strong><a href="/agenda-evenements/104-avril-2026/2286-les-rencontres-de-la-guitare" target="_blank" rel="noopener">Les Rencontres de la guitare », concert rock</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auditions des élèves de piano de l’École Municipale de Musique (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/104-avril-2026/2268-auditions-de-piano-de-de-lecole-municipale-de-musique</id>
-        <link href="https://www.luisant.fr/agenda-evenements/104-avril-2026/2268-auditions-de-piano-de-de-lecole-municipale-de-musique"/>
-        <updated>2025-10-10T05:39:15.171Z</updated>
-        <content type="html"><![CDATA[<strong>Mercredi 8 et vendredi 10 avril :</strong> <a href="/agenda-evenements/104-avril-2026/2268-auditions-de-piano-de-de-lecole-municipale-de-musique" target="_blank" rel="noopener">Auditions des élèves de piano de l’École Municipale de Musique</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match d’impro, théâtre d’improvisation (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/104-avril-2026/2269-match-dimpro-2</id>
-        <link href="https://www.luisant.fr/agenda-evenements/104-avril-2026/2269-match-dimpro-2"/>
-        <updated>2025-10-10T05:39:15.172Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 11 avril :</strong> <a href="/agenda-evenements/104-avril-2026/2269-match-dimpro-2" target="_blank" rel="noopener">Match d’impro, théâtre d’improvisation</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conte musical « Cavalcade en Cocazie » (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/104-avril-2026/2331-conte-musical-cavalcade-en-cocazie</id>
-        <link href="https://www.luisant.fr/agenda-evenements/104-avril-2026/2331-conte-musical-cavalcade-en-cocazie"/>
-        <updated>2025-10-10T05:39:15.173Z</updated>
-        <content type="html"><![CDATA[<strong>Jeudi 30 avril :</strong> <a href="/agenda-evenements/104-avril-2026/2331-conte-musical-cavalcade-en-cocazie" target="_blank" rel="noopener">Conte musical « Cavalcade en Cocazie »&nbsp;</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salon des Métiers d’Art et exposition (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/105-mai-2026/2272-salon-des-metiers-dart</id>
-        <link href="https://www.luisant.fr/agenda-evenements/105-mai-2026/2272-salon-des-metiers-dart"/>
-        <updated>2025-10-10T05:39:15.177Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 30 et dimanche 31 mai :</strong> <a href="/agenda-evenements/105-mai-2026/2272-salon-des-metiers-dart" target="_blank" rel="noopener">Salon des Métiers d’Art et exposition</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match d’impro, théâtre d’improvisation (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/106-juin-2026/2273-match-dimpro-3</id>
-        <link href="https://www.luisant.fr/agenda-evenements/106-juin-2026/2273-match-dimpro-3"/>
-        <updated>2025-10-10T05:39:15.179Z</updated>
-        <content type="html"><![CDATA[<strong>Samedi 6 juin : </strong><a href="/agenda-evenements/106-juin-2026/2273-match-dimpro-3" target="_blank" rel="noopener">Match d’impro, théâtre d’improvisation</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spectacle de théâtre et de danse par l’APE28 et la Cie de L’Amandier (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/106-juin-2026/2330-les-journees-extraordinaires</id>
-        <link href="https://www.luisant.fr/agenda-evenements/106-juin-2026/2330-les-journees-extraordinaires"/>
-        <updated>2025-10-10T05:39:15.180Z</updated>
-        <content type="html"><![CDATA[<strong>Lundi 15 et mardi 16 juin :</strong> <a href="/agenda-evenements/106-juin-2026/2330-les-journees-extraordinaires" target="_blank" rel="noopener">Spectacle de théâtre et de danse par l’APE28 et la Cie de L’Amandier</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rencontre de big bands par l’École Municipale de Musique (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/106-juin-2026/2288-rencontre-de-big-bands-par-lecole-municipale-de-musique</id>
-        <link href="https://www.luisant.fr/agenda-evenements/106-juin-2026/2288-rencontre-de-big-bands-par-lecole-municipale-de-musique"/>
-        <updated>2025-10-10T05:39:15.181Z</updated>
-        <content type="html"><![CDATA[<strong>Dimanche 21 juin :</strong> <a href="/agenda-evenements/106-juin-2026/2288-rencontre-de-big-bands-par-lecole-municipale-de-musique" target="_blank" rel="noopener">Rencontre de big bands par l’École Municipale de Musique</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gala de danse de l’École Municipale de Danse (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/106-juin-2026/2289-gala-de-danse-modernjazz</id>
-        <link href="https://www.luisant.fr/agenda-evenements/106-juin-2026/2289-gala-de-danse-modernjazz"/>
-        <updated>2025-10-10T05:39:15.183Z</updated>
-        <content type="html"><![CDATA[<strong>Vendredi 26, samedi 27 et dimanche 28 (sous réserve) juin : </strong><a href="/agenda-evenements/106-juin-2026/2289-gala-de-danse-modernjazz" target="_blank" rel="noopener">Gala de danse de l’École Municipale de Danse</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piano du Lac (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/106-juin-2026/2290-piano-du-lac</id>
-        <link href="https://www.luisant.fr/agenda-evenements/106-juin-2026/2290-piano-du-lac"/>
-        <updated>2025-10-10T05:39:15.184Z</updated>
-        <content type="html"><![CDATA[<strong>Mardi 30 juin : </strong><a href="/agenda-evenements/106-juin-2026/2290-piano-du-lac" target="_blank" rel="noopener">Piano du Lac</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concert d’été des Ensembles de l’École Municipale de Musique (Luisant - Saison culturelle)]]></title>
-        <id>https://www.luisant.fr/agenda-evenements/107-juillet-2026/2277-concert-ete-de-l-ecole-municipale-de-musique-3</id>
-        <link href="https://www.luisant.fr/agenda-evenements/107-juillet-2026/2277-concert-ete-de-l-ecole-municipale-de-musique-3"/>
-        <updated>2025-10-10T05:39:15.185Z</updated>
-        <content type="html"><![CDATA[<strong>Mercredi 1<sup>er</sup> juillet :</strong> <a href="/agenda-evenements/107-juillet-2026/2277-concert-ete-de-l-ecole-municipale-de-musique-3" target="_blank" rel="noopener">Concert d’été des Ensembles de l’École Municipale de Musique</a>]]></content>
     </entry>
 </feed>
