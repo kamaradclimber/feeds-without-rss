@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
     <title>Posts LinkedIn Jean-Marc Jancovici</title>
-    <updated>2025-11-08T17:37:16.680Z</updated>
+    <updated>2025-11-09T05:38:25.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca</icon>
     <entry>
         <title type="html"><![CDATA[Jean-Marc Jancovici]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-08T17:37:06.181Z</updated>
+        <updated>2025-11-09T05:38:16.458Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -2286,8 +2286,10 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341921206113099776)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
-                      </icon>
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1 lazy-loaded" aria-hidden="true" aria-busy="false">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded" aria-busy="false">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
                       Signaler ce commentaire
                     
     </a>
@@ -2376,7 +2378,7 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
         <title type="html"><![CDATA[Jean-Marc Jancovici]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-08T17:37:07.032Z</updated>
+        <updated>2025-11-09T05:38:17.378Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -2408,10 +2410,7 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
     <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
           <a href="https://fr.linkedin.com/in/jean-marc-jancovici?trk=public_post_feed-actor-image" class="relative" data-tracking-control-name="public_post_feed-actor-image" data-tracking-will-navigate="">
             
-      <img class="inline-block relative
-          rounded-[50%]
-          w-6 h-6
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D03AQEUVgCmKN3cqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621956072532?e=2147483647&amp;v=beta&amp;t=rTemr7k9d7aiXgyzh8e6bUNIHveavgG2GfvNIhiKtfE" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Jean-Marc Jancovici">
+      <img class="inline-block relative rounded-[50%] w-6 h-6 lazy-loaded" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Jean-Marc Jancovici" aria-busy="false" src="https://media.licdn.com/dms/image/v2/C4D03AQEUVgCmKN3cqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621956072532?e=2147483647&amp;v=beta&amp;t=rTemr7k9d7aiXgyzh8e6bUNIHveavgG2GfvNIhiKtfE">
       
 <!---->          </a>
       <div class="flex flex-col self-start min-w-0
@@ -2424,7 +2423,7 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
             
 
     
-    <icon class="inline-flex align-middle text-color-logo-brand ml-0.5 !inline-block !ml-0 relative top-[3px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/z5y0jxkijchnrd5zqq6ft8kd" data-svg-class-name="w-2 h-2"></icon>
+    <icon class="inline-flex align-middle text-color-logo-brand ml-0.5 !inline-block !ml-0 relative top-[3px]" data-svg-class-name="w-2 h-2"></icon>
     <span class="sr-only">Jean-Marc Jancovici est un Influencer</span>
   
 <!---->        </div>
@@ -2513,7 +2512,7 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
                 !py-[6px] !px-1 flex items-center rounded-[50%]
                 
                 " aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon"></icon>
             </button>
           
 
@@ -2533,7 +2532,7 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7341524696632328192" data-semaphore-tracking-prefix="public_post_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce post
                     
@@ -2733,7 +2732,7 @@ Nous vivons dans l'environnement. Ce n'est pas l'environnement qui est juste un 
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_copy" class="social-share__item social-share-item" data-share-service="copy" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <icon class="social-share__item-icon"></icon>
       <span class="social-share__item-text pl-1">Copier</span>
     </button>
   </li>
@@ -2742,7 +2741,7 @@ Nous vivons dans l'environnement. Ce n'est pas l'environnement qui est juste un 
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <icon class="social-share__item-icon" data-svg-class-name="text-color-text"></icon>
       <span class="social-share__item-text pl-1">LinkedIn</span>
     </button>
   </li>
@@ -2750,7 +2749,7 @@ Nous vivons dans l'environnement. Ce n'est pas l'environnement qui est juste un 
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <icon class="social-share__item-icon"></icon>
       <span class="social-share__item-text pl-1">Facebook</span>
     </button>
   </li>
@@ -2758,7 +2757,7 @@ Nous vivons dans l'environnement. Ce n'est pas l'environnement qui est juste un 
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2pdd1nk5ocycpv963y85l3bt4"></icon>
+      <icon class="social-share__item-icon"></icon>
       <span class="social-share__item-text pl-1">X</span>
     </button>
   </li>
@@ -2903,7 +2902,7 @@ Nous vivons dans l'environnement. Ce n'est pas l'environnement qui est juste un 
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7341527791571496961)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -3095,7 +3094,7 @@ Votre post rappelle que le seul cadre non négociable, c’est celui de notre ha
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7341545669511294976)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -3293,7 +3292,7 @@ Ces 4 degrés de plus en France et en Europe qui, j imagine, correspondront à r
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7341529059606106112)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -3487,7 +3486,7 @@ Pathétique.</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7341711728063250435)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -3690,7 +3689,7 @@ Je ne serais plus là pour le constater. Combien d'humains auront survécu, où 
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7341543662809452546)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -3880,7 +3879,7 @@ Je ne serais plus là pour le constater. Combien d'humains auront survécu, où 
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7345163298721480705)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -4067,7 +4066,7 @@ Je ne serais plus là pour le constater. Combien d'humains auront survécu, où 
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7341551726472114178)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -4271,7 +4270,7 @@ Et nous pouvons encore y répondre, ensemble.
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7341530063453999108)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -4470,7 +4469,7 @@ Alors non, il n’est pas “trop tard pour agir” mais il est trop tard pour c
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-vague-de-chaleur-qui-va-sintensifier-activity-7341524696632328192-ZCXv&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341524696632328192,7341536416838860803)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -4560,7 +4559,7 @@ Alors non, il n’est pas “trop tard pour agir” mais il est trop tard pour c
         <title type="html"><![CDATA[Hugues Ferreboeuf]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-08T17:37:07.817Z</updated>
+        <updated>2025-11-09T05:38:18.202Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -6232,14 +6231,11 @@ Se préserver un avenir vivable n’est pas une priorité 🤢</p>
         <title type="html"><![CDATA[Ludovic ARGA]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-08T17:37:07.819Z</updated>
+        <updated>2025-11-09T05:38:18.246Z</updated>
         <content type="html"><![CDATA[<div class="flex items-center font-sans" data-test-id="feed-reshare-content__entity-lockup">
           <a href="https://fr.linkedin.com/in/ludovicarga?trk=public_post_reshare_feed-actor-image" target="_self" class="relative" data-tracking-control-name="public_post_reshare_feed-actor-image" data-tracking-will-navigate="">
             
-      <img class="inline-block relative
-          rounded-[50%]
-          w-6 h-6
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQE1X7zYKtqEag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711351286285?e=2147483647&amp;v=beta&amp;t=f2Umm-b2T0csqQ42jvjYJkGt32gjJiRH1A-6_duiPHA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Ludovic ARGA">
+      <img class="inline-block relative rounded-[50%] w-6 h-6" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Ludovic ARGA" aria-busy="true" src="https://media.licdn.com/dms/image/v2/D4E03AQE1X7zYKtqEag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711351286285?e=2147483647&amp;v=beta&amp;t=f2Umm-b2T0csqQ42jvjYJkGt32gjJiRH1A-6_duiPHA">
       
 <!---->          </a>
       <div class="flex flex-col self-start min-w-0
@@ -6362,7 +6358,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
         <title type="html"><![CDATA[Jean-Marc Jancovici]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-08T17:37:08.838Z</updated>
+        <updated>2025-11-09T05:38:19.280Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -8753,7 +8749,7 @@ Faisant valoir désormais une “protection” renforcée sans prévention stér
         <title type="html"><![CDATA[Thomas Fatôme]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-08T17:37:09.658Z</updated>
+        <updated>2025-11-09T05:38:20.037Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
