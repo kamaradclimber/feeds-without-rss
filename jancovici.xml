@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
     <title>Posts LinkedIn Jean-Marc Jancovici</title>
-    <updated>2025-11-12T05:38:56.135Z</updated>
+    <updated>2025-11-12T17:38:22.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca</icon>
     <entry>
         <title type="html"><![CDATA[Jean-Marc Jancovici]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-12T05:38:47.174Z</updated>
+        <updated>2025-11-12T17:38:13.253Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -41,10 +41,7 @@
     <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
           <a href="https://fr.linkedin.com/in/jean-marc-jancovici?trk=public_post_feed-actor-image" class="relative" data-tracking-control-name="public_post_feed-actor-image" data-tracking-will-navigate="">
             
-      <img class="inline-block relative
-          rounded-[50%]
-          w-6 h-6
-          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D03AQEUVgCmKN3cqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621956072532?e=2147483647&amp;v=beta&amp;t=rTemr7k9d7aiXgyzh8e6bUNIHveavgG2GfvNIhiKtfE" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Jean-Marc Jancovici">
+      <img class="inline-block relative rounded-[50%] w-6 h-6" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Jean-Marc Jancovici" aria-busy="true" src="https://media.licdn.com/dms/image/v2/C4D03AQEUVgCmKN3cqQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1621956072532?e=2147483647&amp;v=beta&amp;t=rTemr7k9d7aiXgyzh8e6bUNIHveavgG2GfvNIhiKtfE">
       
 <!---->          </a>
       <div class="flex flex-col self-start min-w-0
@@ -57,7 +54,7 @@
             
 
     
-    <icon class="inline-flex align-middle text-color-logo-brand ml-0.5 !inline-block !ml-0 relative top-[3px]" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/z5y0jxkijchnrd5zqq6ft8kd" data-svg-class-name="w-2 h-2"></icon>
+    <icon class="inline-flex align-middle text-color-logo-brand ml-0.5 !inline-block !ml-0 relative top-[3px]" data-svg-class-name="w-2 h-2"></icon>
     <span class="sr-only">Jean-Marc Jancovici est un Influencer</span>
   
 <!---->        </div>
@@ -142,7 +139,7 @@
                 !py-[6px] !px-1 flex items-center rounded-[50%]
                 
                 " aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon"></icon>
             </button>
           
 
@@ -162,7 +159,7 @@
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7341895192410566657" data-semaphore-tracking-prefix="public_post_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce post
                     
@@ -354,7 +351,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_copy" class="social-share__item social-share-item" data-share-service="copy" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <icon class="social-share__item-icon"></icon>
       <span class="social-share__item-text pl-1">Copier</span>
     </button>
   </li>
@@ -363,7 +360,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <icon class="social-share__item-icon" data-svg-class-name="text-color-text"></icon>
       <span class="social-share__item-text pl-1">LinkedIn</span>
     </button>
   </li>
@@ -371,7 +368,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <icon class="social-share__item-icon"></icon>
       <span class="social-share__item-text pl-1">Facebook</span>
     </button>
   </li>
@@ -379,7 +376,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter" role="menuitem">
-      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2pdd1nk5ocycpv963y85l3bt4"></icon>
+      <icon class="social-share__item-icon"></icon>
       <span class="social-share__item-text pl-1">X</span>
     </button>
   </li>
@@ -523,7 +520,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341915573376720898)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -715,7 +712,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341900346908131328)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -905,7 +902,7 @@ C'est évidemment une excellente idée de proposer au public un rendez-vous rég
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341903478555901952)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -1097,7 +1094,7 @@ J'y étais presque😉😅</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7342091313711865856)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -1290,7 +1287,7 @@ Nous avons hâte de démarrer ce nouveau partenariat.</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7342180842787504129)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -1483,7 +1480,7 @@ C'est notamment le sens de l'action des CEN, dont ceux du bassin de la Loire, en
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7342178101600153600)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -1673,7 +1670,7 @@ C'est notamment le sens de l'action des CEN, dont ceux du bassin de la Loire, en
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7342151680798474240)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -1867,7 +1864,7 @@ Ce n'est qu'un début puisqu'il va fortement s'enrichir dans les mois à venir.
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7342081512177102848)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -2058,7 +2055,7 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341901849181986817)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -2250,7 +2247,7 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fjean-marc-jancovici_la-m%25C3%25A9t%25C3%25A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7341895192410566657,7341921206113099776)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
                       </icon>
                       Signaler ce commentaire
                     
@@ -2340,7 +2337,7 @@ L'urgence c'est les émissions de CO₂ et la destruction de l'environnement.</p
         <title type="html"><![CDATA[Jean-Marc Jancovici]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-12T05:38:48.006Z</updated>
+        <updated>2025-11-12T17:38:14.218Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -4524,7 +4521,7 @@ Alors non, il n’est pas “trop tard pour agir” mais il est trop tard pour c
         <title type="html"><![CDATA[Hugues Ferreboeuf]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-12T05:38:48.867Z</updated>
+        <updated>2025-11-12T17:38:14.910Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -4556,7 +4553,10 @@ Alors non, il n’est pas “trop tard pour agir” mais il est trop tard pour c
     <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
           <a href="https://fr.linkedin.com/in/huguesferreboeuf/fr?trk=public_post_feed-actor-image" class="relative" data-tracking-control-name="public_post_feed-actor-image" data-tracking-will-navigate="">
             
-      <img class="inline-block relative rounded-[50%] w-6 h-6" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Hugues Ferreboeuf" aria-busy="true" src="https://media.licdn.com/dms/image/v2/C4E03AQHGyuQC5Ryxvg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516172516787?e=2147483647&amp;v=beta&amp;t=6U9VsAR7uxdaKvrESp4QX7UkMQBceMOq6FPks18hk4o">
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E03AQHGyuQC5Ryxvg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516172516787?e=2147483647&amp;v=beta&amp;t=6U9VsAR7uxdaKvrESp4QX7UkMQBceMOq6FPks18hk4o" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Hugues Ferreboeuf">
       
 <!---->          </a>
       <div class="flex flex-col self-start min-w-0
@@ -4648,7 +4648,7 @@ Alors non, il n’est pas “trop tard pour agir” mais il est trop tard pour c
                 !py-[6px] !px-1 flex items-center rounded-[50%]
                 
                 " aria-expanded="false" aria-label="Ouvrir le menu" data-tracking-control-name="public_post_ellipsis-menu-trigger" tabindex="0">
-              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon"></icon>
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
             </button>
           
 
@@ -4668,7 +4668,7 @@ Alors non, il n’est pas “trop tard pour agir” mais il est trop tard pour c
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fhuguesferreboeuf_deux-chiffres-r%25C3%25A9sument-le-d%25C3%25A9calage-de-plus-activity-7339699991994613760-ViFk&amp;trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7339699991994613760" data-semaphore-tracking-prefix="public_post_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
                       Signaler ce post
                     
@@ -4735,7 +4735,10 @@ En d'autres termes il semble 7 fois (voire 10 fois)  plus important de construir
     <div class="flex items-center font-sans" data-test-id="feed-reshare-content__entity-lockup">
           <a href="https://fr.linkedin.com/in/ludovicarga?trk=public_post_reshare_feed-actor-image" target="_self" class="relative" data-tracking-control-name="public_post_reshare_feed-actor-image" data-tracking-will-navigate="">
             
-      <img class="inline-block relative rounded-[50%] w-6 h-6" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Ludovic ARGA" aria-busy="true" src="https://media.licdn.com/dms/image/v2/D4E03AQE1X7zYKtqEag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711351286285?e=2147483647&amp;v=beta&amp;t=f2Umm-b2T0csqQ42jvjYJkGt32gjJiRH1A-6_duiPHA">
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQE1X7zYKtqEag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711351286285?e=2147483647&amp;v=beta&amp;t=f2Umm-b2T0csqQ42jvjYJkGt32gjJiRH1A-6_duiPHA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Ludovic ARGA">
       
 <!---->          </a>
       <div class="flex flex-col self-start min-w-0
@@ -4986,7 +4989,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_copy" class="social-share__item social-share-item" data-share-service="copy" role="menuitem">
-      <icon class="social-share__item-icon"></icon>
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
       <span class="social-share__item-text pl-1">Copier</span>
     </button>
   </li>
@@ -4995,7 +4998,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
         
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin" role="menuitem">
-      <icon class="social-share__item-icon" data-svg-class-name="text-color-text"></icon>
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
       <span class="social-share__item-text pl-1">LinkedIn</span>
     </button>
   </li>
@@ -5003,7 +5006,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook" role="menuitem">
-      <icon class="social-share__item-icon"></icon>
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
       <span class="social-share__item-text pl-1">Facebook</span>
     </button>
   </li>
@@ -5011,7 +5014,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
           
   <li role="presentation">
     <button data-tracking-control-name="public_post_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter" role="menuitem">
-      <icon class="social-share__item-icon"></icon>
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2pdd1nk5ocycpv963y85l3bt4"></icon>
       <span class="social-share__item-text pl-1">X</span>
     </button>
   </li>
@@ -5155,7 +5158,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fhuguesferreboeuf_deux-chiffres-r%25C3%25A9sument-le-d%25C3%25A9calage-de-plus-activity-7339699991994613760-ViFk&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7339699991994613760,7339711621881098240)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
                       Signaler ce commentaire
                     
@@ -5345,7 +5348,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fhuguesferreboeuf_deux-chiffres-r%25C3%25A9sument-le-d%25C3%25A9calage-de-plus-activity-7339699991994613760-ViFk&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7339699991994613760,7340372530223865856)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
                       Signaler ce commentaire
                     
@@ -5535,7 +5538,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fhuguesferreboeuf_deux-chiffres-r%25C3%25A9sument-le-d%25C3%25A9calage-de-plus-activity-7339699991994613760-ViFk&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7339699991994613760,7339701006571655168)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
                       Signaler ce commentaire
                     
@@ -5729,7 +5732,7 @@ Se préserver un avenir vivable n’est pas une priorité 🤢</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fhuguesferreboeuf_deux-chiffres-r%25C3%25A9sument-le-d%25C3%25A9calage-de-plus-activity-7339699991994613760-ViFk&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7339699991994613760,7345917714038710273)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
                       Signaler ce commentaire
                     
@@ -5916,7 +5919,7 @@ Se préserver un avenir vivable n’est pas une priorité 🤢</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fhuguesferreboeuf_deux-chiffres-r%25C3%25A9sument-le-d%25C3%25A9calage-de-plus-activity-7339699991994613760-ViFk&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7339699991994613760,7341040861075398657)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
                       Signaler ce commentaire
                     
@@ -6103,7 +6106,7 @@ Se préserver un avenir vivable n’est pas une priorité 🤢</p>
 
     <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fhuguesferreboeuf_deux-chiffres-r%25C3%25A9sument-le-d%25C3%25A9calage-de-plus-activity-7339699991994613760-ViFk&amp;trk=public_post_comment_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMMENT&amp;_f=guest-reporting" data-tracking-control-name="public_post_comment_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate="" data-item-type="semaphore" data-semaphore-content-type="COMMENT" data-semaphore-content-urn="urn:li:comment:(urn:li:activity:7339699991994613760,7340383077329739778)" data-semaphore-tracking-prefix="public_post_comment_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
 <!---->        
-                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1">
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
                       </icon>
                       Signaler ce commentaire
                     
@@ -6190,11 +6193,14 @@ Se préserver un avenir vivable n’est pas une priorité 🤢</p>
         <title type="html"><![CDATA[Ludovic ARGA]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-12T05:38:48.876Z</updated>
+        <updated>2025-11-12T17:38:14.911Z</updated>
         <content type="html"><![CDATA[<div class="flex items-center font-sans" data-test-id="feed-reshare-content__entity-lockup">
           <a href="https://fr.linkedin.com/in/ludovicarga?trk=public_post_reshare_feed-actor-image" target="_self" class="relative" data-tracking-control-name="public_post_reshare_feed-actor-image" data-tracking-will-navigate="">
             
-      <img class="inline-block relative rounded-[50%] w-6 h-6" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Ludovic ARGA" aria-busy="true" src="https://media.licdn.com/dms/image/v2/D4E03AQE1X7zYKtqEag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711351286285?e=2147483647&amp;v=beta&amp;t=f2Umm-b2T0csqQ42jvjYJkGt32gjJiRH1A-6_duiPHA">
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E03AQE1X7zYKtqEag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711351286285?e=2147483647&amp;v=beta&amp;t=f2Umm-b2T0csqQ42jvjYJkGt32gjJiRH1A-6_duiPHA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Voir le profil de Ludovic ARGA">
       
 <!---->          </a>
       <div class="flex flex-col self-start min-w-0
@@ -6317,7 +6323,7 @@ L’humanité n’a pas besoin de promesses, elle a besoin d’actes.
         <title type="html"><![CDATA[Jean-Marc Jancovici]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-12T05:38:49.876Z</updated>
+        <updated>2025-11-12T17:38:15.836Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
@@ -8708,7 +8714,7 @@ Faisant valoir désormais une “protection” renforcée sans prévention stér
         <title type="html"><![CDATA[Thomas Fatôme]]></title>
         <id>https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL</id>
         <link href="https://fr.linkedin.com/posts/jean-marc-jancovici_la-m%C3%A9t%C3%A9o-vous-connaissez-elle-consiste-activity-7341895192410566657-WFRL"/>
-        <updated>2025-11-12T05:38:50.805Z</updated>
+        <updated>2025-11-12T17:38:16.617Z</updated>
         <content type="html"><![CDATA[<!---->
       
 <!---->        
